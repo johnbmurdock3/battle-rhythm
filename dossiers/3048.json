@@ -1,0 +1,88 @@
+{
+ "player_id": "3048",
+ "name": "Chris Manhertz",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYG"
+   },
+   {
+    "season": 2026,
+    "team": "NYG"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Isaiah Likely",
+    "age": 26,
+    "status": "TE1",
+    "note": "offseason addition",
+    "resolved_id": "8131",
+    "resolved_team": "NYG",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Theo Johnson",
+    "age": 25,
+    "status": "TE2",
+    "note": "",
+    "resolved_id": "11597",
+    "resolved_team": "NYG",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; blocking specialist Manhertz is TE3 at age 34, purely a run-blocking/depth role."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/new-york-giants-depth-chart-nyg",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/3048",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2025-12-17",
+   "snap_pct": 5.9,
+   "target_share": 0,
+   "role": "TE3, run-blocking specialist behind Isaiah Likely and Theo Johnson",
+   "note": "Re-signed with Giants on a one-year deal March 9, 2026. Most recent logged snap data (2025 season): played 4 of 68 offensive snaps (~5.9%) on 2025-12-17 vs Washington with 0 targets; earlier played 15 of 72 snaps (~20.8%) on 2025-11-18 vs Green Bay, also 0 targets. Functions purely as a blocking TE/special-teamer with minimal receiving usage (1 catch, 7 yds across 17 games in 2025).",
+   "source": "https://www.rotowire.com/football/player/chris-manhertz-10033"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/new-york-giants-depth-chart-nyg"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "None reported",
+   "role": "TE4 on Giants depth chart per Sleeper; blocking/depth specialist, not a receiving factor.",
+   "note": "[news ~2026-07 to 2026-08] Described as veteran blocking TE in Giants offense; no Week 2 injury or role-change news found.",
+   "source": "https://api.sleeper.app/players/nfl/3048"
+  }
+ ]
+}

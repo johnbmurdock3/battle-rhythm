@@ -1,0 +1,69 @@
+{
+ "player_id": "8230",
+ "name": "Ty Chandler",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "MIN"
+   },
+   {
+    "season": 2026,
+    "team": "NO"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "one-year deal signed 2026-03-18"
+  },
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "2022 5th-round pick by Vikings; signed with Saints as free agent after 4 seasons in Minnesota",
+   "Exact depth-chart role in New Orleans backfield not confirmed"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Knee, Injured Reserve [news 2026-09-21 CBS]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.neworleanssaints.com/news/morning-break-saints-sign-running-back-ty-chandler--new-orleans-news-headlines-3-17-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/NO/new-orleans-saints/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.neworleanssaints.com/news/morning-break-saints-sign-running-back-ty-chandler--new-orleans-news-headlines-3-17-2026"
+  },
+  {
+   "date": "2026-09-03",
+   "role": "On Saints roster (#32) behind Alvin Kamara, Travis Etienne, and Kendre Miller",
+   "note": "Conflicting roster status: team roster listing showed 'Reserved' status, but his individual NFL.com player page describes him as 'active' with no explanation for a reserve designation - unresolved conflict, no specific injury news found",
+   "source": "https://www.nfl.com/teams/new-orleans-saints/roster"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 0,
+   "injury": "Knee, Injured Reserve [news 2026-09-21 CBS]",
+   "role": "RB3 depth chart, Injured Reserve",
+   "note": "TEAM CHANGE: now New Orleans Saints (Sleeper confirmed independently + corroborated on NO's official CBS injury report), not Minnesota. Placed on IR with knee injury (Sleeper API injury_status field had not yet updated to reflect this) -- not fantasy relevant short-term.",
+   "source": "https://www.cbssports.com/nfl/teams/NO/new-orleans-saints/injuries/"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "player_id": "6149",
+ "name": "Darius Slayton",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYG"
+   },
+   {
+    "season": 2026,
+    "team": "NYG"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "Year 2 of 3-year, $36M extension; 2026 cap hit $15.911M"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Malik Nabers",
+    "age": 23,
+    "status": "WR1 when healthy",
+    "note": "",
+    "resolved_id": "11632",
+    "resolved_team": "NYG",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Wan'Dale Robinson",
+    "age": 25,
+    "status": "",
+    "note": "de facto WR1 if Nabers out",
+    "resolved_id": "8126",
+    "resolved_team": "TEN",
+    "resolved_pos": "WR",
+    "same_team": false
+   },
+   {
+    "name": "Malachi Fields",
+    "age": 22,
+    "status": "",
+    "note": "taller contested-catch target, also competing",
+    "resolved_id": "13285",
+    "resolved_team": "NYG",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change, but crowded WR room with trade speculation around Slayton floated given cap-savings incentive; coming off a sports hernia that hampered his 2025 season."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "recovered, cleared for camp",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/giants/onsi/giants-darius-slayton-2026-preview-01kx3jw297ph",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "recovered, cleared for camp",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/giants/onsi/giants-darius-slayton-2026-preview-01kx3jw297ph"
+  }
+ ]
+}

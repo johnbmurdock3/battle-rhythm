@@ -1,0 +1,82 @@
+{
+ "player_id": "4017",
+ "name": "Deshaun Watson",
+ "as_of": "2026-09-15",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CLE"
+   },
+   {
+    "season": 2026,
+    "team": "CLE"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Shedeur Sanders",
+    "age": 24,
+    "status": "QB2 competing for starter",
+    "note": "reports say Watson had edge entering offseason, Sanders surged in spring; competition ongoing into camp",
+    "resolved_id": "12524",
+    "resolved_team": "CLE",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; QB1 on depth chart per Aug 2026 Browns depth chart but starting job is a live competition with Shedeur Sanders, not yet settled; hasn't played a competitive snap since Oct 2024"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Not listed on the Browns Week 1 injury report",
+   "as_of": "2026-09-15"
+  },
+  "camp": [
+   "On PUP to start camp, activated to practice with 21-day window",
+   "Competing with Shedeur Sanders for starting job as of early August 2026"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-15"
+ },
+ "sources": [
+  {
+   "url": "https://www.brownszone.com/2026/08/03/deshaun-watson-feels-healthy-trying-to-shake-off-rust-looking-forward-to-playing-in-preseason/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/deshaun-watson-browns-designate-qb-return-to-practice-pup-achilles",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/browns/onsi/browns-depth-chart-entering-training-camp-who-s-starting-who-s-fighting-for-their-job-01ky2m0zdrqj",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Recovering from Achilles re-rupture (2024/2025), designated to return to practice off PUP list",
+   "note": "baseline from initial research pass",
+   "source": "https://www.brownszone.com/2026/08/03/deshaun-watson-feels-healthy-trying-to-shake-off-rust-looking-forward-to-playing-in-preseason/"
+  },
+  {
+   "date": "2026-09-01",
+   "note": "Suffered a re-rupture of right Achilles in Jan 2025 surgery, ruled out for all of 2025; not listed on Browns' Sep 1, 2026 injury or PUP report, but recovery/roster timeline for 2026 could not be confirmed with a current source",
+   "source": "https://www.cbssports.com/nfl/teams/CLE/cleveland-browns/injuries/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Not listed on the Browns Week 1 injury report",
+   "role": "Starter",
+   "note": "[news 2026-09-13] Week 1: 16/22, 205 yds, 1 TD, 1 INT + 6 car/38 yds, 1 fumble, in a 10-34 loss to JAX",
+   "source": "https://www.pro-football-reference.com/teams/cle/2026.htm"
+  }
+ ]
+}

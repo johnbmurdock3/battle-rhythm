@@ -1,0 +1,4815 @@
+{
+ "league": "LG03-LG05",
+ "league_id": "9000000000000000013",
+ "tier": "deep",
+ "generated": "2026-08-11",
+ "dossiers": {
+  "10229": {
+   "player_id": "10229",
+   "name": "Rashee Rice",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2025,
+      "team": "KC"
+     },
+     {
+      "season": 2024,
+      "team": "KC"
+     },
+     {
+      "season": 2023,
+      "team": "KC"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "KC",
+      "games": 8,
+      "carries": 5,
+      "targets": 78,
+      "rec": 53,
+      "yards": 571,
+      "td": 5,
+      "note": "Missed first 6 games to NFL suspension (returned ~Week 7, Oct 19, 2025); season ended early after a knee injury required surgery. Also had 5 carries for 20 yards and 1 rushing TD. 8 games played total per ESPN game log (Oct 19-Dec 14, 2025)."
+     },
+     {
+      "season": 2024,
+      "team": "KC",
+      "games": null,
+      "carries": 0,
+      "targets": null,
+      "rec": null,
+      "yards": null,
+      "td": null,
+      "note": "Season cut short: suffered a knee injury Week 4 (Oct 3, 2024) in a collision with Patrick Mahomes vs. Chargers; placed on IR. Full-season stat line not verified in sources checked."
+     }
+    ],
+    "contract": {
+     "years": 1,
+     "signed": "",
+     "note": "Entering final year of his rookie contract (2023 2nd-round pick) in 2026. No extension agreed as of July 29, 2026; Chiefs have limited cap space (~$4.12M) and are 'hesitant' on an extension given his legal issues, per Athlon (July 29, 2026). Comparable top WRs (e.g., Jaxon Smith-Njigba) earn ~$42M/year, suggesting significant earning potential if he performs and stays out of trouble."
+    },
+    "scheme": {
+     "oc": "",
+     "note": "Not verified in sources checked."
+    },
+    "competition": [
+     {
+      "name": "Xavier Worthy",
+      "age": null,
+      "status": "teammate WR",
+      "note": "Referenced as a supportive teammate during Rice's 2025 injury; no depth-chart or contract detail verified."
+     }
+    ],
+    "notes": [
+     "March 2024: hit-and-run incident in Dallas; Rice and four others left scene without checking on occupants of other vehicles, two of whom were hospitalized.",
+     "July 2025: pleaded guilty to two felony charges; sentenced to 30 days jail + 5 years probation.",
+     "2025 season: NFL suspended Rice 6 games (personal conduct policy) for the hit-and-run.",
+     "Oct 2025 (reported ~April 2026): ex-girlfriend Dacoda Jones filed a civil suit alleging repeated domestic abuse; an Oct 9, 2025 affidavit has Jones stating under penalty of perjury that Rice did not punch her, though a verbal argument occurred. No criminal charges filed. NFL concluded (per report published ~April 2026) that Rice 'has not engaged in conduct that violates the personal conduct policy' and issued no additional suspension.",
+     "May 19, 2026: arrested in Dallas for failing a drug test while on probation (violating probation tied to the 2024 case).",
+     "Rice was subsequently sentenced to serve additional jail time for the probation violation; released from Dallas County Jail June 16, 2026.",
+     "Rice did not participate in 2026 OTAs or mandatory minicamp, due to the jail sentence and knee recovery."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Recovering from right knee debridement (clean-up) surgery; progressing well in camp",
+     "body_part": "right knee",
+     "as_of": "2026-08-05",
+     "note": "Surgery performed mid-May 2026 (week before May 19) to remove loose debris/inflammation from his surgically repaired knee; initially expected to sideline him ~2 months (per SI, May 19, 2026). By Aug 4-5, 2026 (Yahoo/AtoZ Sports): participated in 7-on-7 (Aug 4) and 11-on-11 team drills (Aug 5), caught a pass from Patrick Mahomes and a bubble screen; team 'appears comfortable with Rice taking contact on his knee,' described as meaningful progress. NOTE: this 2026 knee issue/surgery is separate from and later than the Week 4, 2024 knee injury (Mahomes collision) that ended his 2024 season early."
+    },
+    "camp": [
+     {
+      "quote": "Chiefs appear comfortable with Rice taking contact on his knee, signaling meaningful progress in recovery.",
+      "who": "Yahoo Sports / AtoZ Sports reporting (paraphrase, not a direct quote)",
+      "date": "2026-08-05"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.cbssports.com/nfl/news/rashee-rice-suspension-chiefs-wr-to-miss-first-six-games-of-season-as-part-of-disciplinary-action",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.profootballrumors.com/2026/04/chiefs-rashee-rice-will-not-face-nfl-suspension",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.espn.com/nfl/player/gamelog/_/id/4428331/rashee-rice",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://athlonsports.com/nfl/kansas-city-chiefs/chiefs-rashee-rice-contract-extension",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.cbssports.com/nfl/news/chiefs-place-rashee-rice-on-injured-reserve-andy-reid-says-receiver-will-undergo-additional-testing-next-week/amp",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/rashee-rice-returns-practice-injury-213826518.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/chiefs/onsi/report-chiefs-wr-rashee-rice-to-miss-months-following-knee-surgery",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/kansas-city-chiefs-wr-rashee-161410905.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.keranews.org/news/2026-05-19/chiefs-rashee-rice-arrested-in-dallas-failing-drug-test-violating-probation",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.keranews.org/news/2026-06-16/kansas-city-chiefs-rashee-rice-released-from-dallas-jail-after-probation-violation-failed-drug-test",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "11559": {
+   "player_id": "11559",
+   "name": "Michael Penix",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2024,
+      "team": "ATL"
+     },
+     {
+      "season": 2025,
+      "team": "ATL"
+     },
+     {
+      "season": 2026,
+      "team": "ATL"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "ATL",
+      "games": 9,
+      "carries": 0,
+      "targets": 0,
+      "rec": 0,
+      "yards": 1982,
+      "td": 9,
+      "note": "9 starts (146/276 comp implied, 166 completions, 3 INT) before season-ending Week 11 ACL injury vs Carolina; 70 rush yards, 1 rush TD"
+     },
+     {
+      "season": 2024,
+      "team": "ATL",
+      "games": 5,
+      "carries": 0,
+      "targets": 0,
+      "rec": 0,
+      "yards": 775,
+      "td": 3,
+      "note": "3 starts as rookie (61/105 comp, 3 INT); 11 rush yards, 1 rush TD"
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "2026 base salary reported ~$7.3M (rookie deal, 2024 1st-round pick); no extension reported as of Aug 2026"
+    },
+    "scheme": {
+     "oc": "",
+     "note": "Falcons fired HC Raheem Morris after 2025 season; hired Kevin Stefanski (formerly Browns HC) as new head coach, announced/introduced late Jan 2026 (ajc.com, Jan 27 2026; bleacherreport). No separate OC name confirmed in sources found."
+    },
+    "competition": [
+     {
+      "name": "Tua Tagovailoa",
+      "age": null,
+      "status": "signed by Falcons in free agency (one-year deal) after being released/moving on from Miami Dolphins, per thefalcoholic.com Mar 9 2026",
+      "note": "As of July 29, 2026 camp reports (heavy.com; si.com/onsi), Tagovailoa is LISTED AS QB1 on the Falcons depth chart, with Penix QB2, because Tagovailoa has taken the bulk of spring/OTA first-team reps while Penix was not medically cleared. This is a real, current competition, not a stale listing -- Stefanski quote July 29, 2026 (92.9 The Game): 'When Mike is cleared by the medical team, we'll get to that point.'"
+     },
+     {
+      "name": "Kirk Cousins",
+      "age": 36,
+      "status": "released/moved on per aol.com article (Cousins reportedly still owed $22.5M in 2026, $12.5M in 2027 as dead money despite release around March 11, 2026 start of league year)",
+      "note": "No longer on Falcons roster as competition per March 2026 reporting; earlier 2025-season articles calling him 'still the backup' predate the coaching change and Tua signing and are superseded"
+     },
+     {
+      "name": "Jack Strand",
+      "age": null,
+      "status": "QB3 on Falcons depth chart per heavy.com July 29 2026",
+      "note": ""
+     }
+    ],
+    "notes": [
+     "Penix suffered a partially torn left ACL in Week 11 2025 (loss to Carolina), had reconstructive surgery (report dated Nov 19, 2025 said surgery pending/needed; ajc.com Aug 6 2026 describes injury as occurring ~8 months earlier, i.e. Dec 2025 surgery)",
+     "Standard recovery timeline cited as 9-12 months, which puts full clearance around Aug-Nov 2026, creating real Week 1 2026 doubt (game 1 vs Pittsburgh Steelers per si.com/onsi Jul 29 2026)",
+     "As of Aug 6, 2026 (ajc.com) Penix was doing only 7-on-7 drills, not cleared for 11-on-11/contact"
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Not fully cleared for team/contact drills; limited to individual and 7-on-7 work",
+     "body_part": "left knee ACL (partial tear, surgically repaired)",
+     "as_of": "2026-08-06",
+     "note": "Penix quote Aug 6, 2026: 'I'm not really chasing a timeline. I'm just chasing trying to be better every day.' and 'I can't worry about a starting job until I'm worried about getting back on the field.' Earlier at May 2026 minicamp he said 'I feel great... I'm right where I need to be,' but the Aug 6 quotes are more current/cautious and supersede that optimism. A thefalcoholic.com headline (undated in fetch, likely early Aug 2026) states full medical clearance could still be about four weeks away."
+    },
+    "camp": [
+     {
+      "quote": "When Mike is cleared by the medical team, we'll get to that point.",
+      "who": "HC Kevin Stefanski",
+      "date": "2026-07-29"
+     },
+     {
+      "quote": "We don't know exactly when that will happen... He's hitting every single checkpoint. I'm very confident in him.",
+      "who": "HC Kevin Stefanski",
+      "date": "2026-07-29"
+     },
+     {
+      "quote": "I'm not really chasing a timeline. I'm just chasing trying to be better every day.",
+      "who": "Michael Penix",
+      "date": "2026-08-06"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.ajc.com/sports/2026/08/falcons-michael-penix-jr-not-chasing-a-timeline-as-health-keeps-improving/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.cbssports.com/fantasy/football/news/falcons-michael-penix-needs-procedure-to-repair-acl",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://heavy.com/sports/nfl/atlanta-falcons/michael-penix-jr-news-training-camp/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/falcons/onsi/atlanta-falcons-get-official-word-on-michael-penix-injury-status",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/falcons-qb-depth-chart-tua-205040418.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.aol.com/articles/nfl-team-faces-bemusing-quarterback-212547814.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/nfl/live/2026-nfl-coaching-news-falcons-fire-raheem-morris-after-2-seasons-234646710.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.ajc.com/sports/2026/01/a-new-era-falcons-announce-kevin-stefanski-as-head-coach/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.pro-football-reference.com/players/P/PeniMi00.htm",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "11565": {
+   "player_id": "11565",
+   "name": "J.J. McCarthy",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2024,
+      "team": "MIN"
+     },
+     {
+      "season": 2025,
+      "team": "MIN"
+     },
+     {
+      "season": 2026,
+      "team": "MIN"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "MIN",
+      "games": 10,
+      "carries": 0,
+      "targets": 0,
+      "rec": 0,
+      "yards": 1632,
+      "td": 11,
+      "note": "10 games/10 starts, 140/243 comp, 12 INT, 181 rush yards, 4 rush TD. Missed time mid-season with a Week 2 ankle injury; Carson Wentz started in relief during that absence (per Oct 23, 2025 profootballnetwork.com article)."
+     },
+     {
+      "season": 2024,
+      "team": "MIN",
+      "games": 0,
+      "carries": 0,
+      "targets": 0,
+      "rec": 0,
+      "yards": 0,
+      "td": 0,
+      "note": "Drafted 10th overall in 2024 NFL Draft; did not play as a rookie (per PFR, no 2024 stats listed)"
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "Still on rookie contract (2024 1st-round pick, No. 10 overall)"
+    },
+    "scheme": {
+     "oc": "",
+     "note": "No 2026 OC/coordinator change confirmed in sources found; HC Kevin O'Connell remains in place per Aug 9, 2026 ESPN camp report."
+    },
+    "competition": [
+     {
+      "name": "Kyler Murray",
+      "age": null,
+      "status": "Signed by Vikings in 2026 free agency after being released by the Arizona Cardinals (one-year deal; nfl.com headline describes it as a 'league minimum deal', while an msn.com headline separately calls it 'the biggest QB deal of the 2026 NFL offseason' -- conflicting characterizations, dollar amount not independently confirmed)",
+      "note": "As of Aug 9, 2026 (ESPN camp intel), Murray has been getting the MAJORITY of first-team reps in training camp over McCarthy. This is an active, real, ongoing QB competition -- HC Kevin O'Connell has not named a starter as of that date. This directly contradicts a 'McCarthy is just a backup on a stale depth chart' read; it is a genuine open competition with Murray currently ahead in reps."
+     },
+     {
+      "name": "Carson Wentz",
+      "age": null,
+      "status": "re-signed/returned to Vikings in 2026 (per bleacherreport 'Carson Wentz Signs Vikings Contract' and nbcsports headline about his return 'complicating' the QB depth chart)",
+      "note": "Listed as QB3/backup depth per thevikingage.com Aug 9 2026 tracker; started multiple 2025 games in relief of injured McCarthy"
+     },
+     {
+      "name": "Max Brosmer",
+      "age": null,
+      "status": "QB4/depth arm",
+      "note": "Listed on Vikings QB depth chart per thevikingage.com Aug 9 2026 tracker"
+     }
+    ],
+    "notes": [
+     "McCarthy sustained a Week 2 2025 ankle injury that sidelined him for a stretch; Wentz filled in during that period (Oct 23, 2025 report)",
+     "Vikings signing of Kyler Murray in 2026 free agency is the single biggest change to McCarthy's outlook: it converts what would otherwise be an uncontested starting job into an open QB competition"
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Healthy, no current injury reported",
+     "body_part": "",
+     "as_of": "2026-08-09",
+     "note": "startribune.com (Aug 4, 2026) reported McCarthy 'struggled, then finished strong' in a camp practice -- a performance note, not an injury. ESPN (Aug 9, 2026) camp report states no injuries for McCarthy and that he is actively competing in the QB battle. Note: totalprosports.com headline references fans calling him 'terrible' from the stands during a camp practice (viral video), reflecting shaky performance, not health status."
+    },
+    "camp": [
+     {
+      "quote": "Murray has been getting the majority of first-team reps throughout training camp; competition ongoing, no official starter named",
+      "who": "ESPN camp report / HC Kevin O'Connell",
+      "date": "2026-08-09"
+     },
+     {
+      "quote": "J.J. McCarthy struggles, then finishes strong at Vikings' training camp practice",
+      "who": "startribune.com headline",
+      "date": "2026-08-04"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://thevikingage.com/minnesota-vikings-2026-training-camp-tracker-latest-updates-news-injuries-rumors",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.profootballnetwork.com/vikings-carson-wentz-starts-jj-mccarthy-return/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.startribune.com/minnesota-vikings-training-camp-practice-live-updates-august-4-jj-mccarthy-kyler-murray-eagan/601873246",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nfl.com/news/vikings-sign-kyler-murray-one-year-deal-release-cardinals",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.msn.com/en-us/sports/nfl/kyler-murray-signs-with-the-minnesota-vikings-in-the-biggest-qb-deal-of-the-2026-nfl-offseason/ar-AA1Z87k5",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.pro-football-reference.com/players/M/McCaJJ00.htm",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "11584": {
+   "player_id": "11584",
+   "name": "Bucky Irving",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2025,
+      "team": "TB"
+     },
+     {
+      "season": 2024,
+      "team": "TB"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "TB",
+      "games": 10,
+      "carries": 173,
+      "targets": null,
+      "rec": 30,
+      "yards": 588,
+      "td": 1,
+      "note": "Rushing: 173 car/588 yds/1 TD in 10 games (missed ~7 games). Receiving: 30 rec/277 yds/3 TD. Played 95 fewer snaps than 2024 due to shoulder injury (required surgery) and a simultaneous foot injury."
+     },
+     {
+      "season": 2024,
+      "team": "TB",
+      "games": 17,
+      "carries": 207,
+      "targets": null,
+      "rec": 47,
+      "yards": 1122,
+      "td": 8,
+      "note": "Rookie season: 207 car/1,122 rush yds/8 rush TD; 47 rec/392 rec yds/0 rec TD."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "Still on rookie contract (2024 draft pick); no extension info found."
+    },
+    "scheme": {
+     "oc": "",
+     "note": "No 2026 OC/scheme change reported for Tampa Bay found in search."
+    },
+    "competition": [
+     {
+      "name": "Kenneth Gainwell",
+      "age": 26,
+      "status": "signed by TB in free agency",
+      "note": "Signed a two-year deal with Tampa Bay on 2026-03-12 after a 2025 season with Pittsburgh (1,000+ scrimmage yards, 8 TD: 537 rush yds, 486 rec yds; named Steelers Team MVP by teammates). Prior 4 years with Eagles (2021-2024), 2x Super Bowl appearances, 1 ring. Buccaneers.com framed him as joining Irving 'in the running back room, ready to make an impact' -- exact touch split vs. Irving not stated in sources found."
+     },
+     {
+      "name": "Rachaad White",
+      "age": null,
+      "status": "2026 free agent focus / uncertain roster status",
+      "note": "Buccaneers.com published a '2026 Buccaneers Free Agent Focus: Rachaad White' piece, implying his TB future/role is in question; exact 2026 roster status not confirmed in sources found."
+     }
+    ],
+    "notes": [
+     "Irving's 2025 season workload dropped sharply from his 2024 rookie campaign due to injury, missing about 7 games."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Fully cleared, full-speed, first-team reps, no restrictions",
+     "body_part": "Shoulder (surgically repaired) and foot (2025 injuries)",
+     "as_of": "2026-07-29",
+     "note": "Per Buccaneers.com (2026-07-29): shoulder 'fully healed,' cleared for full camp participation, taking first-team reps at full speed on Day 1 of 2026 camp. HC Todd Bowles (2026-07-29 quote): 'He feels fine, he's great. He's full speed. He's full-go right now. Obviously, when we get in pads, we're not easing him back from anything.' Irving (2026-07-29 quote): 'Shoulder [is] feeling good. I just want to thank the training staff and everyone that helped me on the road to recovery.' This supersedes earlier 2025 season concern pieces about his shoulder/foot injuries."
+    },
+    "camp": [
+     {
+      "quote": "He feels fine, he's great. He's full speed. He's full-go right now.",
+      "who": "Todd Bowles (HC)",
+      "date": "2026-07-29"
+     },
+     {
+      "quote": "Shoulder [is] feeling good. I just want to thank the training staff and everyone that helped me on the road to recovery.",
+      "who": "Bucky Irving",
+      "date": "2026-07-29"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.buccaneers.com/news/bucky-irving-full-go-feeling-stronger-from-adversity",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.statmuse.com/nfl/ask/bucky-irving-vs-rachaad-white-stats",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.buccaneers.com/news/rb-kenneth-gainwell-signs-bucs-2026-nfl-free-agency",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://bvmsports.com/2026/07/22/bucky-irving-injury-update-ready-for-bucs-training-camp-2026/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.buccaneers.com/news/2026-buccaneers-free-agent-focus-rachaad-white",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "11620": {
+   "player_id": "11620",
+   "name": "Rome Odunze",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2025,
+      "team": "CHI"
+     },
+     {
+      "season": 2024,
+      "team": "CHI"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "CHI",
+      "games": 12,
+      "carries": 0,
+      "targets": 90,
+      "rec": 44,
+      "yards": 661,
+      "td": 6,
+      "note": "Limited by a foot injury for part of the season but returned for the playoffs (chicagobears.com camp preview). 6 TDs on 44 catches despite missing 5 games."
+     },
+     {
+      "season": 2024,
+      "team": "CHI",
+      "games": 17,
+      "carries": 0,
+      "targets": 101,
+      "rec": 54,
+      "yards": 734,
+      "td": 3,
+      "note": "Rookie season, full 17 games."
+     }
+    ],
+    "contract": {
+     "years": 4,
+     "signed": "2024 (rookie deal)",
+     "note": "4-year, $22,724,500 rookie contract (2024-2028 per Spotrac), fully guaranteed signing bonus $13,346,908. 2 years remaining as of 2026, with a 5th-year team option available for 2028/2029. Not extension-eligible yet in 2026; scheduled for unrestricted free agency in 2029 absent action."
+    },
+    "scheme": {
+     "oc": "Ben Johnson (HC, play-calling background as former Lions OC)",
+     "note": "Ben Johnson is Bears head coach (hired prior to 2025 season); no OC change specifically identified for 2026 in sources checked, but WR Kalif Raymond was specifically brought in for his prior connection to Johnson from Detroit."
+    },
+    "competition": [
+     {
+      "name": "DJ Moore",
+      "age": null,
+      "status": "Traded away",
+      "note": "Per chicagobears.com camp preview, Moore -- who led Bears receivers in 2025 -- was traded to the Buffalo Bills, removing the team's top target ahead of Odunze. This is a significant target-share opening for Odunze in 2026."
+     },
+     {
+      "name": "Luther Burden III",
+      "age": null,
+      "status": "WR2, second-year player",
+      "note": "47 receptions, 652 yards, 2 TD in 2025 (rookie year). HC Ben Johnson (end of May 2026 OTAs): 'I'm buying Luther Burden stock right now.'"
+     },
+     {
+      "name": "Kalif Raymond",
+      "age": 31,
+      "status": "WR3, veteran/returner",
+      "note": "Age 31 going on 32; signed for his familiarity with Ben Johnson's scheme from Detroit."
+     },
+     {
+      "name": "Colston Loveland",
+      "age": null,
+      "status": "TE, competing target",
+      "note": "Per chicagobears.com, Loveland (TE) had a higher 2025 receiving total than Odunze, indicating a crowded target tree even with Moore gone."
+     }
+    ],
+    "notes": [
+     "Apr 30, 2026 SI depth-chart article lists Odunze as WR1 on the Bears' post-draft depth chart (ahead of Burden, Raymond, Jahdae Walker, Zavion Thomas, JP Richardson) -- though this predates the DJ Moore trade context noted in the later camp preview; DJ Moore's departure appears to be the more recent, decision-relevant change.",
+     "Odunze quote (date unspecified, chicagobears.com preview): 'I feel like for me, I'm trying to be excellent in every single category.'"
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Fully recovered, full participant in offseason program and camp",
+     "body_part": "Foot",
+     "as_of": "2026-07-30",
+     "note": "Jul 30, 2026 (Bleacher Report): Odunze clarified earlier 'new normal' comments were misunderstood, denied any chronic condition, said 'My foot feels great. My foot feels amazing...it's not even really something that I think about anymore.' Superior/more recent than earlier concern-raising camp reports (e.g., beargoggleson.com 'highlight catch...should erase foot concerns' and dawindycity.com similar headline, both suggesting the foot had been a live camp storyline before Odunze's clarification)."
+    },
+    "camp": [
+     {
+      "quote": "My foot feels great. My foot feels amazing...it's not even really something that I think about anymore",
+      "who": "Rome Odunze",
+      "date": "2026-07-30"
+     },
+     {
+      "quote": "I'm buying Luther Burden stock right now.",
+      "who": "HC Ben Johnson",
+      "date": "2026-05-31"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.chicagobears.com/news/bears-2026-training-camp-position-preview-receiver",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://bleacherreport.com/articles/25460029-bears-rome-odunze-clarifies-foot-injury-comments-says-he-doesnt-have-chronic-condition",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.pro-football-reference.com/players/O/OdunRo00.htm",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.spotrac.com/nfl/player/_/id/90338/rome-odunze",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/bears/onsi/depth-chart-roster-draft-2026-otas",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://beargoggleson.com/rome-odunze-highlight-catch-at-chicago-bears-training-camp-should-erase-foot-concerns",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "11631": {
+   "player_id": "11631",
+   "name": "Brian Thomas",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2025,
+      "team": "JAX"
+     },
+     {
+      "season": 2024,
+      "team": "JAX"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "JAX",
+      "games": 14,
+      "carries": 0,
+      "targets": 91,
+      "rec": 48,
+      "yards": 707,
+      "td": 2,
+      "note": "Drop rate rose from 5.3% (2024) to 11.0% (2025); catch rate fell from 67.4% to 52.7%. High ankle sprain Week 9 cost him 3 games; also played through shoulder, wrist, and a Game 1 hand injury. Was outproduced by WR Parker Washington (58 rec/847 yds) within the same offense in 2025."
+     },
+     {
+      "season": 2024,
+      "team": "JAX",
+      "games": null,
+      "carries": 0,
+      "targets": null,
+      "rec": 87,
+      "yards": 1282,
+      "td": 10,
+      "note": "Rookie season (2024 1st-round pick, No. 23 overall); Pro Bowl selection. Exact 2024 games/targets not verified in sources checked."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "Still on rookie contract (2024 1st-round pick); no extension reported as of Aug 2026."
+    },
+    "scheme": {
+     "oc": "Liam Coen (HC and play-caller)",
+     "note": "Coen remains Jaguars HC and primary play-caller entering 2026, same role as 2025."
+    },
+    "competition": [
+     {
+      "name": "Travis Hunter",
+      "age": null,
+      "status": "healthy, full camp participation",
+      "note": "2025 No. 2 overall pick; two-way WR/CB. Suffered season-ending LCL knee injury in Week 9 2025 (missed final ~10 games). As of July 31, 2026 report: fully participating in camp, added 10 lbs of muscle, clocked 22.6 mph, said 'I definitely feel a lot faster entering this season.'"
+     },
+     {
+      "name": "Jakobi Meyers",
+      "age": null,
+      "status": "signed extension, entrenched slot/WR2",
+      "note": "Veteran (7th-year in 2025) acquired via trade from Las Vegas in Nov 2025; caught 42 passes/483 yds in 9 games with JAX in 2025. Agreed to 3-year, $60M extension with Jaguars (per ESPN)."
+     },
+     {
+      "name": "Parker Washington",
+      "age": null,
+      "status": "3rd-year WR, led team in catches 2025",
+      "note": "Led Jaguars receivers in 2025 with 58 rec for 847 yards, emerging as a 'clutch playmaker' after entering the season as the No. 4 option."
+     },
+     {
+      "name": "Tim Patrick",
+      "age": null,
+      "status": "added depth",
+      "note": "Traded from Detroit Lions to Jacksonville on Aug 27, 2025, adding size/hands depth to the WR room."
+     }
+    ],
+    "notes": [
+     "Jeff Howe (The Athletic, July 20, 2026) named Thomas the Jaguars player with 'the most on the line' in 2026, calling his 2025 output 'nightmarish' compared to his rookie year.",
+     "Jaguars WR room in 2025 was described as balanced with multiple contributors rather than one dominant receiver, which worked against Thomas's WR1 target share."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Healthy, full camp participation",
+     "body_part": "hand (2025, resolved); prior 2025 high ankle sprain and shoulder/wrist injuries also resolved",
+     "as_of": "2026-08-07",
+     "note": "Aug 7, 2026 (Jaguars.com Camp Day 8): Thomas said he feels better than ever entering the season, with improved hand strength after offseason JUGS-machine and ball-tracking work following a Game 1 2025 hand injury. Quote: 'It doesn't hurt to run' (June 2026 OTAs)."
+    },
+    "camp": [
+     {
+      "quote": "He's playing confident right now.",
+      "who": "HC Liam Coen",
+      "date": "2026-08-07"
+     },
+     {
+      "quote": "Mentally, I feel good; body-wise, I feel good; I feel like we have a strong team and we're going to do big things.",
+      "who": "Brian Thomas Jr.",
+      "date": "2026-08-07"
+     },
+     {
+      "quote": "The hand injury wasn't an excuse. Anytime the ball hits my hand, I expect to catch it.",
+      "who": "Brian Thomas Jr.",
+      "date": "2026-08-07"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://sports.yahoo.com/articles/jaguars-wr-brian-thomas-jr-114500974.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.jaguars.com/news/camp-wrap-day-8-thomas-playing-confident-right-now",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://heavy.com/sports/nfl/jacksonville-jaguars/brian-thomas-jr-brutal-assessment-training-camp/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://heavy.com/sports/nfl/jacksonville-jaguars/travis-hunter-offseason-progress-2026-training-camp/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.jaguars.com/news/camp-wrap-day-3-hunter-feeling-a-lot-faster-entering-26",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.jaguars.com/news/k000589-2026-offseason-a-look-at-jaguars-wide-receivers",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.espn.com/nfl/story/_/id/47350292/sources-jaguars-wr-jakobi-meyers-finalizing-3-year-60m-deal",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/onsi/fantasy/nfl/detroit-lions-trade-tim-patrick-jaguars-opening-door-isaac-teslaa",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "11632": {
+   "player_id": "11632",
+   "name": "Malik Nabers",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2024,
+      "team": "NYG"
+     },
+     {
+      "season": 2025,
+      "team": "NYG"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "NYG",
+      "games": 4,
+      "targets": null,
+      "rec": null,
+      "yards": null,
+      "td": null,
+      "note": "Season ended Week 4 (vs LAC) due to torn ACL. Partial-season data points found: Week 2 vs DAL line was 9 rec/167 yds/2 TD; was 'on pace for 1,422 yards' before injury; in the injury game (Wk4) he had 3 rec/20 yds on 23 of 69 snaps. Full cumulative season totals not verified."
+     }
+    ],
+    "contract": {
+     "years": 4,
+     "signed": "2024-05-10",
+     "note": "4-year rookie contract worth $29.2M with $18M signing bonus, signed after being drafted 6th overall (LSU) in 2024. No extension reported as of this research pass; still under rookie deal."
+    },
+    "scheme": {
+     "oc": "Matt Nagy",
+     "note": "Giants hired John Harbaugh as head coach in January 2026 (replacing Brian Daboll), a full coaching-staff change. Matt Nagy is the offensive coordinator per Giants.com staff announcement. New play-calling scheme for 2026, first year under Harbaugh/Nagy."
+    },
+    "competition": [
+     {
+      "name": "Darius Slayton",
+      "age": null,
+      "status": "on roster",
+      "note": "Competing for 2nd outside WR role; possible last season with team per contract situation (unverified age/salary here)."
+     },
+     {
+      "name": "Darnell Mooney",
+      "age": null,
+      "status": "on roster",
+      "note": "Projected as one of top-3 WRs alongside Nabers/Slayton per Giants 2026 WR breakdown (Yahoo, 2026-07-17)."
+     },
+     {
+      "name": "Odell Beckham Jr.",
+      "age": null,
+      "status": "on roster, competing in camp",
+      "note": "In competition with Slayton/Smith-Schuster for WR2/3 role."
+     },
+     {
+      "name": "JuJu Smith-Schuster",
+      "age": null,
+      "status": "on roster, competing in camp",
+      "note": "Also competing for WR2/3 role."
+     }
+    ],
+    "notes": [
+     "Drafted 6th overall in 2024 by NYG out of LSU.",
+     "Nabers is expected to be the clear No. 1 WR for QB Jaxson Dart if healthy (Yahoo Giants 2026 WR breakdown, 2026-07-17)."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Recovering from torn ACL suffered Week 4, 2025 (vs. Chargers); also had damaged meniscus and underwent a scar-tissue cleanup procedure in spring 2026. As of mid-July 2026, reported to be approximately 70-80% through rehab and had missed spring practices. HC John Harbaugh described it as 'not a simple knee' and said he hopes Nabers works into camp 'one way or another,' with camp participation possible but full readiness for season start uncertain.",
+     "body_part": "knee (ACL, meniscus)",
+     "as_of": "2026-07-16",
+     "note": "Two data points found: 2026-07-15 (Giants.com, ~70-80% through rehab, missed spring practice) and 2026-07-16 (CBS Sports, Harbaugh 'not a simple knee' quote, hopeful for camp). The 2026-07-16 report is treated as the more current of the two found; no later (post-mid-July) update was located in this research pass, so actual camp practice status as of August 2026 is unverified here."
+    },
+    "camp": [
+     {
+      "quote": "He's making really good progress right now. I'm very hopeful that he'll be back soon.",
+      "who": "John Harbaugh (head coach)",
+      "date": "2026-07-15"
+     },
+     {
+      "quote": "not a simple knee",
+      "who": "John Harbaugh (head coach), describing severity",
+      "date": "2026-07-16"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.nfl.com/news/malik-nabers-torn-acl-out-for-2025-season-giants",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.cbssports.com/nfl/news/nfl-injury-updates-2026-patrick-mahomes-malik-nabers-training-camp/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.giants.com/news/malik-nabers-injury-status-cam-skattebo-thomas-fidone-sam-roberts-beaux-collins-training-camp",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/giants-2026-position-breakdown-malik-134000516.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.giants.com/news/malik-nabers-contract-nfl-draft-2024-wide-receiver-lsu-tigers",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://bleacherreport.com/articles/10119359-malik-nabers-giants-agree-to-4-year-292m-rookie-contract-with-18m-signing-bonus",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.giants.com/news/john-harbaugh-announces-2026-coaching-staff-coordinators-matt-nagy-dennard-wilson-chris-horton",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nfl.com/news/giants-john-harbaugh-finalize-deal-new-head-coach",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "11635": {
+   "player_id": "11635",
+   "name": "Ladd McConkey",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2025,
+      "team": "LAC"
+     },
+     {
+      "season": 2024,
+      "team": "LAC"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "LAC",
+      "games": 16,
+      "carries": 0,
+      "targets": 106,
+      "rec": 66,
+      "yards": 789,
+      "td": 6,
+      "note": "Down year vs. rookie season: only two 95+-yard receiving games in 2025 vs. four such games as a rookie in 2024."
+     },
+     {
+      "season": 2024,
+      "team": "LAC",
+      "games": null,
+      "carries": 0,
+      "targets": null,
+      "rec": null,
+      "yards": null,
+      "td": null,
+      "note": "Rookie season described as having four 95+-receiving-yard games (more explosive than 2025); exact full stat line not captured in sources searched."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "2026",
+     "note": "Chargers exercised McConkey's fifth-year option for 2026 (per Chargers.com camp preview)."
+    },
+    "scheme": {
+     "oc": "Mike McDaniel (new 2026 Chargers OC)",
+     "note": "McDaniel (former Dolphins HC) hired as Chargers OC for 2026, emphasizing quick throws arriving in 2.4 seconds or less; McDaniel reportedly expects receivers to exceed career highs in this scheme. McConkey quote on the new scheme: 'Just watching practice, watching the scheme, I'm like, \"I can't wait to get out there.\"'"
+    },
+    "competition": [
+     {
+      "name": "Quentin Johnston",
+      "age": null,
+      "status": "WR2/3, 2023 1st-round pick",
+      "note": "Part of a three-man 'elite receiver' group with McConkey per Chargers.com camp preview."
+     },
+     {
+      "name": "Tre' Harris",
+      "age": null,
+      "status": "WR, 2025 2nd-round pick",
+      "note": "Second-year receiver, part of the same WR competition group."
+     }
+    ],
+    "notes": [
+     "McConkey quote on 2026 goals: 'Catch it and get vertical. Get forward... Let's turn an 11 yards-per-catch average into 15 or 16,' referencing 2025's 11.9 yards/catch (789 yds / 66 rec) as something to improve on.",
+     "SI Chargers piece frames McConkey as 'the most obvious bounce-back season candidate' for 2026 after a down 2025."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Full go for training camp after offseason hamstring strain",
+     "body_part": "Hamstring",
+     "as_of": "2026-07-29",
+     "note": "Per Heavy.com (published 2026-07-28, updated 2026-07-29): McConkey suffered a strained hamstring during the spring 2026 offseason training program, which forced him to miss some practices over the summer. As of training camp's start (2026-07-29), he is 'full go.' McConkey quote (2026-07-28): 'I feel really good.'"
+    },
+    "camp": [
+     {
+      "quote": "I feel really good.",
+      "who": "Ladd McConkey",
+      "date": "2026-07-28"
+     },
+     {
+      "quote": "Just watching practice, watching the scheme, I'm like, 'I can't wait to get out there.'",
+      "who": "Ladd McConkey",
+      "date": "2026-07-29"
+     },
+     {
+      "quote": "Catch it and get vertical. Get forward...Let's turn an 11 yards-per-catch average into 15 or 16.",
+      "who": "Ladd McConkey",
+      "date": ""
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://heavy.com/sports/nfl/los-angeles-chargers/chargers-ladd-mcconkey-reveals-crucial-injury-update-ahead-of-training-camp/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.chargers.com/news/2026-training-camp-preview-ladd-mcconkey",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.statmuse.com/nfl/ask/ladd-mcconkey-2025-season-stats",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/chargers/onsi/chargers-roster-spotlights-ladd-mcconkey-the-most-obvious-bounce-back-season-candidate",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "12518": {
+   "player_id": "12518",
+   "name": "Tyler Warren",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2025,
+      "team": "IND"
+     },
+     {
+      "season": 2026,
+      "team": "IND"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "IND",
+      "games": 17,
+      "targets": 112,
+      "rec": 76,
+      "yards": 817,
+      "td": 4,
+      "note": "Started all 17 games as a rookie. Franchise record for receiving yards by a rookie TE. Also had 6 carries/8 yards/1 rushing TD (5 total TDs). Played 899 of 1,075 offensive snaps (~84%); lined up at TE for 466 snaps (51.8% of his snaps), plus fullback (64 snaps), wide receiver (384 receiving snaps total), and even 3 wildcat QB snaps."
+     }
+    ],
+    "contract": {
+     "years": 4,
+     "signed": "2025 (after being drafted)",
+     "note": "4-year rookie contract reported in the ~$20.9-21M range (multiple outlets cited slightly different totals: Bleacher Report ~$21M, Sportskeeda ~$20.9M); exact figure not independently reconciled in this pass."
+    },
+    "scheme": {
+     "oc": "",
+     "note": "HC Shane Steichen returning for 2026. QB Daniel Jones is the starting QB referenced in camp coverage (Jones quote: 'Certainly expect him to be a big part of the offense again, and he's making a jump on what was a really, really good rookie season.'). Specific offensive coordinator name not confirmed in this research pass."
+    },
+    "competition": [
+     {
+      "name": "Michael Pittman Jr.",
+      "age": null,
+      "status": "traded away from Colts",
+      "note": "Pittman previously drew 111 targets; his departure is cited as freeing up target share for Warren in 2026."
+     },
+     {
+      "name": "Alec Pierce",
+      "age": null,
+      "status": "injured, not practicing",
+      "note": "Ankle injury, had offseason surgery; has not practiced in 2026 training camp as of 2026-08-09 with no return timetable."
+     },
+     {
+      "name": "Josh Downs",
+      "age": null,
+      "status": "injured",
+      "note": "Groin injury; missed practice on 2026-08-09 (Saturday); no recovery timeline given."
+     },
+     {
+      "name": "Ashton Dulin / Nick Westbrook-Ikhine",
+      "age": null,
+      "status": "depth WRs",
+      "note": "Receiving increased camp opportunities due to Pierce/Downs injuries."
+     }
+    ],
+    "notes": [
+     "Drafted 14th overall in 2025 by Indianapolis out of Penn State.",
+     "Projected to be first or second overall receiving option for the Colts in 2026 if Pierce remains sidelined (Heavy.com, 2026-06-21)."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "No injury reported for Warren himself; entering 2026 healthy per camp coverage.",
+     "body_part": "",
+     "as_of": "2026-08-09",
+     "note": "Note: this 'no injury' status is about Warren specifically \u2014 teammates Alec Pierce (ankle) and Josh Downs (groin) are the ones injured, which indirectly benefits Warren's target share."
+    },
+    "camp": [
+     {
+      "quote": "Tight end Tyler Warren impressed during Colts mandatory minicamp, demonstrating strong performance ahead of formal training camp. Entering his second season healthy and ready for expanded role.",
+      "who": "Heavy.com / Fox59's Mike Chappell",
+      "date": "2026-06-21"
+     },
+     {
+      "quote": "Certainly expect him to be a big part of the offense again, and he's making a jump on what was a really, really good rookie season.",
+      "who": "Daniel Jones (QB)",
+      "date": "2026-06-21"
+     },
+     {
+      "quote": "Alec Pierce (ankle, offseason surgery) has not practiced during training camp with no return timetable; Josh Downs (groin) missed Saturday practice.",
+      "who": "Heavy.com",
+      "date": "2026-08-09"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.colts.com/news/2025-colts-rookie-review-tyler-warren-tight-end-offense-versatility-growth",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nfl.com/news/daniel-jones-expects-tyler-warren-to-be-big-part-of-colts-offense-as-te-makes-jump-from-rookie-year",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://heavy.com/sports/nfl/indianapolis-colts/colts-tyler-warren-shines-before-camp/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://heavy.com/sports/nfl/indianapolis-colts/colts-receiver-josh-downs-alec-pierce-injury/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://bleacherreport.com/articles/25194387-tyler-warren-colts-reportedly-agree-21m-rookie-contract-after-2025-nfl-draft",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "13269": {
+   "player_id": "13269",
+   "name": "Fernando Mendoza",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "LV"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "Indiana (college)",
+      "games": null,
+      "targets": null,
+      "rec": null,
+      "yards": 3535,
+      "td": 41,
+      "note": "College QB production, not NFL: 3,535 passing yards, 41 passing TD (led FBS), 6 INT, 72% completion, 7 rushing TD, undefeated season."
+     }
+    ],
+    "contract": {
+     "years": 4,
+     "signed": "2026 (day rookies reported to training camp)",
+     "note": "4-year deal worth $57.27M, fully guaranteed, with a 5th-year option (standard for 1st overall pick)."
+    },
+    "scheme": {
+     "oc": "",
+     "note": "New Raiders head coach is Klint Kubiak for 2026. Raiders signed veteran Kirk Cousins in free agency and retained Aidan O'Connell, positioning Mendoza to develop behind established veterans rather than start immediately."
+    },
+    "competition": [
+     {
+      "name": "Kirk Cousins",
+      "age": null,
+      "status": "named Week-1/camp starting QB",
+      "note": "Named starter by HC Klint Kubiak on 2026-07-28: 'Kirk Cousins in the starting quarterback... He's the guy, and he's going to get a ton of reps.' Signed as veteran free agent in 2026 offseason."
+     },
+     {
+      "name": "Aidan O'Connell",
+      "age": null,
+      "status": "retained, in QB room",
+      "note": "Incumbent backup/depth QB retained by Raiders."
+     }
+    ],
+    "notes": [
+     "Drafted 1st overall in 2026 by Las Vegas out of Indiana.",
+     "As of camp, Mendoza is taking second-string reps behind Cousins; described in one headline as being on the 'all-backup team.'"
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "No injury reported as of research date.",
+     "body_part": "",
+     "as_of": "2026-08-11",
+     "note": ""
+    },
+    "camp": [
+     {
+      "quote": "When we go out to practice tomorrow, Kirk Cousins in the starting quarterback. He's the guy, and he's going to get a ton of reps. For every position, there's gotta be competition, right?",
+      "who": "Klint Kubiak (head coach)",
+      "date": "2026-07-28"
+     },
+     {
+      "quote": "Rookie quarterback found success in short and immediate passing games, targeting receivers Shedrick Jackson and Malik Benson as primary options despite heavy winds.",
+      "who": "Raiders.com training camp notebook",
+      "date": "2026-08-06"
+     },
+     {
+      "quote": "They're all in this together. They're all trying to help each other out and it shows out here.",
+      "who": "Mike McCoy (assistant head coach), on the QB competition",
+      "date": "2026-08-06"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.nfl.com/news/fernando-mendoza-raiders-no-1-overall-pick-2026-nfl-draft",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nfl.com/news/raiders-sign-2026-no-1-overall-pick-qb-fernando-mendoza-to-rookie-contract",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.foxnews.com/sports/raiders-head-coach-klint-kubiak-names-kirk-cousins-starting-qb-no-1-pick-fernando-mendoza",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.raiders.com/news/training-camp-notebook-8-6-kirk-cousins-fernando-mendoza-showcase-their-strengths",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.espn.com/nfl/story/_/id/49472920/cousins-gets-nod-fernando-mendoza-open-raiders-camp",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "13275": {
+   "player_id": "13275",
+   "name": "Ty Simpson",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "LAR"
+     }
+    ],
+    "workload": [],
+    "contract": {
+     "years": null,
+     "signed": "2026",
+     "note": "Rookie contract as a first-round pick; specific years/value not found in sources searched."
+    },
+    "scheme": {
+     "oc": "Sean McVay (HC, Rams)",
+     "note": "Rams' offense run by McVay; Simpson drafted as developmental QB behind Matthew Stafford."
+    },
+    "competition": [
+     {
+      "name": "Matthew Stafford",
+      "age": 38,
+      "status": "Entrenched starter, reigning 2025 NFL MVP",
+      "note": "Publicly committed to returning for his 18th NFL season in 2026 ('I enjoy playing too much to hang it up'); no retirement imminent. This makes Simpson QB2/3 with no near-term path to starting."
+     },
+     {
+      "name": "Stetson Bennett",
+      "age": null,
+      "status": "Competing with Simpson for QB2 role",
+      "note": "Per ProFootballRumors (2026-06), Bennett and Simpson are competing for the Rams' QB2 job. Some reports (Athlon Sports, heavy.com) indicate Simpson was pulling ahead / McVay 'put Bennett on notice' during camp; Bennett's roster spot described as 'uncertain' in some SI Rams Digest pieces."
+     },
+     {
+      "name": "Jimmy Garoppolo",
+      "age": null,
+      "status": "On roster, reportedly shut down for preseason",
+      "note": "SI Rams Digest headline references 'Rams' Jimmy Garoppolo shut down for preseason, Stetson Bennett could win QB2 role' -- suggests Garoppolo may not be full QB2 competition, increasing path for Simpson or Bennett."
+     }
+    ],
+    "notes": [
+     "Drafted by the Rams in Round 1, Pick 13 of the 2026 NFL Draft out of Alabama -- a notable first-round investment at QB despite Stafford entrenched as starter.",
+     "College stats (final Alabama season): 305 completions, 3,567 passing yards, 28 TD-5 INT, 64.5% completion.",
+     "Simpson quote on draft night: 'Learning from (head coach) Sean McVay, and then (quarterback) Matthew (Stafford), who is obviously one of the greatest of all time, I'm looking forward to it.'",
+     "No NFL regular-season workload yet (rookie, has not played a regular season snap as of 2026-08-11)."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "",
+     "body_part": "",
+     "as_of": "2026-08-11",
+     "note": "No injury reports found for Simpson in 2026 camp coverage."
+    },
+    "camp": [
+     {
+      "quote": "Learning from (head coach) Sean McVay, and then (quarterback) Matthew (Stafford), who is obviously one of the greatest of all time, I'm looking forward to it.",
+      "who": "Ty Simpson",
+      "date": "2026"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.therams.com/news/ty-simpson-nfl-draft-quarterback-alabama",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.profootballrumors.com/2026/06/ty-simpson-stetson-bennett-competing-for-rams-qb2-gig",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/matthew-stafford-entertain-playing-2026-160647216.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.therams.com/news/rams-matthew-stafford-will-return-for-18th-nfl-season-2026-honors",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://heavy.com/sports/nfl/los-angeles-rams/mcvay-notice-bennett-simpson-preseason-stafford/",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "medium"
+  },
+  "13276": {
+   "player_id": "13276",
+   "name": "Omar Cooper",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "NYJ",
+      "note": "Drafted Round 1, Pick 30 (acquired via trade with San Francisco) in 2026 NFL Draft out of Indiana."
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "Indiana (college)",
+      "games": 16,
+      "receptions": 69,
+      "rec_yards": 937,
+      "rec_td": 13,
+      "note": "Led Indiana's undefeated national-championship team; newyorkjets.com lists 69 rec/937 yds (13.6 YPC)/13 TD, while 247sports.com lists 60 rec/937 yds/15 TD for the season \u2014 both sources agree on 937 yards; reception/TD counts conflict slightly. Career (247sports): 115 rec, 1,798 yards, 22 TD, 15.6 YPC. 4.42 40-yard dash at Combine; 6-0/199."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "Rookie contract terms not verified this search (typically 4-year rookie-scale deal for a Round 1 pick)."
+    },
+    "scheme": {
+     "oc": "",
+     "note": "No Jets 2026 OC name/scheme detail found this search; HC is Aaron Glenn. Jets project a multi-tight-end offensive scheme per footballguys.com, which may limit early Cooper usage."
+    },
+    "competition": [
+     {
+      "name": "Garrett Wilson",
+      "age": null,
+      "status": "Jets WR1, healthy, 'determined to return to form' for 2026",
+      "note": "newyorkjets.com (2026 camp) headline; clear top target."
+     },
+     {
+      "name": "Isaiah Williams",
+      "age": null,
+      "status": "2nd-year WR, 137 routes run in camp per footballguys.com",
+      "note": "Ahead of Cooper in early route-count data."
+     },
+     {
+      "name": "Arian Smith",
+      "age": null,
+      "status": "98 routes run in camp per footballguys.com",
+      "note": "Also ahead of Cooper in early camp route counts."
+     },
+     {
+      "name": "Adonai Mitchell",
+      "age": null,
+      "status": "Listed alongside Wilson/Cooper as WR starter in one Aug 10, 2026 depth-chart report",
+      "note": "See conflicting depth-chart notes below."
+     },
+     {
+      "name": "Mason Taylor",
+      "age": null,
+      "status": "Jets TE, part of target competition",
+      "note": "footballguys.com cites him among options that could limit Cooper's early role."
+     }
+    ],
+    "notes": [
+     "DEPTH CHART CONFLICT (both dated 2026-08-10): jetsxfactor.com's unofficial-depth-chart piece lists Cooper as 2nd-team WR behind Garrett Wilson; si.com's 'Updated Jets Depth Chart' piece (same date) lists Cooper as a starter alongside Wilson and Adonai Mitchell with 'no changes to this group.' Keeping both as current since same-date and cannot resolve which is more authoritative.",
+     "footballguys.com instant-reaction: projects ~40% snap share and a Week 1 start timeline; 'Deebo Samuel Sr.-like profile' with strong YAC ability; role 'expected to expand over time' and could 'leapfrog' others besides Wilson as season progresses.",
+     "newyorkjets.com camp piece (2026-07-30): Cooper reports NFL adjustment is more mental than physical ('Everybody is smarter'); building rapport with Geno Smith; HC Aaron Glenn says he's 'expected to have a role' but must compete for playing time."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "No injury reported",
+     "body_part": "",
+     "as_of": "2026-08-10",
+     "note": "No injury noted in either Aug 10, 2026 depth-chart source or the Jul 30, 2026 training-camp feature."
+    },
+    "camp": [
+     {
+      "quote": "Everybody is smarter [at the NFL level].",
+      "who": "Omar Cooper Jr.",
+      "date": "2026-07-30"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.newyorkjets.com/news/omar-cooper-jr-jets-stepping-up-to-nfl-challenges-training-camp-07-30-2026",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.footballguys.com/article/2026-omar-cooper-jr-new-york-jets-instant-reactions",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.newyorkjets.com/news/2026-jets-unofficial-depth-chart",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/jets/onsi/updated-jets-depth-chart-after-first-2-weeks-training-camp-rising-falling-01kzkky7yj6k",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://247sports.com/article/2026-nfl-draft-indiana-wide-receiver-omar-cooper-jr-selected-in-round-1-no-30-overall-by-new-york-jets-282951002/",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "medium"
+  },
+  "13279": {
+   "player_id": "13279",
+   "name": "Carnell Tate",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "TEN",
+      "note": "Drafted No. 4 overall by Titans in 2026 NFL Draft; college: Ohio State"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "Ohio State (college)",
+      "games": null,
+      "targets": null,
+      "rec": null,
+      "yards": null,
+      "td": null,
+      "note": "No verified 2025 college season total found (only preseason projection was fetched, which predicted 1,000 yards/10 TD as OSU's WR2 replacing Emeka Egbuka). 2024 college: 52 rec, 733 yds, 4 TD."
+     }
+    ],
+    "contract": {
+     "years": 4,
+     "signed": "2026-05-09",
+     "note": "Signed fully-guaranteed 4-year, $51.1M rookie deal with $33.6M signing bonus after being drafted No. 4 overall."
+    },
+    "scheme": {
+     "oc": "Brian Daboll",
+     "note": "Titans hired Daboll (former Giants HC) as OC for 2026; new HC is Robert Saleh (hired Jan 2026). QB is Cam Ward (2nd-year)."
+    },
+    "competition": [
+     {
+      "name": "Wan'Dale Robinson",
+      "age": 25,
+      "status": "starting slot WR",
+      "note": "Signed 4-yr/$78M with TEN Mar 12, 2026, reuniting with former Giants HC Daboll; posted first 1,000-yd season in 2025 with NYG after Malik Nabers' Week 4 ACL tear."
+     },
+     {
+      "name": "Calvin Ridley",
+      "age": null,
+      "status": "starting outside WR, injury recovery",
+      "note": "Fractured fibula ended his 2025 season after 7 games (17 rec, 303 yds); Titans restructured his deal Mar 16, 2026, cutting cap hit by $11M with incentives to recoup pay."
+     },
+     {
+      "name": "Elic Ayomanor",
+      "age": null,
+      "status": "2nd-year WR, backup",
+      "note": "Listed directly behind starters on Aug 8, 2026 unofficial depth chart."
+     },
+     {
+      "name": "Chimere Dike",
+      "age": null,
+      "status": "depth WR",
+      "note": "Listed on Titans depth chart behind starters."
+     }
+    ],
+    "notes": [
+     "Aug 8, 2026 unofficial Titans depth chart: Tate listed as a starting WR alongside Calvin Ridley and Wan'Dale Robinson in 3-WR set (tennesseetitans.com).",
+     "Beat writer Justin Melo (SI/OnSI, undated summer 2026 piece) reported Tate and Cam Ward showed 'terrific chemistry' in offseason workouts, including 3 TD connections at the team's first open practice.",
+     "Projected as Week 1 starter / immediate impact with ~70% snap share per Footballguys draft-day analysis (April 2026, pre-camp).",
+     "At Ohio State, Tate played alongside Jeremiah Smith and Emeka Egbuka and was never the primary/No.1 receiver in college."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "No injury reported",
+     "body_part": "",
+     "as_of": "2026-08-08",
+     "note": "No injury designation found in any camp report through Aug 8, 2026 depth chart release."
+    },
+    "camp": [
+     {
+      "quote": "Tate is listed as a starter in the Titans' 3-WR set alongside Calvin Ridley and Wan'Dale Robinson.",
+      "who": "Tennessee Titans (unofficial depth chart)",
+      "date": "2026-08-08"
+     },
+     {
+      "quote": "Tate and Ward already displayed terrific chemistry during offseason workouts, including connecting for three touchdowns at the team's first open practice.",
+      "who": "Justin Melo, SI/OnSI",
+      "date": "2026-summer (exact date not stated)"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.footballguys.com/article/2026-carnell-tate-tennessee-titans-instant-reactions",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.tennesseetitans.com/news/20-things-that-caught-my-eye-on-the-first-unofficial-depth-chart-for-the-titans-in-2026",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/titans/onsi/titans-carnell-tate-poised-for-massive-rookie-season-in-2026",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/carnell-tate-signs-51-million-152331298.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.landgrantholyland.com/2025/7/31/24477786/carnell-tate-1000-receiving-yards-and-10-touchdowns-this-season-ohio-state-buckeyes-football",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.tennesseetitans.com/news/titans-hire-brian-daboll-as-offensive-coordinator",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.tennesseetitans.com/news/it-s-official-titans-hire-robert-saleh-as-team-s-new-head-coach",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/nfl/breaking-news/article/wandale-robinson-signs-a-reported-4-year-78m-contract-with-titans-reunites-with-brian-daboll-180547515.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-calvin-ridleys-cap-number-drops-by-11-million-in-revised-deal",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "13281": {
+   "player_id": "13281",
+   "name": "Jordyn Tyson",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "NO",
+      "note": "Drafted No. 8 overall by Saints in 2026 NFL Draft; college: Arizona State"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "Arizona State (college)",
+      "games": 9,
+      "targets": null,
+      "rec": null,
+      "yards": 711,
+      "td": 8,
+      "note": "711 receiving yards, 8 TD in just 9 games (limited availability); named AP All-America Third Team on 2025-12-15, second consecutive year earning that honor."
+     }
+    ],
+    "contract": {
+     "years": 4,
+     "signed": "2026-05-08",
+     "note": "Signed rookie contract worth approximately $32.5M after being drafted No. 8 overall."
+    },
+    "scheme": {
+     "oc": "",
+     "note": "QB is Tyler Shough. No specific 2026 OC name verified in sources fetched."
+    },
+    "competition": [
+     {
+      "name": "Chris Olave",
+      "age": 26,
+      "status": "starting WR1, recently extended",
+      "note": "Signed 4-yr/$132M extension ($90M guaranteed) on 2026-07-30. Extensive concussion history: concussions in 2023 (Wk12, grade 1), 2024 (vs Buccaneers), 2024 (Wk9, season-ending); also had a lung blood clot issue late in 2025."
+     },
+     {
+      "name": "Devaughn Vele",
+      "age": 27,
+      "status": "depth WR, coming off shoulder injury",
+      "note": "Traded from Denver to New Orleans Aug 20, 2025. In 2025: 25 rec, 293 yds, 2 TD in 13 games (7 starts) before season-ending IR placement Dec 19, 2025 for a Week 15 shoulder injury. Footballguys (Apr 2026) named him 'biggest loser' from the Tyson pick."
+     },
+     {
+      "name": "Mason Tipton",
+      "age": null,
+      "status": "depth WR",
+      "note": "Named as competition in Footballguys draft reaction."
+     },
+     {
+      "name": "Ja'Lynn Polk",
+      "age": null,
+      "status": "depth WR",
+      "note": "Named as competition in Footballguys draft reaction."
+     },
+     {
+      "name": "Bryce Lance",
+      "age": null,
+      "status": "rookie WR (4th round)",
+      "note": "Competing with Tyson in camp per Saints.com rookies-to-watch piece (2026-07-27)."
+     },
+     {
+      "name": "Barion Brown",
+      "age": null,
+      "status": "rookie WR (6th round)",
+      "note": "Competing with Tyson in camp per Saints.com rookies-to-watch piece (2026-07-27)."
+     }
+    ],
+    "notes": [
+     "Footballguys (draft-day, ~2026-04): projected Tyson as Week 1 starter opposite Chris Olave with ~85% snap share, 'immediate starter with the opportunity to push for the team lead in targets.' Biggest beneficiary named: QB Tyler Shough.",
+     "Depth chart position described as outside or slot receiver per Saints.com camp piece.",
+     "Juwan Johnson (TE) also named as a player who loses target share due to Tyson's arrival."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Managed/limited (hamstring, college injury)",
+     "body_part": "Hamstring",
+     "as_of": "2026-07-27",
+     "note": "Per Saints.com (2026-07-27): Tyson is managing a prior hamstring injury carried over from college; kept on a maintenance plan post-draft and was limited to just one rookie minicamp practice (May 8, 2026). No more recent (post-July 27) update found."
+    },
+    "camp": [
+     {
+      "quote": "He has good size, good speed, he's sudden, he's a 'hands' catcher, he's athletic, he's got good run-after-the-catch.",
+      "who": "Keith Williams, Saints WR coach",
+      "date": "2026-07-27"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.footballguys.com/article/2026-jordyn-tyson-new-orleans-saints-instant-reactions",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.neworleanssaints.com/news/rookies-to-watch-entering-new-orleans-saints-training-camp-2026",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://arizonasports.com/ncaa/arizona-state-football/jordyn-tyson-11/3605684/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://heavy.com/sports/nfl/new-orleans-saints/jordyn-tyson-signs-rookie-contract/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/chris-olave-contract-details-saints-211644197.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Devaughn_Vele",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "13286": {
+   "player_id": "13286",
+   "name": "Jadarian Price",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "SEA"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "Notre Dame (college)",
+      "games": null,
+      "carries": 113,
+      "targets": null,
+      "rec": null,
+      "yards": 674,
+      "td": 11,
+      "note": "College: 674 rush yds on 113 carries (6.0 YPC), 11 rush TD, plus 2 receiving TD and 2 KR TD. Not an NFL season."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "2026-05-29",
+     "note": "Rookie contract signed 2026-05-29 after being drafted No. 32 overall (1st round, 2026 NFL Draft) by Seattle. Exact years/value not disclosed in sources checked."
+    },
+    "scheme": {
+     "oc": "",
+     "note": "HC Mike Macdonald: 'We're going to run wide zone and he's going to run wide zone. We're going to run some gap scheme... the pass game he can come alive too... he's a great special teams player.' (seahawks.com, 2026-07-17)."
+    },
+    "competition": [
+     {
+      "name": "Zach Charbonnet",
+      "age": null,
+      "status": "PUP (ACL)",
+      "note": "Torn ACL 2026-01-17 in NFC divisional playoff win vs SF; surgery 2026-02-20; placed on camp PUP list 2026-07-24; led team with 12 rush TD in 2025; early return estimate ~Oct 2026, but HC Macdonald said (2026-06-30) 'Everything's possible' re: Week 1 and 'If you're betting on anybody, you're going to bet on Zach' to beat typical timeline."
+     },
+     {
+      "name": "Kenneth Walker III",
+      "age": null,
+      "status": "left team",
+      "note": "Super Bowl LX MVP; departed Seahawks in free agency, signed 3-year deal with Kansas City Chiefs (reported ~2026-03-10)."
+     },
+     {
+      "name": "Emanuel Wilson",
+      "age": null,
+      "status": "healthy",
+      "note": "Free-agent signing; per Seahawks reporter Brian Nemhauser (2026-08-08), expected 'two-headed monster of Jadarian Price, Emanuel Wilson early on.'"
+     },
+     {
+      "name": "George Holani",
+      "age": null,
+      "status": "healthy",
+      "note": "Returning back; per ESPN's Benjamin Solak (cited 2026-08-08), staff has talked about Holani as 'our third-down back... a timeshare.'"
+     },
+     {
+      "name": "Kenny McIntosh",
+      "age": null,
+      "status": "rehabbing ACL",
+      "note": "Also rehabbing ACL per depth chart notes."
+     }
+    ],
+    "notes": [
+     "Drafted No. 32 overall (end of Rd 1) in 2026 NFL Draft out of Notre Dame.",
+     "Positioned as the presumptive lead/primary early-season back with Charbonnet on PUP and Walker gone to KC, per multiple Aug 2026 camp reports.",
+     "Pass protection described as 'a real work in progress' per Nemhauser (2026-08-08); receiving ability praised."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Questionable/day-to-day",
+     "body_part": "lower-body soreness (unspecified, between upper and lower leg)",
+     "as_of": "2026-08-10",
+     "note": "Missed practice 2026-08-07/08 with lower-body soreness (rotoballer, nbcsports). HC Mike Macdonald 2026-08-10: 'We are going with a lower body soreness. It's a minor issue right now. It's a matter of days, so he will be back soon.' No indication this threatens Week 1."
+    },
+    "camp": [
+     {
+      "quote": "We're going to run wide zone and he's going to run wide zone. We're going to run some gap scheme. He's going to run some of that too and then the pass game he can come alive, too...he's a great special teams player.",
+      "who": "HC Mike Macdonald",
+      "date": "2026-07-17"
+     },
+     {
+      "quote": "Great player. The person's outstanding, the competitor, he's a Seahawk.",
+      "who": "GM John Schneider",
+      "date": "2026-07-17"
+     },
+     {
+      "quote": "he's going to be a very good receiver. The pass protection looks like a real work in progress.",
+      "who": "Brian Nemhauser (Seahawks reporter)",
+      "date": "2026-08-08"
+     },
+     {
+      "quote": "you can expect maybe a two-headed monster of Jadarian Price, Emanuel Wilson early on.",
+      "who": "Brian Nemhauser (Seahawks reporter)",
+      "date": "2026-08-08"
+     },
+     {
+      "quote": "This coaching staff has talked a lot about, 'All right, George Holani is going to be our third-down back. It's going to be a timeshare.'",
+      "who": "Benjamin Solak (ESPN)",
+      "date": "2026-08-08"
+     },
+     {
+      "quote": "We are going with a lower body soreness. It's a minor issue right now. It's a matter of days, so he will be back soon.",
+      "who": "HC Mike Macdonald",
+      "date": "2026-08-10"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.seahawks.com/news/seahawk-rb-jadarian-price-sidelined-by-minor-issue-should-be-back-soon",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.seahawks.com/news/training-camp-storylines-does-rookie-jadarian-price-win-the-starting-job",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://heavy.com/sports/nfl/seattle-seahawks/insider-jadarian-price-training-camp-news/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.seahawks.com/news/seahawks-sign-first-round-pick-jadarian-price",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.rotoballer.com/player-news/jadarian-price-misses-fridays-practice-with-lower-body-soreness/1904979",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-07/jadarian-price-dealing-with-lower-body-soreness",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://12thmanrising.com/seattle-seahawks-mike-macdonald-eases-fears-jadarian-price-injury",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.heraldnet.com/2026/07/24/seahawks-zach-charbonnet-to-open-camp-on-pup/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.mynorthwest.com/nfl/seattle-seahawks/espn-insider-update-seattle-seahawks-charbonnet-acl-recovery",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/seahawks/onsi/seahawks-news/kenneth-walker-iii-makes-history-leaving-seattle-seahawks-joining-kansas-city-chiefs",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "13287": {
+   "player_id": "13287",
+   "name": "Jeremiyah Love",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "ARI"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "Notre Dame (college)",
+      "games": null,
+      "targets": null,
+      "rec": null,
+      "yards": 1372,
+      "td": 18,
+      "note": "College production, not NFL. 2024 college: 1,125 rush yds, 17 TD. Career average 6.7 yards/carry, 40 total TDs over final two college seasons (3,014 scrimmage yards)."
+     }
+    ],
+    "contract": {
+     "years": 4,
+     "signed": "2026-05 (rookie minicamp, exact date not confirmed beyond 'Friday')",
+     "note": "4-year, $53M contract, fully $53M guaranteed \u2014 most guaranteed money ever given to an NFL running back (previous record was Saquon Barkley's $31.8M in 2018). AAV $13.25M, 7th among current RBs by AAV."
+    },
+    "scheme": {
+     "oc": "",
+     "note": "Cardinals hired Mike LaFleur (former LA Rams offensive coordinator) as new head coach for 2026, replacing the prior staff (Drew Petzing, former Cardinals OC, left to become Detroit Lions OC in Jan 2026). Full new offensive coaching staff/scheme for 2026; specific new OC title not confirmed in this research pass."
+    },
+    "competition": [
+     {
+      "name": "Tyler Allgeier",
+      "age": null,
+      "status": "listed RB1 on first 2026 preseason depth chart",
+      "note": "Getting first-team reps in camp as of 2026-08-02; has 2026 salary described as guaranteed per one source."
+     },
+     {
+      "name": "James Conner",
+      "age": null,
+      "status": "listed RB3 on first 2026 preseason depth chart",
+      "note": "Retained in free agency; as of 2026-08-02 had 'yet to take part in 11-on-11 drills' despite still being ahead of Trey Benson on the depth chart."
+     },
+     {
+      "name": "Trey Benson",
+      "age": null,
+      "status": "listed RB4 on first 2026 preseason depth chart",
+      "note": ""
+     }
+    ],
+    "notes": [
+     "Drafted 3rd overall in 2026 by Arizona out of Notre Dame \u2014 highest draft slot for an RB since Saquon Barkley went 2nd overall in 2018.",
+     "GM Monti Ossenfort said Love was 'the guy that could impact our team the most.'",
+     "Love quote on entering league: 'I still haven't done anything at the end of the day. I'm coming into the league with a mindset. I'm ready to work, ready to earn the things that I've been given.'"
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "No injury reported as of research date.",
+     "body_part": "",
+     "as_of": "2026-08-11",
+     "note": ""
+    },
+    "camp": [
+     {
+      "quote": "Jeremiyah Love listed as RB2 on Cardinals' 1st depth chart of preseason",
+      "who": "Arizona Sports (headline/report)",
+      "date": "2026-08-02"
+     },
+     {
+      "quote": "Questions about rookie year role makes Arizona Cardinals running back Jeremiyah Love a risky fantasy draft decision",
+      "who": "Heavy.com",
+      "date": "2026-08-05"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.nfl.com/news/jeremiyah-love-cardinals-no-3-overall-pick-2026-nfl-draft",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nfl.com/news/cardinals-rb-jeremiyah-love-signs-rookie-contract-53-million-guaranteed",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://heavy.com/sports/nfl/arizona-cardinals/jeremiyah-love-risky-fantasy-draft/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://arizonasports.com/nfl/arizona-cardinals/jeremiyah-love-listed-as-rb2-on-cardinals-1st-depth-chart-of-preseason",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.azcardinals.com/news/and-then-there-were-10-nfl-coaching-changes-cardinals-2026",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nfl.com/news/cardinals-plan-to-hire-rams-offensive-coordinator-mike-lafleur-as-new-head-coach",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "medium"
+  },
+  "13288": {
+   "player_id": "13288",
+   "name": "Nicholas Singleton",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "TEN"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "Penn State (college)",
+      "games": null,
+      "carries": null,
+      "targets": null,
+      "rec": null,
+      "yards": 584,
+      "td": null,
+      "note": "College 2025 season: 584 rushing yards at 3.4 YPC, a decline from 2024 (1,088 rush yds, 5.3 YPC). Career Penn State totals: 5,586 all-purpose yards (program record), 3,451 rushing yards, 45 rushing TD, 102 receptions for 987 yards and 9 TD, 1,138 kick-return yards."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "2026",
+     "note": "Rookie contract; drafted by Tennessee in Round 5 of the 2026 NFL Draft. Pick number conflicts between sources: Titans' own site (tennesseetitans.com, Apr 25, 2026) states pick No. 165 overall; nashvillepost.com states pick No. 155 overall. Treating team site as more authoritative but flagging the discrepancy."
+    },
+    "scheme": {
+     "oc": "Brian Daboll (2026, new hire)",
+     "note": "Titans hired Brian Daboll as offensive coordinator for 2026 under new HC Robert Saleh -- a full coaching-staff change ('Titans New Era: Saleh, Daboll'). Represents a significant scheme shift entering Singleton's rookie year."
+    },
+    "competition": [
+     {
+      "name": "Tony Pollard",
+      "age": null,
+      "status": "RB1, entering final year of contract",
+      "note": "HC Robert Saleh designated Pollard a team 'bell cow' at RB (per July 13, 2026 Titans.com camp preview). One source (PlayerProfiler, ~June 22, 2026) notes Pollard will be 30 in 2027, heading into the final year of his deal with Tennessee in 2026."
+     },
+     {
+      "name": "Tyjae Spears",
+      "age": null,
+      "status": "RB2, also called 'bell cow', extension uncertain",
+      "note": "Also designated a 'bell cow' by HC Saleh; positioned for a larger role as both runner and pass-catcher in Brian Daboll's 2026 offense. Approaching a pivotal/uncertain contract year with his Titans future undecided after 2026 (PlayerProfiler). Suffered a high ankle sprain in the 2025 preseason opener (Aug 9, 2025) and started the 2025 season on IR -- that specific injury is from the 2025 preseason, not current; per July 13, 2026 report he 'impressed again' in 2026 offseason work, implying full health entering 2026 camp."
+     }
+    ],
+    "notes": [
+     "Titans training camp RB roster (July 13, 2026): Michael Carter, Julius Chestnut, Kalel Mullings, Tony Pollard, Nick Singleton, Tyjae Spears -- 6 RBs in camp.",
+     "Team expected to keep 4 RBs on the 53-man roster; Pollard, Spears, and Singleton viewed as 'likely locks' with the 4th spot competitive.",
+     "Singleton described as recovering from a 'college injury' (unspecified) as of the July 13, 2026 report; was initially limited in OTAs but 'showed improvement and comfort' in later sessions.",
+     "Draft-day quote from Singleton: 'I feel like I am a really physical back, a speed back, too...a complete back, too, can run the ball, catch the ball out of the backfield and be able to go block.'"
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Recovering from an unspecified 'college injury,' limited early in OTAs but improving",
+     "body_part": "not specified",
+     "as_of": "2026-07-13",
+     "note": "No more recent (August 2026) injury update found for Singleton specifically in sources checked."
+    },
+    "camp": [],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.nashvillepost.com/sports/which-version-of-rookie-nick-singleton-will-titans-see-in-2026/article_bb959045-c270-44ca-908d-162ddf5630aa.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.tennesseetitans.com/news/titans-select-penn-state-rb-nick-singleton-in-the-fifth-round-of-saturday-s-nfl-draft",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.tennesseetitans.com/news/titans-2026-training-camp-preview-a-look-at-the-running-backs",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.playerprofiler.com/news/pollard-and-spears-heading-into-final-year-in-tennessee/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.cbssports.com/nfl/news/tyjae-spears-injury-titans-rb-to-miss-the-rest-of-preseason-due-to-high-ankle-sprain",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.tennesseetitans.com/news/titans-hire-brian-daboll-as-offensive-coordinator",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.tennesseetitans.com/news/titans-finalize-coaching-staff-under-robert-saleh",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "medium"
+  },
+  "13294": {
+   "player_id": "13294",
+   "name": "Makai Lemon",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "PHI",
+      "note": "Drafted No. 20 overall by Eagles in 2026 NFL Draft; college: USC"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "USC (college)",
+      "games": null,
+      "targets": null,
+      "rec": null,
+      "yards": 1156,
+      "td": 11,
+      "note": "Led Power Four in receiving yards (1,156), 6.6 rec/gm, 11 receiving TD + 2 rush TD + 1 passing TD; 5 games of 100+ receiving yards; PFF's highest-graded college WR (90.4 overall). Named 2025 Polynesian College Football Player of the Year (2025-12-16) and won the 2025 Biletnikoff Award. Career USC totals: 137 rec, 2,008 yds, 14 TD."
+     }
+    ],
+    "contract": {
+     "years": 4,
+     "signed": "2026-04",
+     "note": "Signed a rookie deal reported at ~$20.8M, the first of all 32 first-round picks to sign in 2026, just 5 days after the draft."
+    },
+    "scheme": {
+     "oc": "",
+     "note": "Eagles offense 'in transition' following the A.J. Brown trade to the Patriots (agreed ~2026, per ESPN/Eagles.com); HC is Nick Sirianni."
+    },
+    "competition": [
+     {
+      "name": "DeVonta Smith",
+      "age": null,
+      "status": "starting WR1 ('No. 1 wideout')",
+      "note": "Signed 3-yr/$75M extension with Eagles (April 2024, historical); remains WR1 as of Aug 2026 camp reports."
+     },
+     {
+      "name": "Dontayvion Wicks",
+      "age": null,
+      "status": "WR2 (early camp edge over Lemon)",
+      "note": "Acquired via trade from Green Bay (agreed 2026-04-13) for Day 3 picks; signed to a 1-yr, $12.5M extension with PHI. As of 2026-08-10, reported to have an 'early edge' at the No. 2 WR spot ahead of Lemon."
+     },
+     {
+      "name": "Dallas Goedert",
+      "age": null,
+      "status": "starting TE",
+      "note": "Named as secondary target option in Eagles passing game per Footballguys draft-day reaction (2026-04-24)."
+     },
+     {
+      "name": "Darius Cooper",
+      "age": null,
+      "status": "camp WR performing well",
+      "note": "Per Yardbarker (2026-08-10), Cooper has 'performed better in camp' than Lemon, further clouding Lemon's path to playing time."
+     },
+     {
+      "name": "Marquise Brown",
+      "age": null,
+      "status": "depth WR",
+      "note": "Listed as part of WR competition in Footballguys draft reaction (pre-A.J. Brown-trade dynamics)."
+     },
+     {
+      "name": "Elijah Moore",
+      "age": null,
+      "status": "depth WR",
+      "note": "Listed as part of WR competition in Footballguys draft reaction."
+     }
+    ],
+    "notes": [
+     "Many scouts/evaluators view Lemon primarily as a slot receiver; the Eagles' offense will require him to prove he can win outside routes per Footballguys.",
+     "Footballguys (2026-04-24, before A.J. Brown trade was reflected) projected 80% snap share and Week 1 starter status \u2014 since superseded by hamstring-driven camp reports in Aug 2026 (see volatile.injury)."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Out of practice / not practicing (hamstring)",
+     "body_part": "Hamstring",
+     "as_of": "2026-08-10",
+     "note": "Per FantasyPros (2026-08-10): Lemon still not practicing Monday, sidelined roughly one week, 'continues to work his way back to full health,' no return date announced. He also missed significant time in spring practices. CBS Sports (2026-08-10): Lemon deemed 'unlikely to break camp as starter.' Yardbarker (2026-08-10): Eagles reporter Brandon Lee Gowton (Bleeding Green Nation) predicted Lemon will not start at least early in the 2026 season, and that he may not even be the No. 3 WR on the depth chart, with Wicks and Darius Cooper performing better in camp."
+    },
+    "camp": [
+     {
+      "quote": "Lemon missed half the spring and so far half of training camp, and on the days he did practice he didn't do a whole lot.",
+      "who": "Brandon Lee Gowton, Bleeding Green Nation (via Yardbarker)",
+      "date": "2026-08-10"
+     },
+     {
+      "quote": "Lemon still has time to get healthy and make a case for earning a sizable role Week 1.",
+      "who": "CBS Sports fantasy news",
+      "date": "2026-08-10"
+     },
+     {
+      "quote": "The rookie continues to work his way back to full health.",
+      "who": "FantasyPros injury report",
+      "date": "2026-08-10"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.footballguys.com/article/2026-makai-lemon-philadelphia-eagles-instant-reactions",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.yardbarker.com/nfl/articles/reporter_makes_concerning_prediction_regarding_eagles_rookie_wr_makai_lemon/s1_13132_44159143",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.fantasypros.com/nfl/news/601591/makai-lemon-hamstring-still-not-practicing-monday.php",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.cbssports.com/fantasy/football/news/eagles-makai-lemon-unlikely-to-break-camp-as-starter/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://usctrojans.com/news/2025/12/16/uscs-makai-lemon-named-2025-polynesian-college-football-player-of-the-year",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.yardbarker.com/general_sports/articles/lemon_signs_208m_eagles_deal_5_days_after_draft_as_first_of_all_32_first_rounders/s1_17755_43819801",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.espn.com/nfl/story/_/id/48937845/sources-eagles-agree-trade-aj-brown-patriots-2-picks",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/nfl/breaking-news/article/packers-trade-wr-dontayvion-wicks-to-eagles-for-draft-picks-203826455.html",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "13298": {
+   "player_id": "13298",
+   "name": "KC Concepcion",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "CLE",
+      "note": "Drafted Round 1, Pick 24 in 2026 NFL Draft out of Texas A&M (transferred from NC State)."
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "Texas A&M (college)",
+      "games": null,
+      "receptions": 61,
+      "rec_yards": 919,
+      "rec_td": 9,
+      "note": "61 catches, 919 yards, ~9 receiving TD (12 total TD counting other play types per some sources), 15.1 YPR, 440 YAC; top-10 SEC in receptions, top-5 in yardage; SEC All-Conference and All-American (all-purpose incl. punt return). 2023 (NC State, sophomore): 71 rec, 839 yards, 10 TD."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "Rookie contract terms not verified this search."
+    },
+    "scheme": {
+     "oc": "Todd Monken",
+     "note": "Monken (Browns OC) previously coached with Baltimore; brought over WR Tylan Wallace from Ravens system. No 2026 OC change \u2014 Monken continuity, per clevelandbrowns.com position preview (2026-06-24)."
+    },
+    "competition": [
+     {
+      "name": "Jerry Jeudy",
+      "age": null,
+      "status": "Veteran, coming off down 2025 (50 catches, 602 yards, 2 TD)",
+      "note": "Browns.com (2026-06-24): Jeudy 'comes in every day prepared' after a disappointing 2025; still projected in starting mix alongside Concepcion."
+     },
+     {
+      "name": "Denzel Boston",
+      "age": null,
+      "status": "Fellow 2026 rookie WR",
+      "note": "Drafted for contested-catch ability/blocking; also drawing camp buzz alongside Concepcion (athlonsports.com)."
+     },
+     {
+      "name": "Cedric Tillman",
+      "age": null,
+      "status": "Veteran depth WR",
+      "note": "Listed among Browns WR corps, no ages/contract verified."
+     },
+     {
+      "name": "Tylan Wallace",
+      "age": null,
+      "status": "Veteran addition from Ravens (Monken connection)",
+      "note": "Signed after 5 seasons in Baltimore under Monken."
+     }
+    ],
+    "notes": [
+     "si.com/browns (2026-07-14): 'The speed was real. The inside-outside ability looked real. And the Browns used Concepcion in motion several times' \u2014 first Round 1 WR investment for Browns since Corey Coleman (2015); teams passed on him for Omar Cooper Jr. and Denzel Boston at other spots.",
+     "Expected to see time at slot receiver despite 6-foot outside-WR usage in college, per athlonsports.com camp coverage."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Recovered, back to full practice",
+     "body_part": "Shoulder (AC joint sprain)",
+     "as_of": "2026-08-07",
+     "note": "Sustained AC joint sprain during a two-minute-drill practice rep in the week of 2026-08-04; returned to practice by the following Tuesday. Concepcion (2026-08-07): 'Everything is great right now. I never really had an AC injury before. So it was kind of weird for a little bit. But I'm good now.'"
+    },
+    "camp": [
+     {
+      "quote": "Everything is great right now. I never really had an AC injury before. So it was kind of weird for a little bit. But I'm good now.",
+      "who": "KC Concepcion",
+      "date": "2026-08-07"
+     },
+     {
+      "quote": "[Concepcion has] seen him make some elite catches and his ability to elevate.",
+      "who": "HC Todd Monken (paraphrase/quote, on hands/catch improvement)",
+      "date": ""
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://athlonsports.com/nfl/cleveland-browns/nfl-trending-kc-concepcion-healthy-shoulder-browns-qb-battle",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/browns/onsi/why-the-browns-are-so-excited-about-rookie-receiver-kc-concepcion-01kxgqfvpaka",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.clevelandbrowns.com/news/breaking-down-the-browns-receiving-corps-heading-into-the-2026-season-position-preview",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://247sports.com/article/texas-am-2025-season-in-review-kc-concepcion-helps-to-remake-the-outside-wr-position-in-aggieland-268139340/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/kc-concepcion-draft-profile-nfl-125600569.html",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "medium"
+  },
+  "13311": {
+   "player_id": "13311",
+   "name": "Chris Bell",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "MIA"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "Louisville (college)",
+      "games": 0,
+      "carries": 0,
+      "targets": 0,
+      "rec": 0,
+      "yards": 0,
+      "td": 0,
+      "note": "Suffered a major/torn ACL injury in November 2025 during his final college season at Louisville; no 2026 NFL workload yet (rookie, has not practiced with team due to injury)"
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "Rookie contract; drafted in the 3rd round, No. 94 overall, in the 2026 NFL Draft by Miami"
+    },
+    "scheme": {
+     "oc": "",
+     "note": "Dolphins hired new HC Jeff Hafley (formerly Packers DC) in the 2026 offseason; Bobby Slowik (formerly Houston Texans OC) was promoted/hired as Dolphins offensive coordinator under Hafley, per AP/nbcmiami/cbsnews reports and Feb 4, 2026 introductory press conference."
+    },
+    "competition": [],
+    "notes": [
+     "Bell was placed on the Active/Non-Football Injury (NFI) list around July 21, 2026 (dolphinseer.wordpress.com, nbcsports.com/profootballtalk) because his ACL tear occurred in college (Nov 2025), not with the Dolphins -- some outlets (playerprofiler.com) colloquially call this 'PUP,' but the technical designation reported by nbcsports/AP is NFI, not PUP (Physically Unable to Perform is normally for injuries sustained with the current team)",
+     "si.com/onsi (Aug 4, 2026) reports he may be moved to Reserve/NFI before the Aug 30 53-man roster cutdown, which would sideline him for at least the first four games of the 2026 regular season",
+     "Draft-profile comparisons made to A.J. Brown regarding skill set/physique (si.com/onsi)"
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "On Active/Non-Football Injury (NFI) list; not practicing; 'still a long way away' from returning",
+     "body_part": "knee (torn ACL, suffered November 2025 at Louisville)",
+     "as_of": "2026-08-05",
+     "note": "OC Bobby Slowik quote, post-practice Tuesday (reported Aug 5, 2026 via si.com/onsi): 'I mean he's still a long way away.' HC Jeff Hafley, pre-camp: 'I don't think it's like way off in the distance... he's in a good spot.' Hafley, late July 2026: team must 'be very cautious' about when to integrate Bell and his workload. NOTE: these two coach quotes are somewhat in tension (Slowik more pessimistic on timeline than Hafley) -- Slowik's is the more recent of the two dated quotes (Aug 5 vs. late July), so treat it as the more current read."
+    },
+    "camp": [
+     {
+      "quote": "I mean he's still a long way away.",
+      "who": "Dolphins OC Bobby Slowik",
+      "date": "2026-08-05"
+     },
+     {
+      "quote": "I don't think it's like way off in the distance... he's in a good spot.",
+      "who": "Dolphins HC Jeff Hafley",
+      "date": ""
+     },
+     {
+      "quote": "be very cautious about when to integrate Bell and his workload",
+      "who": "Dolphins HC Jeff Hafley (paraphrase)",
+      "date": "2026-07-28"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://dolphinseer.wordpress.com/2026/07/21/dolphins-place-rookie-wr-chris-bell-on-active-non-football-injury-list/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/dolphins/onsi/examining-the-mixed-signals-regarding-miami-dolphins-wr-chris-bell-s-status-01kz6kdbe7j7",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/recovering-from-torn-acl-dolphins-rookie-wr-chris-bell-placed-on-nfi-list",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.playerprofiler.com/news/chris-bell-headed-to-pup-list/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nfl.com/news/jeff-hafley-dolphins-hire-packers-dc-next-head-coach",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.miamidolphins.com/news/miami-dolphins-announce-2026-coaching-staff",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "medium"
+  },
+  "13330": {
+   "player_id": "13330",
+   "name": "Kenyon Sadiq",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "NYJ",
+      "note": "Drafted Round 1, Pick 16 in 2026 NFL Draft out of Oregon"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "Oregon (college)",
+      "games": null,
+      "receptions": 51,
+      "rec_yards": 560,
+      "rec_td": 8,
+      "note": "Final college season: 51 catches, 560 yards, 8 TD; 2nd-team All-American, Big Ten TE of the Year"
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "2026-05-07",
+     "note": "Signed rookie contract as Jets' 1st-round pick (No. 16) on 2026-05-07 per newyorkjets.com; terms not itemized in source."
+    },
+    "scheme": {
+     "oc": "",
+     "note": "No Jets 2026 OC name or scheme-change detail found in this search; HC is Aaron Glenn."
+    },
+    "competition": [
+     {
+      "name": "Mason Taylor",
+      "age": null,
+      "status": "Jets TE1 on first-team unofficial depth chart (Aug 10, 2026)",
+      "note": "2nd-year TE; Sadiq listed as backup behind him per newyorkjets.com Aug 10, 2026 depth chart piece."
+     },
+     {
+      "name": "Jeremy Ruckert",
+      "age": null,
+      "status": "veteran depth TE",
+      "note": "Existing Jets TE Sadiq joins per draft-day team fit coverage."
+     }
+    ],
+    "notes": [
+     "Drafted with hope of adding 'versatility, speed and toughness' to a TE room with Mason Taylor and Jeremy Ruckert (newyorkjets.com, 2026-04-24).",
+     "Rookie status noted as Questionable per task framing; consistent with active hernia-surgery setback as of Aug 2026 camp."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Out indefinitely (setback), not ruled out for Week 1",
+     "body_part": "Abdomen (hernia surgery complication)",
+     "as_of": "2026-08-04",
+     "note": "Had offseason hernia surgery; held out of practice Mon 8/3 for maintenance, then exams revealed a setback reported 2026-08-04. HC Aaron Glenn: \"He had a little setback as we watched his exams, so he'll be out a little bit. I can't tell you exactly how long right now... but expect him to be out for a little bit.\" Glenn said he is confident Sadiq will be ready for the Sept 13, 2026 opener. No more recent (post-8/4) update found in this search."
+    },
+    "camp": [
+     {
+      "quote": "He had a little setback as we watched his exams, so he'll be out a little bit. I can't tell you exactly how long right now, but I will let you know that at some point but just expect him to be out for a little bit.",
+      "who": "HC Aaron Glenn",
+      "date": "2026-08-04"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.newyorkjets.com/news/kenyon-sadiq-has-setback-following-surgery-jets-training-camp-08-04-2026",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.newyorkjets.com/news/kenyon-sadiq-nfl-draft-tight-end-oregon",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.newyorkjets.com/news/2026-jets-unofficial-depth-chart",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/jets/onsi/updated-jets-depth-chart-after-first-2-weeks-training-camp-rising-falling-01kzkky7yj6k",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://abc7ny.com/post/jets-rookie-te-kenyon-sadiq-miss-time-hernia-setback/19624971/",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "13345": {
+   "player_id": "13345",
+   "name": "Jonah Coleman",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "DEN"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "Washington (college)",
+      "games": 12,
+      "carries": null,
+      "targets": null,
+      "rec": 31,
+      "yards": 354,
+      "td": 2,
+      "note": "College (Washington Huskies) 2025: 758 rushing yards, 15 rushing TDs, 4.9 YPC across 12 games, plus 31 receptions for 354 yards and 2 TD."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "2026",
+     "note": "Rookie contract; no specific terms found. Drafted Round 4, Pick 108 overall in 2026 NFL Draft by Denver."
+    },
+    "scheme": {
+     "oc": "Davis Webb (2026, new play-caller)",
+     "note": "Aug 8, 2026 report: Webb has assumed play-calling duties from HC Sean Payton, a significant shift in offensive approach for Denver in 2026. Team publicly stated goal of building a 'three-headed monster in the run game' with Dobbins, Harvey, and Coleman."
+    },
+    "competition": [
+     {
+      "name": "J.K. Dobbins",
+      "age": null,
+      "status": "RB1, minor camp injury but expected fine",
+      "note": "Left Aug 10, 2026 practice with a 'soft-tissue injury'; HC Sean Payton said he is 'expected to be fine,' though it may affect his participation ahead of the preseason opener vs. Atlanta. Remains listed as lead back as of Aug 8, 2026 despite Coleman's and Harvey's presence."
+     },
+     {
+      "name": "RJ Harvey",
+      "age": null,
+      "status": "RB2, favorite for that role",
+      "note": "2025 second-round draft pick; described as 'the favorite to serve as RB2' ahead of Coleman."
+     },
+     {
+      "name": "Tyler Badie",
+      "age": null,
+      "status": "RB4 depth",
+      "note": "Listed below Coleman on projected depth chart (Apr 28, 2026 projection)."
+     }
+    ],
+    "notes": [
+     "Projected Broncos RB depth chart (Apr 28, 2026, unofficial): 1. J.K. Dobbins, 2. RJ Harvey, 3. Jonah Coleman, 4. Tyler Badie, then Jaleel McLaughlin/Cody Schrader/Deuce Vaughn.",
+     "Coleman quote at draft time: 'Just playing my role and doing what I do. The leadership that I bring to the locker room, the culture, how I can ultimately add to that culture.'"
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "No injury reported for Coleman specifically",
+     "body_part": "",
+     "as_of": "2026-08-11",
+     "note": "No Coleman-specific injury news found in sources checked; RB1 J.K. Dobbins has a minor soft-tissue injury as of Aug 10, 2026 (see competition notes), which could open early-camp reps but no direct report on how it affects Coleman's role."
+    },
+    "camp": [],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://sports.yahoo.com/articles/broncos-updated-running-back-depth-123047590.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.denverbroncos.com/news/broncos-select-rb-jonah-coleman-with-108th-overall-pick-in-2026-nfl-draft",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/what-we-learned-broncos-training-camp-offense-finally-catching-up-to-defense",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-10/payton-dobbins-exited-with-soft-tissue-injury",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.cbssports.com/fantasy/football/news/broncos-j-k-dobbins-soft-tissue-injury-expected-to-be-be-fine/",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "medium"
+  },
+  "13346": {
+   "player_id": "13346",
+   "name": "Denzel Boston",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "CLE"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "Washington (college)",
+      "games": 0,
+      "carries": 0,
+      "targets": 0,
+      "rec": 62,
+      "yards": 881,
+      "td": 0,
+      "note": "Final college season at University of Washington: 62 receptions, 881 yards; scored 14 of his 20 career TDs in the red zone per Browns team site; also punt returner, 8.5 yds/return with a 78-yard TD return in 2025"
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "Rookie contract; drafted No. 39 overall (2nd round) in the 2026 NFL Draft by Cleveland"
+    },
+    "scheme": {
+     "oc": "",
+     "note": "No 2026 Browns OC change specifically identified in sources found; QB competition ongoing behind him (Deshaun Watson, Shedeur Sanders, Dillon Gabriel, Taylen Green per rotowire.com depth chart)"
+    },
+    "competition": [
+     {
+      "name": "Jerry Jeudy",
+      "age": null,
+      "status": "Listed WR1 on Browns depth chart per rotowire.com (current, fetched Aug 2026)",
+      "note": "Established veteran incumbent"
+     },
+     {
+      "name": "KC Concepcion",
+      "age": null,
+      "status": "Listed WR2 ahead of Boston on the rotowire.com depth chart snapshot",
+      "note": "Rookie/newer addition; yahoo/dawgsbynature headline frames Concepcion and Boston as complementary pieces"
+     },
+     {
+      "name": "Cedric Tillman",
+      "age": null,
+      "status": "Listed WR4 on rotowire.com depth chart, behind Boston",
+      "note": ""
+     }
+    ],
+    "notes": [
+     "twsn.net (Aug 8-9, 2026) reports Boston 'is the clear new No. 1 receiver' in terms of trajectory/spring standout performance, even though he is not yet officially WR1 on paper -- article frames him as emerging as the top receiver 'once games begin'",
+     "Beat writer Zac Jackson (The Athletic), quoted Aug 8, 2026 via twsn.net: 'Boston was probably the standout offensive player of the spring... consistently used his size to position himself to make contested catches'",
+     "clutchpoints.com headline: 'Denzel Boston's huge Browns training camp confirmed by first-team promotion' and fantasypros.com: 'Denzel Boston to practice with first-team offense' -- both indicate he has been elevated to work with the first-team offense in camp, ahead of a nominal WR3 depth-chart listing",
+     "The task's stated '3rd on depth chart' listing is consistent with the rotowire.com formal depth chart (WR3 behind Jeudy and Concepcion), but multiple Aug 2026 camp reports suggest that listing understates his actual trajectory/role, since he has been getting first-team reps and being called the standout of camp"
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "No injury reported",
+     "body_part": "",
+     "as_of": "2026-08-09",
+     "note": ""
+    },
+    "camp": [
+     {
+      "quote": "Boston was probably the standout offensive player of the spring... consistently used his size to position himself to make contested catches",
+      "who": "Zac Jackson, The Athletic (via twsn.net)",
+      "date": "2026-08-08"
+     },
+     {
+      "quote": "Denzel Boston to practice with first-team offense",
+      "who": "FantasyPros news brief",
+      "date": ""
+     },
+     {
+      "quote": "Denzel Boston's huge Browns training camp confirmed by first-team promotion",
+      "who": "ClutchPoints headline",
+      "date": ""
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://twsn.net/2026/08/08/denzel-boston-is-the-clear-new-no-1-receiver-for-the-cleveland-browns",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.rotowire.com/football/nfl-depth-charts/cleveland-browns-depth-chart-cle",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.clevelandbrowns.com/news/5-things-to-know-about-wr-denzel-boston-browns-no-39-pick-in-the-2026-nfl-draft",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/browns-updated-wr-depth-chart-234537084.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.fantasypros.com/nfl/news/601611/denzel-boston-to-practice-with-first-team.php",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://clutchpoints.com/nfl/cleveland-browns/browns-news-denzel-bostons-huge-training-camp-first-team-promotion",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "3294": {
+   "player_id": "3294",
+   "name": "Dak Prescott",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2024,
+      "team": "DAL"
+     },
+     {
+      "season": 2025,
+      "team": "DAL"
+     },
+     {
+      "season": 2026,
+      "team": "DAL"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "DAL",
+      "games": 17,
+      "pass_yards": 4552,
+      "pass_td": 30,
+      "int": 10,
+      "note": "Played full 2025 season, including finale vs. Giants (cbssports.com, 2026-01-04)."
+     },
+     {
+      "season": 2024,
+      "team": "DAL",
+      "games": 8,
+      "pass_yards": 1978,
+      "pass_td": 11,
+      "int": 8,
+      "note": "Season ended Week 9 (2024-11-03) vs. Falcons with a right leg/hamstring partial tendon avulsion requiring season-ending surgery. Completion % (64.7%) was his lowest since 2017 pre-injury."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "Could not verify current contract terms (years remaining, cap hit) this search \u2014 Spotrac page returned 403. CBS Sports/OTC headlines reference Cowboys 'addressing Dak Prescott contract situation' and a 'huge cap hit pending' for 2026, but exact figures unverified. Leave blank rather than guess."
+    },
+    "scheme": {
+     "oc": "Brian Schottenheimer (HC, play-caller)",
+     "note": "No offensive coordinator change found for 2026; Schottenheimer (promoted to HC in 2025 after serving as OC) continues calling plays. thelandryhat.com (2026-08 camp tracker) reports offense operating within the same scheme, no new OC hire mentioned."
+    },
+    "competition": [],
+    "notes": [
+     "Beat-writer note: Prescott has a history of notable injuries in even-numbered seasons (2020, 2022, 2024) per RotoWire (2026-06-16).",
+     "2025 finished season ranked among NFL's top-five quarterbacks per SI.com Cowboys Country headline (title only verified, article body not fetched)."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Full participant, no restrictions",
+     "body_part": "Right knee (soreness/swelling) \u2014 resolved",
+     "as_of": "2026-08-09",
+     "note": "SUPERSEDED EARLIER REPORT: On 2026-06-16, HC Brian Schottenheimer said Prescott was limited at mandatory minicamp with knee soreness ('Nothing we're concerned about but we're just going to be smart'); a separate 2026-08-04 Yardbarker piece also flagged 'growing' right knee soreness/swelling with a protective sleeve in use. MOST RECENT: thelandryhat.com camp tracker reports Prescott fully participating with no injuries in practices on 2026-07-29, 2026-08-03, and 2026-08-09 (throwing well, including a scripted deep ball to George Pickens on 7/29 and reps with Jake Ferguson on 8/3). RotoWire (updated) also states the issue appeared resolved by late July with Prescott on track to be fully healthy for the Sept 13, 2026 opener vs. Giants."
+    },
+    "camp": [
+     {
+      "quote": "Nothing we're concerned about but we're just going to be smart heading into these last couple days.",
+      "who": "HC Brian Schottenheimer (via Jori Epstein, Yahoo Sports)",
+      "date": "2026-06-16"
+     },
+     {
+      "quote": "A lot of things in my life, you know, I said I'd do, and I did it.",
+      "who": "Dak Prescott (on Super Bowl aspirations)",
+      "date": "2026-08-06"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://thelandryhat.com/dallas-cowboys-2026-training-camp-tracker-latest-updates-news-injuries-rumors",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://thelandryhat.com/dallas-cowboys-dak-prescott-injury-concern-departed-just-as-quickly-as-it-arrived",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.rotowire.com/football/headlines/dak-prescott-injury-managing-sore-knee-631415",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.yardbarker.com/nfl/articles/dallas_cowboys_qb_dak_prescott_has_a_growing_injury_concern/s1_17355_44137818",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.cbssports.com/fantasy/football/news/cowboys-dak-prescott-throws-for-4552-yards-in-2025/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/cowboys/onsi/news/dak-prescott-injury-update-dallas-cowboys-star-target-date-return",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "4866": {
+   "player_id": "4866",
+   "name": "Saquon Barkley",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2022,
+      "team": "NYG"
+     },
+     {
+      "season": 2023,
+      "team": "NYG"
+     },
+     {
+      "season": 2024,
+      "team": "PHI"
+     },
+     {
+      "season": 2025,
+      "team": "PHI"
+     },
+     {
+      "season": 2026,
+      "team": "PHI"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2022,
+      "team": "NYG",
+      "games": 16,
+      "carries": 295,
+      "targets": 76,
+      "rec": 57,
+      "yards": 1312,
+      "td": 10,
+      "note": "Rushing yards only; total TD combines rush+rec."
+     },
+     {
+      "season": 2023,
+      "team": "NYG",
+      "games": 14,
+      "carries": 247,
+      "targets": 60,
+      "rec": 41,
+      "yards": 962,
+      "td": 10,
+      "note": ""
+     },
+     {
+      "season": 2024,
+      "team": "PHI",
+      "games": 16,
+      "carries": 345,
+      "targets": 43,
+      "rec": 33,
+      "yards": 2005,
+      "td": 15,
+      "note": "2,005 rush yds; NFL rushing leader; AP Offensive Player of the Year, First-team All-Pro; career-high 345 carries."
+     },
+     {
+      "season": 2025,
+      "team": "PHI",
+      "games": 16,
+      "carries": 280,
+      "targets": 50,
+      "rec": 37,
+      "yards": 1140,
+      "td": 9,
+      "note": "Rush yards led NFL per Eagles RB preview (philadelphiaeagles.com, 2026-07-07); carry count down ~65 from 2024 peak."
+     }
+    ],
+    "contract": {
+     "years": 2,
+     "signed": "2025-03",
+     "note": "2-year, $41.2M extension signed March 2025 (through 2028), $36M guaranteed at signing plus up to $15M more in incentives; $20.6M AAV made him first $20M+/yr RB in NFL history. Prior deal was 3-yr/$37.75M ($12.6M APY) signed 2024 offseason."
+    },
+    "scheme": {
+     "oc": "Sean Mannion",
+     "note": "Eagles fired OC Kevin Patullo 2026-01-13 (HC Nick Sirianni: 'Ultimately, when we fall short of our goals that responsibility lies on my shoulders'); offense had finished 24th overall / 19th in points in 2025. Hired Sean Mannion (age 33, ex-Packers QB coach 2025, offensive assistant 2024) as new OC, 2026-01-30 \u2014 first-time NFL playcaller. Barkley on new system (2026-07-31): 'I think it's pretty cool that you start from scratch, learn a new language, get familiar with a new system' and on running-style tweak: 'The thing that changes for me, you coach it a little bit different...getting more of a one-cut mentality.'"
+    },
+    "competition": [
+     {
+      "name": "Tank Bigsby",
+      "age": null,
+      "status": "healthy",
+      "note": "Acquired via trade from Jacksonville (2025); returns as primary backup/change-of-pace RB2 for 2026."
+     },
+     {
+      "name": "Will Shipley",
+      "age": null,
+      "status": "healthy",
+      "note": "2024 4th-round pick; available for change-of-pace duties."
+     },
+     {
+      "name": "Dameon Pierce",
+      "age": null,
+      "status": "healthy",
+      "note": "Free-agent signing, competing for roster spot."
+     },
+     {
+      "name": "Elijah Mitchell",
+      "age": null,
+      "status": "healthy",
+      "note": "Recently signed, competing for roster spot."
+     }
+    ],
+    "notes": [
+     "Career carries context: PFR shows a running career-attempts figure around 1,826 through 2024 (per one summary source); 2025 added 280 more carries.",
+     "Enters 2026 as clear-cut lead back / 'primary running back' per Eagles' own training-camp position preview (2026-07-07), no committee signaled in team materials.",
+     "No specific 2026 workload-management/load-management plan was found stated by the team as of the sources checked; 2025 carries (280) already down from the 345-carry 2024 workload."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "",
+     "body_part": "",
+     "as_of": "2026-08-11",
+     "note": "No current 2026 training-camp injury/questionable designation was found in sources checked (task listed him without a Questionable tag). Historical: appeared on Eagles injury reports at various points for a knee issue (specific 2025-season date/context not fully resolved in sources checked) \u2014 flagged as unverified/needs further confirmation, left largely blank per hard rules."
+    },
+    "camp": [
+     {
+      "quote": "I think it's pretty cool that you start from scratch, learn a new language, get familiar with a new system.",
+      "who": "Saquon Barkley",
+      "date": "2026-07-31"
+     },
+     {
+      "quote": "The thing that changes for me, you coach it a little bit different...getting more of a one-cut mentality.",
+      "who": "Saquon Barkley",
+      "date": "2026-07-31"
+     },
+     {
+      "quote": "I'm always going to have the mindset of putting the work in, whether it's physically or mentally, whether it's strength, whether it's speed, mobility...",
+      "who": "Saquon Barkley",
+      "date": "2026-07-07"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.pro-football-reference.com/players/B/BarkSa00.htm",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nfl.com/news/eagles-saquon-barkley-sign-rb-two-year-contract-extension-41-million",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.philadelphiaeagles.com/news/eagles-make-change-at-offensive-coordinator-kevin-patullo",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://patch.com/pennsylvania/philadelphia/philadelphia-eagles-hire-sean-mannion-new-offensive-coordinator-replace",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.philadelphiaeagles.com/news/eagles-2026-training-camp-position-preview-running-back",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.philadelphiaeagles.com/news/for-saquon-the-learning-and-improvement-never-ends",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "medium"
+  },
+  "6797": {
+   "player_id": "6797",
+   "name": "Justin Herbert",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2020,
+      "team": "LAC"
+     },
+     {
+      "season": 2021,
+      "team": "LAC"
+     },
+     {
+      "season": 2022,
+      "team": "LAC"
+     },
+     {
+      "season": 2023,
+      "team": "LAC"
+     },
+     {
+      "season": 2024,
+      "team": "LAC"
+     },
+     {
+      "season": 2025,
+      "team": "LAC"
+     },
+     {
+      "season": 2026,
+      "team": "LAC"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "LAC",
+      "games": 16,
+      "targets": null,
+      "rec": null,
+      "yards": 3727,
+      "td": 26,
+      "note": "340/512 passing, 3,727 pass yds, 26 pass TD, 13 INT, plus 498 rush yds and 2 rush TD (per Pro-Football-Reference)."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "2023-07-25",
+     "note": "Signed multi-year extension with Chargers on 2023-07-25 (per Chargers.com); publicly reported historically as 5-year, $262.5M. No 2026 restructure/new extension found."
+    },
+    "scheme": {
+     "oc": "Mike McDaniel",
+     "note": "Chargers hired Mike McDaniel (former Dolphins HC) as offensive coordinator for 2026, working under HC Jim Harbaugh. McDaniel is implementing a new scheme emphasizing anticipatory throws, expedited decision-making, and improved shotgun footwork."
+    },
+    "competition": [],
+    "notes": [
+     "Herbert has played his entire career (2020-2026) with the Chargers; no team change.",
+     "Herbert trained in the offseason with his brother Patrick Herbert (Jaguars TE) to refine mechanics ahead of the 2026 McDaniel scheme install.",
+     "LT Rashawn Slater (2x Pro Bowler) is returning from a torn patellar tendon suffered 2025-08-03 that cost him the entire 2025 season; his camp reps are being monitored as an OL-health factor around Herbert.",
+     "Named pass-catchers seen working with Herbert in camp (2026-07-30 Chargers.com report): Ladd McConkey, Quentin Johnston, Tre' Harris, Keaton Mitchell, Brenen Thompson."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Healthy / no injury reported in camp",
+     "body_part": "Left hand (2025, historical, resolved)",
+     "as_of": "2026-07-31",
+     "note": "2025-12-01 (Chargers.com): Herbert suffered a broken bone in the back of his left hand during Week 13 (Sunday) vs. Raiders; underwent surgery Monday 2025-12-02; HC Jim Harbaugh said 'He had a break in the back of the hand. He's going to have a procedure done on it.' Herbert played through it with a hard cast/glove and finished the season. As of the most recent camp reports (2026-07-30 and 2026-07-31, Chargers.com), no injury or health concerns are mentioned for Herbert; he is practicing fully and drawing praise from new OC Mike McDaniel. 2026-05-27 (SI/OnSI): Herbert missed 2 weeks of early OTAs for personal reasons (supporting girlfriend Madison Beer's European tour, per HC Harbaugh), not injury-related, and had returned to practice by that date."
+    },
+    "camp": [
+     {
+      "quote": "He spoke to me through the tape",
+      "who": "Mike McDaniel (OC), on watching Herbert's practice film",
+      "date": "2026-07-31"
+     },
+     {
+      "quote": "That's where you grow",
+      "who": "Mike McDaniel (OC)",
+      "date": "2026-07-31"
+     },
+     {
+      "quote": "I'm treating it as if I'm playing on Monday...I think they were very hopeful for that.",
+      "who": "Justin Herbert (re: 2025 hand injury)",
+      "date": "2025-12-01"
+     },
+     {
+      "quote": "It looks that way.",
+      "who": "Jim Harbaugh (HC), on Slater/Joe Alt being ready for camp",
+      "date": "2026-05-27"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.chargers.com/news/training-camp-report-justin-herbert-day-2",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.chargers.com/news/mike-mcdaniel-justin-herbert-training-camp-day-3-2026",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.chargers.com/news/justin-herbert-chargers-agree-to-terms-multi-year-extension",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.chargers.com/news/justin-herbert-hand-surgery-injury-fantasy-2025",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/chargers/onsi/justin-herbert-update-return-jim-harbaugh-injury-update-chargers",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.pro-football-reference.com/players/H/HerbJu00.htm",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "6801": {
+   "player_id": "6801",
+   "name": "Tee Higgins",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2024,
+      "team": "CIN"
+     },
+     {
+      "season": 2025,
+      "team": "CIN"
+     },
+     {
+      "season": 2026,
+      "team": "CIN"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "CIN",
+      "games": 15,
+      "receptions": 59,
+      "rec_yards": 846,
+      "rec_td": 11,
+      "note": "Missed games early season (hamstring) and midseason (ankle, concussions); listed WR2 behind Ja'Marr Chase."
+     },
+     {
+      "season": 2024,
+      "team": "CIN",
+      "games": 12,
+      "receptions": 73,
+      "rec_yards": 911,
+      "rec_td": 10,
+      "note": "Missed time to quad strain (Oct/Nov 2024)."
+     }
+    ],
+    "contract": {
+     "years": 4,
+     "signed": "2025-03-20",
+     "note": "4-year deal replacing a franchise tender worth $26.16M. 2026 terms: $10M fully-guaranteed offseason roster bonus, $10.9M guaranteed base salary, $100K workout bonus, plus $2M in per-game roster bonuses (up to $8M tied to weekly availability). Incentives: $1M for 65%+ snap share + AFC title; $1.7M if Bengals win Super Bowl. Signals team views him as a true co-No.1, not a No.2 role player."
+    },
+    "scheme": {
+     "oc": "Dan Pitcher",
+     "note": "No OC change \u2014 Pitcher continues in 2026 (promoted to OC in 2024), per wcpo.com/spectrumnews1 (2026-07-27/28): stated 2026 goals are 'more explosive plays and fewer turnovers.'"
+    },
+    "competition": [
+     {
+      "name": "Ja'Marr Chase",
+      "age": null,
+      "status": "WR1, healthy",
+      "note": "Bengals' top target; Higgins and Chase combined for 12,278 yards, 99 TD in their careers per atozsports.com (2026-06-24)."
+     },
+     {
+      "name": "Andrei Iosivas",
+      "age": null,
+      "status": "WR3",
+      "note": "Depth behind Chase/Higgins per atozsports.com depth chart preview (2026-06-24)."
+     }
+    ],
+    "notes": [
+     "atozsports.com (2026-06-24): Higgins described as 'an undisputed No. 1 option for about half the league if he were anywhere else' \u2014 signals locked-in WR2 role only because Chase is ahead of him, not a competition/decline story."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Full participant, no limitations",
+     "body_part": "History: hamstring (missed 2 games, season start 2025), high-ankle sprain (Weeks 8-10, 2025, missed 3 games), concussions (Nov 23, 2025 and Week 12, 2025 \u2014 ruled out Week 15, cleared protocol 2025-12-19)",
+     "as_of": "2026-07-29",
+     "note": "Most recent report: participated fully in mandatory minicamp/camp work with no reported limitations as of 2026-07-29 (sicscore.com injury log). No hernia/soft-tissue issue carried into 2026 camp per this search."
+    },
+    "camp": [],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.cincyjungle.com/cincinnati-bengals-depth-chart/195849/7-takeaways-2026-season",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://atozsports.com/nfl/cincinnati-bengals-news/bengals-depth-chart-preview-jamarr-chase-tee-higgins/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://local12.com/sports/bengals/details-tee-higgins-contract-cincinnati-bengals-revealed-guaranteed-money-franchise-tender-salary-incentives-millions",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.pro-football-reference.com/players/H/HiggTe00.htm",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sicscore.com/nfl/players/tee-higgins",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.wcpo.com/sports/football/bengals/bengals-oc-dan-pitcher-says-more-explosive-plays-and-fewer-turnovers-are-the-goal-in-2026",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "7523": {
+   "player_id": "7523",
+   "name": "Trevor Lawrence",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2025,
+      "team": "JAX"
+     },
+     {
+      "season": 2024,
+      "team": "JAX"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "JAX",
+      "games": 17,
+      "carries": 0,
+      "targets": 0,
+      "rec": 0,
+      "yards": 4007,
+      "td": 29,
+      "note": "17/17 starts, 341/560 passing, 4,007 pass yards, 29 TD, 12 INT. Full bounce-back season after injury-shortened 2024."
+     },
+     {
+      "season": 2024,
+      "team": "JAX",
+      "games": 10,
+      "carries": 0,
+      "targets": 0,
+      "rec": 0,
+      "yards": 2045,
+      "td": 11,
+      "note": "Season cut short: 10/10 starts, 172/284 passing, 2,045 yards, 11 TD, 7 INT. Missed 2 games with a non-throwing (left) shoulder injury, then suffered a concussion (struck by forearm to helmet by Texans LB Azeez Al-Shaair) on 2024-12-01, placed on IR 2024-12-04, ending his season."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "No 2026 contract change found; presumed under existing extension signed prior seasons -- not verified in this search."
+    },
+    "scheme": {
+     "oc": "Grant Udinski (2026 OC, under HC Liam Coen)",
+     "note": "Liam Coen enters his 2nd year as Jaguars HC in 2026; Grant Udinski is offensive coordinator."
+    },
+    "competition": [],
+    "notes": [
+     "2024 season derailed by two separate injuries: non-throwing shoulder injury (missed 2 games) followed by a season-ending concussion (Dec 1, 2024 hit, IR Dec 4, 2024).",
+     "2025 was a full, healthy 17-game starting season with career-best 29 TD passes and 4,007 yards, suggesting recovery from 2024 injuries was complete entering 2025."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Not on injury report as of camp; wearing a sleeve on throwing-adjacent (right) arm early in camp due to increased throwing volume, described as 'minor soreness,' not sidelined",
+     "body_part": "Right arm (minor soreness from throwing volume)",
+     "as_of": "2026-08-09",
+     "note": "Per Jaguars.com Training Camp Day 10 report (2026-08-09): Lawrence not listed as injured/limited; the sleeve/soreness note is minor and camp-standard, not a designated injury. This is the most current status found and supersedes the 2024 concussion/shoulder history, which is fully resolved (Lawrence played all 17 games in 2025)."
+    },
+    "camp": [
+     {
+      "quote": "We're getting better every day.",
+      "who": "Trevor Lawrence",
+      "date": "2026-08-09"
+     },
+     {
+      "quote": "It has been up and down; there are plays I want back, but I do know we're getting better every day.",
+      "who": "Trevor Lawrence",
+      "date": "2026-08-09"
+     },
+     {
+      "quote": "It's encouraging to see.",
+      "who": "Grant Udinski (OC)",
+      "date": "2026-08-09"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.jaguars.com/news/camp-wrap-day-10-lawrence-offense-better-every-day",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.jaguars.com/news/k000030-jaguars-qb-trevor-lawrence-placed-on-injured-reserve",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.pro-football-reference.com/players/L/LawrTr00.htm",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "7526": {
+   "player_id": "7526",
+   "name": "Jaylen Waddle",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2026,
+      "team": "DEN",
+      "note": "Acquired via trade from Miami on Mar 18, 2026."
+     },
+     {
+      "season": 2025,
+      "team": "MIA"
+     },
+     {
+      "season": 2024,
+      "team": "MIA"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "MIA",
+      "games": 16,
+      "carries": 2,
+      "targets": 100,
+      "rec": 64,
+      "yards": 910,
+      "td": 6,
+      "note": "Last season with Miami before the trade; 56.9 yards/game, 14.2 yards/reception. Also 28 rushing yards on 2 carries."
+     }
+    ],
+    "contract": {
+     "years": 2,
+     "signed": "2026-03 (post-trade)",
+     "note": "Two-year, $41.2M deal with a potential third-year option/vesting element (Spotrac via X, and Yahoo Sports Mar 17, 2026). Cap hits: $4.9M (2026), $27.1M (2027), $30.5M (2028, void year per Spotrac thread), $6.1M (2029, void). Guaranteed $17M in 2026 and $15.2M in 2027, with another $8.2M set to vest next March (2027). Yahoo Sports (Mar 17, 2026) frames the team-friendly 2026 cap hit as Denver keeping flexibility while adding a 'long-term receiving weapon.'"
+    },
+    "scheme": {
+     "oc": "",
+     "note": "New team/scheme entirely -- Waddle now catching passes from Bo Nix under HC Sean Payton's system, a full scheme change from Miami's offense. No specific Broncos OC name confirmed in sources checked."
+    },
+    "competition": [
+     {
+      "name": "Courtland Sutton",
+      "age": null,
+      "status": "WR1, incumbent",
+      "note": "Per predominantlyorange.com/Yahoo (Mar 17, 2026 depth-chart piece): 'Courtland Sutton is obviously safe as the WR1, and Waddle immediately slots in as the new WR2.' This directly confirms the prompt's framing that Waddle sits behind Sutton on the depth chart."
+     },
+     {
+      "name": "Marvin Mims",
+      "age": null,
+      "status": "WR3 in the post-trade competition",
+      "note": "Competing with Pat Bryant and Troy Franklin for the 3rd/4th receiver spots; per the Mar 17, 2026 article, HC Sean Payton is unlikely to consistently feed five receivers, implying roster/role adjustments were expected before camp."
+     },
+     {
+      "name": "Pat Bryant",
+      "age": null,
+      "status": "Competing for WR3/4",
+      "note": ""
+     },
+     {
+      "name": "Troy Franklin",
+      "age": null,
+      "status": "Competing for WR3/4",
+      "note": ""
+     }
+    ],
+    "notes": [
+     "Trade details (denverbroncos.com, nfl.com, Mar 18, 2026): Broncos sent a 2026 1st-round pick (No. 30), 3rd-round pick (No. 94), and 4th-round pick (No. 130) to Miami; Broncos received Waddle plus a 2026 4th-round pick (No. 111).",
+     "Waddle quote (Mar 18, 2026, on the trade): 'It's definitely new beginnings. I just look at it as a new opportunity to go out there with a new team in a great place.'",
+     "This is the single most important fact for Waddle: a full team change (MIA to DEN) via trade, new QB (Bo Nix) and new offensive scheme (Sean Payton), and he is presently the WR2 behind Courtland Sutton rather than the clear WR1 role he had in Miami."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Out of practice with a strain as of Aug 6, 2026; walking around camp in good spirits, expected back in 4-5 days",
+     "body_part": "Unspecified strain (body part not confirmed in sources checked)",
+     "as_of": "2026-08-06",
+     "note": "Aug 6, 2026 (predominantlyorange.com, citing HC Sean Payton): 'Waddle has a strain and expects him to be back in the next 4-5 days.' Present at practice but not participating. This matches the prompt's 'Questionable' framing as of early August 2026; note this is a camp soft-tissue injury, separate from any in-season Miami injury history (Waddle had prior questionable/knee/back injury designations while with the Dolphins in past seasons per search snippets, not independently itemized with dates in sources checked this session)."
+    },
+    "camp": [
+     {
+      "quote": "Waddle has a strain and expects him to be back in the next 4-5 days.",
+      "who": "HC Sean Payton",
+      "date": "2026-08-06"
+     },
+     {
+      "quote": "It's definitely new beginnings. I just look at it as a new opportunity to go out there with a new team in a great place.",
+      "who": "Jaylen Waddle",
+      "date": "2026-03-18"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.denverbroncos.com/news/broncos-acquire-wr-jaylen-waddle-in-trade-with-dolphins",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/broncos-updated-wide-receiver-depth-173524929.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/jaylen-waddle-contract-broncos-updated-164727507.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://predominantlyorange.com/sean-payton-provides-positive-update-on-broncos-jaylen-waddle-s-injury-01kzc70e4jhz",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.statmuse.com/nfl/ask/jaylen-waddle-2025-stats",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://x.com/spotrac/status/9000000000000000025",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "8112": {
+   "player_id": "8112",
+   "name": "Drake London",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2025,
+      "team": "ATL"
+     },
+     {
+      "season": 2026,
+      "team": "ATL"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "ATL",
+      "games": 12,
+      "targets": null,
+      "rec": 68,
+      "yards": 919,
+      "td": 7,
+      "note": "Missed time late in season due to PCL knee injury suffered vs. Carolina (Sunday game reported 2025-11-17); ruled week-to-week, missed at least Week 12 vs. New Orleans."
+     }
+    ],
+    "contract": {
+     "years": 4,
+     "signed": "2026-06-08",
+     "note": "Signed 4-year, $141M extension (up to $150M with incentives), $100M guaranteed, through the 2030 season."
+    },
+    "scheme": {
+     "oc": "Tommy Rees",
+     "note": "New HC Kevin Stefanski hired for 2026 (per multiple Falcons.com/SI sources); Stefanski confirmed Tommy Rees will call offensive plays. Falcons' offense also features RB Bijan Robinson (19.8% target share) and TE Kyle Pitts (22.7% target share) as central pieces per AJC (2026-07-21), which could cap London's target ceiling somewhat."
+    },
+    "competition": [
+     {
+      "name": "Jahan Dotson",
+      "age": 26,
+      "status": "WR2/depth",
+      "note": "On Falcons roster per AJC (2026-07-21)."
+     },
+     {
+      "name": "Olamide Zaccheaus",
+      "age": null,
+      "status": "depth WR",
+      "note": "On Falcons roster."
+     },
+     {
+      "name": "Zachariah Branch",
+      "age": null,
+      "status": "rookie WR (3rd round, Georgia)",
+      "note": "Drew praise: 'He's a dog. He's a great human being and a great player as well' \u2014 Branch on London; Tua Tagovailoa (context: minicamp) called Branch 'Dude's fast. Dude can play. Very shifty.'"
+     },
+     {
+      "name": "Dylan Drummond",
+      "age": null,
+      "status": "depth WR",
+      "note": "On Falcons roster."
+     }
+    ],
+    "notes": [
+     "GM Ian Cunningham on London (extension announcement): 'Drake London represents exactly what we're building here. His work ethic, competitive drive, and team-first mindset is refreshing to witness.'",
+     "Bijan Robinson on London's extension: 'He's an incredible football player and another guy that's just going to keep getting better' / 'I was so happy for him. He deserves it. He deserves everything that he gets.'",
+     "London quote on re-signing: 'I couldn't be happier to be here in Atlanta and staying here, even though it's been different coaches, different teammates.'",
+     "Falcons WR room has been 'rebuilt' around London per AJC headline (2026-07-21)."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Held out of minicamp as precaution ('ultra cautious'); no injury reported in later training-camp coverage",
+     "body_part": "Unspecified minor issue at minicamp (June); PCL knee injury in Nov 2025 (prior season, since resolved/off-season)",
+     "as_of": "2026-08-04",
+     "note": "2025-11-17 (Falcons.com): PCL knee injury suffered on final offensive play vs. Carolina; HC Raheem Morris called him 'week-to-week' and said backup David Sills would step up. 2026-06-17 (NBC Sports PFT): London held out of minicamp practice as an 'ultra cautious' precaution for a minor, unspecified issue; new HC Kevin Stefanski indicated London could have played but was held out as precaution. 2026-07-21 (AJC) and 2026-08-04 (Falcons.com camp presser) reports show no injury designation for London at training camp \u2014 treated as healthy and participating. NOTE: Raheem Morris was HC during the Nov 2025 injury; Kevin Stefanski is the HC as of the 2026 minicamp/camp reports \u2014 this is a head-coaching change between the two reports."
+    },
+    "camp": [
+     {
+      "quote": "You never know, Drake could come back tomorrow and feel a lot better, but we'll get a feel for how that goes and he'll be a week-to-week guy.",
+      "who": "Raheem Morris, then-Falcons HC",
+      "date": "2025-11-17"
+     },
+     {
+      "quote": "Ultra cautious approach to London's condition; London could have participated but was held out as precaution.",
+      "who": "Kevin Stefanski, Falcons HC (paraphrased by NBC Sports PFT)",
+      "date": "2026-06-17"
+     },
+     {
+      "quote": "I want to live on for as long as I can so that shows that I am taking the right steps, the right direction.",
+      "who": "Drake London",
+      "date": "2026-06-08 (extension signing)"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.ajc.com/sports/2026/07/falcons-rebuilt-wr-room-behind-dog-drake-london-who-steps-up/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ultra-cautious-falcons-hold-drake-london-out-of-minicamp-practice",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.atlantafalcons.com/news/falcons-sign-drake-london-contract-extension",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.atlantafalcons.com/news/report-drake-london-expected-to-miss-week",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-says-tommy-rees-will-call-offensive-plays-for-falcons",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "8137": {
+   "player_id": "8137",
+   "name": "George Pickens",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2024,
+      "team": "PIT"
+     },
+     {
+      "season": 2025,
+      "team": "DAL",
+      "note": "Traded from Pittsburgh to Dallas on 2025-05-07 for a 2026 third-round pick and a 2027 pick swap."
+     },
+     {
+      "season": 2026,
+      "team": "DAL"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "DAL",
+      "games": null,
+      "targets": 137,
+      "rec": 93,
+      "yards": 1423,
+      "td": 9,
+      "note": "Career year in first season with Dallas. Season concluded with a game vs. NYG on 2026-01-04."
+     }
+    ],
+    "contract": {
+     "years": 1,
+     "signed": "franchise tag, 2026",
+     "note": "Playing 2026 on the franchise tag worth $27.298M fully guaranteed. Deadline for a long-term extension passed without a deal (per ESPN, 2026-08-04); Cowboys reportedly prioritizing extensions for CeeDee Lamb and Quinnen Williams instead. Signals 2026 is likely Pickens' last season in Dallas, with trade or free agency likely next offseason given rising WR market (e.g., Zay Flowers $140M, Drake London ~$141M deals cited as comparables)."
+    },
+    "scheme": {
+     "oc": "",
+     "note": "No confirmed Cowboys offensive coordinator/scheme change found in this research pass. Pickens made a comment about an opponent's defense being 'new and improved,' not about the Cowboys' own offensive scheme."
+    },
+    "competition": [
+     {
+      "name": "CeeDee Lamb",
+      "age": null,
+      "status": "WR1",
+      "note": "'For the first time in his career, he won't be a number one option at wide receiver' \u2014 Pickens is pairing with Lamb as the clear top target on the Cowboys."
+     },
+     {
+      "name": "Jalen Tolbert",
+      "age": null,
+      "status": "WR depth",
+      "note": "Listed on Cowboys WR depth chart."
+     },
+     {
+      "name": "KaVontae Turpin",
+      "age": null,
+      "status": "WR depth/returner",
+      "note": "Listed on Cowboys WR depth chart."
+     }
+    ],
+    "notes": [
+     "Traded from Pittsburgh Steelers to Dallas on 2025-05-07.",
+     "CeeDee Lamb has publicly lobbied Jerry Jones to extend Pickens (per Yardbarker headline), underscoring how the team values him even without a completed deal."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "No injury reported as of research date; reported to Cowboys training camp on time/as expected.",
+     "body_part": "",
+     "as_of": "2026-08-11",
+     "note": ""
+    },
+    "camp": [
+     {
+      "quote": "I kind of leave that to the people that can do that. For me, I just make catches, make plays, be a playmaker.",
+      "who": "George Pickens, on his contract situation",
+      "date": "2026-07-30"
+     },
+     {
+      "quote": "The limitations and the nuance of a limitation, you shouldn't put that on yourself. You can really do anything you want.",
+      "who": "George Pickens",
+      "date": "2026-07-30"
+     },
+     {
+      "quote": "Pickens is locked in on the franchise tag earning $27.298 million fully guaranteed in 2026; Cowboys chose not to engage in long-term extension talks this offseason.",
+      "who": "ESPN / CBS Sports",
+      "date": "2026-08-04"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.cbssports.com/fantasy/football/news/cowboys-george-pickens-finishes-with-1423-yards-nine-tds",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.cbssports.com/nfl/news/george-pickens-2026-season-likely-to-be-cowboys-swan-song/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.dallascowboys.com/news/depth-chart-cowboys-wr-room-outlook-following-george-pickens-trade",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.dallascowboys.com/news/george-pickens-on-approach-to-2026-season-facing-new-and-improved-defense",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.cbssports.com/nfl/news/steelers-trade-george-pickens-to-cowboys-in-exchange-for-2026-third-rounder-pick-swap-in-2027/",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "8138": {
+   "player_id": "8138",
+   "name": "James Cook",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2025,
+      "team": "BUF"
+     },
+     {
+      "season": 2024,
+      "team": "BUF"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "BUF",
+      "games": 17,
+      "carries": 309,
+      "targets": 40,
+      "rec": 33,
+      "yards": 1621,
+      "td": 12,
+      "note": "Led NFL in rushing yards (rushing title); receiving yards 291, receiving TD 2 (total yards from scrimmage ~1912, total TD 14)"
+     },
+     {
+      "season": 2024,
+      "team": "BUF",
+      "games": 16,
+      "carries": 207,
+      "targets": 38,
+      "rec": 32,
+      "yards": 1009,
+      "td": 16,
+      "note": "Rushing TDs 16 (career high); receiving yards 258, receiving TD 2"
+     }
+    ],
+    "contract": {
+     "years": 4,
+     "signed": "2025",
+     "note": "Four-year, $48M extension ($30M guaranteed, ~$12M/year); tied for largest RB deal alongside Josh Jacobs at signing, 6th-highest RB AAV. Signals Bills view him as long-term lead back through age 30."
+    },
+    "scheme": {
+     "oc": "Pete Carmichael Jr. (2026, new hire)",
+     "note": "Joe Brady (Cook's OC in 2025) was promoted to Bills head coach for 2026. Carmichael Jr. (54, ex-Saints OC 2009-2023 under Sean Payton, most recently Broncos senior offensive assistant) hired as new OC; reporting suggests 'Sean Payton influence' with more under-center play-action tied to Josh Allen."
+    },
+    "competition": [
+     {
+      "name": "Ray Davis",
+      "age": null,
+      "status": "backup RB2",
+      "note": "Reported 'rumblings this summer' (2026) that Davis was unhappy with his workload behind Cook, per Yahoo Sports Bills camp preview; no dated quote found."
+     },
+     {
+      "name": "Ty Johnson",
+      "age": null,
+      "status": "backup/depth RB",
+      "note": "Listed among primary reserves for 2026 camp."
+     },
+     {
+      "name": "Frank Gore Jr.",
+      "age": null,
+      "status": "depth RB",
+      "note": "Listed on 2026 RB depth chart."
+     }
+    ],
+    "notes": [
+     "Cook won the 2025 NFL rushing title (1,621 yards) and earned second-team All-Pro honors.",
+     "Notable 2025 performance: 216 rushing yards and 2 TDs in Week 8 vs. Carolina Panthers.",
+     "Bills fullback Ben VanSumeren signed in 2026 free agency, returning from a torn patellar tendon (2025 IR); not direct competition but part of backfield."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "No injury issues reported entering 2026 camp",
+     "body_part": "",
+     "as_of": "2026-08-11",
+     "note": "No injury news found for Cook in 2026 camp reporting."
+    },
+    "camp": [
+     {
+      "quote": "There's 'a new energy in the building' with Joe Brady as head coach",
+      "who": "James Cook",
+      "date": "2026"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.buffalorumblings.com/buffalo-bills-news/113435/james-cook-contract-extension-done",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.buffalobills.com/news/bills-rb-james-cook-iii-wins-2025-nfl-rushing-title",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.statmuse.com/nfl/ask/james-cook-receiving-and-rushing-stats",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/2026-buffalo-bills-training-camp-185213276.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.buffalorumblings.com/buffalo-bills-coaching-staff/128960/buffalo-bills-offensive-coordinator-will-be-pete-carmichael-jr-joe-brady-coaching-staff",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/james-cook-theres-a-new-energy-in-the-building-with-joe-brady-as-head-coach",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "8146": {
+   "player_id": "8146",
+   "name": "Garrett Wilson",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2025,
+      "team": "NYJ"
+     },
+     {
+      "season": 2024,
+      "team": "NYJ"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "NYJ",
+      "games": 7,
+      "carries": 0,
+      "targets": 59,
+      "rec": 36,
+      "yards": 395,
+      "td": 4,
+      "note": "Season cut short by knee injury; missed time, returned Week 10 vs. Cleveland, re-aggravated the knee that game, placed on IR in November, shut down for final 3 games (per FoxSports/jetsxfactor, Dec 19 2025)."
+     },
+     {
+      "season": 2024,
+      "team": "NYJ",
+      "games": 17,
+      "carries": 0,
+      "targets": 154,
+      "rec": 101,
+      "yards": 1104,
+      "td": 7,
+      "note": "Full healthy season, career-high volume."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "No 2026 contract/extension details found in sources checked."
+    },
+    "scheme": {
+     "oc": "Frank Reich",
+     "note": "Jets hired Frank Reich as offensive coordinator (Feb 2026, jetsxfactor.com). Multiple July 2026 articles (jetsxfactor.com Jul 22 and Jul 31, 2026) question whether Reich's pass-game approach is inefficient/'stuck in the past,' suggesting some beat-writer skepticism about scheme fit entering the season."
+    },
+    "competition": [
+     {
+      "name": "Adonai Mitchell",
+      "age": null,
+      "status": "WR2 on July 25, 2026 depth chart",
+      "note": "Per Yahoo Sports Jets camp depth chart (Jul 25, 2026): starters listed as Wilson, Mitchell, Omar Cooper Jr."
+     },
+     {
+      "name": "Omar Cooper Jr.",
+      "age": null,
+      "status": "WR3 on July 25, 2026 depth chart",
+      "note": "Backups listed: Isaiah Williams, Arian Smith."
+     }
+    ],
+    "notes": [
+     "Wilson is unambiguously the Jets' No. 1 receiver entering 2026; no team change.",
+     "QB Geno Smith connected on all 5 targets to Wilson in an Aug 7, 2026 practice period (newyorkjets.com practice report).",
+     "OC Frank Reich (Aug 7, 2026 presser): 'I feel like we can create the explosive plays that we need, right?' and 'I feel like we've got the guys up front to give us protection, create that in the run game.'"
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Fully cleared, healthy, full camp participation",
+     "body_part": "Knee (sprain, non-surgical per CBS Sports report at the time)",
+     "as_of": "2026-07-29",
+     "note": "Jul 29, 2026 (nysportsday.com; sports.yahoo.com): Wilson fully cleared and participating in training camp. Superseding earlier Dec 2025 reports that shut him down for the season after IR stint and knee re-aggravation."
+    },
+    "camp": [
+     {
+      "quote": "Garrett's feeling good. He looks good...he's chomping at the bit, especially with Frank",
+      "who": "HC Aaron Glenn",
+      "date": "2026-07-29"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.newyorkjets.com/news/jets-training-camp-practice-report-geno-smith-garrett-wilson-connection-08-07-2026",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nysportsday.com/2026/07/29/garrett-wilson-jets-2026-healthy-training-camp/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/aaron-glenn-says-garrett-wilson-190940522.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.foxsports.com/articles/nfl/jets-shut-down-star-wide-receiver-garrett-wilson-for-final-3-games-of-season-with-knee-injury",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.pro-football-reference.com/players/W/WilsGa00.htm",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/jets-depth-chart-entering-training-210003943.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://jetsxfactor.com/2026/07/31/ny-jets-frank-reich-scheme-stuck-past/",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "8148": {
+   "player_id": "8148",
+   "name": "Jameson Williams",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2025,
+      "team": "DET"
+     },
+     {
+      "season": 2024,
+      "team": "DET"
+     },
+     {
+      "season": 2023,
+      "team": "DET"
+     },
+     {
+      "season": 2022,
+      "team": "DET"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "DET",
+      "games": null,
+      "carries": 0,
+      "targets": null,
+      "rec": null,
+      "yards": 1117,
+      "td": 7,
+      "note": "Tied 9th in NFL in receiving yards (1,117), averaging over 17 yards/reception. Production 'more than doubled' in the second half of 2025 after HC Dan Campbell took over play-calling duties (implying OC John Morton was sidelined/demoted from play-calling mid-season)."
+     },
+     {
+      "season": 2024,
+      "team": "DET",
+      "games": null,
+      "carries": 0,
+      "targets": null,
+      "rec": 58,
+      "yards": 1001,
+      "td": 7,
+      "note": "1,001 yards and 7 TD on 58 receptions in the 2024 regular season."
+     }
+    ],
+    "contract": {
+     "years": 3,
+     "signed": "2025 (reported by Ian Rapoport)",
+     "note": "Signed a 3-year extension worth up to $83M, running through the 2029 season. Reported Saturday evening by Ian Rapoport with team announcement the following Sunday; exact calendar date not confirmed in sources checked, but context (referencing his 2024 production) places the deal in the 2025 offseason/season, i.e., completed before the 2026 season."
+    },
+    "scheme": {
+     "oc": "Conflicting reports -- see notes",
+     "note": "John Morton was hired as Lions OC in March 2025 (confirmed via Lions.com, Mar 27, 2025 article) for the 2025 season. A later article (detroitjockcity.com, Aug 4, 2026) states Williams enters 2026 'under new offensive coordinator Drew Petzing,' implying a coordinator change after the 2025 season (consistent with HC Dan Campbell having taken over play-calling for the second half of 2025). Could not independently confirm Drew Petzing's hire date/details; flagging as the more recent (Aug 2026) claim, superseding the Mar 2025 Morton report for the 2026 season."
+    },
+    "competition": [
+     {
+      "name": "Amon-Ra St. Brown",
+      "age": null,
+      "status": "WR1",
+      "note": "Lions' primary receiving threat; Williams is developed alongside him as the top receiving duo. No contract/age detail verified in sources checked."
+     },
+     {
+      "name": "Isaac TeSlaa",
+      "age": null,
+      "status": "WR3 (rookie, 2025)",
+      "note": "6'4\", 216 lb rookie who 'flashed in practice and preseason' in 2025, elevated to WR3 after Tim Patrick was traded away."
+     },
+     {
+      "name": "Tim Patrick",
+      "age": null,
+      "status": "traded away, no longer competition",
+      "note": "Traded from Detroit to Jacksonville on Aug 27, 2025, clearing a WR depth-chart spot (opened door for Isaac TeSlaa)."
+     }
+    ],
+    "notes": [
+     "RB Jahmyr Gibbs is expected to receive heavy usage in the same offense (context, not direct WR competition).",
+     "Williams was Detroit's No. 12 overall pick in the 2022 NFL Draft.",
+     "Analyst quote (Danny Kelly, Aug 4, 2026): 'He can turn any catch into a touchdown...He's so much faster than everyone else around him.'"
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Healthy, full camp participation",
+     "body_part": "college ACL tear (Jan 2022 National Championship Game) -- historical, fully recovered; no current 2026 injury",
+     "as_of": "2026-08-02",
+     "note": "Aug 2, 2026 (Detroitlions.com camp notes): no current injuries reported; Williams participating fully in camp, executed a 20-yard gain on a 3rd-and-10 situational drill, showing improved route discipline and ball skills. HC Dan Campbell praised his maturation -- route definition, weight management, ball-catching technique."
+    },
+    "camp": [
+     {
+      "quote": "I just look forward to making a play when my name is called. I'm just trying to help the team as much as I can.",
+      "who": "Jameson Williams",
+      "date": "2026-08-02"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.detroitlions.com/news/camp-notes-detroit-lions-wr-jameson-williams-impressive-start-goff-stbrown-white",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nfl.com/news/lions-wr-jameson-williams-agree-to-three-year-extension-worth-up-to-83-million",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://detroitjockcity.com/lions-wr-jameson-williams-poised-breakout-season-01kz5k71pysb",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.detroitlions.com/news/morton-eager-to-maximize-explosive-plays-with-lions-offense",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/onsi/fantasy/nfl/detroit-lions-trade-tim-patrick-jaguars-opening-door-isaac-teslaa",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "8150": {
+   "player_id": "8150",
+   "name": "Kyren Williams",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2023,
+      "team": "LAR"
+     },
+     {
+      "season": 2024,
+      "team": "LAR"
+     },
+     {
+      "season": 2025,
+      "team": "LAR"
+     },
+     {
+      "season": 2026,
+      "team": "LAR"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "LAR",
+      "games": 17,
+      "carries": 259,
+      "targets": 50,
+      "rec": 36,
+      "yards": 1252,
+      "td": 10,
+      "note": "Rushing: 259 att, 1252 yds, 10 TD. Receiving: 36 rec on 50 targets, 281 yds, 3 TD. Played/started all 17 games."
+     },
+     {
+      "season": 2024,
+      "team": "LAR",
+      "games": 16,
+      "carries": 316,
+      "targets": 40,
+      "rec": 34,
+      "yards": 1481,
+      "td": 16,
+      "note": "Rushing: 316 att, 1299 yds, 14 TD. Receiving: 34 rec on 40 targets, 182 yds, 2 TD. (yards field combines rush+rec totals: 1299+182=1481)"
+     }
+    ],
+    "contract": {
+     "years": 3,
+     "signed": "2025-08-05",
+     "note": "Signed a 3-year, $33M extension with $23M guaranteed (agreed ~Aug 5, 2025, per nfl.com/ESPN/CBS Sports), locking him in through the 2028 season. This resolved prior holdout/negotiation speculation; as of Aug 2026 camp reporting there is no indication of any new contract dispute -- his deal is settled and stable heading into 2026."
+    },
+    "scheme": {
+     "oc": "",
+     "note": "Rams promoted Nate Scheelhaase to offensive coordinator for 2026 (per nfl.com, therams.com, cbssports.com college-football reporting on his hire from Iowa State); some reports describe Scheelhaase and Dave Ragone as co-OCs. Mike LaFleur's prior role appears to have been restructured/replaced by this promotion. HC Sean McVay remains in place."
+    },
+    "competition": [
+     {
+      "name": "Blake Corum",
+      "age": null,
+      "status": "Backup RB, Rams' 2024 3rd-round pick",
+      "note": "Aug 1, 2026 therams.com camp report references Corum as the other RB competing for touches; earlier 2025 reporting (McVay quotes) suggested Rams believe Corum is ready for a bigger role in 2026"
+     },
+     {
+      "name": "Jarquez Hunter",
+      "age": null,
+      "status": "RB on roster (2024 4th-round pick Rams traded up for)",
+      "note": "Mentioned in Rams depth-chart context but no specific 2026 role/snap-share detail found in sources fetched"
+     }
+    ],
+    "notes": [
+     "Entering Year 5 (per therams.com Aug 1, 2026 article referencing his tenure)",
+     "No injury reported for Williams in any Aug 2026 source found",
+     "Williams quote on camp intensity (Aug 1, 2026): 'Camp doesn't feel like practice and we're working. To me, it feels like it's all a workout.' -- describes offseason training focused on RB fundamentals (pad level, cutting) rather than added versatility work"
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "No injury reported",
+     "body_part": "",
+     "as_of": "2026-08-01",
+     "note": ""
+    },
+    "camp": [
+     {
+      "quote": "Camp doesn't feel like practice and we're working. To me, it feels like it's all a workout.",
+      "who": "Kyren Williams",
+      "date": "2026-08-01"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.therams.com/news/kyren-williams-kam-curl-rams-training-camp-press-conference-2026",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nfl.com/news/rams-rb-kyren-williams-agree-to-terms-contract-extension",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/rams/los-angeles-training-camp-sean-mcvay-kyren-williams-mike-lafleur",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/rams/los-angeles-drew-rosenhaus-kyren-williams-sean-mcvay-training-camp",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nfl.com/news/rams-promoting-nate-scheelhaase-to-offensive-coordinator",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.pro-football-reference.com/players/W/WillKy02.htm",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "8155": {
+   "player_id": "8155",
+   "name": "Breece Hall",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2025,
+      "team": "NYJ"
+     },
+     {
+      "season": 2024,
+      "team": "NYJ"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "NYJ",
+      "games": 16,
+      "carries": null,
+      "targets": null,
+      "rec": null,
+      "yards": 1065,
+      "td": 4,
+      "note": "1,065 rushing yards, first Jet to reach 1,000 rushing yards since Chris Ivory (2015). Full receiving-stat breakdown not confirmed in sources checked; rushing TD count (4) is for rushing only, per Yahoo Sports player page."
+     },
+     {
+      "season": 2024,
+      "team": "NYJ",
+      "games": null,
+      "carries": null,
+      "targets": null,
+      "rec": null,
+      "yards": null,
+      "td": null,
+      "note": "Not independently verified in sources checked this session; career scrimmage yards noted at 5,000+ since his 2022 entry (newyorkjets.com camp preview)."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "2026-05-11",
+     "note": "Signed a multi-year extension on May 11, 2026 after being placed on the non-exclusive franchise tag on Mar 3, 2026 (newyorkjets.com). Signals the Jets committed long-term to Hall as workhorse RB1."
+    },
+    "scheme": {
+     "oc": "Frank Reich",
+     "note": "Same Jets offensive coordinator change as Garrett Wilson (Reich hired Feb 2026); some beat-writer skepticism (jetsxfactor.com, Jul 2026) about Reich's scheme efficiency."
+    },
+    "competition": [
+     {
+      "name": "Isaiah Davis",
+      "age": null,
+      "status": "RB2/complementary back",
+      "note": "Averaged 5.5 yards per carry in 2025 per newyorkjets.com camp preview."
+     },
+     {
+      "name": "Braelon Allen",
+      "age": null,
+      "status": "RB2/complementary back, recently recovered from injury",
+      "note": "Recovered from an MCL sprain suffered in Week 4 of 2025; HC Aaron Glenn praised his agility/versatility in the passing game."
+     },
+     {
+      "name": "Kene Nwangwu",
+      "age": null,
+      "status": "RB4/depth",
+      "note": "Listed as backup on Jul 25, 2026 Yahoo Sports Jets depth chart, behind Hall, Allen, and Davis."
+     }
+    ],
+    "notes": [
+     "Jul 25, 2026 Yahoo Sports Jets camp depth chart: Starter Breece Hall; backups Braelon Allen, Isaiah Davis, Kene Nwangwu.",
+     "Hall quote (spring 2026, newyorkjets.com): 'I feel like I can play with a lot more of like accelerated vision now.'",
+     "Hall quote (May 2026): 'this could be my best season, for sure.'",
+     "SI headline framing (si.com onsi, 2026 position breakdown) poses the open question of whether Hall will 'live up to his new contract,' implying some outside skepticism despite the extension.",
+     "One SI/onsi camp preview headline describes the Jets RB room as potentially 'by-committee,' which is in some tension with Hall being the clear starter -- flagged as an open question, not confirmed as fact."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Healthy, actively participating in training camp",
+     "body_part": "",
+     "as_of": "2026-08-11",
+     "note": "No current injury reported in sources checked; camp preview describes Hall as healthy and leading the backfield."
+    },
+    "camp": [
+     {
+      "quote": "this could be my best season, for sure",
+      "who": "Breece Hall",
+      "date": "2026-05-01"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.newyorkjets.com/news/jets-camp-position-preview-2026-running-back-breece-hall-isaiah-davis",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/jets-depth-chart-entering-training-210003943.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/jets-2026-position-breakdown-breece-160715075.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/nfl/players/33991/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.si.com/nfl/jets/onsi/jets-training-camp-preview-by-position-a-by-committee-rb-room-01kwwrmb5zn4",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "medium"
+  },
+  "9224": {
+   "player_id": "9224",
+   "name": "Chase Brown",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2023,
+      "team": "CIN"
+     },
+     {
+      "season": 2024,
+      "team": "CIN"
+     },
+     {
+      "season": 2025,
+      "team": "CIN"
+     },
+     {
+      "season": 2026,
+      "team": "CIN"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "CIN",
+      "games": null,
+      "carries": 232,
+      "targets": 86,
+      "rec": 69,
+      "yards": 1019,
+      "td": 6,
+      "note": "1,019 rush yds (crossed 1,000-yd mark); also 437 rec yds, 5 rec TD (11 total TD). Career: 505 carries across 45 games through 2025 (per atozsports.com depth-chart preview, 2026-06-23), averaging ~13.97 carries/game over last two years."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "In extension talks with Bengals as of early 2026 (profootballrumors.com headline dated Jan 2026: 'Bengals, Chase Brown In Contract Extension Talks'); no confirmed signed extension found in sources checked."
+    },
+    "scheme": {
+     "oc": "Dan Pitcher",
+     "note": "Dan Pitcher remains Bengals OC for 2026 (interviewed for Browns HC job in 2026 offseason but stayed in Cincinnati). Per Washington Post/Washington Times headline (2026-07-27), Pitcher's stated 2026 goal is 'more explosive plays and fewer turnovers.'"
+    },
+    "competition": [
+     {
+      "name": "Samaje Perine",
+      "age": null,
+      "status": "healthy",
+      "note": "9-year NFL veteran, 9th season with Cincinnati; contract expires after 2026; averages 4.5 YPC; described as complementary power/pass-pro back. Per Bengals.com 2026 RB preview: 'figures to handle the second-most carries behind Brown.'"
+     },
+     {
+      "name": "Tahj Brooks",
+      "age": null,
+      "status": "healthy",
+      "note": "6th-round 2025 draft pick; limited playing time as rookie; top developmental candidate behind Brown/Perine, also competing for special-teams role."
+     },
+     {
+      "name": "Gary Brightwell",
+      "age": null,
+      "status": "healthy",
+      "note": "Roster depth."
+     },
+     {
+      "name": "Kendall Milton",
+      "age": null,
+      "status": "healthy",
+      "note": "Roster depth."
+     }
+    ],
+    "notes": [
+     "Entering third season as Bengals' starting RB; expected to lead backfield again in 2026 and 'seeking his third-consecutive 1,000-yard campaign from scrimmage' per bengals.com position preview.",
+     "No 2026 injury/questionable designation found in sources checked, consistent with task framing (Chase Brown not listed as Questionable)."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "",
+     "body_part": "",
+     "as_of": "2026-08-11",
+     "note": "No current training-camp injury designation found in sources checked."
+    },
+    "camp": [
+     {
+      "quote": "Brooks doesn't have that yet, but he has the best chance out of the rest of the reserves to acquire it this year.",
+      "who": "atozsports.com depth-chart preview",
+      "date": "2026-06-23"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://atozsports.com/nfl/cincinnati-bengals-news/bengals-depth-chart-preview-running-back-chase-brown-samaje-perine/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.bengals.com/news/2026-position-preview-running-backs-chase-brown",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.pff.com/nfl/players/chase-brown/77787",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.washingtontimes.com/news/2026/jul/27/bengals-oc-dan-pitcher-says-explosive-plays-fewer-turnovers-goal-2026/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.profootballrumors.com/2026/01/bengals-chase-brown-in-contract-extension-talks",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "medium"
+  },
+  "9484": {
+   "player_id": "9484",
+   "name": "Tucker Kraft",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2023,
+      "team": "GB"
+     },
+     {
+      "season": 2024,
+      "team": "GB"
+     },
+     {
+      "season": 2025,
+      "team": "GB"
+     },
+     {
+      "season": 2026,
+      "team": "GB"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2023,
+      "team": "GB",
+      "games": 17,
+      "carries": 0,
+      "targets": 40,
+      "rec": 31,
+      "yards": 355,
+      "td": 2,
+      "note": ""
+     },
+     {
+      "season": 2024,
+      "team": "GB",
+      "games": 17,
+      "carries": 0,
+      "targets": 70,
+      "rec": 50,
+      "yards": 707,
+      "td": 7,
+      "note": "Career-high targets/receptions to date."
+     },
+     {
+      "season": 2025,
+      "team": "GB",
+      "games": 8,
+      "carries": 0,
+      "targets": 44,
+      "rec": 32,
+      "yards": 489,
+      "td": 6,
+      "note": "Season cut short by Week 9 ACL tear vs Carolina; was playing at a top-5 TE level (per Athletic reporter Matt Schneidman) before injury."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "Entering final year of rookie deal in 2026 ($3.93M cap hit); pending unrestricted free agent in 2027. Extension talks underway as of 2026-07-21 (ESPN's Rob Demovsky); projected to exceed Kyle Pitts' $18M AAV and potentially approach George Kittle/Trey McBride ($19M AAV) range."
+    },
+    "scheme": {
+     "oc": "Matt LaFleur (HC/playcaller)",
+     "note": "No OC change reported; LaFleur remains offensive play-caller for Packers in 2026."
+    },
+    "competition": [
+     {
+      "name": "Christian Watson",
+      "age": null,
+      "status": "",
+      "note": "Other receiving option mentioned alongside Kraft in TE/pass-catcher discussion."
+     },
+     {
+      "name": "Matthew Golden",
+      "age": null,
+      "status": "",
+      "note": "Other receiving option mentioned alongside Kraft."
+     },
+     {
+      "name": "Luke Musgrave",
+      "age": null,
+      "status": "",
+      "note": "Backup/TE2 competition behind Kraft."
+     }
+    ],
+    "notes": [
+     "Torn ACL suffered Week 9 of 2025 season vs Carolina Panthers; ended his season at 8 games played.",
+     "Ranked top-5 among NFL tight ends in yards after catch over the two seasons prior to the injury, per reporting.",
+     "Placed on training-camp PUP list to open camp 2026, then activated off PUP on Day 3 of camp (~2026-07-31/08-01)."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Recovering from ACL tear, on track for Week 1",
+     "body_part": "knee (ACL, left)",
+     "as_of": "2026-08-03",
+     "note": "Torn ACL Week 9, 2025 season. Activated off PUP list Day 3 of camp (report dated 2026-08-01), doing individual/walk-through work only at that point, not yet full team drills. By 2026-08-03 report, described as 'participating in training camp with careful management,' rehab called 'exceptional.' Per Matt Schneidman (The Athletic, cited in 2026-07-28 article referencing his 2026-06-22 reporting), Kraft hit 21.5 mph running speed in offseason workouts and 'should be full go by the time the Packers visit the Vikings to open the season' (Week 1 @ MIN). No later report found contradicting Week 1 expectation as of 2026-08-11."
+    },
+    "camp": [
+     {
+      "quote": "So, we're just going to kind of get him back ingrained into the process and into individual...",
+      "who": "HC Matt LaFleur",
+      "date": "2026-08-01"
+     },
+     {
+      "quote": "The only way to move forward is just to control what you can control.",
+      "who": "Tucker Kraft",
+      "date": "2026-08-01"
+     },
+     {
+      "quote": "I think the best chance for Green Bay to win a Lombardi is with me on the field as well...",
+      "who": "Tucker Kraft",
+      "date": "2026-08-01"
+     },
+     {
+      "quote": "My goal is I want to play for this organization my entire career.",
+      "who": "Tucker Kraft",
+      "date": "2026-08-01"
+     },
+     {
+      "quote": "I understand other peoples' worries in that facet. However, I myself, I'm just worried about getting back to who I was pre-injury.",
+      "who": "Tucker Kraft",
+      "date": "2026-08-03"
+     },
+     {
+      "quote": "Told me my knee looks spectacular, almost like he had never seen rehabilitation like mine.",
+      "who": "Tucker Kraft (relaying doctor's assessment)",
+      "date": "2026-08-03"
+     },
+     {
+      "quote": "has looked swift while rehabbing on the side of practice this offseason... should be full go by the time the Packers visit the Vikings to open the season.",
+      "who": "Matt Schneidman (The Athletic)",
+      "date": "2026-06-22"
+     },
+     {
+      "quote": "Next up, Tucker Kraft. The Packers star tight end should be next in line for a contract extension... Both the Packers and Kraft have made it clear they want to continue going forward.",
+      "who": "Rob Demovsky (ESPN)",
+      "date": "2026-07-21"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://dairylandexpress.com/tucker-kraft-appears-to-put-injury-concerns-behind-him-at-packers-training-camp-01kyxb29jje9",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://collegefootballnetwork.com/nfl/tucker-kraft-injury-update-packers/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/packers-land-major-tucker-krafts-163423889.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sportsnaut.com/nfl/green-bay-packers-news-tucker-kraft-contract-extension-next",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.pro-football-reference.com/players/K/KrafTu00.htm",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "9753": {
+   "player_id": "9753",
+   "name": "Zach Charbonnet",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2025,
+      "team": "SEA"
+     },
+     {
+      "season": 2024,
+      "team": "SEA"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2025,
+      "team": "SEA",
+      "games": 16,
+      "carries": 184,
+      "targets": 24,
+      "rec": 20,
+      "yards": 730,
+      "td": 12,
+      "note": "730 rushing yards, 144 receiving yards, 12 total/rushing TDs -- breakout season, career-best TD total. Was set up to be Seattle's clear No. 1 RB for 2026 once Kenneth Walker III's contract expired, before the playoff ACL tear (per Yahoo Sports/Randy Gurzi, Jun 28, 2026)."
+     },
+     {
+      "season": 2024,
+      "team": "SEA",
+      "games": 17,
+      "carries": 135,
+      "targets": 52,
+      "rec": 42,
+      "yards": 340,
+      "td": 8,
+      "note": "8 rushing TDs, 340 receiving yards on 42 catches."
+     }
+    ],
+    "contract": {
+     "years": null,
+     "signed": "",
+     "note": "Playing on an expiring/final-year deal in 2026 per Yahoo Sports (Jun 29, 2026); no extension agreed as of that report. A strong healthy return would be needed to earn a second contract -- the ACL tear working against his leverage."
+    },
+    "scheme": {
+     "oc": "",
+     "note": "No 2026 Seahawks OC change specifically identified in sources checked this session."
+    },
+    "competition": [
+     {
+      "name": "Kenneth Walker III",
+      "age": null,
+      "status": "Contract expired / no longer with team",
+      "note": "Per Yahoo Sports (Jun 29, 2026), Walker's contract expired, which was expected to clear the path for Charbonnet as Seattle's No. 1 back -- before the ACL injury intervened."
+     },
+     {
+      "name": "Jadarian Price",
+      "age": null,
+      "status": "Rookie, first-round pick 2026, emerging as co-lead back",
+      "note": "Drafted in the first round (pick 32 per Field Gulls mock-draft context) to replace Kenneth Walker. Per roundtable.io (Aug 5, 2026, citing ESPN's Brady Henderson): 'Early indications suggest that Holani and Price will be the top two options, with Wilson mixing in as a powerful complement' -- i.e., Price is currently ahead of Charbonnet on the depth chart while Charbonnet remains on PUP."
+     },
+     {
+      "name": "George Holani",
+      "age": null,
+      "status": "Incumbent RB, currently RB1/RB2 with Price",
+      "note": "Per roundtable.io (Aug 5, 2026), Holani is 'excelling as both runner and pass-catcher' and rising in the coaching staff's estimation while Charbonnet is out."
+     },
+     {
+      "name": "Emanuel Wilson",
+      "age": null,
+      "status": "Free-agent signing, complementary back",
+      "note": "Per roundtable.io (Aug 5, 2026), signed as a powerful complement in a committee approach; has impressed as a pass-catcher in camp."
+     }
+    ],
+    "notes": [
+     "Jul 22, 2026 official PUP-list depth chart (seahawks.com) listed order as: Charbonnet (out/PUP), Emanuel Wilson, Jadarian Price, George Holani, Jacardia Wright.",
+     "By Aug 5, 2026 (roundtable.io/ESPN), the practical on-field pecking order had shifted: Holani and Price are described as the emerging top two, with Charbonnet still out and no timetable set -- this is a more recent and more decision-relevant read than the Jul 22 official list order.",
+     "HC Mike Macdonald (quoted 'last month' as of the Jul 22 seahawks.com PUP article, so roughly Jun 2026): 'He's doing a great job. I know he has high expectations for himself, and we're looking forward to seeing where it ends up.'"
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "On PUP list to open training camp; no timetable for return",
+     "body_part": "Knee -- torn ACL, suffered in the Divisional Round playoff win over the 49ers (Jan 2026)",
+     "as_of": "2026-08-05",
+     "note": "Placed on PUP Jul 22-24, 2026 (seahawks.com, HeraldNet, NBC Sports, Seattle Times all confirm) recovering from offseason ACL surgery (surgery described as performed in February 2026 per roundtable.io Aug 5 article). As of Aug 5, 2026 (roundtable.io), timeline for return remains unclear and Holani/Price have taken the top-two practice reps in his absence. Week 1 availability is NOT confirmed as of Aug 11, 2026 -- this is the single most decision-relevant open question for Charbonnet."
+    },
+    "camp": [
+     {
+      "quote": "He's doing a great job. I know he has high expectations for himself, and we're looking forward to seeing where it ends up.",
+      "who": "HC Mike Macdonald",
+      "date": "2026-06-22"
+     },
+     {
+      "quote": "Early indications suggest that Holani and Price will be the top two options, with Wilson mixing in as a powerful complement.",
+      "who": "Brady Henderson (ESPN, via roundtable.io)",
+      "date": "2026-08-05"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.seahawks.com/news/seahawks-rb-zach-charbonnet-placed-on-pup-list",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.heraldnet.com/2026/07/24/seahawks-zach-charbonnet-to-open-camp-on-pup/",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://roundtable.io/sports/nfl/seahawks/news/seahawks-running-back-mix-starting-to-become-clear-at-training-camp",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://sports.yahoo.com/articles/seahawks-zach-charbonnet-gets-strong-073205881.html",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.pro-football-reference.com/players/C/CharZa00.htm",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.profootballnetwork.com/seahawks-rb-depth-chart-jadarian-price/",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  },
+  "9997": {
+   "player_id": "9997",
+   "name": "Zay Flowers",
+   "as_of": "2026-08-11",
+   "stable": {
+    "team_history": [
+     {
+      "season": 2023,
+      "team": "BAL"
+     },
+     {
+      "season": 2024,
+      "team": "BAL"
+     },
+     {
+      "season": 2025,
+      "team": "BAL"
+     },
+     {
+      "season": 2026,
+      "team": "BAL"
+     }
+    ],
+    "workload": [
+     {
+      "season": 2023,
+      "team": "BAL",
+      "games": 16,
+      "carries": 0,
+      "targets": 108,
+      "rec": 77,
+      "yards": 858,
+      "td": 5,
+      "note": "Rookie season."
+     },
+     {
+      "season": 2024,
+      "team": "BAL",
+      "games": 17,
+      "carries": 0,
+      "targets": 116,
+      "rec": 74,
+      "yards": 1059,
+      "td": 4,
+      "note": "Pro Bowl."
+     },
+     {
+      "season": 2025,
+      "team": "BAL",
+      "games": 17,
+      "carries": 0,
+      "targets": 118,
+      "rec": 86,
+      "yards": 1211,
+      "td": 5,
+      "note": "Career highs in receptions and yards; Pro Bowl; led team with 38 more catches than 2nd-leading pass catcher."
+     }
+    ],
+    "contract": {
+     "years": 4,
+     "signed": "2026 (reported as 'Tuesday', prior to 2026-08 camp)",
+     "note": "4-year, $140M extension with $108M guaranteed, ties him as 4th-highest-paid WR at $35M AAV (matching Justin Jefferson). Deal replaces his 2027 fifth-year rookie option (which Baltimore had exercised in April). Signals Ravens see him as standalone WR1 / Lamar Jackson's primary target going forward."
+    },
+    "scheme": {
+     "oc": "Declan Doyle",
+     "note": "Major offensive coaching turnover for 2026: Ravens fired HC John Harbaugh after missing playoffs; hired Jesse Minter (ex-Chargers DC) as new HC. Prior OC Todd Monken left to become Cleveland Browns HC (hired 2026-01-28). New Ravens OC for 2026 is Declan Doyle (previously with Bears in 2025), per Baltimore Beatdown coaching tracker. New WR coach: Keary Colbert (previously Broncos 2023-2025)."
+    },
+    "competition": [
+     {
+      "name": "Rashod Bateman",
+      "age": null,
+      "status": "",
+      "note": "Other Ravens WR; not independently verified in this pass (WebSearch budget exhausted before this could be confirmed) \u2014 noted from task context only, treat as unverified."
+     }
+    ],
+    "notes": [
+     "Set career highs across the board in 2025 (86 rec, 1,211 yds) under since-departed OC Todd Monken; new OC Declan Doyle and new HC Jesse Minter represent an unproven scheme change for 2026.",
+     "Entire Ravens offensive coaching staff turned over for 2026 (HC, OC, RB coach, OL coach, WR coach, TE coach, passing-game coordinator, QB coach, senior offensive assistant) per Baltimore Beatdown tracker \u2014 meaningful scheme uncertainty even though Flowers' personal role (locked-in, extended WR1) is secure."
+    ]
+   },
+   "volatile": {
+    "injury": {
+     "status": "Day-to-day (minor)",
+     "body_part": "left quad contusion",
+     "as_of": "2026-08-08",
+     "note": "Suffered quad contusion in collision with safety Jaylinn Hawkins during 7-on-7 drill at training camp practice, 2026-08-08; Flowers limped off under his own power (no cart). HC Jesse Minter (2026-08-08): 'I think he'll be about day-to-day...hopefully for the best' and 'There's stuff that happens...thankfully I think he'll be okay in the long run.' Reporting characterizes this as a minor soft-tissue issue not expected to threaten Week 1 availability. This is the most recent report found; no later update as of 2026-08-11."
+    },
+    "camp": [
+     {
+      "quote": "I think he'll be about day-to-day...hopefully for the best",
+      "who": "HC Jesse Minter",
+      "date": "2026-08-08"
+     },
+     {
+      "quote": "There's stuff that happens...thankfully I think he'll be okay in the long run",
+      "who": "HC Jesse Minter",
+      "date": "2026-08-08"
+     }
+    ],
+    "projected_share": null,
+    "as_of": "2026-08-11"
+   },
+   "sources": [
+    {
+     "url": "https://www.si.com/nfl/ravens/onsi/everything-we-know-about-zay-flowers-avoiding-major-injury-at-ravens-camp-01kzh61q614w",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nfl.com/news/ravens-wr-zay-flowers-agrees-to-four-year-140m-extension",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.pro-football-reference.com/players/F/FlowZa00.htm",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.baltimorebeatdown.com/baltimore-ravens-coaching-staff/80158/baltimore-ravens-2026-coaching-staff-tracker",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.baltimoreravens.com/news/todd-monken-hired-browns-head-coach-ravens-staff",
+     "fetched": "2026-08-11"
+    },
+    {
+     "url": "https://www.nfl.com/news/jesse-minter-ravens-hire-head-coach-chargers-dc",
+     "fetched": "2026-08-11"
+    }
+   ],
+   "confidence": "high"
+  }
+ }
+}

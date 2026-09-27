@@ -1,0 +1,85 @@
+{
+ "player_id": "8177",
+ "name": "Grant Calcaterra",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "PHI"
+   },
+   {
+    "season": 2026,
+    "team": "PHI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Dallas Goedert",
+    "age": 31,
+    "status": "TE1",
+    "note": "",
+    "resolved_id": "5022",
+    "resolved_team": "PHI",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Eli Stowers",
+    "age": 23,
+    "status": "TE2",
+    "note": "rookie",
+    "resolved_id": "13349",
+    "resolved_team": "PHI",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Johnny Mundt",
+    "age": 31,
+    "status": "TE3",
+    "note": "",
+    "resolved_id": "4314",
+    "resolved_team": "PHI",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; CBS Sports camp report says Calcaterra 'on track to win key position battle', but RotoWire lists him TE4 behind Goedert/Stowers/Mundt."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Day 10 camp observations: Calcaterra on track to win key position battle"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/news/eagles-training-camp-observations-day-10-grant-calcaterra-britain-covey-on-track-to-win-key-position-battles",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/philadelphia-eagles-depth-chart-phi",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/nfl/news/eagles-training-camp-observations-day-10-grant-calcaterra-britain-covey-on-track-to-win-key-position-battles"
+  }
+ ]
+}

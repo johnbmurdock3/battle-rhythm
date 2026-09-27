@@ -1,0 +1,177 @@
+{
+ "player_id": "13281",
+ "name": "Jordyn Tyson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "NO",
+    "note": "Drafted No. 8 overall by Saints in 2026 NFL Draft; college: Arizona State"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Arizona State (college)",
+    "games": 9,
+    "targets": null,
+    "rec": null,
+    "yards": 711,
+    "td": 8,
+    "note": "711 receiving yards, 8 TD in just 9 games (limited availability); named AP All-America Third Team on 2025-12-15, second consecutive year earning that honor."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2026-05-08",
+   "note": "Signed rookie contract worth approximately $32.5M after being drafted No. 8 overall."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "QB is Tyler Shough. No specific 2026 OC name verified in sources fetched."
+  },
+  "competition": [
+   {
+    "name": "Chris Olave",
+    "age": 26,
+    "status": "starting WR1, recently extended",
+    "note": "Signed 4-yr/$132M extension ($90M guaranteed) on 2026-07-30. Extensive concussion history: concussions in 2023 (Wk12, grade 1), 2024 (vs Buccaneers), 2024 (Wk9, season-ending); also had a lung blood clot issue late in 2025.",
+    "resolved_id": "8144",
+    "resolved_team": "NO",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Devaughn Vele",
+    "age": 27,
+    "status": "depth WR, coming off shoulder injury",
+    "note": "Traded from Denver to New Orleans Aug 20, 2025. In 2025: 25 rec, 293 yds, 2 TD in 13 games (7 starts) before season-ending IR placement Dec 19, 2025 for a Week 15 shoulder injury. Footballguys (Apr 2026) named him 'biggest loser' from the Tyson pick.",
+    "resolved_id": "11834",
+    "resolved_team": "NO",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Mason Tipton",
+    "age": 25,
+    "status": "depth WR",
+    "note": "Named as competition in Footballguys draft reaction.",
+    "resolved_id": "11895",
+    "resolved_team": "NO",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Ja'Lynn Polk",
+    "age": 24,
+    "status": "depth WR",
+    "note": "Named as competition in Footballguys draft reaction.",
+    "resolved_id": "11619",
+    "resolved_team": null,
+    "resolved_pos": "WR",
+    "same_team": false
+   },
+   {
+    "name": "Bryce Lance",
+    "age": 23,
+    "status": "rookie WR (4th round)",
+    "note": "Competing with Tyson in camp per Saints.com rookies-to-watch piece (2026-07-27).",
+    "resolved_id": "13420",
+    "resolved_team": "NO",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Barion Brown",
+    "age": 22,
+    "status": "rookie WR (6th round)",
+    "note": "Competing with Tyson in camp per Saints.com rookies-to-watch piece (2026-07-27).",
+    "resolved_id": "13533",
+    "resolved_team": "NO",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Footballguys (draft-day, ~2026-04): projected Tyson as Week 1 starter opposite Chris Olave with ~85% snap share, 'immediate starter with the opportunity to push for the team lead in targets.' Biggest beneficiary named: QB Tyler Shough.",
+   "Depth chart position described as outside or slot receiver per Saints.com camp piece.",
+   "Juwan Johnson (TE) also named as a player who loses target share due to Tyson's arrival."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Hamstring injury; placed on IR Aug 30, 2026 (designated to return); out at least first 4 games of the season, per Ian Rapoport could miss into mid-October [news 2026-08-30]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "He has good size, good speed, he's sudden, he's a 'hands' catcher, he's athletic, he's got good run-after-the-catch.",
+    "who": "Keith Williams, Saints WR coach",
+    "date": "2026-07-27"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.footballguys.com/article/2026-jordyn-tyson-new-orleans-saints-instant-reactions",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.neworleanssaints.com/news/rookies-to-watch-entering-new-orleans-saints-training-camp-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://arizonasports.com/ncaa/arizona-state-football/jordyn-tyson-11/3605684/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/new-orleans-saints/jordyn-tyson-signs-rookie-contract/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/chris-olave-contract-details-saints-211644197.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Devaughn_Vele",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.4for4.com/news/saints-place-jordyn-tyson-injured-reserve-designated-return",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Managed/limited (hamstring, college injury)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.footballguys.com/article/2026-jordyn-tyson-new-orleans-saints-instant-reactions"
+  },
+  {
+   "date": "2026-08-18",
+   "injury": "Hamstring, suffered in practice mid-August 2026; expected to miss approximately two months (return projected around October 2026). HC Kellen Moore said it is unrelated to a separate spring hamstring issue.",
+   "role": "Saints' No.8 overall pick; will not play Week 1 due to the hamstring injury",
+   "note": "Will miss Week 1 and likely much of September/October with hamstring injury; has extensive injury history in college",
+   "source": "https://www.nfl.com/news/saints-rookie-wr-jordyn-tyson-hamstring-expected-to-miss-2-months"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Placed on IR with a right hamstring injury ~9/1; expected to miss roughly two months, return targeted near mid-October. Sleeper tag still shows Questionable/Undisclosed, which is stale",
+   "role": "Listed WR2 on the Saints depth chart behind Chris Olave but currently on IR",
+   "note": "[news 2026-09-01] Rookie WR out through Week 2 and likely several more weeks; his absence is why Devaughn Vele is the WR2",
+   "source": "https://www.fantasypros.com/nfl/news/jordyn-tyson.php"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Hamstring injury; placed on IR Aug 30, 2026 (designated to return); out at least first 4 games of the season, per Ian Rapoport could miss into mid-October [news 2026-08-30]",
+   "role": "Out; on IR since before Week 1. Matches Sleeper (IR, LWR order 11).",
+   "note": "First-round rookie (8th overall) sidelined by soft-tissue hamstring injury dating back to pre-draft evaluation",
+   "source": "https://www.4for4.com/news/saints-place-jordyn-tyson-injured-reserve-designated-return"
+  }
+ ]
+}

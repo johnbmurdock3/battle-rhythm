@@ -1,0 +1,99 @@
+{
+ "player_id": "11650",
+ "name": "Luke McCaffrey",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "WAS"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Terry McLaurin",
+    "age": 29,
+    "status": "starter",
+    "note": "WR1 ahead of McCaffrey",
+    "resolved_id": "5927",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Stefon Diggs",
+    "age": 32,
+    "status": "starter",
+    "note": "WR1 (other side) ahead of McCaffrey",
+    "resolved_id": "2449",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Dyami Brown",
+    "age": 26,
+    "status": "backup",
+    "note": "also ahead of McCaffrey on the Commanders WR depth chart",
+    "resolved_id": "7587",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Commanders WR depth chart (ourlads, confirmed) lists McCaffrey deep in the room (9th of 12 listed), behind McLaurin, Diggs, Antonio Williams, Van Jefferson, Treylon Burks, and Dyami Brown. Minimal 2026 fantasy relevance as currently slotted."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "not checked this pass"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/WAS",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/commanders-luke-mccaffrey-sophomore-campaign-cut-short/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2025-10-28",
+   "snap_pct": 51,
+   "role": "Last confirmed data point (2025 season) had him at 51% of offensive snaps (27/53) in a game where Terry McLaurin was out with a quad injury, up from a 30-45% range in prior weeks, ranking 2nd among WAS receivers behind Deebo Samuel.",
+   "note": "No current (Sept 2026) practice/depth-chart or injury update was found for McCaffrey specifically; this is prior-season usage context only, not confirmed current role.",
+   "source": "https://www.cbssports.com/fantasy/football/news/commanders-luke-mccaffrey-serves-as-no-3-wideout-in-loss"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/WAS"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Depth WR role in Washington's receiving corps; recovered from a collarbone injury that ended his 2025 season [news 2026-01-09]",
+   "note": "No Week 2 2026 snap/target data found; recent coverage is mostly about his recovery timeline and offseason role growth, not in-season usage. Sleeper lists him SWR, depth order 6 (Active, no injury).",
+   "source": "https://www.cbssports.com/fantasy/football/news/commanders-luke-mccaffrey-sophomore-campaign-cut-short/"
+  }
+ ]
+}

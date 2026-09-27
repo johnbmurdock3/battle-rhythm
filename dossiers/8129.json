@@ -1,0 +1,83 @@
+{
+ "player_id": "8129",
+ "name": "Dameon Pierce",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "multiple (HOU/KC)"
+   },
+   {
+    "season": 2026,
+    "team": "PHI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Saquon Barkley",
+    "age": 29,
+    "status": "starter",
+    "note": "RB1 ahead of Pierce",
+    "resolved_id": "4866",
+    "resolved_team": "PHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Tank Bigsby",
+    "age": 23,
+    "status": "backup",
+    "note": "RB2 ahead of Pierce",
+    "resolved_id": "9225",
+    "resolved_team": "PHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Will Shipley",
+    "age": 23,
+    "status": "backup",
+    "note": "RB3 ahead of Pierce",
+    "resolved_id": "11577",
+    "resolved_team": "PHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: Houston (2022-2025) then Kansas City (2025), now signed with Philadelphia for 2026; buried at RB4 behind Saquon Barkley on a stacked backfield - minimal standalone draft value."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Dameon_Pierce",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/PHI",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Dameon_Pierce"
+  }
+ ]
+}

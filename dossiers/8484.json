@@ -1,0 +1,69 @@
+{
+ "player_id": "8484",
+ "name": "Ko Kieft",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TB"
+   },
+   {
+    "season": 2026,
+    "team": "TB"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Cade Otton",
+    "age": 27,
+    "status": "starter",
+    "note": "TE1",
+    "resolved_id": "8111",
+    "resolved_team": "TB",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Payne Durham",
+    "age": 26,
+    "status": "backup",
+    "note": "TE2, ahead of Kieft",
+    "resolved_id": "10227",
+    "resolved_team": "TB",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Kieft is TE3 behind Otton and Durham; primarily a blocking TE with minimal fantasy relevance."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/TB",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/TB"
+  }
+ ]
+}

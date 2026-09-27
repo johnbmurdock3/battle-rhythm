@@ -1,0 +1,75 @@
+{
+ "player_id": "8181",
+ "name": "Connor Heyward",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "PIT"
+   },
+   {
+    "season": 2026,
+    "team": "LV"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "2026": "2-year, $5.5M ($2M guaranteed), signed 2026-03-13"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Brock Bowers",
+    "age": 23,
+    "status": "starter",
+    "note": "TE1",
+    "resolved_id": "11604",
+    "resolved_team": "LV",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Michael Mayer",
+    "age": 25,
+    "status": "backup",
+    "note": "TE2",
+    "resolved_id": "9482",
+    "resolved_team": "LV",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: Pittsburgh (2025) -> Las Vegas, signed 2026-03-13; on Raiders' current depth chart he's listed at FULLBACK, not tight end, behind Brock Bowers/Michael Mayer at TE - limits receiving-role fantasy value."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Connor_Heyward",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/las-vegas-raiders-depth-chart-lv",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Connor_Heyward"
+  }
+ ]
+}

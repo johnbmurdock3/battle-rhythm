@@ -1,0 +1,87 @@
+{
+ "player_id": "8111",
+ "name": "Cade Otton",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TB"
+   },
+   {
+    "season": 2026,
+    "team": "TB"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "2026": "3-year extension signed 2026 (per Buccaneers reporting)"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Payne Durham",
+    "age": 26,
+    "status": "backup",
+    "note": "TE2, blocking/receiving hybrid",
+    "resolved_id": "10227",
+    "resolved_team": "TB",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Otton is confirmed TE1 in Tampa Bay and was extended on a 3-year deal, signaling continued lead role in Zac Robinson's offense."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Not on TB Week 3 injury report [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/buccaneers/onsi/predicting-the-buccaneers-depth-chart-ahead-of-training-camp-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872935",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/buccaneers/onsi/predicting-the-buccaneers-depth-chart-ahead-of-training-camp-2026"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported (Sleeper injury_status: None, status: Active) as of 2026-09-03",
+   "role": "Listed TE1 on official Buccaneers depth chart, ahead of Payne Durham, Ko Kieft, and Bauer Sharp",
+   "note": "Tampa Bay's starting tight end entering Week 1",
+   "source": "https://www.buccaneers.com/team/depth-chart/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "TE1 for Tampa Bay",
+   "note": "No notable in-season news found; most recent item was his offseason re-signing",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/TB"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 5,
+   "injury": "Not on TB Week 3 injury report [news 2026-09-21]",
+   "role": "TE1, depth order 1 per Sleeper",
+   "note": "Week 2 vs CLE (game data captured mid-4th-quarter, TB leading 23-19): 5 rec/6 tgt/38 yds. Strong, healthy volume role.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872935"
+  }
+ ]
+}

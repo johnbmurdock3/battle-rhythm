@@ -1,0 +1,59 @@
+{
+ "player_id": "11562",
+ "name": "Spencer Rattler",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NO"
+   },
+   {
+    "season": 2026,
+    "team": "NO"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tyler Shough",
+    "age": 26,
+    "status": "starter",
+    "note": "QB1 ahead of Rattler; no injury notes found this pass",
+    "resolved_id": "12545",
+    "resolved_team": "NO",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Rattler is now the clear backup QB2 behind rookie/2nd-year Tyler Shough, who has the starting job. Real superflex value if Shough gets hurt, since Rattler is next in line ahead of Zach Wilson."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NO",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/NO"
+  }
+ ]
+}

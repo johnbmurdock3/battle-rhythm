@@ -1,0 +1,154 @@
+{
+ "player_id": "11597",
+ "name": "Theo Johnson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYG"
+   },
+   {
+    "season": 2026,
+    "team": "NYG"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NYG",
+    "games": 15,
+    "targets": 74,
+    "rec": 45,
+    "yards": 528,
+    "td": 5,
+    "note": "11.7 YPC average, 35.2 rec yds/game"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Entering contract year on rookie deal (2024 4th-round pick); not confirmed in sources fetched"
+  },
+  "scheme": {
+   "oc": "Matt Nagy (new OC, hired 2026-02-03, ex-Chiefs OC)",
+   "note": "New HC John Harbaugh hired 2026-01-17, replacing Brian Daboll who was fired 2025-11-10 mid-season after a 2-8 start"
+  },
+  "competition": [
+   {
+    "name": "Isaiah Likely",
+    "age": 26,
+    "status": "co-starter TE, signed in FA from Baltimore",
+    "note": "3-year deal (~$40M reported); SI.com (May 30, 2026) lists Likely and Johnson as co-starters in Giants 2-TE sets; 2025 stats with BAL: 14 games, 36 targets, 27 rec, 307 yds, 1 TD",
+    "resolved_id": "8131",
+    "resolved_team": "NYG",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Chris Manhertz",
+    "age": 34,
+    "status": "backup TE, run-blocking specialist",
+    "note": "",
+    "resolved_id": "3048",
+    "resolved_team": "NYG",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Thomas Fidone II",
+    "age": 23,
+    "status": "backup TE, 2nd-year",
+    "note": "",
+    "resolved_id": "12715",
+    "resolved_team": "NYG",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Tanner Conner",
+    "age": 28,
+    "status": "backup TE, special teams",
+    "note": "",
+    "resolved_id": "8849",
+    "resolved_team": "NYG",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "SI.com (May 30, 2026) frames Johnson as still positioned for a 2026 'breakout' despite the crowded/upgraded TE room, given increased target volume expected in multi-TE sets",
+   "Entire coaching staff turned over for 2026 (Harbaugh/Nagy regime replacing Daboll/Kafka)"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No current (Aug 2026) injury/practice report found for Johnson in sources fetched; note an Ourlads page flagged him on IR as of 12/24 (2025 season, historical, not current)"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/giants/onsi/giants-tight-end-depth-chart-2026-isaiah-likely-01kst3dm10cw",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/giants/onsi/giants-theo-johnson-breakout-2026-01kthb1hxmzt",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.giants.com/news/isaiah-likely-signing-2026-nfl-free-agency-baltimore-ravens-john-harbaugh-tight-end-coastal-carolina",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/L/LikeIs00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_New_York_Giants_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/nyg/new-york-giants",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.statmuse.com/nfl/ask/theo-johnson-2025-stats",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://fantasydata.com/nfl/theo-johnson-fantasy/23142",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-06-08",
+   "injury": "None reported.",
+   "role": "TE2 behind Isaiah Likely on the Giants' depth chart, but expected to see heavy snaps as an in-line/run-blocking tight end (lined up in-line on ~half his snaps previously) given the Giants' increased use of 12-personnel; Likely profiles more as a slot receiver.",
+   "note": "Article frames Johnson as still poised for a expanded 2026 role despite not being the clear TE1.",
+   "source": "https://www.si.com/nfl/giants/onsi/giants-theo-johnson-breakout-2026-01kthb1hxmzt"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/giants/onsi/giants-tight-end-depth-chart-2026-isaiah-likely-01kst3dm10cw"
+  },
+  {
+   "date": "2026-09-22",
+   "snap_pct": 46.0,
+   "touches": 0,
+   "injury": "",
+   "role": "Isaiah Likely (2026 FA signing from Ravens) has emerged as the Giants' primary receiving TE, scoring twice in his Giants debut; Johnson's snap share down to 46% vs prior 84-86% career average",
+   "note": "Week 2 vs LAR: 4 targets, 0 receptions, 0 yards - drew looks but couldn't convert. [news 2026-09-21]",
+   "source": "https://fantasydata.com/nfl/theo-johnson-fantasy/23142"
+  }
+ ]
+}

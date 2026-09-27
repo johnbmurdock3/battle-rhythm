@@ -1,0 +1,45 @@
+{
+ "player_id": "11786",
+ "name": "Cam Little",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "None listed",
+   "as_of": "2026-09-15"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "injury": "None listed",
+   "role": "Unquestioned starting kicker, no competition",
+   "note": "[news 2026-09-13] Perfect Week 1: 2/2 FG (47, 40) and 4/4 XP in 34-10 win over CLE",
+   "source": "https://www.rotowire.com/football/headlines/cam-little-news-drills-all-six-kicks-in-week-1-637269"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "",
+   "note": "Week 2: made 2 of 3 FGs (44 yd, 23 yd) and 5/5 XP; 4-of-5 FGs through two games; faces Patriots in Week 3 [news 2026-09-21]",
+   "source": "https://www.fantasypros.com/nfl/news/609507/cam-little-makes-two-fgs-week-2.php"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.fantasypros.com/nfl/news/609507/cam-little-makes-two-fgs-week-2.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

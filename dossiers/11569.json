@@ -1,0 +1,79 @@
+{
+ "player_id": "11569",
+ "name": "Jarquez Hunter",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LAR"
+   },
+   {
+    "season": 2026,
+    "team": "LAR"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Kyren Williams",
+    "age": 25,
+    "status": "starter",
+    "note": "RB1",
+    "resolved_id": "8150",
+    "resolved_team": "LAR",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Blake Corum",
+    "age": 25,
+    "status": "backup",
+    "note": "RB2, ahead of Hunter",
+    "resolved_id": "11586",
+    "resolved_team": "LAR",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Ronnie Rivers",
+    "age": 27,
+    "status": "backup",
+    "note": "RB3, ahead of Hunter per ourlads listing",
+    "resolved_id": "8195",
+    "resolved_team": "LAR",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Hunter listed RB4 on Rams depth chart behind Williams, Corum, and Rivers; limited early-season path to touches barring injury."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/LAR",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/LAR"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "player_id": "11292",
+ "name": "Tommy DeVito",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "NE"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Drake Maye",
+    "age": 23,
+    "status": "starter",
+    "note": "young ascending QB1 ahead of DeVito",
+    "resolved_id": "11564",
+    "resolved_team": "NE",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Patriots depth chart (ourlads, confirmed): 1. Drake Maye, 2. Tommy DeVito, 3. Behren Morton. DeVito is QB2 behind a young, entrenched starter \u2014 minimal superflex value."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "not checked this pass"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NE",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/patriots-scouting-report-tommy-devito-232812737.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-01-11",
+   "role": "Third-string QB behind Drake Maye and Josh Dobbs per Jan 11, 2026 depth chart report",
+   "note": "Note: Sleeper API lists DeVito's team as NE (Patriots); a separate 2026-season search result referenced him as Patriots 'QB2' in an August 2026 Pats Pulpit piece, which would conflict with the January depth-chart order (Dobbs ahead of him) -- exact current QB2/QB3 order not fully confirmed for Sept 2026.",
+   "source": "https://sports.yahoo.com/articles/patriots-backup-quarterback-englands-2026-083001394.html"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/NE"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Backup QB2 behind healthy starter Drake Maye (Sleeper depth_chart_order 2)",
+   "note": "No role change; scouting report says he 'ideally won't see the field' in 2026 with Maye entrenched as starter; no Week 2 usage news found",
+   "source": "https://sports.yahoo.com/articles/patriots-scouting-report-tommy-devito-232812737.html"
+  }
+ ]
+}

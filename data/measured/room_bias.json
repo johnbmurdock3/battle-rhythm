@@ -1,0 +1,46 @@
+{
+ "9000000000000000013": {
+  "league": "LG03-LG05",
+  "measured_from": "2025",
+  "picks": 264,
+  "by_position": {
+   "BASELINE": {
+    "median": 2.6,
+    "n": 264,
+    "note": "room-wide reach; depletion lives here and keeper.py handles it separately"
+   },
+   "QB": {
+    "raw_mean": 31.0,
+    "raw_median": 18.1,
+    "bias": 15.5,
+    "n": 53,
+    "stdev": 47.8,
+    "reliable": true
+   },
+   "WR": {
+    "raw_mean": 0.8,
+    "raw_median": -1.4,
+    "bias": -4.0,
+    "n": 99,
+    "stdev": 24.2,
+    "reliable": true
+   },
+   "RB": {
+    "raw_mean": 8.3,
+    "raw_median": 5.4,
+    "bias": 2.8,
+    "n": 80,
+    "stdev": 26.9,
+    "reliable": true
+   },
+   "TE": {
+    "raw_mean": -18.2,
+    "raw_median": -10.6,
+    "bias": -13.2,
+    "n": 32,
+    "stdev": 28.6,
+    "reliable": true
+   }
+  }
+ }
+}

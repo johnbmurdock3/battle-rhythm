@@ -1,0 +1,42 @@
+{
+ "player_id": "13545",
+ "name": "Trey Smack",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "2026 6th-round rookie kicker, currently Green Bay's active K1",
+   "note": "No news items found - deep-league/no-notable-news case",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/GB"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper lists him as GB's #1 kicker (depth_chart_order 1) as of 2026-09-22.",
+   "note": "No notable news found in ESPN GB news feed for kicker/special teams; identity confirmed via Sleeper as starting K.",
+   "source": "https://api.sleeper.app/players/nfl/13545"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://api.sleeper.app/players/nfl/13545",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

@@ -1,0 +1,117 @@
+{
+ "player_id": "11576",
+ "name": "Braelon Allen",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYJ"
+   },
+   {
+    "season": 2026,
+    "team": "NYJ"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NYJ",
+    "games": 4,
+    "carries": 18,
+    "targets": 3,
+    "rec": 2,
+    "yards": 76,
+    "td": 1,
+    "note": "Rush: 18 att/76 yds/1 TD; Rec: 2/17 yds. Season cut short - MCL sprain, placed on IR October 2025 (ESPN), 'abrupt end to second season' per team site"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Unverified this pass"
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Unverified this pass"
+  },
+  "competition": [
+   {
+    "name": "Breece Hall",
+    "age": 25,
+    "status": "RB1",
+    "note": "Clear starter ahead of Allen on 2026 depth chart",
+    "resolved_id": "8155",
+    "resolved_team": "NYJ",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Isaiah Davis",
+    "age": 24,
+    "status": "RB3 (Questionable)",
+    "note": "One article (Heavy.com, July 21 2026) speculated Davis could leapfrog Allen for the RB2 role; as of the current Rotowire depth chart (fetched Aug 11) Allen is still listed RB2 ahead of Davis",
+    "resolved_id": "11571",
+    "resolved_team": "NYJ",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Team site (June 10, 2026) said Allen was 'pushing 250 pounds' and set for backup duties, indicating full recovery from the 2025 MCL injury"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy (recovered)",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://heavy.com/sports/nfl/new-york-jets/braelon-allen-leapfrogged-2026-depth-chart/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/new-york-jets-depth-chart-nyj",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/A/AlleBr05.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/nyj",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.newyorkjets.com/news/jets-braelon-allen-reflects-after-abrupt-end-to-second-season-01-20-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/headlines/braelon-allen-news-scores-in-overtime-loss-638581",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy (recovered)",
+   "note": "baseline from initial research pass",
+   "source": "https://heavy.com/sports/nfl/new-york-jets/braelon-allen-leapfrogged-2026-depth-chart/"
+  },
+  {
+   "date": "2026-09-22",
+   "snap_pct": 32.9,
+   "touches": 6,
+   "injury": "",
+   "role": "Clear backup behind Breece Hall (Allen 23 snaps vs Hall's 47 in Week 2)",
+   "note": "Week 2 vs GB (OT loss 20-17): 5 car for 7 yds and 1 TD, 1 target for 8 yds. [news 2026-09-21]",
+   "source": "https://www.rotowire.com/football/headlines/braelon-allen-news-scores-in-overtime-loss-638581"
+  }
+ ]
+}

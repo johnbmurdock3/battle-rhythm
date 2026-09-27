@@ -1,0 +1,125 @@
+{
+ "player_id": "13330",
+ "name": "Kenyon Sadiq",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "NYJ",
+    "note": "Drafted Round 1, Pick 16 in 2026 NFL Draft out of Oregon"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Oregon (college)",
+    "games": null,
+    "receptions": 51,
+    "rec_yards": 560,
+    "rec_td": 8,
+    "note": "Final college season: 51 catches, 560 yards, 8 TD; 2nd-team All-American, Big Ten TE of the Year"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "2026-05-07",
+   "note": "Signed rookie contract as Jets' 1st-round pick (No. 16) on 2026-05-07 per newyorkjets.com; terms not itemized in source."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "No Jets 2026 OC name or scheme-change detail found in this search; HC is Aaron Glenn."
+  },
+  "competition": [
+   {
+    "name": "Mason Taylor",
+    "age": 22,
+    "status": "Jets TE1 on first-team unofficial depth chart (Aug 10, 2026)",
+    "note": "2nd-year TE; Sadiq listed as backup behind him per newyorkjets.com Aug 10, 2026 depth chart piece.",
+    "resolved_id": "12498",
+    "resolved_team": "NYJ",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Jeremy Ruckert",
+    "age": 26,
+    "status": "veteran depth TE",
+    "note": "Existing Jets TE Sadiq joins per draft-day team fit coverage.",
+    "resolved_id": "8145",
+    "resolved_team": "NYJ",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Drafted with hope of adding 'versatility, speed and toughness' to a TE room with Mason Taylor and Jeremy Ruckert (newyorkjets.com, 2026-04-24).",
+   "Rookie status noted as Questionable per task framing; consistent with active hernia-surgery setback as of Aug 2026 camp."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Recovered from hernia/core-muscle injury suffered in camp; was active for season opener [news 2026-09-13]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "He had a little setback as we watched his exams, so he'll be out a little bit. I can't tell you exactly how long right now, but I will let you know that at some point but just expect him to be out for a little bit.",
+    "who": "HC Aaron Glenn",
+    "date": "2026-08-04"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.newyorkjets.com/news/kenyon-sadiq-has-setback-following-surgery-jets-training-camp-08-04-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.newyorkjets.com/news/kenyon-sadiq-nfl-draft-tight-end-oregon",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.newyorkjets.com/news/2026-jets-unofficial-depth-chart",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/jets/onsi/updated-jets-depth-chart-after-first-2-weeks-training-camp-rising-falling-01kzkky7yj6k",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://abc7ny.com/post/jets-rookie-te-kenyon-sadiq-miss-time-hernia-setback/19624971/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://bleacherreport.com/articles/25464146-kenyon-sadiqs-injury-timeline-updated-jets-aaron-glenn-after-hernia-setback",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Out indefinitely (setback), not ruled out for Week 1",
+   "note": "baseline from initial research pass",
+   "source": "https://www.newyorkjets.com/news/kenyon-sadiq-has-setback-following-surgery-jets-training-camp-08-04-2026"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 4,
+   "injury": "Sleeper lists Questionable/abdomen as of 9/15; he played and scored in Week 1 (9/13) and does NOT appear on the Jets 9/14 Week 2 injury report - likely cleared, keeping both data points",
+   "role": "",
+   "note": "Week 1 vs TEN: 3 rec for 21 yds + 1 rush for 3 yds and a rushing TD",
+   "source": "https://www.pro-football-reference.com/players/S/SadiKe00.htm"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Recovered from hernia/core-muscle injury suffered in camp; was active for season opener [news 2026-09-13]",
+   "role": "Active roster TE1 (depth_chart_order 1 per Sleeper)",
+   "note": "Missed camp time with hernia setback (injured ~Aug 6, expected back 'couple weeks'); coach confirmed ready and active for Week 1 opener Sept 13; no Week 2 usage stats found",
+   "source": "https://bleacherreport.com/articles/25464146-kenyon-sadiqs-injury-timeline-updated-jets-aaron-glenn-after-hernia-setback"
+  }
+ ]
+}

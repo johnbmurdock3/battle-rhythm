@@ -1,0 +1,69 @@
+{
+ "player_id": "10214",
+ "name": "Davis Allen",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LAR"
+   },
+   {
+    "season": 2026,
+    "team": "LAR"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tyler Higbee",
+    "age": 33,
+    "status": "starter",
+    "note": "TE1",
+    "resolved_id": "3271",
+    "resolved_team": "LAR",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Max Klare",
+    "age": 23,
+    "status": "rookie",
+    "note": "2026 2nd-round pick (Ohio State), primary threat to Allen's roster spot/role",
+    "resolved_id": "13278",
+    "resolved_team": "LAR",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; expected to make roster (Rams plan to keep 5 TEs) but role likely TE4/5, blocking/special-teams value with rookie Klare cutting into snaps."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/rams/onsi/rams-davis-allen-roster-preview-2026",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/rams/onsi/rams-davis-allen-roster-preview-2026"
+  }
+ ]
+}

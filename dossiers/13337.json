@@ -1,0 +1,147 @@
+{
+ "player_id": "13337",
+ "name": "Emmett Johnson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NCAA (Nebraska)"
+   },
+   {
+    "season": 2026,
+    "team": "KC"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "N/A",
+    "games": 0,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 0,
+    "td": 0,
+    "note": "Rookie; had a conference-leading 251 carries in 2025 at Nebraska (college, not NFL)."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract, not researched this pass."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Andy Reid remains HC; training under Reid and Eric Bieniemy per Yahoo Sports (2026-06-09)."
+  },
+  "competition": [
+   {
+    "name": "Kenneth Walker III",
+    "age": 25,
+    "status": "RB1",
+    "note": "Born 2000-10-20. Signed with Chiefs in free agency (3-year, $45M) on 2026-03-12, per Wikipedia \u2014 described as 'Super Bowl MVP' (Seahawks won Super Bowl LX in the 2025 season before he moved to KC). Listed RB1 on Chiefs 2026 depth chart (RotoWire) ahead of Johnson.",
+    "resolved_id": "8151",
+    "resolved_team": "KC",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Kareem Hunt",
+    "age": 31,
+    "status": "Veteran RB, Johnson competing to supplant as No. 2 option",
+    "note": "Born 1995-08-06; re-signed with Chiefs on a 1-year deal (2025-03-17).",
+    "resolved_id": "4098",
+    "resolved_team": null,
+    "resolved_pos": "RB",
+    "same_team": false
+   },
+   {
+    "name": "Brashard Smith",
+    "age": 23,
+    "status": "Getting first-team goal-line/red-zone reps, also ahead of Johnson in camp reps",
+    "note": "Yahoo Sports, 2026-08-06.",
+    "resolved_id": "12455",
+    "resolved_team": "KC",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Chiefs 2026 RB depth chart per RotoWire: 1. Kenneth Walker, 2. Emmett Johnson, 3. Emari Demercado, 4. Brashard Smith, 5. Jaydn Ott, 6. EJ Smith \u2014 but a 2026-08-06 Yahoo Sports report says Johnson is 'struggling in training camp and falling behind,' with Andy Reid saying he needs to keep his pad level lower ('You go high at this level, and you're going to get rearranged.')."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury; performance concern, not health",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "You go high at this level, and you're going to get rearranged. And you don't want that to happen.",
+    "who": "Andy Reid",
+    "date": "2026-08-06"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/rookie-rb-emmett-johnson-add-170450118.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/kansas-city-chiefs-rookie-emmett-223225946.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/kansas-city-chiefs-depth-chart-kc",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Walker_III",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Kareem_Hunt",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/chiefs-emmett-johnson-looks-good-behind-walker-in-week-1/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury; performance concern, not health",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/rookie-rb-emmett-johnson-add-170450118.html"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "Made Chiefs initial 53-man roster as RB, listed alongside Brashard Smith and Ken Walker III; rookie UDFA/late-round back praised by Andy Reid for preseason debut.",
+   "note": "On 53-man roster; RB depth behind Ken Walker III/Brashard Smith",
+   "source": "https://www.kshb.com/sports/football/chiefs/kansas-city-chiefs-announce-53-man-roster-heading-into-2026-27-regular-season"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 36,
+   "touches": 8,
+   "injury": "",
+   "role": "Rookie 5th-round RB in change-of-pace role behind Kenneth Walker (69% snaps)",
+   "note": "[news 2026-09-01] Week 1 vs DEN: 8 carries for 24 yds, 2 targets for 44 receiving yds",
+   "source": "https://www.chiefs.com/team/players-roster/emmett-johnson/"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 8,
+   "injury": "",
+   "role": "RB2 backup/handcuff behind starter Kenneth Walker",
+   "note": "Week 1 (Sept 15): 8 carries, 24 yards behind Kenneth Walker; described as top handcuff/bench stash if Walker gets hurt; no Week 2 stat line found",
+   "source": "https://www.cbssports.com/fantasy/football/news/chiefs-emmett-johnson-looks-good-behind-walker-in-week-1/"
+  }
+ ]
+}

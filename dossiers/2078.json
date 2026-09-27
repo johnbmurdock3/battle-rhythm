@@ -1,0 +1,49 @@
+{
+ "player_id": "2078",
+ "name": "Odell Beckham Jr.",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-31",
+   "role": "WR5 on 53-man roster, competing for playing time",
+   "note": "Made the Giants' 53-man roster as one of five receivers (2026-08-31) after not missing a camp practice; became front-runner for the WR5 spot after Calvin Austin III's torn ACL. No current injury.",
+   "source": "https://www.si.com/nfl/giants/onsi/giants-53-man-roster-breakdown-odell-beckham-return-01m1ce27rg94"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 0,
+   "injury": "",
+   "role": "Sleeper has him WR5 on the Giants depth chart",
+   "note": "[news 2026-09-13] Week 1 vs DAL: 0 targets, 0 rec. Not injured per team report",
+   "source": "https://www.pro-football-reference.com/players/B/BeckOd00.htm"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper lists him as NYG LWR, depth_chart_order 5 as of 2026-09-22.",
+   "note": "Was 'making a case for a roster spot' and greeted rookie QB Jaxson Dart at Giants camp [news 2026-08-20]; low depth-chart order (5) suggests limited role even if he made the roster. No September confirmation of active game status found.",
+   "source": "https://api.sleeper.app/players/nfl/2078"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://api.sleeper.app/players/nfl/2078",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

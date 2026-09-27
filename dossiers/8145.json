@@ -1,0 +1,73 @@
+{
+ "player_id": "8145",
+ "name": "Jeremy Ruckert",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYJ"
+   },
+   {
+    "season": 2026,
+    "team": "NYJ"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Mason Taylor",
+    "age": 22,
+    "status": "starter",
+    "note": "TE1 (rookie) ahead of Ruckert",
+    "resolved_id": "12498",
+    "resolved_team": "NYJ",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Kenyon Sadiq",
+    "age": 21,
+    "status": "backup",
+    "note": "TE2 ahead of Ruckert",
+    "resolved_id": "13330",
+    "resolved_team": "NYJ",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Slipped to TE3 on Jets depth chart behind rookie Mason Taylor and Kenyon Sadiq - diminished role outlook."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Jeremy_Ruckert",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NYJ",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Jeremy_Ruckert"
+  }
+ ]
+}

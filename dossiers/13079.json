@@ -1,0 +1,77 @@
+{
+ "player_id": "13079",
+ "name": "Jahdae Walker",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CHI"
+   },
+   {
+    "season": 2026,
+    "team": "CHI"
+   }
+  ],
+  "workload": [
+   {
+    "note": "2025: limited to spot duty (8-17 snaps in games), got extra run when Odunze/Burden were hurt; scored game-tying OT TD vs Green Bay Week 16"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Rome Odunze",
+    "age": 24,
+    "status": "starter",
+    "note": "ahead of Walker",
+    "resolved_id": "11620",
+    "resolved_team": "CHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Luther Burden III",
+    "age": 22,
+    "status": "starter (recently injured in 2026 camp)",
+    "note": "ahead of Walker, but injury could open camp reps",
+    "resolved_id": "12519",
+    "resolved_team": "CHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; UDFA depth WR who earns praise from coach Ben Johnson but is buried on depth chart - watch Burden's camp injury for opportunity."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.chicagobears.com/news/bears-belief-in-rookie-jahdae-walker-strong-since-training-camp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.chicagobears.com/news/bears-2026-training-camp-position-preview-receiver",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.chicagobears.com/news/bears-belief-in-rookie-jahdae-walker-strong-since-training-camp"
+  }
+ ]
+}

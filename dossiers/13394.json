@@ -1,0 +1,54 @@
+{
+ "player_id": "13394",
+ "name": "Josh Cameron",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "JAX"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "rookie deal, drafted #191 overall, 2026 draft"
+  },
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "Rookie WR drafted #191 overall by Jaguars in 2026 draft; competing for offensive depth/special teams role, not a clear starter."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/jaguars/onsi/jacksonville-rookie-progress-report-checking-in-on-josh-cameron-2026-class-after-day-7",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.jaguars.com/news/no-191-overall-cameron-is-the-selection",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/jaguars/onsi/jacksonville-rookie-progress-report-checking-in-on-josh-cameron-2026-class-after-day-7"
+  }
+ ]
+}

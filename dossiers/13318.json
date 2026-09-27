@@ -1,0 +1,85 @@
+{
+ "player_id": "13318",
+ "name": "Noah Thomas",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "CIN"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "undrafted free agent, signed May 2026"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Ja'Marr Chase",
+    "age": 26,
+    "status": "LWR1",
+    "note": "",
+    "resolved_id": "7564",
+    "resolved_team": "CIN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Colbie Young",
+    "age": 24,
+    "status": "LWR2",
+    "note": "",
+    "resolved_id": "13477",
+    "resolved_team": "CIN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Ke'Shawn Williams",
+    "age": 24,
+    "status": "LWR3",
+    "note": "all ahead of Thomas",
+    "resolved_id": "12971",
+    "resolved_team": "CIN",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Rookie UDFA out of Georgia, joined Bengals May 2026; listed 4th on LWR depth chart per Ourlads, deep roster longshot behind Chase/Higgins-led room."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.bengals.com/team/players-roster/noah-thomas/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/CIN",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.bengals.com/team/players-roster/noah-thomas/"
+  }
+ ]
+}

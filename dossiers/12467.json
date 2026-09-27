@@ -1,0 +1,95 @@
+{
+ "player_id": "12467",
+ "name": "Jordan James",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SF"
+   },
+   {
+    "season": 2026,
+    "team": "SF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Christian McCaffrey",
+    "age": 30,
+    "status": "starter",
+    "note": "RB1",
+    "resolved_id": "4034",
+    "resolved_team": "SF",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Kaleon Black",
+    "age": 24,
+    "status": "rookie",
+    "note": "3rd-round 2026 rookie, drafted specifically as competition; RB2 over James per reports",
+    "resolved_id": "13414",
+    "resolved_team": "SF",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. 49ers drafted RB Kaleon Black in 3rd round 2026 in part because 'James hardly showed anything during his rookie season'; James now RB3, at risk of losing backup role."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Out - Coach's Decision per Sleeper as of 9/15",
+   "as_of": "2026-09-15"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/49ers/onsi/49ers-post-draft-running-back-depth-chart-backup",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/headlines/jordan-james-news-four-carries-in-fourth-quarter-638619",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/49ers/onsi/49ers-post-draft-running-back-depth-chart-backup"
+  },
+  {
+   "date": "2026-08-23",
+   "injury": "Out - fractured rib suffered in practice in late July 2026; returned to practice around 8/23/2026",
+   "role": "Competing for the RB2 role against Kaelon Black behind the starter; missed the preseason opener due to the rib injury",
+   "note": "Rib fracture cost him camp reps to Kaelon Black; the RB2 competition is expected to continue into the season",
+   "source": "https://sports.yahoo.com/articles/49ers-news-bombshell-jordan-james-085900357.html"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Out - Coach's Decision per Sleeper as of 9/15",
+   "role": "Declared inactive for Week 1; buried behind McCaffrey, Brian Robinson, Isaac Guerendo and now Kaelon Black",
+   "note": "[news 2026-09-10] Healthy-scratch pattern continues into 2026; no path to touches",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-10/49ers-declare-rb-jordan-james-inactive-for-week-1"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 4,
+   "injury": "",
+   "role": "deep depth-chart RB (Sleeper order 4), limited to mop-up work",
+   "note": "4 carries for 15 yards on 8 offensive snaps (plus 9 special-teams snaps) in the Sept 21, 2026 game; all carries came in the final 7 minutes of the 4th quarter with the game decided [news 2026-09-21]. Was a Week 1 healthy scratch/inactive [news 2026-09-10].",
+   "source": "https://www.rotowire.com/football/headlines/jordan-james-news-four-carries-in-fourth-quarter-638619"
+  }
+ ]
+}

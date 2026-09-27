@@ -1,0 +1,83 @@
+{
+ "player_id": "12718",
+ "name": "Konata Mumpfield",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LAR"
+   },
+   {
+    "season": 2026,
+    "team": "LAR"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Puka Nacua",
+    "age": 25,
+    "status": "WR1",
+    "note": "Mumpfield stepped up when Nacua was injured in 2025",
+    "resolved_id": "9493",
+    "resolved_team": "LAR",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. 2025 rookie (LSU/Pittsburgh) who earned coaching staff trust; targeted in 2026 camp drills, no confirmed depth chart number beyond competing for WR5 role."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Targeted in team drills 8/1/26, cornerback broke up pass intended for him"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.therams.com/news/10-observations-from-2026-rams-training-camp-wr-cb-battles-highlight-day-6",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/rams-konata-mumpfield-works-as-starter",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/rams-konata-mumpfield-poised-for-bigger-role-sans-nacua/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-05-10",
+   "snap_pct": 32,
+   "role": "Rams' 4th WR on depth chart behind Puka Nacua, Davante Adams, and Jordan Whittington; in a three-way camp competition with CJ Daniels and Whittington for the WR3 spot as of May 2026",
+   "note": "2025 rookie season: 10 catches/92 yards/1 TD on 32% of snaps (436 total), mostly blocking; no September 2026 update found on outcome of the camp competition",
+   "source": "https://www.rotowire.com/football/player/konata-mumpfield-17081"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.therams.com/news/10-observations-from-2026-rams-training-camp-wr-cb-battles-highlight-day-6"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Elevated to WR2 behind Davante Adams with Puka Nacua (hip) and Jordan Whittington (quad) both inactive",
+   "note": "Week1 vs SF: 16 offensive snaps, 0 catches on 1 target; Rams leaning more on TEs (Parkinson/Higbee/Ferguson) in 13-personnel as an offset [news 2026-09-21]",
+   "source": "https://www.cbssports.com/fantasy/football/news/rams-konata-mumpfield-poised-for-bigger-role-sans-nacua/"
+  }
+ ]
+}

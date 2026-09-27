@@ -1,0 +1,50 @@
+{
+ "player_id": "6794",
+ "name": "Justin Jefferson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-31",
+   "role": "WR1 starter on Vikings depth chart, ahead of Jordan Addison and Jauan Jennings",
+   "note": "Starting WR1; no injury designation on Vikings report dated 8/31/26.",
+   "source": "https://www.cbssports.com/nfl/teams/MIN/minnesota-vikings/depth-chart/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 8,
+   "injury": "",
+   "role": "No injury/role concerns; clear WR1",
+   "note": "[news 2026-09-13] Week 1 vs GB: 8 rec, 92 yds, 2 TD",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-13/hes-back-jefferson-posts-8-92-2-line-in-week-1"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 3,
+   "injury": "",
+   "role": "WR1 (LWR, depth_chart_order 1) on MIN, unchanged",
+   "note": "Week 1 (9/13 vs GB, W 39-22): 8 rec/9 tgt/92 yds/2 TD. Week 2 (9/20 vs CHI, W 3-0 low-scoring): 3 rec/6 tgt/55 yds/0 TD, long 30. Volume dipped in low-scoring Week 2 game but still clear WR1 target share.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872937"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872937",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

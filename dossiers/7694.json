@@ -1,0 +1,77 @@
+{
+ "player_id": "7694",
+ "name": "Tommy Tremble",
+ "as_of": "2026-09-03",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CAR"
+   },
+   {
+    "season": 2026,
+    "team": "CAR"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "note": "career-high 234 receiving yards despite only 12 games played"
+   }
+  ],
+  "contract": {
+   "note": "recently signed new 2-year contract in 2026 offseason"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Ja'Tavion Sanders",
+    "age": 23,
+    "status": "injured",
+    "note": "TE1 recovering from broken ankle",
+    "resolved_id": "11600",
+    "resolved_team": "CAR",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Positioned to step up into larger role while Sanders recovers from injury"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported (Sleeper status: Active) as of 2026-09-03",
+   "as_of": "2026-09-03"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-03"
+ },
+ "sources": [
+  {
+   "url": "https://www.panthers.com/news/tommy-tremble-placed-on-pup-among-other-roster-moves-sam-martin",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.panthers.com/news/after-ja-tavion-sanders-injury-tommy-tremble-and-the-tight-ends-room-ready-to-step-up",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "PUP (recovering from back surgery)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.panthers.com/news/tommy-tremble-placed-on-pup-among-other-roster-moves-sam-martin"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported (Sleeper status: Active) as of 2026-09-03",
+   "role": "Listed TE1 on official Panthers depth chart, ahead of Mitchell Evans, Ja'Tavion Sanders, and Darren Waller",
+   "note": "Carolina's starting tight end entering Week 1 per team depth chart",
+   "source": "https://www.panthers.com/team/depth-chart/"
+  }
+ ]
+}

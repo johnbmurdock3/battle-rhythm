@@ -1,0 +1,160 @@
+{
+ "player_id": "7611",
+ "name": "Rhamondre Stevenson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NE"
+   },
+   {
+    "season": 2026,
+    "team": "NE"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NE",
+    "games": 14,
+    "carries": 130,
+    "targets": 37,
+    "rec": 32,
+    "yards": 603,
+    "td": 7,
+    "note": "13 starts. Rushing: 130 car/603 yds/7 TD. Receiving: 37 tgt/32 rec/345 yds/2 TD (pro-football-reference). Missed time to a turf toe injury mid-season."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Josh McDaniels",
+   "note": "HC Mike Vrabel and OC Josh McDaniels both continue into 2026 (no coaching change from 2025)."
+  },
+  "competition": [
+   {
+    "name": "TreVeyon Henderson",
+    "age": 23,
+    "status": "RB2 (as of Aug 6-7, 2026)",
+    "note": "2025 rookie who was RB1 for stretches of 2025 season (per Nov 24, 2025 report, Henderson was RB1 with Stevenson in passing/goal-line role after returning from turf toe). MOST RECENT reporting (Aug 6-7, 2026 boston.com/si.com) has this reversed: Stevenson is listed RB1 for 2026 training camp with Henderson RB2 - flag this as a real shift, not just noise.",
+    "resolved_id": "12529",
+    "resolved_team": "NE",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Antonio Gibson",
+    "age": 27,
+    "status": "Released",
+    "note": "Released by Patriots Feb 23, 2026; no longer competition for 2026.",
+    "resolved_id": "6945",
+    "resolved_team": null,
+    "resolved_pos": "RB",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "CONFLICT NOTE: Nov 24, 2025 article (profootballnetwork) describes Henderson as clear RB1 with Stevenson in change-of-pace passing/goal-line role during 2025 season. July 20, 2026 (si.com Patriots depth chart) and Aug 6-7, 2026 (boston.com stock watch) both list Stevenson as RB1 entering 2026 camp, Henderson RB2. Per 'most recent report wins,' Stevenson enters 2026 as the CURRENT lead back, but Henderson has proven capable of overtaking him in-season and profiles as the passing-down/explosive complement.",
+   "Depth behind them: rookie 7th-rounder Jam Miller viewed as favorite for RB3 spot (per si.com, Jul 20 2026), with Terrell Jennings and Lan Larison also in the mix."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Not on NE Week 3 injury report [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "Rhamondre Stevenson listed as the primary running back starter.",
+    "who": "si.com Patriots depth chart",
+    "date": "2026-07-20"
+   },
+   {
+    "quote": "Terrell Jennings competing for the third RB spot behind Rhamondre Stevenson and TreVeyon Henderson.",
+    "who": "boston.com stock watch",
+    "date": "2026-08-06"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/patriots/onsi/patriots-depth-chart-entering-training-camp-who-s-fighting-for-their-job",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.boston.com/sports/new-england-patriots/2026/08/06/new-england-patriots-training-camp-stock-watch-rising-falling-roster-cuts-trades/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/players/3125832/rhamondre-stevenson/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.profootballnetwork.com/fantasy-football/new-england-patriots-depth-chart-analysis-treveyon-henderson-behind-rhamondre-stevenson-and-antonio-gibson/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/patriots-made-clear-treveyon-henderson-154857176.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/S/StevRh00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/TreVeyon_Henderson",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Antonio_Gibson",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_New_England_Patriots_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872946",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Practicing (no injury designation)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/patriots/onsi/patriots-depth-chart-entering-training-camp-who-s-fighting-for-their-job"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported (Sleeper injury_status: None, status: Active) as of 2026-09-03",
+   "role": "Listed RB1 on official Patriots depth chart, ahead of TreVeyon Henderson (2nd) and Corey Kiner (3rd, acquired via trade from Arizona)",
+   "note": "Retains starting RB job on NE's official depth chart entering Week 1",
+   "source": "https://www.patriots.com/team/depth-chart/"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 85,
+   "touches": 23,
+   "injury": "",
+   "role": "Elevated to clear lead back with TreVeyon Henderson (ankle) out; Henderson returned to practice 9/14 and threatens to reclaim it",
+   "note": "[news 2026-09-10] Opener vs SEA: 85% snaps (60 plays), 18 car/5 rec, 95 total yards",
+   "source": "https://www.bostonglobe.com/2026/09/10/sports/patriots-snap-counts-seahawks-opener/"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 7,
+   "injury": "Not on NE Week 3 injury report [news 2026-09-21]",
+   "role": "Listed RB1 on Sleeper depth chart, but TreVeyon Henderson out-touched him heavily Week 2",
+   "note": "Week 2 vs PIT: Stevenson 6 rush/43 yds/1 rec vs Henderson 16 rush/76 yds/0 rec. Henderson is functionally the lead back despite Stevenson's depth-chart listing; role has NOT reverted back to Stevenson.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872946"
+  }
+ ]
+}

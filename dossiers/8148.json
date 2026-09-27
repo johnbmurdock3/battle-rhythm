@@ -1,0 +1,167 @@
+{
+ "player_id": "8148",
+ "name": "Jameson Williams",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DET"
+   },
+   {
+    "season": 2024,
+    "team": "DET"
+   },
+   {
+    "season": 2023,
+    "team": "DET"
+   },
+   {
+    "season": 2022,
+    "team": "DET"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "DET",
+    "games": null,
+    "carries": 0,
+    "targets": null,
+    "rec": null,
+    "yards": 1117,
+    "td": 7,
+    "note": "Tied 9th in NFL in receiving yards (1,117), averaging over 17 yards/reception. Production 'more than doubled' in the second half of 2025 after HC Dan Campbell took over play-calling duties (implying OC John Morton was sidelined/demoted from play-calling mid-season)."
+   },
+   {
+    "season": 2024,
+    "team": "DET",
+    "games": null,
+    "carries": 0,
+    "targets": null,
+    "rec": 58,
+    "yards": 1001,
+    "td": 7,
+    "note": "1,001 yards and 7 TD on 58 receptions in the 2024 regular season."
+   }
+  ],
+  "contract": {
+   "years": 3,
+   "signed": "2025 (reported by Ian Rapoport)",
+   "note": "Signed a 3-year extension worth up to $83M, running through the 2029 season. Reported Saturday evening by Ian Rapoport with team announcement the following Sunday; exact calendar date not confirmed in sources checked, but context (referencing his 2024 production) places the deal in the 2025 offseason/season, i.e., completed before the 2026 season."
+  },
+  "scheme": {
+   "oc": "Conflicting reports -- see notes",
+   "note": "John Morton was hired as Lions OC in March 2025 (confirmed via Lions.com, Mar 27, 2025 article) for the 2025 season. A later article (detroitjockcity.com, Aug 4, 2026) states Williams enters 2026 'under new offensive coordinator Drew Petzing,' implying a coordinator change after the 2025 season (consistent with HC Dan Campbell having taken over play-calling for the second half of 2025). Could not independently confirm Drew Petzing's hire date/details; flagging as the more recent (Aug 2026) claim, superseding the Mar 2025 Morton report for the 2026 season."
+  },
+  "competition": [
+   {
+    "name": "Amon-Ra St. Brown",
+    "age": 26,
+    "status": "WR1",
+    "note": "Lions' primary receiving threat; Williams is developed alongside him as the top receiving duo. No contract/age detail verified in sources checked.",
+    "resolved_id": "7547",
+    "resolved_team": "DET",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Isaac TeSlaa",
+    "age": 24,
+    "status": "WR3 (rookie, 2025)",
+    "note": "6'4\", 216 lb rookie who 'flashed in practice and preseason' in 2025, elevated to WR3 after Tim Patrick was traded away.",
+    "resolved_id": "12535",
+    "resolved_team": "DET",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Tim Patrick",
+    "age": 32,
+    "status": "traded away, no longer competition",
+    "note": "Traded from Detroit to Jacksonville on Aug 27, 2025, clearing a WR depth-chart spot (opened door for Isaac TeSlaa).",
+    "resolved_id": "4351",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "RB Jahmyr Gibbs is expected to receive heavy usage in the same offense (context, not direct WR competition).",
+   "Williams was Detroit's No. 12 overall pick in the 2022 NFL Draft.",
+   "Analyst quote (Danny Kelly, Aug 4, 2026): 'He can turn any catch into a touchdown...He's so much faster than everyone else around him.'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Minor shoulder injury mid-August 2026, cleared by Week 1",
+   "as_of": "2026-09-15"
+  },
+  "camp": [
+   {
+    "quote": "I just look forward to making a play when my name is called. I'm just trying to help the team as much as I can.",
+    "who": "Jameson Williams",
+    "date": "2026-08-02"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.detroitlions.com/news/camp-notes-detroit-lions-wr-jameson-williams-impressive-start-goff-stbrown-white",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/lions-wr-jameson-williams-agree-to-three-year-extension-worth-up-to-83-million",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://detroitjockcity.com/lions-wr-jameson-williams-poised-breakout-season-01kz5k71pysb",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.detroitlions.com/news/morton-eager-to-maximize-explosive-plays-with-lions-offense",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/onsi/fantasy/nfl/detroit-lions-trade-tim-patrick-jaguars-opening-door-isaac-teslaa",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/jameson-williams.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy, full camp participation",
+   "note": "baseline from initial research pass",
+   "source": "https://www.detroitlions.com/news/camp-notes-detroit-lions-wr-jameson-williams-impressive-start-goff-stbrown-white"
+  },
+  {
+   "date": "2026-09-03",
+   "role": "Active Lions WR (#1) alongside Amon-Ra St. Brown; specific 2026 role/target share not found in available sources",
+   "note": "No injury or suspension news found; treat as healthy per Sleeper status",
+   "source": "https://www.nfl.com/players/jameson-williams/"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 84,
+   "touches": 4,
+   "injury": "Minor shoulder injury mid-August 2026, cleared by Week 1",
+   "role": "#2 WR on DET behind Amon-Ra St. Brown",
+   "note": "[news 2026-09-13] Week 1 vs NO: 4 rec/9 tgt/45 yds",
+   "source": "https://www.rotowire.com/football/player/jameson-williams-15849"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "RWR2, depth_chart_order 2",
+   "note": "Not on DET injury report (9/21), so presumably active/healthy. Week2 (DET@BUF, lost 31-41) box score fetch returned only 1 Lions receiver (LaPorta) -- appears truncated, could NOT confirm his Week2 stat line, discarding rather than inventing. Pre-Week2 report (FantasyPros) had him at 9 targets/4 rec/45 yds in Week1 vs Saints.",
+   "source": "https://www.fantasypros.com/nfl/news/jameson-williams.php"
+  }
+ ]
+}

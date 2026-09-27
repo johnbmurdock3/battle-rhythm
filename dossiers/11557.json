@@ -1,0 +1,76 @@
+{
+ "player_id": "11557",
+ "name": "Joe Milton",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DAL"
+   },
+   {
+    "season": 2026,
+    "team": "DAL"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Dak Prescott",
+    "age": 33,
+    "status": "starter",
+    "note": "presumed QB1",
+    "resolved_id": "3294",
+    "resolved_team": "DAL",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No confirmed team change (unverified \u2014 search budget exhausted before a clean 2026 source loaded); some headline chatter ('Cowboys Predicted to Cut Ties With QB After 1 Season') suggests his roster spot for 2026 is not fully secure. Backup/dynasty-only QB value regardless."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "unverified",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://heavy.com/sports/nfl/dallas-cowboys/joe-milton-cut-ties-with-qb/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.dallascowboys.com/news/cowboys-waive-quarterback-joe-milton",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://heavy.com/sports/nfl/dallas-cowboys/joe-milton-cut-ties-with-qb/"
+  },
+  {
+   "date": "2026-09-02",
+   "role": "Cowboys' third-string QB on the practice squad, behind Dak Prescott and Sam Howell (who beat him out for the active-roster backup job)",
+   "note": "Waived by Cowboys off the 53-man roster then re-signed to the practice squad on Sept 2, 2026.",
+   "source": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-sign-qb-joe-milton-to-practice-squad"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Practice squad QB (no active depth_chart position per Sleeper) - waived from 53-man, Sam Howell kept as active backup QB to Dak Prescott",
+   "note": "Waived by DAL Aug 31, 2026; re-signed to DAL practice squad Sept 3, 2026 [news 2026-08-31 / 2026-09-03]",
+   "source": "https://www.dallascowboys.com/news/cowboys-waive-quarterback-joe-milton"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "player_id": "8200",
+ "name": "Kevin Austin",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NO"
+   },
+   {
+    "season": 2026,
+    "team": "NO"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "note": "cycled practice squad/active roster; promoted to active roster 2025-12-18"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Chris Olave",
+    "age": 26,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "8144",
+    "resolved_team": "NO",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jordyn Tyson",
+    "age": 21,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "13281",
+    "resolved_team": "NO",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; buried at WR10 on Saints depth chart, deep camp body."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Kevin_Austin_Jr.",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/new-orleans-saints-depth-chart-no",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Kevin_Austin_Jr."
+  }
+ ]
+}

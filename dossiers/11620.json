@@ -1,0 +1,151 @@
+{
+ "player_id": "11620",
+ "name": "Rome Odunze",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CHI"
+   },
+   {
+    "season": 2024,
+    "team": "CHI"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "CHI",
+    "games": 12,
+    "carries": 0,
+    "targets": 90,
+    "rec": 44,
+    "yards": 661,
+    "td": 6,
+    "note": "Limited by a foot injury for part of the season but returned for the playoffs (chicagobears.com camp preview). 6 TDs on 44 catches despite missing 5 games."
+   },
+   {
+    "season": 2024,
+    "team": "CHI",
+    "games": 17,
+    "carries": 0,
+    "targets": 101,
+    "rec": 54,
+    "yards": 734,
+    "td": 3,
+    "note": "Rookie season, full 17 games."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2024 (rookie deal)",
+   "note": "4-year, $22,724,500 rookie contract (2024-2028 per Spotrac), fully guaranteed signing bonus $13,346,908. 2 years remaining as of 2026, with a 5th-year team option available for 2028/2029. Not extension-eligible yet in 2026; scheduled for unrestricted free agency in 2029 absent action."
+  },
+  "scheme": {
+   "oc": "Ben Johnson (HC, play-calling background as former Lions OC)",
+   "note": "Ben Johnson is Bears head coach (hired prior to 2025 season); no OC change specifically identified for 2026 in sources checked, but WR Kalif Raymond was specifically brought in for his prior connection to Johnson from Detroit."
+  },
+  "competition": [
+   {
+    "name": "DJ Moore",
+    "age": 29,
+    "status": "Traded away",
+    "note": "Per chicagobears.com camp preview, Moore -- who led Bears receivers in 2025 -- was traded to the Buffalo Bills, removing the team's top target ahead of Odunze. This is a significant target-share opening for Odunze in 2026.",
+    "resolved_id": "4983",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": false
+   },
+   {
+    "name": "Luther Burden III",
+    "age": 22,
+    "status": "WR2, second-year player",
+    "note": "47 receptions, 652 yards, 2 TD in 2025 (rookie year). HC Ben Johnson (end of May 2026 OTAs): 'I'm buying Luther Burden stock right now.'",
+    "resolved_id": "12519",
+    "resolved_team": "CHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Kalif Raymond",
+    "age": 31,
+    "status": "WR3, veteran/returner",
+    "note": "Age 31 going on 32; signed for his familiarity with Ben Johnson's scheme from Detroit.",
+    "resolved_id": "3634",
+    "resolved_team": "CHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Colston Loveland",
+    "age": 22,
+    "status": "TE, competing target",
+    "note": "Per chicagobears.com, Loveland (TE) had a higher 2025 receiving total than Odunze, indicating a crowded target tree even with Moore gone.",
+    "resolved_id": "12517",
+    "resolved_team": "CHI",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Apr 30, 2026 SI depth-chart article lists Odunze as WR1 on the Bears' post-draft depth chart (ahead of Burden, Raymond, Jahdae Walker, Zavion Thomas, JP Richardson) -- though this predates the DJ Moore trade context noted in the later camp preview; DJ Moore's departure appears to be the more recent, decision-relevant change.",
+   "Odunze quote (date unspecified, chicagobears.com preview): 'I feel like for me, I'm trying to be excellent in every single category.'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Fully recovered, full participant in offseason program and camp",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "My foot feels great. My foot feels amazing...it's not even really something that I think about anymore",
+    "who": "Rome Odunze",
+    "date": "2026-07-30"
+   },
+   {
+    "quote": "I'm buying Luther Burden stock right now.",
+    "who": "HC Ben Johnson",
+    "date": "2026-05-31"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.chicagobears.com/news/bears-2026-training-camp-position-preview-receiver",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://bleacherreport.com/articles/25460029-bears-rome-odunze-clarifies-foot-injury-comments-says-he-doesnt-have-chronic-condition",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/O/OdunRo00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.spotrac.com/nfl/player/_/id/90338/rome-odunze",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/bears/onsi/depth-chart-roster-draft-2026-otas",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://beargoggleson.com/rome-odunze-highlight-catch-at-chicago-bears-training-camp-should-erase-foot-concerns",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Fully recovered, full participant in offseason program and camp",
+   "note": "baseline from initial research pass",
+   "source": "https://www.chicagobears.com/news/bears-2026-training-camp-position-preview-receiver"
+  }
+ ]
+}

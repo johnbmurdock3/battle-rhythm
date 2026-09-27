@@ -1,0 +1,140 @@
+{
+ "player_id": "12533",
+ "name": "Jacory Croskey-Merritt",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "WAS"
+   },
+   {
+    "season": 2026,
+    "team": "WAS"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "WAS",
+    "games": null,
+    "carries": null,
+    "targets": null,
+    "rec": null,
+    "yards": 805,
+    "td": 8,
+    "note": "805 rush yds, 8 rush TD as a rookie (led all rookie RBs in TDs), incl. 150 yds/2 TD vs Chargers and 105 yds/2 TD vs Cowboys. Games/carries/targets/receptions not verified."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "David Blough",
+   "note": "Commanders dismissed OC Kliff Kingsbury after 2025; David Blough elevated from assistant QB coach to OC for 2026. HC Dan Quinn continues (3rd season)."
+  },
+  "competition": [
+   {
+    "name": "Rachaad White",
+    "age": 27,
+    "status": "RB2 depth chart",
+    "note": "Signed 1-year, $2M deal with WAS on 2026-03-13 (ex-Tampa Bay). Ourlads WAS depth chart.",
+    "resolved_id": "8136",
+    "resolved_team": "WAS",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Kaytron Allen",
+    "age": 23,
+    "status": "RB3 depth chart (rookie)",
+    "note": "Drafted round 6, pick 187 (or 174 per one source), 2026 draft, Penn State. Ourlads WAS depth chart.",
+    "resolved_id": "13405",
+    "resolved_team": "WAS",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Ourlads depth chart order (2026): Jacory Croskey-Merritt (RB1), Rachaad White (RB2), Kaytron Allen (RB3), Jeremy McNichols (RB4), Jerome Ford (RB5).",
+   "Washington traded incumbent Brian Robinson Jr. to San Francisco for a 6th-round pick, clearing the path for Croskey-Merritt as lead back.",
+   "Austin Ekeler (age 30) suffered a season-ending Achilles tear in Week 1 of 2025 (IR 2025-09-15); he does not appear on the current Ourlads WAS RB depth chart, suggesting he is no longer on the roster - unverified."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Restricted practice reps all Week 1 prep due to a lower-body injury; played without an official game designation. Sleeper lists Questionable (undisclosed) as of 9/15",
+   "as_of": "2026-09-15"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Jacory_Croskey-Merritt",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/WAS",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Austin_Ekeler",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Rachaad_White",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Kaytron_Allen",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/commanders/onsi",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/609349/jacory-croskey-merritt-sees-12-carries-week-2-loss.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-06-18",
+   "role": "Positioned as the lead back in a Commanders RB committee \u2014 Rachaad White as third-down back, Kaytron Allen for short-yardage/goal-line \u2014 after leading the team with 805 rush yards and 8 TDs (4.6 YPC) as a 7th-round rookie in 2025; visibly added muscle for an expanded 2026 role, though pass-pro/receiving cited as areas to improve",
+   "note": "Expected lead/starting back in a committee entering 2026",
+   "source": "https://sports.yahoo.com/articles/commanders-rb-jacory-croskey-merritt-094018613.html"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Jacory_Croskey-Merritt"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 16,
+   "injury": "Restricted practice reps all Week 1 prep due to a lower-body injury; played without an official game designation. Sleeper lists Questionable (undisclosed) as of 9/15",
+   "role": "RB1 for Washington",
+   "note": "[news 2026-09-13] 16 carries for 63 yds and 1 TD in Week 1 despite limited practice",
+   "source": "https://www.bing.com/news/search?q=Jacory+Croskey-Merritt+Commanders+injury+week+2"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 12,
+   "injury": "",
+   "role": "Early-down/RB1 carry work; Rachaad White getting the receiving-back role (targeted 6-to-1 over JCM in Week2)",
+   "note": "Week2 vs DAL: 12 carries/43 yds, 1 target/5 yds [news 2026-09-20]",
+   "source": "https://www.fantasypros.com/nfl/news/609349/jacory-croskey-merritt-sees-12-carries-week-2-loss.php"
+  }
+ ]
+}

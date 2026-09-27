@@ -1,0 +1,35 @@
+{
+ "player_id": "BAL",
+ "name": "Baltimore Ravens",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "",
+   "note": "Week 3 opponent: at Dallas Cowboys. Key defensive injuries per CBS (Sept 21): Nnamdi Madubuike (DT, neck) Questionable; Teddye Buchanan (LB, ACL) Questionable; T.J. Tampa (CB, knee) IR; Bilhal Kone (CB) IR. WR Zay Flowers (hamstring) also Questionable. Week 2 points allowed vs NO could not be verified from available sources.",
+   "source": "https://www.cbssports.com/nfl/teams/BAL/baltimore-ravens/injuries/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/teams/BAL/baltimore-ravens/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

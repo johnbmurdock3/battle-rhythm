@@ -1,0 +1,73 @@
+{
+ "player_id": "12475",
+ "name": "Ricky White",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SEA"
+   },
+   {
+    "season": 2026,
+    "team": "SEA"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Cooper Kupp",
+    "age": 33,
+    "status": "starter",
+    "note": "slot WR1 ahead of White - veteran free-agent signing",
+    "resolved_id": "4039",
+    "resolved_team": "SEA",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Emmanuel Henderson Jr.",
+    "age": 23,
+    "status": "backup",
+    "note": "slot WR2 ahead of White",
+    "resolved_id": "13313",
+    "resolved_team": "SEA",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Seahawks signed veteran Cooper Kupp to play slot WR, pushing White to 3rd string; his target share outlook has worsened."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Ricky_White_III",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/SEA",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Ricky_White_III"
+  }
+ ]
+}

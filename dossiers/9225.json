@@ -1,0 +1,97 @@
+{
+ "player_id": "9225",
+ "name": "Tank Bigsby",
+ "as_of": "2026-09-15",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "PHI (traded mid-season from JAX)"
+   },
+   {
+    "season": 2026,
+    "team": "PHI"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "traded for 2026 5th- and 6th-round picks"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Saquon Barkley",
+    "age": 29,
+    "status": "starter",
+    "note": "RB1, reigning Offensive Player of the Year",
+    "resolved_id": "4866",
+    "resolved_team": "PHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Will Shipley",
+    "age": 23,
+    "status": "backup",
+    "note": "had a rib injury during 2025 season opener, timeline for 2026 unclear from source",
+    "resolved_id": "11577",
+    "resolved_team": "PHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "A.J. Dillon",
+    "age": 28,
+    "status": "depth",
+    "note": "",
+    "resolved_id": "6828",
+    "resolved_team": "CAR",
+    "resolved_pos": "RB",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "Team change already happened: traded JAX -> PHI on 2025-09-08 (mid last season). For 2026 he's part of a crowded Eagles RB room (Barkley, Shipley, Dillon) as clear backup/handcuff depth \u2014 touches capped behind an elite starter."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Toe issue; returned to practice ~9/12",
+   "as_of": "2026-09-15"
+  },
+  "camp": [
+   "emerging as a training-camp 'focal point' per one 2026 report"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-15"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/news/tank-bigsby-traded-to-eagles-reigning-super-bowl-champions-add-rb-depth-behind-saquon-barkley-per-report",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/nfl/news/tank-bigsby-traded-to-eagles-reigning-super-bowl-champions-add-rb-depth-behind-saquon-barkley-per-report"
+  },
+  {
+   "date": "2026-08-20",
+   "injury": "Toe injury, returned to practice ~Aug 20, 2026",
+   "role": "Primary backup RB to Saquon Barkley in Philadelphia with an expanded receiving role",
+   "note": "Traded from Jacksonville to Philadelphia; missed camp time with toe injury but returned to practice; being tested more as a receiver",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-19/tank-bigsby-toe-returns-to-practice"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Toe issue; returned to practice ~9/12",
+   "role": "TEAM CHANGE: traded Jacksonville to Philadelphia; RB2 behind Saquon Barkley, the primary handcuff",
+   "note": "[news 2026-09-12] Team change confirmed via depth chart and news",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/PHI"
+  }
+ ]
+}

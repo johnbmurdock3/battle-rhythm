@@ -1,0 +1,45 @@
+{
+ "player_id": "4971",
+ "name": "Derwin James",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported (played full workload)",
+   "as_of": "2026-09-15"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "injury": "None reported (played full workload)",
+   "role": "Still Chargers top safety",
+   "note": "[news 2026-09-13] Week 1 vs ARI: 10 tackles in 26-14 loss",
+   "source": "https://clutchpoints.com/nfl/los-angeles-chargers/chargers-news-derwin-james-week-1-downfall"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "",
+   "note": "Sleeper API shows no injury designation; no fresh Week 2/3 news found, most recent item is a contract extension from ~14 weeks ago - no notable news found",
+   "source": "https://www.fantasypros.com/nfl/news/derwin-james.php"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.fantasypros.com/nfl/news/derwin-james.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

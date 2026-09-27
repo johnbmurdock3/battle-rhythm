@@ -1,0 +1,131 @@
+{
+ "player_id": "5849",
+ "name": "Kyler Murray",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "ARI"
+   },
+   {
+    "season": 2026,
+    "team": "MIN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "ARI",
+    "games": 5,
+    "pass_yards": 962,
+    "pass_td": 6,
+    "int": 3,
+    "note": "5 GS, 110/161 passing; plus 29 carries for 173 rush yards, 1 rush TD; season ended by right midfoot ligament injury in Week 5, IR 2025-11-05, ruled out for season 2025-12-05. Per Pro-Football-Reference / Wikipedia."
+   }
+  ],
+  "contract": {
+   "years": 1,
+   "signed": "2026-03-12",
+   "note": "1-year, veteran-minimum contract with Minnesota Vikings per Wikipedia"
+  },
+  "scheme": {
+   "oc": "Wes Phillips",
+   "note": "HC Kevin O'Connell (extended through multi-year deal signed Jan 2025); no HC change. Per Vikings.com."
+  },
+  "competition": [
+   {
+    "name": "J.J. McCarthy",
+    "age": 23,
+    "status": "Listed QB2 on Vikings RotoWire depth chart behind Murray (born 2003-01-20); dealt with injuries during 2025 season per Wikipedia",
+    "note": "",
+    "resolved_id": "11565",
+    "resolved_team": "MIN",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Carson Wentz",
+    "age": 33,
+    "status": "Listed QB3",
+    "note": "",
+    "resolved_id": "3161",
+    "resolved_team": "MIN",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Murray is listed QB1 on Minnesota's RotoWire depth chart as of 2026-08-11, ahead of 2024 first-round pick J.J. McCarthy.",
+   "Arizona released/moved on from Murray after his 2025 season-ending foot injury; he signed with Minnesota at veteran-minimum in March 2026 \u2014 a notable pay cut, suggesting a 'prove it' role, though he currently sits atop the depth chart."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Out - Concussion, per NFL.com injury report and Sleeper API, checked 2026-09-22",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Kyler_Murray",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/M/MurrKy00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/minnesota-vikings-depth-chart-min",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sicscore.com/nfl/players/kyler-murray",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.vikings.com/team/coaches-roster/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/J.J._McCarthy",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Recovered from 2025 right midfoot ligament injury",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Kyler_Murray"
+  },
+  {
+   "date": "2026-08-12",
+   "role": "Named Vikings starting QB1 over J.J. McCarthy (Aug 12, 2026)",
+   "note": "Team change: now with Minnesota Vikings, won QB1 job over J.J. McCarthy in August 2026 camp battle. McCarthy (not Murray) is questionable Week 1 with an ankle injury per Aug 31 Vikings injury report.",
+   "source": "https://www.espn.com/nfl/story/_/id/49583297/vikings-name-kyler-murray-starting-qb-sources-say"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "IN CONCUSSION PROTOCOL after a helmet hit from GB's Javon Bullard in Week 1; considered likely to miss the next game as of 9/15",
+   "role": "TEAM CHANGE: signed with Minnesota for 2026 and named starter (previously Arizona); Carson Wentz expected to start if Murray remains out",
+   "note": "[news 2026-09-14] Left his Week 1 Vikings debut in the first quarter",
+   "source": "https://www.bing.com/news/search?q=Kyler+Murray+concussion+status+week+2"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Out - Concussion, per NFL.com injury report and Sleeper API, checked 2026-09-22",
+   "role": "Team change: now Minnesota Vikings QB1 (was Arizona) per Sleeper depth chart. Remains in concussion protocol, listed Out.",
+   "note": "Confirms user's 9/15 note that he was in concussion protocol; still Out as of this check. Also traded to MIN since last refresh.",
+   "source": "https://www.nfl.com/injuries/"
+  }
+ ]
+}

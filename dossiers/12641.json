@@ -1,0 +1,87 @@
+{
+ "player_id": "12641",
+ "name": "Jaylin Lane",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "WAS"
+   },
+   {
+    "season": 2026,
+    "team": "WAS"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Terry McLaurin",
+    "age": 30,
+    "status": "WR1 (outside)",
+    "note": "",
+    "resolved_id": "5927",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Luke McCaffrey",
+    "age": 25,
+    "status": "slot WR1",
+    "note": "ahead of Lane in slot",
+    "resolved_id": "11650",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Described as 'buried down the depth chart' per 8/3/26 article (slot WR2 behind Luke McCaffrey), working to increase his role. Note: an Ourlads WAS depth chart pull surfaced 'Stefon Diggs' at RWR for Washington, which conflicts with other reporting placing Diggs in New England -- treat that specific depth-chart pull as unreliable/low confidence."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Cleared from groin injury, removed from injury report, played Week2 [news 2026-09-18]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://riggosrag.com/jaylin-lane-breathing-new-life-precarious-washington-commanders-outlook",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-18/lane-groin-good-to-go-for-week-2-against-cowboys",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-07-13",
+   "snap_pct": 37,
+   "role": "Rookie 2025 season: 16 catches/225 yards on 37% offensive snaps, mostly a punt returner (23 PR for 314 yards, 2 TD). Projected for expanded 2026 passing-game role per Bleacher Report (Jul 13, 2026); competing for WR2 vs Treylon Burks, Luke McCaffrey, Dyami Brown, rookie Antonio Williams",
+   "note": "Increased offensive role expected in Year 2, but WR2 job still contested as of mid-July 2026",
+   "source": "https://heavy.com/sports/nfl/washington-commanders/breakout-role-wide-receiver-jaylin-lane/"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://riggosrag.com/jaylin-lane-breathing-new-life-precarious-washington-commanders-outlook"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Cleared from groin injury, removed from injury report, played Week2 [news 2026-09-18]",
+   "role": "",
+   "note": "Was on injury report with groin injury heading into Week2 vs Cowboys but was cleared to play; no post-game usage stats found",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-18/lane-groin-good-to-go-for-week-2-against-cowboys"
+  }
+ ]
+}

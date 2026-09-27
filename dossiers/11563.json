@@ -1,0 +1,52 @@
+{
+ "player_id": "11563",
+ "name": "Bo Nix",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Recovered from Jan 2026 ankle-fracture surgery plus a reported follow-up procedure; no current game-status tag, played Week 1",
+   "as_of": "2026-09-15"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-02",
+   "injury": "Recovered from fractured right ankle suffered in the divisional round playoff loss to Buffalo; full participation, no limitations reported.",
+   "role": "Unquestioned starting QB; Broncos open the season vs Kansas City on Sept 14.",
+   "note": "Coach Sean Payton says team is on track; Nix says he feels normal and expects to keep using his mobility.",
+   "source": "https://www.cbssports.com/nfl/news/bo-nix-injury-update-broncos-qb/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Recovered from Jan 2026 ankle-fracture surgery plus a reported follow-up procedure; no current game-status tag, played Week 1",
+   "role": "Remains Broncos starting QB",
+   "note": "[news 2026-09-14] Week 1 vs KC: 17/28 for 131 yds, 1 TD, 1 INT, 3 fumbles (1 lost) in a 31-10 loss",
+   "source": "https://www.rotowire.com/football/headlines/bo-nix-news-miserable-showing-in-week-1-loss-637486"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "",
+   "note": "Week 2 vs JAX (W 20-13): 22/31, 288 yds, 1 TD, 1 INT. No injury designation. [news 2026-09-20]",
+   "source": "https://www.statmuse.com/nfl/ask/bo-nix-after-week-2-stats"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.statmuse.com/nfl/ask/bo-nix-after-week-2-stats",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

@@ -1,0 +1,86 @@
+{
+ "player_id": "7600",
+ "name": "Pat Freiermuth",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "PIT"
+   },
+   {
+    "season": 2026,
+    "team": "PIT"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Darnell Washington",
+    "age": 24,
+    "status": "backup",
+    "note": "TE2, blocking-oriented",
+    "resolved_id": "9479",
+    "resolved_team": "PIT",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Freiermuth is the clear TE1 in Pittsburgh, listed first on the depth chart ahead of Washington and Tonyan - best reception-scoring value among Steelers TEs."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Not on PIT Week 3 injury report [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/PIT",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872946",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/PIT"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported",
+   "role": "Starting TE on Steelers depth chart, ahead of Darnell Washington and Robert Tonyan",
+   "note": "No injury or role-change news found; remains TE1",
+   "source": "https://www.cbssports.com/nfl/teams/PIT/pittsburgh-steelers/depth-chart/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 5,
+   "injury": "",
+   "role": "TE1 in Pittsburgh passing game",
+   "note": "[news 2026-09-14] Week 1 vs ATL: 5 rec/5 tgt/46 yds/1 TD",
+   "source": "https://www.fantasypros.com/nfl/news/607787/pat-freiermuth-finds-end-zone-week-1-win.php"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 4,
+   "injury": "Not on PIT Week 3 injury report [news 2026-09-21]",
+   "role": "TE1, depth order 1 per Sleeper",
+   "note": "Week 2 @ NE: 4 rec/5 tgt/32 yds. Healthy, featured TE1 role.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872946"
+  }
+ ]
+}

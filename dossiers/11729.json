@@ -1,0 +1,95 @@
+{
+ "player_id": "11729",
+ "name": "Sione Vaki",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DET"
+   },
+   {
+    "season": 2026,
+    "team": "DET"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jahmyr Gibbs",
+    "age": 24,
+    "status": "questionable",
+    "note": "RB1",
+    "resolved_id": "9221",
+    "resolved_team": "DET",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Isiah Pacheco",
+    "age": 27,
+    "status": "questionable",
+    "note": "RB2, offseason FA addition",
+    "resolved_id": "8205",
+    "resolved_team": "DET",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; Pacheco signing pushed Vaki to RB3, and reports flag his roster spot as uncertain amid camp RB depth."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy. Earlier camp had a non-displaced nose fracture/eye contusion (~2026-08-16, returned that same week) but by 2026-08-29 he was fully cleared; DNP in the preseason finale vs Colts was a rest decision, not injury-related.",
+   "as_of": "2026-08-29"
+  },
+  "camp": [
+   "Multiple outlets discussing Vaki's roster standing being 'in jeopardy' after Pacheco signing"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/detroit-lions-depth-chart-det",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://detroitjockcity.com/sione-vaki-lions-future-jeopardy-latest-rb-signing-01kz97a1kyyj",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/lions-sione-vaki-gets-two-touches-in-loss/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "questionable",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/detroit-lions-depth-chart-det"
+  },
+  {
+   "date": "2026-08-29",
+   "injury": "Healthy. Earlier camp had a non-displaced nose fracture/eye contusion (~2026-08-16, returned that same week) but by 2026-08-29 he was fully cleared; DNP in the preseason finale vs Colts was a rest decision, not injury-related.",
+   "role": "With starting RB Isiah Pacheco sidelined by a back injury, Vaki is positioned as the backup to Jahmyr Gibbs heading into Week 1 vs New Orleans.",
+   "note": "Sleeper's API shows 'Questionable' as of 2026-09-03, but the most recent (8/29) report describes him as healthy and in line for real Week 1 backup-RB usage behind Gibbs; the Questionable tag may be stale (possibly referencing an old Dec 2025 thumb-injury designation).",
+   "source": "https://www.cbssports.com/fantasy/football/news/lions-sione-vaki-dnp-while-healthy/"
+  },
+  {
+   "date": "2026-09-22",
+   "snap_pct": 16.9,
+   "touches": 2,
+   "injury": "",
+   "role": "Backup behind starter Jahmyr Gibbs; unlikely to see meaningful touches barring a Gibbs injury",
+   "note": "Week 2: 11 of 65 offensive snaps (~17%), 1 carry for 7 yards + 1 catch for 13 yards (2 total touches) [news 2026-09-18]",
+   "source": "https://www.cbssports.com/fantasy/football/news/lions-sione-vaki-gets-two-touches-in-loss/"
+  }
+ ]
+}

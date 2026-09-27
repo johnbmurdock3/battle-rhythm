@@ -1,0 +1,75 @@
+{
+ "player_id": "7562",
+ "name": "Tutu Atwell",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LAR"
+   },
+   {
+    "season": 2026,
+    "team": "MIA"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Malik Washington",
+    "age": 25,
+    "status": "WR1",
+    "note": "",
+    "resolved_id": "11610",
+    "resolved_team": "MIA",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jalen Tolbert",
+    "age": 27,
+    "status": "WR2",
+    "note": "",
+    "resolved_id": "8117",
+    "resolved_team": "MIA",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: traded/signed from Rams to Dolphins in 2026; multiple headlines call him 'emerging atop depth chart' in Miami's overhauled WR room, currently WR3."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "RotoWire headline: 'Emerging atop depth chart'"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/headlines/tutu-atwell-news-emerging-atop-depth-chart-632565",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/miami-dolphins-depth-chart-mia",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/headlines/tutu-atwell-news-emerging-atop-depth-chart-632565"
+  }
+ ]
+}

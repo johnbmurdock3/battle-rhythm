@@ -1,0 +1,47 @@
+{
+ "player_id": "11539",
+ "name": "Jake Bates",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-03",
+   "note": "Identity resolved via Sleeper API only; no news search performed for this ID (not in original news-search list) beyond identity confirmation.",
+   "source": "https://api.sleeper.app/players/nfl/11539"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Unchallenged starting kicker",
+   "note": "No notable news found; Week 1 kicking line unavailable from source fetched",
+   "source": "https://www.detroitlions.com/team/depth-chart/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "K1 (depth_chart_order 1)",
+   "note": "Perfect again in Week 2: 4 XP made, 1 FG made (31 yds) in 41-31 loss to BUF; through 2 games: 8 XP made, 2 FG made [news 2026-09-18]",
+   "source": "https://www.cbssports.com/fantasy/football/news/lions-jake-bates-perfect-again-in-week-2/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/lions-jake-bates-perfect-again-in-week-2/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

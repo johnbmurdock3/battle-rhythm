@@ -1,0 +1,97 @@
+{
+ "player_id": "8180",
+ "name": "Jalen Nailor",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "MIN"
+   },
+   {
+    "season": 2026,
+    "team": "LV"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tre Tucker",
+    "age": 25,
+    "status": "starter",
+    "note": "LWR1, separate WR spot from Nailor",
+    "resolved_id": "10213",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jack Bech",
+    "age": 23,
+    "status": "starter",
+    "note": "slot WR1, separate WR spot from Nailor",
+    "resolved_id": "12483",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: moved from Minnesota to Las Vegas for 2026 (ourlads Raiders depth chart lists him as primary right-WR with a 'U/Min' acquisition tag; he no longer appears on the Vikings depth chart). Now listed as RWR1 for Raiders -- a notable role bump if confirmed, but this specific move could not be double-corroborated with a second source in this pass due to a tool rate limit; treat as medium confidence pending verification."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None -- not on LV injury report (9/21)",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/LV",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/MIN",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/LV/las-vegas-raiders/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/LV"
+  },
+  {
+   "date": "2026-09-03",
+   "role": "Active Raiders WR (#9) alongside Jack Bech, Malik Benson, Tre Tucker",
+   "note": "Team change confirmed: now with Las Vegas Raiders; exact depth order not confirmed",
+   "source": "https://www.nfl.com/teams/las-vegas-raiders/roster"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "TEAM CHANGE: signed with Raiders in 2026 free agency, reunited with QB Kirk Cousins; TE Brock Bowers (knee) out could push targets his way",
+   "note": "[news 2026-09-12] Made Raiders debut vs MIA in Week 1; no confirmed box-score stats found",
+   "source": "https://www.raiders.com/news/2026-position-breakdown-wide-receivers-jalen-nailor-jack-bech-tre-tucker-raiders"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "None -- not on LV injury report (9/21)",
+   "role": "RWR2, depth_chart_order 2",
+   "note": "TEAM CHANGE: Sleeper lists LV (confirmed 2x independent fetches), not Minnesota. Not among LV's Week2 inactives list (which included TE1 Brock Bowers, out with knee/meniscus). Week2 individual stat line not retrieved -- Bowers' absence could raise his target share, worth checking box score next refresh.",
+   "source": "https://www.cbssports.com/nfl/teams/LV/las-vegas-raiders/injuries/"
+  }
+ ]
+}

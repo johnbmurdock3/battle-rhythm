@@ -1,0 +1,138 @@
+{
+ "player_id": "8205",
+ "name": "Isiah Pacheco",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "KC"
+   },
+   {
+    "season": 2026,
+    "team": "DET"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "KC",
+    "games": 13,
+    "carries": 118,
+    "rush_yards": 462,
+    "rush_td": 1,
+    "receptions": 19,
+    "rec_yards": 101,
+    "rec_td": 1,
+    "note": "12 GS; per Pro-Football-Reference"
+   }
+  ],
+  "contract": {
+   "years": 1,
+   "signed": "2026-03-12",
+   "note": "1-year, $1.81M deal with Detroit Lions per Wikipedia (Chiefs did not re-sign him)"
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Lions HC remains Dan Campbell per FantasyPros camp quote (2026-08-10); OC not independently verified this pass"
+  },
+  "competition": [
+   {
+    "name": "Jahmyr Gibbs",
+    "age": 24,
+    "status": "RB1 on Lions depth chart (born 2002-03-20), also listed Questionable",
+    "note": "Per RotoWire depth chart",
+    "resolved_id": "9221",
+    "resolved_team": "DET",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Sione Vaki",
+    "age": 25,
+    "status": "RB3 on Lions depth chart, also listed Questionable",
+    "note": "",
+    "resolved_id": "11729",
+    "resolved_team": "DET",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Pacheco listed RB2 on Detroit's RotoWire depth chart behind Jahmyr Gibbs as of fetch on 2026-08-11.",
+   "Both Gibbs and Pacheco carry Questionable tags on that depth chart snapshot."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Back, IR, expected return Week 13 [news 2026-09-21 CBS]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "We feel pretty good about him being ready to go, especially when the season gets here.",
+    "who": "Lions HC Dan Campbell",
+    "date": "2026-08-10"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Isiah_Pacheco",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/P/PachIs00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/detroit-lions-depth-chart-det",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/isiah-pacheco.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jahmyr_Gibbs",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/DET/detroit-lions/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Sprained MCL; expected available for Week 1",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Isiah_Pacheco"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "Knee - Injured Reserve, expected to miss at least four games",
+   "role": "Traded from Kansas City Chiefs to Detroit Lions (Lions signed him following a David Montgomery trade); currently on IR behind Jahmyr Gibbs",
+   "note": "Roster status shows RES (reserve/IR). Per NFL Network's Mike Garafolo: 'Lions RB Isiah Pacheco (knee) will miss at least four games.' No exact date found for the trade or IR placement",
+   "source": "https://www.nfl.com/players/isiah-pacheco/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Back injury and MCL sprain; placed on IR ~9/8, out at least 4 games, earliest return Week 5 vs ARI",
+   "role": "TEAM CHANGE KC to DET; Jacob Saylors is the backup behind Gibbs during the IR stint",
+   "note": "[news 2026-09-08] Team change plus new injury - value suppressed through at least Week 4",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/DET"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 0,
+   "injury": "Back, IR, expected return Week 13 [news 2026-09-21 CBS]",
+   "role": "RB4 depth chart, Injured Reserve/Inactive",
+   "note": "TEAM CHANGE: now Detroit Lions (Sleeper confirmed independently + corroborated on DET's official CBS injury report), not Kansas City. On IR with back injury, expected return Week 13 -- not fantasy relevant short-term.",
+   "source": "https://www.cbssports.com/nfl/teams/DET/detroit-lions/injuries/"
+  }
+ ]
+}

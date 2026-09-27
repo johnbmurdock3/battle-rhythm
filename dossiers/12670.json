@@ -1,0 +1,103 @@
+{
+ "player_id": "12670",
+ "name": "KeAndre Lambert-Smith",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LAC"
+   },
+   {
+    "season": 2026,
+    "team": "LAC"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Ladd McConkey",
+    "age": 24,
+    "status": "WR1",
+    "note": "",
+    "resolved_id": "11635",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Quentin Johnston",
+    "age": 24,
+    "status": "WR2",
+    "note": "",
+    "resolved_id": "9754",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Tre' Harris",
+    "age": 24,
+    "status": "WR3",
+    "note": "",
+    "resolved_id": "12509",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Brenen Thompson",
+    "age": 23,
+    "status": "WR4",
+    "note": "",
+    "resolved_id": "13380",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Derius Davis",
+    "age": 25,
+    "status": "WR5",
+    "note": "",
+    "resolved_id": "10234",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; ranked WR6 on Chargers depth chart per team's own release; one headline notes he 'has his work cut out for him' in camp"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": "No injury reported"
+  },
+  "camp": [
+   "Behind five other WRs on team-released depth chart"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.chargers.com/news/depth-chart-2026-season",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.chargers.com/news/depth-chart-2026-season"
+  }
+ ]
+}

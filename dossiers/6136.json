@@ -1,0 +1,78 @@
+{
+ "player_id": "6136",
+ "name": "Jarrett Stidham",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "DEN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Bo Nix",
+    "age": 26,
+    "status": "starter",
+    "note": "entrenched ascending QB1 ahead of Stidham",
+    "resolved_id": "11563",
+    "resolved_team": "DEN",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Broncos depth chart (ourlads, confirmed): 1. Bo Nix, 2. Jarrett Stidham, 3. Sam Ehlinger. Stidham is QB2 behind a young, healthy, entrenched starter \u2014 low superflex priority."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "not checked this pass"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/DEN",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/6136",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/DEN"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "QB2 on Broncos depth chart, backup to starter Bo Nix (Sam Ehlinger is QB3)",
+   "note": "Backup QB behind Bo Nix; not on Broncos injury report dated 8/31/26.",
+   "source": "https://www.cbssports.com/nfl/teams/DEN/denver-broncos/depth-chart/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "QB2 on DEN depth chart (Sleeper depth_chart_order 2), backup",
+   "note": "Broncos beat JAX in Week 2 (9/20); Stidham did not see game action as backup QB. No notable news found otherwise.",
+   "source": "https://api.sleeper.app/players/nfl/6136"
+  }
+ ]
+}

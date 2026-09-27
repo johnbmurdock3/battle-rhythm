@@ -1,0 +1,118 @@
+{
+ "player_id": "13410",
+ "name": "Chase Roberts",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "LV"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "UDFA, $267,500 guaranteed - 2nd most in Raiders UDFA class"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tre Tucker",
+    "age": 25,
+    "status": "starter",
+    "note": "surest bet on roster",
+    "resolved_id": "10213",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jalen Nailor",
+    "age": 27,
+    "status": "starter",
+    "note": "",
+    "resolved_id": "8180",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jack Bech",
+    "age": 23,
+    "status": "2nd year",
+    "note": "",
+    "resolved_id": "12483",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Dont'e Thornton Jr.",
+    "age": 23,
+    "status": "2nd year",
+    "note": "",
+    "resolved_id": "12541",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Malik Benson",
+    "age": 23,
+    "status": "rookie",
+    "note": "",
+    "resolved_id": "13329",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Undrafted 2026 rookie fighting for a roster spot in a crowded 12-man WR room with only ~6 spots; deep camp sleeper only, not a real 2026 fantasy asset yet."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Waived by Raiders with an injury settlement (specific body part not disclosed) [news 2026-09-05]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://justblogbaby.com/raiders-newcomer-has-the-kind-of-camp-opportunity-every-player-wants",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/raiders-cut-promising-rookie-wr-001003498.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "questionable/limited",
+   "note": "baseline from initial research pass",
+   "source": "https://justblogbaby.com/raiders-newcomer-has-the-kind-of-camp-opportunity-every-player-wants"
+  },
+  {
+   "date": "2026-08-30",
+   "role": "UDFA out of BYU (received $267,500 guaranteed, 2nd-most in UDFA class); confirmed on Raiders 53-man roster as of 8/30/26 as a WR, in a thin receiver room behind Tre Tucker and Jalen Nailor.",
+   "note": "Made 53-man roster as UDFA WR",
+   "source": "https://sports.yahoo.com/articles/raiders-53-man-roster-updated-180949434.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Waived by Raiders with an injury settlement (specific body part not disclosed) [news 2026-09-05]",
+   "role": "No longer on Raiders active roster as of 2026-09-05 news; becomes a free agent if he clears waivers. Did not get meaningful camp opportunity after getting \"banged up\" in the offseason. Sleeper API still lists him under LV, so verify team status has updated.",
+   "note": "TEAM/ROSTER CHANGE: effectively off Raiders roster per injury settlement. Treat as free agent / likely drop candidate pending confirmation.",
+   "source": "https://sports.yahoo.com/articles/raiders-cut-promising-rookie-wr-001003498.html"
+  }
+ ]
+}

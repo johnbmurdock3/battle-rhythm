@@ -1,0 +1,92 @@
+{
+ "player_id": "8127",
+ "name": "Charlie Kolar",
+ "as_of": "2026-09-15",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "BAL"
+   },
+   {
+    "season": 2026,
+    "team": "LAC"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "three-year, $24.3M",
+   "date": "2026-03-10"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Oronde Gadsden",
+    "age": 23,
+    "status": "co-listed starter",
+    "note": "",
+    "resolved_id": "12493",
+    "resolved_team": "LAC",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "David Njoku",
+    "age": 30,
+    "status": "co-listed starter (note: likely data conflict, verify)",
+    "note": "depth chart page listed 3 TEs as co-starters, may be an extraction artifact",
+    "resolved_id": "4033",
+    "resolved_team": "LAC",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: signed with Chargers Mar 10 2026 after 2025 season with Ravens (10 rec/142 yds/2 TD); listed among TE starters on Chargers depth chart"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported (Sleeper injury_status: null, status: Active) as of 2026-09-03",
+   "as_of": "2026-09-03"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-15"
+ },
+ "sources": [
+  {
+   "url": "https://www.chargers.com/news/depth-chart-2026-season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Charlie_Kolar",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.chargers.com/news/depth-chart-2026-season"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported (Sleeper injury_status: null, status: Active) as of 2026-09-03",
+   "role": "Listed TE1 on official Chargers depth chart, ahead of Oronde Gadsden and David Njoku",
+   "note": "The Athletic's Daniel Popper named Kolar a potential 2026 breakout player for the Chargers offense, per a chargers.com news item",
+   "source": "https://www.chargers.com/team/depth-chart/"
+  },
+  {
+   "date": "2026-09-15",
+   "target_share": 0,
+   "touches": 0,
+   "injury": "",
+   "role": "Signed 3yr/$24.3M; preseason reports had him as TE1 but Sleeper's live depth_chart_order is 3 in a crowded room",
+   "note": "[news 2026-09-13] Not targeted at all in Week 1 loss to ARI",
+   "source": "https://www.bing.com/news/search?q=Charlie+Kolar+Chargers+tight+end+2026"
+  }
+ ]
+}

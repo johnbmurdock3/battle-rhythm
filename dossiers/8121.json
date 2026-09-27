@@ -1,0 +1,152 @@
+{
+ "player_id": "8121",
+ "name": "Romeo Doubs",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "GB"
+   },
+   {
+    "season": 2026,
+    "team": "NE"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "GB",
+    "games": 16,
+    "targets": 85,
+    "rec": 55,
+    "yards": 724,
+    "td": 6,
+    "note": ""
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "",
+   "note": "Reported as a 4-year, ~$80M deal signed with the Patriots in 2026 free agency; exact signing date not confirmed in this pass."
+  },
+  "scheme": {
+   "oc": "Josh McDaniels (HC Mike Vrabel)",
+   "note": ""
+  },
+  "competition": [
+   {
+    "name": "A.J. Brown",
+    "age": 29,
+    "status": "WR1",
+    "note": "Acquired via trade from Philadelphia Eagles, reported June 1-2, 2026, for a 2028 1st and 2027 5th round pick; described as Patriots' top receiver in camp.",
+    "resolved_id": "5859",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Kayshon Boutte",
+    "age": 24,
+    "status": "Pushing for WR2/explosive role",
+    "note": "Praised alongside Brown for explosiveness in Aug 6, 2026 camp report, ahead of Doubs on that dimension.",
+    "resolved_id": "9504",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Kyle Williams",
+    "age": 23,
+    "status": "Behind Doubs",
+    "note": "",
+    "resolved_id": "12547",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Stefon Diggs",
+    "age": 32,
+    "status": "Not in picture",
+    "note": "June 2, 2026 report: 'no longer in the picture' for Patriots.",
+    "resolved_id": "2449",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "June 2, 2026 predicted Week 1 order: Brown, Doubs, Williams, Hollins, Douglas, Chism.",
+   "Aug 6, 2026 update: Doubs has missed practice recently and, while steady, 'hasn't been as explosive as other receivers like Brown and Boutte despite receiving adequate opportunities.'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Not on NE Week 3 injury report [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "Doubs has missed practice recently and, while steady, hasn't been as explosive as other receivers like Brown and Boutte despite receiving adequate opportunities.",
+    "who": "Boston.com",
+    "date": "2026-08-06"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.nfl.com/news/romeo-doubs-patriots-sign-former-packers-wr-four-year-contract",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsportsboston.com/nfl/new-england-patriots/predicting-wide-receiver-room-aj-brown-2026/789186/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.boston.com/sports/new-england-patriots/2026/08/06/new-england-patriots-training-camp-stock-watch-rising-falling-roster-cuts-trades/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/A._J._Brown",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872946",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Missed recent practice(s)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.nfl.com/news/romeo-doubs-patriots-sign-former-packers-wr-four-year-contract"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported (Sleeper injury_status: null, status: Active) as of 2026-09-03",
+   "role": "Team change: signed by New England as a free agent this offseason (patriots.com headline: \"Report: Patriots Sign Free-Agent WR Romeo Doubs to Bolster Offense\"). Listed WR3 on official Patriots depth chart behind A.J. Brown (WR1) and DeMario Douglas (WR2)",
+   "note": "New team (NE, not his prior club); currently third receiver on the depth chart",
+   "source": "https://www.patriots.com/team/depth-chart/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "A DNP (undisclosed) reported in the preseason window; current status not confirmed as ongoing",
+   "role": "TEAM CHANGE: signed with New England after leaving Green Bay; now the Patriots starting left WR",
+   "note": "Filled a hole created by Stefon Diggs's release",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/NE"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 3,
+   "injury": "Not on NE Week 3 injury report [news 2026-09-21]",
+   "role": "WR1 (RWR), depth order 1 per Sleeper -- now on New England",
+   "note": "TEAM CHANGE: Sleeper shows Doubs on NE, not his prior team. Week 2 vs PIT: 3 rec/4 tgt/96 yds, a strong big-play performance as NE's top perimeter WR.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872946"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "player_id": "11628",
+ "name": "Marvin Harrison Jr.",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "None listed",
+   "as_of": "2026-09-15"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-07-29",
+   "injury": "None reported; fully participating in camp as of 2026-07-29",
+   "role": "Cardinals leaning on heavy 3-TE packages with Harrison as the lone WR in those sets, which could boost his snap share over fellow WR Michael Wilson.",
+   "note": "July 29 camp report described a 'mixed' practice (3-of-4 catching, one drop) but no injury; no more recent (Sept 2026) update found.",
+   "source": "https://sports.yahoo.com/articles/arizona-cardinals-camp-notes-mixed-035038012.html"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 1,
+   "injury": "None listed",
+   "role": "HC LaFleur downplayed quiet target share as game-script driven, not a demotion",
+   "note": "[news 2026-09-14] Week 1 vs LAC: 3 targets, 1 catch for 33 yds",
+   "source": "https://arizonasports.com/nfl/arizona-cardinals/cardinals-mike-lafleur-unconcerned-by-marvin-harrison-jr-s-week-1-stat-line"
+  },
+  {
+   "date": "2026-09-22",
+   "target_share": 4.6,
+   "injury": "",
+   "role": "",
+   "note": "Extremely quiet through 2 games: 1 catch/0 yds Wk1, 0 catches on 3 targets Wk2; ran 59 routes (2nd most on team) but only 4.6% target share through 2 games [news 2026-09-21]",
+   "source": "https://arizonasports.com/nfl/arizona-cardinals/how-does-cardinals-marvin-harrison-jr-get-back-on-track-amid-quiet-2026"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://arizonasports.com/nfl/arizona-cardinals/how-does-cardinals-marvin-harrison-jr-get-back-on-track-amid-quiet-2026",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

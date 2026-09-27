@@ -1,0 +1,121 @@
+{
+ "player_id": "9508",
+ "name": "Tyjae Spears",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TEN"
+   },
+   {
+    "season": 2026,
+    "team": "TEN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "TEN",
+    "games": 13,
+    "carries": 72,
+    "targets": 50,
+    "rec": 45,
+    "yards": 264,
+    "td": 2,
+    "note": "13 of 17 games played (missed ~4, reportedly due to an ankle issue at some point in 2025). Rushing: 72 car/283 yds/2 TD. Receiving: 50 tgt/45 rec/264 yds/0 TD -- clearly used more as a receiving-down back than a primary rusher."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Not researched this pass."
+  },
+  "scheme": {
+   "oc": "Brian Daboll (new OC for 2026, reported hire)",
+   "note": "New HC Robert Saleh introduced Jan 30, 2026 (ex-49ers DC)."
+  },
+  "competition": [
+   {
+    "name": "Tony Pollard",
+    "age": 29,
+    "status": "healthy, listed as RB1/starter on Aug 8, 2026 unofficial depth chart",
+    "note": "Saleh called Pollard and Spears the team's two 'bell cows' at the position",
+    "resolved_id": "5967",
+    "resolved_team": "TEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Nick Singleton",
+    "age": 22,
+    "status": "recovering from a college injury; showed improvement late in OTAs",
+    "note": "2026 5th-round pick, competing for RB3 spot",
+    "resolved_id": "13288",
+    "resolved_team": "TEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Aug 9, 2026 Titans.com depth-chart breakdown (dated to an Aug 8 chart): 'Tony Pollard is listed as the starter at running back, ahead of Tyjae Spears' -- Spears is the clear backup/1B, not the starter.",
+   "Team site training-camp preview separately frames Pollard/Spears as co-'bell cows,' suggesting a real committee even though Pollard tops the depth chart.",
+   "Team expected to carry 4 RBs; Pollard, Spears, Singleton considered the top-3 near-locks."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable -- soreness/irritation, may be held out of practice",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Pollard and Spears the team's 'bell cows' at the position",
+    "who": "HC Robert Saleh via tennesseetitans.com",
+    "date": "2026-08"
+   },
+   {
+    "quote": "Tony Pollard is listed as the starter at running back, ahead of Tyjae Spears",
+    "who": "tennesseetitans.com depth chart breakdown",
+    "date": "2026-08-09"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/headlines/tyjae-spears-injury-exits-practice-early-friday-632902",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.tennesseetitans.com/news/titans-2026-training-camp-preview-a-look-at-the-running-backs",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.tennesseetitans.com/news/20-things-that-caught-my-eye-on-the-first-unofficial-depth-chart-for-the-titans-in-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/player/gamelog/_/id/4428557/tyjae-spears",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/ten",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/titans-expected-to-hire-49ers-defensive-coordinator-robert-saleh-as-head-coach",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Questionable -- soreness/irritation, may be held out of practice",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/headlines/tyjae-spears-injury-exits-practice-early-friday-632902"
+  }
+ ]
+}

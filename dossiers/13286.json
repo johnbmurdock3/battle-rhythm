@@ -1,0 +1,201 @@
+{
+ "player_id": "13286",
+ "name": "Jadarian Price",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "SEA"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Notre Dame (college)",
+    "games": null,
+    "carries": 113,
+    "targets": null,
+    "rec": null,
+    "yards": 674,
+    "td": 11,
+    "note": "College: 674 rush yds on 113 carries (6.0 YPC), 11 rush TD, plus 2 receiving TD and 2 KR TD. Not an NFL season."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "2026-05-29",
+   "note": "Rookie contract signed 2026-05-29 after being drafted No. 32 overall (1st round, 2026 NFL Draft) by Seattle. Exact years/value not disclosed in sources checked."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "HC Mike Macdonald: 'We're going to run wide zone and he's going to run wide zone. We're going to run some gap scheme... the pass game he can come alive too... he's a great special teams player.' (seahawks.com, 2026-07-17)."
+  },
+  "competition": [
+   {
+    "name": "Zach Charbonnet",
+    "age": 25,
+    "status": "PUP (ACL)",
+    "note": "Torn ACL 2026-01-17 in NFC divisional playoff win vs SF; surgery 2026-02-20; placed on camp PUP list 2026-07-24; led team with 12 rush TD in 2025; early return estimate ~Oct 2026, but HC Macdonald said (2026-06-30) 'Everything's possible' re: Week 1 and 'If you're betting on anybody, you're going to bet on Zach' to beat typical timeline.",
+    "resolved_id": "9753",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Kenneth Walker III",
+    "age": 25,
+    "status": "left team",
+    "note": "Super Bowl LX MVP; departed Seahawks in free agency, signed 3-year deal with Kansas City Chiefs (reported ~2026-03-10).",
+    "resolved_id": "8151",
+    "resolved_team": "KC",
+    "resolved_pos": "RB",
+    "same_team": false
+   },
+   {
+    "name": "Emanuel Wilson",
+    "age": 27,
+    "status": "healthy",
+    "note": "Free-agent signing; per Seahawks reporter Brian Nemhauser (2026-08-08), expected 'two-headed monster of Jadarian Price, Emanuel Wilson early on.'",
+    "resolved_id": "11435",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "George Holani",
+    "age": 26,
+    "status": "healthy",
+    "note": "Returning back; per ESPN's Benjamin Solak (cited 2026-08-08), staff has talked about Holani as 'our third-down back... a timeshare.'",
+    "resolved_id": "12048",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Kenny McIntosh",
+    "age": 26,
+    "status": "rehabbing ACL",
+    "note": "Also rehabbing ACL per depth chart notes.",
+    "resolved_id": "10216",
+    "resolved_team": null,
+    "resolved_pos": "RB",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "Drafted No. 32 overall (end of Rd 1) in 2026 NFL Draft out of Notre Dame.",
+   "Positioned as the presumptive lead/primary early-season back with Charbonnet on PUP and Walker gone to KC, per multiple Aug 2026 camp reports.",
+   "Pass protection described as 'a real work in progress' per Nemhauser (2026-08-08); receiving ability praised."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Chest injury suffered in Week 2 vs. Arizona Cardinals (Sept 20, 2026); officially listed questionable to return that game [news 2026-09-20]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "We're going to run wide zone and he's going to run wide zone. We're going to run some gap scheme. He's going to run some of that too and then the pass game he can come alive, too...he's a great special teams player.",
+    "who": "HC Mike Macdonald",
+    "date": "2026-07-17"
+   },
+   {
+    "quote": "Great player. The person's outstanding, the competitor, he's a Seahawk.",
+    "who": "GM John Schneider",
+    "date": "2026-07-17"
+   },
+   {
+    "quote": "he's going to be a very good receiver. The pass protection looks like a real work in progress.",
+    "who": "Brian Nemhauser (Seahawks reporter)",
+    "date": "2026-08-08"
+   },
+   {
+    "quote": "you can expect maybe a two-headed monster of Jadarian Price, Emanuel Wilson early on.",
+    "who": "Brian Nemhauser (Seahawks reporter)",
+    "date": "2026-08-08"
+   },
+   {
+    "quote": "This coaching staff has talked a lot about, 'All right, George Holani is going to be our third-down back. It's going to be a timeshare.'",
+    "who": "Benjamin Solak (ESPN)",
+    "date": "2026-08-08"
+   },
+   {
+    "quote": "We are going with a lower body soreness. It's a minor issue right now. It's a matter of days, so he will be back soon.",
+    "who": "HC Mike Macdonald",
+    "date": "2026-08-10"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.seahawks.com/news/seahawk-rb-jadarian-price-sidelined-by-minor-issue-should-be-back-soon",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.seahawks.com/news/training-camp-storylines-does-rookie-jadarian-price-win-the-starting-job",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/seattle-seahawks/insider-jadarian-price-training-camp-news/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.seahawks.com/news/seahawks-sign-first-round-pick-jadarian-price",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotoballer.com/player-news/jadarian-price-misses-fridays-practice-with-lower-body-soreness/1904979",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-07/jadarian-price-dealing-with-lower-body-soreness",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://12thmanrising.com/seattle-seahawks-mike-macdonald-eases-fears-jadarian-price-injury",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.heraldnet.com/2026/07/24/seahawks-zach-charbonnet-to-open-camp-on-pup/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.mynorthwest.com/nfl/seattle-seahawks/espn-insider-update-seattle-seahawks-charbonnet-acl-recovery",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/seahawks/onsi/seahawks-news/kenneth-walker-iii-makes-history-leaving-seattle-seahawks-joining-kansas-city-chiefs",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/jadarian-price-injury-latest-news-230113317.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Questionable/day-to-day",
+   "note": "baseline from initial research pass",
+   "source": "https://www.seahawks.com/news/seahawk-rb-jadarian-price-sidelined-by-minor-issue-should-be-back-soon"
+  },
+  {
+   "date": "2026-08-23",
+   "injury": "Was sidelined in early August with minor lower-body soreness (HC Mike Macdonald called it minor, days-long); HC announced Aug 23 that Price would sit out the final two preseason games entirely, targeting a Week 1 return.",
+   "role": "First-round rookie RB (Notre Dame); expected back for Week 1 regular season opener",
+   "note": "Held out of final two preseason games as a precaution; no specific Week 1 workload/depth-chart details reported yet",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-23/jadarian-price-wont-play-again-until-week-1"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Chest injury suffered in Week 2 vs. Arizona Cardinals (Sept 20, 2026); officially listed questionable to return that game [news 2026-09-20]",
+   "role": "Starting/lead RB role prior to injury (Sleeper RB order 1). No confirmed word yet on Week 3 availability.",
+   "note": "Injury is fresh (in-game, Sept 20); watch practice reports for Week 3 status",
+   "source": "https://sports.yahoo.com/articles/jadarian-price-injury-latest-news-230113317.html"
+  }
+ ]
+}

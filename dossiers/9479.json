@@ -1,0 +1,59 @@
+{
+ "player_id": "9479",
+ "name": "Darnell Washington",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "PIT"
+   },
+   {
+    "season": 2026,
+    "team": "PIT"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Pat Freiermuth",
+    "age": 27,
+    "status": "healthy, starter",
+    "note": "TE1",
+    "resolved_id": "7600",
+    "resolved_team": "PIT",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. TE2 behind Pat Freiermuth; primarily a blocking-oriented role with capped receiving upside."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/pittsburgh-steelers-depth-chart-pit",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/pittsburgh-steelers-depth-chart-pit"
+  }
+ ]
+}

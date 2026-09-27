@@ -1,0 +1,77 @@
+{
+ "player_id": "7585",
+ "name": "Davis Mills",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "HOU"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "C.J. Stroud",
+    "age": 24,
+    "status": "starter",
+    "note": "entrenched young QB1 ahead of Mills",
+    "resolved_id": "9758",
+    "resolved_team": "HOU",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Texans depth chart (ourlads, confirmed): 1. C.J. Stroud, 2. Davis Mills, 3. Graham Mertz. Mills is QB2 behind a healthy, entrenched starter \u2014 low superflex priority."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-03"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/HOU",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/HOU/houston-texans/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/HOU"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported",
+   "role": "Backup QB behind C.J. Stroud",
+   "note": "No starter/backup label explicitly on roster page, but Stroud is the established starter and Mills is depth",
+   "source": "https://www.cbssports.com/nfl/teams/HOU/houston-texans/roster/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Backup QB2, Houston. Not on Texans injury report as of 2026-09-21.",
+   "note": "No notable news found for Week 3.",
+   "source": "https://www.cbssports.com/nfl/teams/HOU/houston-texans/injuries/"
+  }
+ ]
+}

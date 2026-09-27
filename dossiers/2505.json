@@ -1,0 +1,52 @@
+{
+ "player_id": "2505",
+ "name": "Darren Waller",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-24",
+   "role": "Near the back of the TE depth chart, still ramping up",
+   "note": "Signed a one-year deal with Carolina in 2026. As of Aug 24, 2026 he was still integrating into the offense after a late arrival to camp (first padded practice that week); no injury reported, just conditioning/ramp-up.",
+   "source": "https://www.panthers.com/news/panthers-release-depth-chart-ahead-of-final-preseason-game"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 2,
+   "injury": "",
+   "role": "Panthers starting TE, no injury designation",
+   "note": "[news 2026-09-13] Caught both targets for 28 yards in Week 1 loss to CHI (Carolina debut)",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-13/waller-has-28-yards-in-week-1-loss"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "None reported",
+   "role": "Team change: now Panthers TE1 (came out of retirement to CAR, not NYG/waiver). Scored 2 TDs from Bryce Young in Week 2 blowout win over Falcons (34-3).",
+   "note": "[news 2026-09-20/21] Big role in Bryce Young/John Harbaugh-Frank Reich Panthers offense; 2-TD game Week 2. Verify Sleeper team=CAR before waiver decisions.",
+   "source": "https://api.sleeper.app/players/nfl/2505"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://api.sleeper.app/players/nfl/2505",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

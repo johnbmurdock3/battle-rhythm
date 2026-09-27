@@ -1,0 +1,48 @@
+{
+ "player_id": "11792",
+ "name": "Will Reichard",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-03",
+   "role": "Incumbent Vikings placekicker; made the team's initial 53-man roster for 2026 and has received positive coverage (including an All-Pro-caliber mention from ESPN) heading into the season.",
+   "note": "No injury or competition concerns found; expected as Week 1 kicker.",
+   "source": "https://www.vikings.com/news/53-man-roster-2026-nfl-initial"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Vikings clear-cut starting kicker, no injury designation",
+   "note": "No notable news found beyond continuing as Vikings primary kicker",
+   "source": "https://api.sleeper.app/players/nfl/11792"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "",
+   "note": "Went 3-for-3 on FGs (35, 49, 39 yds) in Week 2 vs GB [news 2026-09-20]; perfect 4-for-4 FG and 4-for-4 XP through first two games of 2026. No current injury found (older Nov 2024 quad injury is stale/irrelevant).",
+   "source": "https://www.rotowire.com/football/headlines/vikings-will-reichard-nails-three-kicks-in-tough-conditions-638338"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/headlines/vikings-will-reichard-nails-three-kicks-in-tough-conditions-638338",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

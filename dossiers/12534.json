@@ -1,0 +1,45 @@
+{
+ "player_id": "12534",
+ "name": "Kyle Monangai",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable per current Sleeper status; hyperextended knee called week-to-week by Ben Johnson in preseason [news ~2026-08-17]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "injury": "Questionable (knee) per Sleeper as of 9/15; hyperextended right knee in camp 8/16, returned to practice ~9/7",
+   "role": "RB2 behind D'Andre Swift",
+   "note": "Camp knee injury trending healthy; back at practice before the opener",
+   "source": "https://www.bing.com/news/search?q=Kyle+Monangai+Bears+injury+knee+week+2"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Questionable per current Sleeper status; hyperextended knee called week-to-week by Ben Johnson in preseason [news ~2026-08-17]",
+   "role": "RB2 behind D'Andre Swift; Roschon Johnson/Salvon Ahmed got increased first-team reps while he was out",
+   "note": "No confirmed Week2/Week3 snap or usage data found; injury timeline is dated (preseason), current Questionable tag not further explained in sources found",
+   "source": "https://www.si.com/nfl/bears/onsi/chicago-bears-official-injury-update-kyle-monangai"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/bears/onsi/chicago-bears-official-injury-update-kyle-monangai",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

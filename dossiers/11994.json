@@ -1,0 +1,86 @@
+{
+ "player_id": "11994",
+ "name": "Kameron Johnson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "TB"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Chris Godwin Jr.",
+    "age": 30,
+    "status": "starter",
+    "note": "slot WR1 ahead of Johnson",
+    "resolved_id": "4037",
+    "resolved_team": "TB",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Garrett Greene",
+    "age": 24,
+    "status": "backup",
+    "note": "listed just behind Johnson at slot WR",
+    "resolved_id": "12792",
+    "resolved_team": "TB",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Listed 2nd-string slot WR (behind Chris Godwin) on TB depth chart per Ourlads; 2025 team/history not verified this session."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "unknown",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/TB",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/buccaneers-kameron-johnson-three-returns-in-week-2-win",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unknown",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/TB"
+  },
+  {
+   "date": "2026-08-29",
+   "role": "Made Buccaneers' initial 53-man roster as one of 6 WRs (behind Chris Godwin Jr., Emeka Egbuka, Jalen McMillan, Ted Hurst, Tez Johnson)",
+   "note": "Made the 2026 53-man roster; specific offensive depth-chart slot/role not yet detailed in reporting",
+   "source": "https://thepewterplank.com/tampa-bay-buccaneers-53-man-roster-cut-tracker-2026-live-updates-and-analysis"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "WR2 depth slot on Week 3 depth chart; primary punt/kickoff returner and gunner, not a receiving-snaps player",
+   "note": "Three returns in Week 2 win including a 48-yard kickoff return; also plays gunner on punt team [news ~2026-09-20/21]. No receiving stats reported.",
+   "source": "https://www.cbssports.com/fantasy/football/news/buccaneers-kameron-johnson-three-returns-in-week-2-win"
+  }
+ ]
+}

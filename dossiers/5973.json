@@ -1,0 +1,72 @@
+{
+ "player_id": "5973",
+ "name": "Josh Oliver",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "MIN"
+   },
+   {
+    "season": 2026,
+    "team": "MIN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "note": "2 TD in Week 14 shutout win vs Washington"
+   }
+  ],
+  "contract": {
+   "note": "signed contract extension in 2025"
+  },
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "Established Vikings TE; extension signed 2025 suggests continued role"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.vikings.com/news/2026-training-camp-preview-wide-receivers-tight-ends",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/5973",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.vikings.com/news/2026-training-camp-preview-wide-receivers-tight-ends"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "TE2 on Vikings depth chart behind starter T.J. Hockenson",
+   "note": "Backup TE; not listed on Vikings injury report dated 8/31/26.",
+   "source": "https://www.cbssports.com/nfl/teams/MIN/minnesota-vikings/depth-chart/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "TE2 on Minnesota depth chart per Sleeper; not on Vikings injury report",
+   "note": "No notable news found.",
+   "source": "https://api.sleeper.app/players/nfl/5973"
+  }
+ ]
+}

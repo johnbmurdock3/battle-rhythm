@@ -1,0 +1,81 @@
+{
+ "player_id": "13278",
+ "name": "Max Klare",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "Ohio State (college)"
+   },
+   {
+    "season": 2026,
+    "team": "LAR"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "2026 rookie draft pick"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Colby Parkinson",
+    "age": 27,
+    "status": "",
+    "note": "TE1",
+    "resolved_id": "6865",
+    "resolved_team": "LAR",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Tyler Higbee",
+    "age": 33,
+    "status": "",
+    "note": "TE2",
+    "resolved_id": "3271",
+    "resolved_team": "LAR",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Terrance Ferguson",
+    "age": 23,
+    "status": "",
+    "note": "TE3, also ahead of Klare",
+    "resolved_id": "12487",
+    "resolved_team": "LAR",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Buried at TE4 in a deep, veteran Rams TE room; minimal immediate role expected."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/los-angeles-rams-depth-chart-lar",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/los-angeles-rams-depth-chart-lar"
+  }
+ ]
+}

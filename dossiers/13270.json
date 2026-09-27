@@ -1,0 +1,65 @@
+{
+ "player_id": "13270",
+ "name": "CJ Daniels",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": null
+   },
+   {
+    "season": 2026,
+    "team": "LAR"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Davante Adams",
+    "age": 33,
+    "status": "starter",
+    "note": "starting X-receiver, Daniels is his backup",
+    "resolved_id": "2133",
+    "resolved_team": "LAR",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "2026 rookie, drafted by the Rams (6th round) in 2026 - no 2025 NFL team. Listed as backup X-WR behind Davante Adams; standout reports from camp but buried on depth chart."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Rams beat writers note Daniels 'already turning heads' at camp"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.therams.com/team/players-roster/cj-daniels/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/rams/onsi/rams-depth-chart-entering-camp-starters-battles-and-bubble-players",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.therams.com/team/players-roster/cj-daniels/"
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "player_id": "8167",
+ "name": "Christian Watson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "GB"
+   },
+   {
+    "season": 2026,
+    "team": "GB"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "GB",
+    "games": 11,
+    "targets": null,
+    "rec": 35,
+    "yards": 612,
+    "td": 6,
+    "note": "Missed early 2025 season recovering from a Jan 2025 ACL tear (returned Week 8 2025); target count could not be reliably extracted from nfl.com game log."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Not researched."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "No 2026 GB head coach or OC change found; Matt LaFleur remains head coach per Wikipedia (info current only through 2025 in that source)."
+  },
+  "competition": [
+   {
+    "name": "Jayden Reed",
+    "age": 26,
+    "status": "starting WR",
+    "note": "Born 2000-04-28.",
+    "resolved_id": "10222",
+    "resolved_team": "GB",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Matthew Golden",
+    "age": 22,
+    "status": "rising 2nd-year WR, taking over X receiver role",
+    "note": "Born 2003-08-01; GB 1st-round pick (23rd overall) in 2025 draft. Per lombardiave.com (2026-08-09), Golden 'has assumed a larger role in the X receiver position previously occupied by Romeo Doubs,' who left the team.",
+    "resolved_id": "12501",
+    "resolved_team": "GB",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Romeo Doubs",
+    "age": 26,
+    "status": "departed team",
+    "note": "No longer with Packers as of Aug 2026 per lombardiave.com.",
+    "resolved_id": "8121",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": false
+   }
+  ],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "None -- not on GB injury report (9/21)",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "Watson participated in Family Night, competing in one-on-one drills.",
+    "who": "lombardiave.com Packers training camp tracker",
+    "date": "2026-08-07"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://lombardiave.com/packers-2026-training-camp-tracker-latest-updates-news-injuries-rumors",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.draftsharks.com/fantasy/injury-history/christian-watson/12607",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/players/christian-watson/stats/logs/2025/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jayden_Reed",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Matthew_Golden",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872936",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "practicing / active",
+   "note": "baseline from initial research pass",
+   "source": "https://lombardiave.com/packers-2026-training-camp-tracker-latest-updates-news-injuries-rumors"
+  },
+  {
+   "date": "2026-09-03",
+   "role": "Active Packers WR (#9) alongside Jayden Reed; signed 4-year, $110.5M extension",
+   "note": "Media references his 'recovery process' in interviews but specific injury type/timeline not found in fetched content; no injury designation on current roster",
+   "source": "https://www.nfl.com/teams/green-bay-packers/roster"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 6,
+   "injury": "",
+   "role": "Full participant; fully recovered from Dec 2024 ACL tear",
+   "note": "[news 2026-09-13] Week 1 vs MIN: 6 rec/8 tgt/147 yds/2 TD (81-yd and 2-yd TDs)",
+   "source": "https://www.rotowire.com/football/player/christian-watson-15946"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 6,
+   "injury": "None -- not on GB injury report (9/21)",
+   "role": "LWR1, depth_chart_order 1",
+   "note": "Week2 (GB@NYJ, GB lost 22-23): 6 receptions, 147 yards, 2 TD -- big game. Fully healthy, no injury listing.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872936"
+  }
+ ]
+}

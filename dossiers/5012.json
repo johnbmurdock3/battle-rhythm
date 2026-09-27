@@ -1,0 +1,81 @@
+{
+ "player_id": "5012",
+ "name": "Mark Andrews",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "BAL"
+   },
+   {
+    "season": 2026,
+    "team": "BAL"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "article flags an 'alarming $39 million problem brewing in camp' re: his contract/cap situation, not independently verified"
+  },
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "No team change. Multiple camp reports (as of 2026-08-10) describe a 'bad' training camp with practice miscues/drops causing concern; unclear if linked to any physical injury."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "unclear - poor camp reports, not confirmed as injury",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "'bad' camp per 2026-08-10 report"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.baltimoresports.com/2026/08/10/mark-andrews-concern-mounts-as-bad-training-camp-continues-baltimore-ravens-practice-miscues-linger/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.baltimoreravens.com/news/mark-andrews-baltimore-ravens-news-returns-practice-car-accident",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/mark-andrews.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unclear - poor camp reports, not confirmed as injury",
+   "note": "baseline from initial research pass",
+   "source": "https://www.baltimoresports.com/2026/08/10/mark-andrews-concern-mounts-as-bad-training-camp-continues-baltimore-ravens-practice-miscues-linger/"
+  },
+  {
+   "date": "2026-09-01",
+   "note": "Not listed on Ravens injury report as of Sep 1, 2026; appears healthy for Week 1. Signed 3-year extension Dec 2025.",
+   "source": "https://www.cbssports.com/nfl/teams/BAL/baltimore-ravens/injuries/"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 72,
+   "touches": 4,
+   "injury": "",
+   "role": "",
+   "note": "[news 2026-09-13] Week 1 vs IND: 6 targets, 4 rec, 49 yds, 72% snaps; not on the Ravens 9/14 Week 2 injury report",
+   "source": "https://www.pro-football-reference.com/players/A/AndrMa00.htm"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "",
+   "note": "Saw six targets in a Week 1 win per FantasyPros [news ~4 days before run date, exact date not confirmed]; no Week 2 update found",
+   "source": "https://www.fantasypros.com/nfl/news/mark-andrews.php"
+  }
+ ]
+}

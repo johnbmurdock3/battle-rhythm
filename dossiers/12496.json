@@ -1,0 +1,60 @@
+{
+ "player_id": "12496",
+ "name": "Tai Felton",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "MIN"
+   },
+   {
+    "season": 2026,
+    "team": "MIN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "note": "developed into punt-unit gunner; limited offensive role"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "Camp buzz building around a potential 2026 breakout; described as only other Vikings WR with a catch besides top options in one report"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "'Best catch of training camp so far' per multiple outlets (Aug 2026)",
+   "Breakout narrative building in camp coverage"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/vikings/onsi/tai-felton-s-training-camp-is-going-better-than-expected-here-s-why-vikings-should-be-excited-01kz7ae5w4n6",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.vikings.com/news/2026-training-camp-preview-wide-receivers-tight-ends",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/vikings/onsi/tai-felton-s-training-camp-is-going-better-than-expected-here-s-why-vikings-should-be-excited-01kz7ae5w4n6"
+  }
+ ]
+}

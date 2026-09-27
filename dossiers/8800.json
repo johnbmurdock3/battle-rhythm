@@ -1,0 +1,83 @@
+{
+ "player_id": "8800",
+ "name": "Malik Davis",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DAL"
+   },
+   {
+    "season": 2026,
+    "team": "DAL"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "note": "52 carries, 250 yards, 2 TD"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "Headline 'falling behind in roster battle' at RB for Cowboys training camp (Aug 2026); undrafted in 2022, 3 years NFL experience"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Hip, Injured Reserve [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   "Reported to be falling behind in RB roster battle per Blogging The Boys headline"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.bloggingtheboys.com/dallas-cowboys-preseason/212377/malik-davis-running-back-roster-battle-training-camp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.dallascowboys.com/team/players-roster/malik-davis/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/DAL/dallas-cowboys/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.bloggingtheboys.com/dallas-cowboys-preseason/212377/malik-davis-running-back-roster-battle-training-camp"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "No. 2 RB behind starter Javonte Williams; made 53-man roster after Cowboys cut Jaydon Blue and Phil Mafah",
+   "note": "Sat out final preseason game vs Saints with starters/roster-lock players, confirming his roster spot",
+   "source": "https://www.cbssports.com/fantasy/football/news/cowboys-malik-davis-sticks-as-no-2-rb/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Out - hip surgery, out for the season",
+   "role": "Placed on IR; Cowboys signed Israel Abanikanda off the practice squad to fill the spot",
+   "note": "[news 2026-09-12] Underwent hip surgery and is done for 2026",
+   "source": "https://www.washingtonpost.com/sports/nfl/2026/09/12/cowboys-malik-davis/61412390-aee4-11f1-b498-8697f35a6743_story.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Hip, Injured Reserve [news 2026-09-21]",
+   "role": "Sleeper depth_chart_position RB order 2, but CBS confirms full IR status",
+   "note": "On Injured Reserve with hip injury as of 2026-09-21 (Sleeper showed generic \"Out\", CBS confirms IR)",
+   "source": "https://www.cbssports.com/nfl/teams/DAL/dallas-cowboys/injuries/"
+  }
+ ]
+}

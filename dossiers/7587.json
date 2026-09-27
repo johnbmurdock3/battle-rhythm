@@ -1,0 +1,87 @@
+{
+ "player_id": "7587",
+ "name": "Dyami Brown",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "WAS"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Terry McLaurin",
+    "age": 29,
+    "status": "starter",
+    "note": "WR1 ahead of Brown",
+    "resolved_id": "5927",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Stefon Diggs",
+    "age": 32,
+    "status": "starter",
+    "note": "WR1 (other side) ahead of Brown",
+    "resolved_id": "2449",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Commanders WR depth chart (ourlads, confirmed) lists Brown 7th of 12, behind McLaurin, Diggs, Antonio Williams, Van Jefferson, and Treylon Burks, but ahead of Luke McCaffrey. Depth/special-teams role, limited standalone fantasy value."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-03"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/WAS",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/7587",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/WAS"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported",
+   "role": "Third-tier WR behind Terry McLaurin, Stefon Diggs, and Antonio Williams; also depth kick returner",
+   "note": "Depth receiver role, not a primary target",
+   "source": "https://www.cbssports.com/nfl/teams/WAS/washington-commanders/depth-chart/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "WR4 (LWR, depth order 4) per Sleeper depth chart",
+   "note": "No box score or news data found for Week 2 vs DAL; buried on depth chart behind top WRs. No notable news found.",
+   "source": "https://api.sleeper.app/players/nfl/7587"
+  }
+ ]
+}

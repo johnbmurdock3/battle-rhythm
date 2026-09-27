@@ -1,0 +1,101 @@
+{
+ "player_id": "7946",
+ "name": "Jack Stoll",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NO"
+   },
+   {
+    "season": 2026,
+    "team": "CLE"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Harold Fannin Jr.",
+    "age": 22,
+    "status": "starter",
+    "note": "TE1 ahead of Stoll",
+    "resolved_id": "12506",
+    "resolved_team": "CLE",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Blake Whiteheart",
+    "age": 26,
+    "status": "backup",
+    "note": "TE2 ahead of Stoll",
+    "resolved_id": "11201",
+    "resolved_team": "CLE",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Joe Royer",
+    "age": 24,
+    "status": "backup",
+    "note": "TE3 ahead of Stoll",
+    "resolved_id": "13435",
+    "resolved_team": "CLE",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: New Orleans (2025) to Cleveland (2026); placed on season-ending IR Jan 2, 2026 with a knee injury from Week 17 vs Titans - recovery status for 2026 camp unverified; buried at TE4."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Sleeper lists injury_status Questionable but status field shows Inactive [news 2026-09-22]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Jack_Stoll",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/CLE",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/7946",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "recovering from season-ending IR (knee)",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Jack_Stoll"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "Sleeper lists injury_status Questionable but status Inactive and team null; ESPN athlete record shows league status Active with a team reference to Cleveland (team id 5), but he does NOT appear in ESPN's current Cleveland Browns 53-man roster TE list (only Brenden Bates and Harold Fannin Jr. listed)",
+   "role": "Unclear / likely not on an active 53-man roster right now (possibly practice squad or between teams); could not confirm a current team with certainty",
+   "note": "Conflicting/ambiguous roster signals across sources - treat team/role as unresolved, not a confirmed active NFL roster spot",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/cle/roster"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Sleeper lists injury_status Questionable but status field shows Inactive [news 2026-09-22]",
+   "role": "No team listed on Sleeper (team: null), no depth chart entry",
+   "note": "Appears to be off an active NFL 53-man roster as of 2026-09-22 per Sleeper; could not confirm current team or practice-squad status through other sources.",
+   "source": "https://api.sleeper.app/players/nfl/7946"
+  }
+ ]
+}

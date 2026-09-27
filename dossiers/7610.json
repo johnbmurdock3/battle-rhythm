@@ -1,0 +1,77 @@
+{
+ "player_id": "7610",
+ "name": "Trey Lance",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "LAC"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Justin Herbert",
+    "age": 28,
+    "status": "starter",
+    "note": "entrenched QB1, ahead of Lance",
+    "resolved_id": "6797",
+    "resolved_team": "LAC",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Chargers depth chart (ESPN, confirmed): 1. Justin Herbert, 2. Trey Lance, 3. DJ Uiagalelei. Lance is clean QB2 behind a durable, entrenched starter \u2014 limited superflex streaming value unless Herbert is hurt."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-03"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.espn.com/nfl/team/depth/_/name/lac",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/7610",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.espn.com/nfl/team/depth/_/name/lac"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported",
+   "role": "Backup QB behind Justin Herbert",
+   "note": "No injury or promotion news; clear backup role",
+   "source": "https://www.cbssports.com/nfl/teams/LAC/los-angeles-chargers/depth-chart/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "QB2, depth order 2 per Sleeper",
+   "note": "Could not locate LAC Week 2 box score/news via available sources; remains backup QB. No notable news found.",
+   "source": "https://api.sleeper.app/players/nfl/7610"
+  }
+ ]
+}

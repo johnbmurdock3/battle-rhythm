@@ -1,0 +1,122 @@
+{
+ "player_id": "9229",
+ "name": "Anthony Richardson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "IND"
+   },
+   {
+    "season": 2026,
+    "team": "IND"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "IND",
+    "games": 2,
+    "targets": null,
+    "rec": null,
+    "yards": 9,
+    "td": 0,
+    "note": "QB: only 9 pass yards, 0 TD, 0 INT, -1 rush yds across 2 games - lost the starting job to Daniel Jones early in 2025 and barely played"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Jim Bob Cooter",
+   "note": "HC Shane Steichen retained"
+  },
+  "competition": [
+   {
+    "name": "Daniel Jones",
+    "age": 29,
+    "status": "Unquestioned QB1",
+    "note": "Born 1997-05-27. Rotowire IND depth chart (8/11/26) confirms Jones QB1.",
+    "resolved_id": "5870",
+    "resolved_team": "IND",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Riley Leonard",
+    "age": 23,
+    "status": "Directly competing with Richardson for QB2",
+    "note": "Born 2002-09-13. Colts.com (7/14/26): Colts list both Leonard and Richardson as No. 2 QB; per NBC Sports PFT headline this is an active, undecided competition, not settled.",
+    "resolved_id": "12470",
+    "resolved_team": "IND",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Richardson requested a trade earlier in the 2026 offseason but returned to the voluntary program and 'earned positive reviews from coaches and teammates for his professionalism' (Colts.com, 7/14/26). Confirms the 'backup' listing is directionally accurate, but the QB2 job itself is contested with Leonard, not locked in for Richardson."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No injury designation found; Rotowire IND depth chart (fetched 8/11/26) lists him without an injury tag"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.colts.com/news/colts-2026-training-camp-preview-daniel-jones-riley-leonard-anthony-richardson-sr-and-how-things-may-shake-out-at-quarterback",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-list-both-riley-leonard-and-anthony-richardson-as-no-2-qb",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/indianapolis-colts-depth-chart-ind",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/stats/anthony-richardson.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Riley_Leonard",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/IND/indianapolis-colts/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.colts.com/news/colts-2026-training-camp-preview-daniel-jones-riley-leonard-anthony-richardson-sr-and-how-things-may-shake-out-at-quarterback"
+  },
+  {
+   "date": "2026-08-30",
+   "role": "Competing with Riley Leonard for the Colts' backup QB job (not the starter) after Colts declined his 5th-year option",
+   "note": "Reports say Richardson is making a case for QB2 role in practice/preseason; Colts reportedly made a trade decision regarding him per a 1-day-old Yahoo Sports report, but exact outcome (traded or kept) was not confirmed in the text retrieved",
+   "source": "https://www.indystar.com"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper depth_chart_position QB order 2 (behind starter, i.e. QB2/backup)",
+   "note": "Not on IND injury report as of 2026-09-21 (healthy but listed as backup); no specific benching article found this session",
+   "source": "https://www.cbssports.com/nfl/teams/IND/indianapolis-colts/injuries/"
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "player_id": "5947",
+ "name": "Jakobi Meyers",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LV (traded to JAX Nov 4, 2025)"
+   },
+   {
+    "season": 2026,
+    "team": "JAX"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "LV+JAX combined",
+    "games": 17,
+    "targets": null,
+    "rec": 75,
+    "yards": 835,
+    "td": 3,
+    "note": "Combined across both teams (PFR-derived via Wikipedia extraction, games count estimated). Traded from Raiders to Jaguars Nov 4, 2025 for a 2026 4th and 6th round pick."
+   },
+   {
+    "season": 2025,
+    "team": "JAX only (post-trade)",
+    "games": 6,
+    "targets": null,
+    "rec": 27,
+    "yards": 355,
+    "td": 3,
+    "note": "Jaguars went 5-1 in his 6 games; implies 0 TD and 48 rec / 480 yds with Raiders pre-trade."
+   }
+  ],
+  "contract": {
+   "years": 3,
+   "signed": "2025-12-19",
+   "note": "3-year, $60M extension signed with Jaguars in Week 16 of 2025 season, ahead of game vs Denver."
+  },
+  "scheme": {
+   "oc": "Grant Udinski (HC Liam Coen)",
+   "note": "Coen named HC Jan 24, 2025; Udinski hired OC Feb 5, 2025 \u2014 both entering 2nd season together in 2026, not a 2026 change."
+  },
+  "competition": [
+   {
+    "name": "Brian Thomas Jr.",
+    "age": 23,
+    "status": "WR1",
+    "note": "Born Oct 8, 2002; incumbent Jaguars WR1.",
+    "resolved_id": "11631",
+    "resolved_team": "JAX",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Travis Hunter",
+    "age": 23,
+    "status": "WR/CB, dual-role",
+    "note": "Listed on Jaguars roster as WR/CB.",
+    "resolved_id": "12530",
+    "resolved_team": "JAX",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Parker Washington",
+    "age": 24,
+    "status": "WR depth",
+    "note": "",
+    "resolved_id": "9487",
+    "resolved_team": "JAX",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Tim Jones",
+    "age": 28,
+    "status": "WR depth",
+    "note": "",
+    "resolved_id": "8013",
+    "resolved_team": "JAX",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Roster listing (jaguars.com) shows Meyers age 29, jersey #3, on active WR list alongside Thomas Jr. and Hunter."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Sleeper API flags Questionable; current NFL.com Jaguars injury report lists him with no designation (conflicting)",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.espn.com/nfl/story/_/id/47350292/sources-jaguars-wr-jakobi-meyers-finalizing-3-year-60m-deal",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.jaguars.com/news/k000469-wide-receiver-room-elevates-jacksonville-jaguars-trade-for-wr-jakobi-meyers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.jaguars.com/news/k000469-meyers-grateful-to-extend-contract-friday-insider-before-week-16-vs-broncos",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jakobi_Meyers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.jaguars.com/team/players-roster/?type=wr",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.jaguars.com/team/coaches-roster/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.espn.com/nfl/story/_/id/47350292/sources-jaguars-wr-jakobi-meyers-finalizing-3-year-60m-deal"
+  },
+  {
+   "date": "2026-08-28",
+   "injury": "Questionable for Week 1 vs. Cleveland, hand injury (CBS report updated Aug 28, 2026)",
+   "note": "CONFLICT: Sleeper API currently flags Meyers as 'Out' (no date given in API), while the most recent dated report found (CBS, Aug 28, 2026) lists him Questionable with a hand injury. Could not find a more recent dated update confirming Out status; flagging both.",
+   "source": "https://www.cbssports.com/nfl/teams/JAC/jacksonville-jaguars/injuries/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Sleeper API flags Questionable; current NFL.com Jaguars injury report lists him with no designation (conflicting)",
+   "role": "RWR3 on Jacksonville depth chart per Sleeper",
+   "note": "Conflicting injury signals kept per rule \u2014 no specific injury detail (body part) found in either source this pass.",
+   "source": "https://www.nfl.com/injuries/"
+  }
+ ]
+}

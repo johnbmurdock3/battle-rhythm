@@ -1,0 +1,54 @@
+{
+ "player_id": "7528",
+ "name": "Najee Harris",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Out per Sleeper injury_status [checked 2026-09-22] \u2014 conflicts with box score showing him active Week 2; later status likely current",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-18",
+   "injury": "Recovering from 2025 torn Achilles (missed all of 2025); no current injury note on Giants roster",
+   "role": "RB on Giants roster; Tyrone Tracy Jr. (Questionable, neck, Week 1) is the other primary back",
+   "note": "Signed a one-year deal with the New York Giants (reported around Aug 18, 2026) after missing the 2025 season with a torn Achilles suffered while with the Chargers; Sleeper's own record still shows team as unlisted and injury_status Questionable, so treat exact practice status as unconfirmed",
+   "source": "https://www.nfl.com/players/najee-harris/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 0,
+   "injury": "Sleeper status: Out / Coach's Decision as of 9/15",
+   "role": "Buried on the Giants RB depth chart behind Cam Skattebo and Devin Singletary; did not appear in the Week 1 box score",
+   "note": "[news 2026-09-13] Healthy scratch/inactive Week 1 by coach's decision",
+   "source": "https://www.giants.com/team/players-roster/"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 4,
+   "injury": "Out per Sleeper injury_status [checked 2026-09-22] \u2014 conflicts with box score showing him active Week 2; later status likely current",
+   "role": "TEAM CHANGE: now on New York Giants (NYG), depth chart RB order 3 (RB3, behind others). Not on Pittsburgh anymore.",
+   "note": "Week 2 (at Rams, Mon 9/21): active, 4 carries for 6 yards, inefficient/limited role. Current Sleeper feed shows Out status (post-game, possibly new injury) \u2014 flag for follow-up. [news 2026-09-21]",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872947"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872947",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

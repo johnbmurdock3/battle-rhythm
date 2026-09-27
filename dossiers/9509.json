@@ -1,0 +1,50 @@
+{
+ "player_id": "9509",
+ "name": "Bijan Robinson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-06",
+   "role": "Lead back for Atlanta under new HC Kevin Stefanski; considered in the 1.01 argument for fantasy drafts",
+   "note": "Signed a 3-year, $75M extension ($51M guaranteed), highest-paid RB in the league",
+   "source": "https://www.fantasypros.com/nfl/players/bijan-robinson.php"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 22,
+   "injury": "",
+   "role": "Falcons clear RB1, workhorse usage; absorbing target volume with backup QB under center",
+   "note": "[news 2026-09-14] Most recent game: 22 carries for 143 yds and a 23-yd TD; 68.2% rushing success rate",
+   "source": "https://www.thefalcoholic.com/general/86788/5-things-we-learned-from-falcons-week-two-win-vs-vikings-bijan-robinson"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 19,
+   "injury": "",
+   "role": "Undisputed RB1, depth order 1 per Sleeper",
+   "note": "Week 2 vs CAR: 16 carries/72 yds, 3 rec on 4 targets/9 yds - full bell-cow workload. Signed 3-yr/$75M extension [news ~2026-08-11], no threat to role.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872933"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872933",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

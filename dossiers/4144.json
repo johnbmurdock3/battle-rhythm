@@ -1,0 +1,44 @@
+{
+ "player_id": "4144",
+ "name": "Jonnu Smith",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Active, not on GB injury report [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-03-05",
+   "role": "Unsigned free agent, no team",
+   "note": "Released by Pittsburgh Mar 5, 2026 after a 2025 season of 38 rec/222 yds/2 TD in 17 games; Sleeper confirms no current team assignment",
+   "source": "https://en.wikipedia.org/wiki/Jonnu_Smith"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Active, not on GB injury report [news 2026-09-21]",
+   "role": "TE, depth_chart_order 2, but presumptive lead TE since TE ahead of him (L. Musgrave) is on PUP (exp. return Wk5) and T. Yassmin is on IR",
+   "note": "Role bump: top two TEs on GB injury report (Musgrave-PUP, Yassmin-IR) are out, clearing snaps for Smith",
+   "source": "https://www.cbssports.com/nfl/teams/GB/green-bay-packers/injuries/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/teams/GB/green-bay-packers/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

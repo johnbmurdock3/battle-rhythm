@@ -1,0 +1,77 @@
+{
+ "player_id": "11783",
+ "name": "Ryan Flournoy",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DAL"
+   },
+   {
+    "season": 2026,
+    "team": "DAL"
+   }
+  ],
+  "workload": [
+   {
+    "2025": "40 receptions, 475 yards, 4 TD"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "No team change. Entering year 3 as Dallas' WR3, feeling confident/comfortable in role per team site; no injury concerns reported."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None listed",
+   "as_of": "2026-09-15"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.dallascowboys.com/news/ryan-flournoy-feeling-more-comfortable-confident-going-into-year-3-with-cowboys",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/609365/ryan-flournoy-hauls-five-passes-week-2.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.dallascowboys.com/news/ryan-flournoy-feeling-more-comfortable-confident-going-into-year-3-with-cowboys"
+  },
+  {
+   "date": "2026-08-30",
+   "injury": "None per Sleeper",
+   "role": "Made the Cowboys' initial 53-man roster for 2026 as a depth WR, listed alongside CeeDee Lamb, George Pickens, KaVontae Turpin, Jonathan Mingo, and Camden Brown.",
+   "note": "Confirmed on the 53-man roster heading into Week 1; special-teams contributor with WR depth role, not an every-down player.",
+   "source": "https://www.dallascowboys.com/news/cowboys-release-initial-53-man-roster-for-2026-season"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "None listed",
+   "role": "Entering 2026 as Dallas WR3; candidate for a larger role if defenses key on CeeDee Lamb and George Pickens",
+   "note": "[news 2026-07-11] No current-week game stats could be located; only pre-season role outlook available",
+   "source": "https://athlonsports.com/nfl/dallas-cowboys/ryan-flournoy-cowboys-roster-bubble-key-weapon-2026"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Continues to operate as the Cowboys' WR3",
+   "note": "Week 2: 5 catches on 6 targets for 23 yards [news 2026-09-20]",
+   "source": "https://www.fantasypros.com/nfl/news/609365/ryan-flournoy-hauls-five-passes-week-2.php"
+  }
+ ]
+}

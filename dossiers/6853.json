@@ -1,0 +1,90 @@
+{
+ "player_id": "6853",
+ "name": "Van Jefferson",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TEN"
+   },
+   {
+    "season": 2026,
+    "team": "WAS"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "note": "16 games, 7 starts, 29 rec, 350 yds, 1 TD with TEN"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Terry McLaurin",
+    "age": 30,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "5927",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Stefon Diggs",
+    "age": 32,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "2449",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jaylin Lane",
+    "age": 24,
+    "status": "backup",
+    "note": "WR7, ahead of Jefferson",
+    "resolved_id": "12641",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: Tennessee (2025) -> Washington, signed 2026-03-17; HC Dan Quinn has praised his offseason, but he still sits WR8 on a crowded depth chart."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Dan Quinn singled him out as an offseason standout per Hogs Haven coverage"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.commanders.com/news/commanders-sign-wr-van-jefferson",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/washington-commanders-depth-chart-was",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.commanders.com/news/commanders-sign-wr-van-jefferson"
+  }
+ ]
+}

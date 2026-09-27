@@ -1,0 +1,96 @@
+{
+ "player_id": "13150",
+ "name": "Darius Cooper",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "PHI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "DeVonta Smith",
+    "age": 27,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "7525",
+    "resolved_team": "PHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Dontayvion Wicks",
+    "age": 25,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "9486",
+    "resolved_team": "PHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Makai Lemon",
+    "age": 22,
+    "status": "starter",
+    "note": "WR3",
+    "resolved_id": "13294",
+    "resolved_team": "PHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Appears to be an incoming rookie/UDFA; unverified prior-team status (likely no 2025 NFL team); currently WR7 on Eagles depth chart."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/philadelphia-eagles-depth-chart-phi",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/eagles-darius-cooper-ties-season-high-with-two-catches",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/philadelphia-eagles-depth-chart-phi"
+  },
+  {
+   "date": "2026-08-19",
+   "role": "Undrafted 2025 rookie now called 'the third-best receiver on the team throughout camp' by Bleeding Green Nation; named a 'surprise name' likely to make Eagles' 2026 53-man roster (Sporting News, Aug 19, 2026); QB Jalen Hurts praised him Aug 12, 2026",
+   "note": "2025 rookie season: 9 catches/92 yards in 13 games, mostly late-season/garbage-time work (3 catches Week 18); trending up entering 2026, competing with Dontayvion Wicks for roster spot/role",
+   "source": "https://www.bleedinggreennation.com/news/178874/eagles-news-darius-cooper-has-been-the-third-best-receiver-on-the-team-throughout-camp"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Reserve/limited-role WR behind Eagles' top options (RWR order 5 on Sleeper depth chart). CBS report describes him getting only occasional garbage-time looks.",
+   "note": "CBS blurb gave 2 catches on 2 targets in a recent game but the extracted date was implausible (pre-2026 season) so it was discarded rather than filed",
+   "source": "https://www.cbssports.com/fantasy/football/news/eagles-darius-cooper-ties-season-high-with-two-catches"
+  }
+ ]
+}

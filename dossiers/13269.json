@@ -1,0 +1,116 @@
+{
+ "player_id": "13269",
+ "name": "Fernando Mendoza",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "LV"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Indiana (college)",
+    "games": null,
+    "targets": null,
+    "rec": null,
+    "yards": 3535,
+    "td": 41,
+    "note": "College QB production, not NFL: 3,535 passing yards, 41 passing TD (led FBS), 6 INT, 72% completion, 7 rushing TD, undefeated season."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2026 (day rookies reported to training camp)",
+   "note": "4-year deal worth $57.27M, fully guaranteed, with a 5th-year option (standard for 1st overall pick)."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "New Raiders head coach is Klint Kubiak for 2026. Raiders signed veteran Kirk Cousins in free agency and retained Aidan O'Connell, positioning Mendoza to develop behind established veterans rather than start immediately."
+  },
+  "competition": [
+   {
+    "name": "Kirk Cousins",
+    "age": 37,
+    "status": "named Week-1/camp starting QB",
+    "note": "Named starter by HC Klint Kubiak on 2026-07-28: 'Kirk Cousins in the starting quarterback... He's the guy, and he's going to get a ton of reps.' Signed as veteran free agent in 2026 offseason.",
+    "resolved_id": "1166",
+    "resolved_team": "LV",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Aidan O'Connell",
+    "age": 27,
+    "status": "retained, in QB room",
+    "note": "Incumbent backup/depth QB retained by Raiders.",
+    "resolved_id": "10866",
+    "resolved_team": "LV",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Drafted 1st overall in 2026 by Las Vegas out of Indiana.",
+   "As of camp, Mendoza is taking second-string reps behind Cousins; described in one headline as being on the 'all-backup team.'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury reported as of research date.",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "When we go out to practice tomorrow, Kirk Cousins in the starting quarterback. He's the guy, and he's going to get a ton of reps. For every position, there's gotta be competition, right?",
+    "who": "Klint Kubiak (head coach)",
+    "date": "2026-07-28"
+   },
+   {
+    "quote": "Rookie quarterback found success in short and immediate passing games, targeting receivers Shedrick Jackson and Malik Benson as primary options despite heavy winds.",
+    "who": "Raiders.com training camp notebook",
+    "date": "2026-08-06"
+   },
+   {
+    "quote": "They're all in this together. They're all trying to help each other out and it shows out here.",
+    "who": "Mike McCoy (assistant head coach), on the QB competition",
+    "date": "2026-08-06"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.nfl.com/news/fernando-mendoza-raiders-no-1-overall-pick-2026-nfl-draft",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/raiders-sign-2026-no-1-overall-pick-qb-fernando-mendoza-to-rookie-contract",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.foxnews.com/sports/raiders-head-coach-klint-kubiak-names-kirk-cousins-starting-qb-no-1-pick-fernando-mendoza",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.raiders.com/news/training-camp-notebook-8-6-kirk-cousins-fernando-mendoza-showcase-their-strengths",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/story/_/id/49472920/cousins-gets-nod-fernando-mendoza-open-raiders-camp",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury reported as of research date.",
+   "note": "baseline from initial research pass",
+   "source": "https://www.nfl.com/news/fernando-mendoza-raiders-no-1-overall-pick-2026-nfl-draft"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "player_id": "4464",
+ "name": "Nick Mullens",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "JAX"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Trevor Lawrence",
+    "age": 26,
+    "status": "starter",
+    "note": "entrenched QB1 ahead of Mullens",
+    "resolved_id": "7523",
+    "resolved_team": "JAX",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Jaguars depth chart (ourlads, confirmed): 1. Trevor Lawrence, 2. Nick Mullens, 3. Carter Bradley, 4. Joey Aguilar. Mullens is QB2 behind a healthy, entrenched starter."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Active, not on JAX injury report [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/JAX",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/JAC/jacksonville-jaguars/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/JAX"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported",
+   "role": "Competing for backup QB role with Mac Jones behind starter Trevor Lawrence",
+   "note": "Signed a two-year, $6.5M contract with Jacksonville; positioned as QB2/QB3 depth, not a starter, entering 2026.",
+   "source": "https://www.fantasypros.com/nfl/news/nick-mullens.php"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Active, not on JAX injury report [news 2026-09-21]",
+   "role": "QB2, depth_chart_order 2",
+   "note": "No notable news found; backup QB, healthy",
+   "source": "https://www.cbssports.com/nfl/teams/JAC/jacksonville-jaguars/injuries/"
+  }
+ ]
+}

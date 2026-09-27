@@ -1,0 +1,84 @@
+{
+ "player_id": "4177",
+ "name": "Mack Hollins",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NE"
+   },
+   {
+    "season": 2026,
+    "team": "NE"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "2025": "2-year contract signed 2025-03-14"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Romeo Doubs",
+    "age": 26,
+    "status": "starter",
+    "note": "ahead of Hollins at right WR",
+    "resolved_id": "8121",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change (signed 2-year deal with NE in March 2025, remained through 2025). Listed WR2 (right side) behind Romeo Doubs on ourlads; 46 catches/550 yds/2 TD in 2025 - journeyman depth/red-zone role."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Active, not on NE injury report [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Mack_Hollins",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NE",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/NE/new-england-patriots/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Mack_Hollins"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 4,
+   "injury": "",
+   "role": "ROLE CHANGE: elevated after WR1 A.J. Brown left Week 1 with an ankle injury (since placed on IR)",
+   "note": "[news 2026-09-13] Led Patriots in receiving Week 1: 4 rec, 51 yds",
+   "source": "https://www.bing.com/news/search?q=Mack+Hollins+Patriots+snap+count+week+1+2026"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Active, not on NE injury report [news 2026-09-21]",
+   "role": "RWR, depth_chart_order 2; WR1 A.J. Brown on IR (ankle, exp. return Wk8)",
+   "note": "Potential target-share bump with A.J. Brown out through roughly Week 8",
+   "source": "https://www.cbssports.com/nfl/teams/NE/new-england-patriots/injuries/"
+  }
+ ]
+}

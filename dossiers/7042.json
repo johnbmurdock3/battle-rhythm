@@ -1,0 +1,38 @@
+{
+ "player_id": "7042",
+ "name": "Tyler Bass",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable [as of Sleeper feed checked 2026-09-22; no specific injury/date given]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-22",
+   "injury": "Questionable [as of Sleeper feed checked 2026-09-22; no specific injury/date given]",
+   "role": "",
+   "note": "Store had no name for 7042; resolved via Sleeper API as Tyler Bass, BUF K, listed Questionable. Not one of the profiled skill players in this batch's focus list.",
+   "source": "https://api.sleeper.app/players/nfl/7042"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://api.sleeper.app/players/nfl/7042",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

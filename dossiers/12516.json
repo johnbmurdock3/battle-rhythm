@@ -1,0 +1,106 @@
+{
+ "player_id": "12516",
+ "name": "Kalel Mullings",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TEN"
+   },
+   {
+    "season": 2026,
+    "team": "TEN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tony Pollard",
+    "age": 29,
+    "status": "RB1",
+    "note": "",
+    "resolved_id": "5967",
+    "resolved_team": "TEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Tyjae Spears",
+    "age": 25,
+    "status": "RB2, questionable",
+    "note": "",
+    "resolved_id": "9508",
+    "resolved_team": "TEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Nicholas Singleton",
+    "age": 22,
+    "status": "RB3",
+    "note": "",
+    "resolved_id": "13288",
+    "resolved_team": "TEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Michael Carter",
+    "age": 27,
+    "status": "RB4",
+    "note": "",
+    "resolved_id": "7607",
+    "resolved_team": "TEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; Mullings is RB5 and himself flagged questionable, could not confirm specific injury via secondary source."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "questionable",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/tennessee-titans-depth-chart-ten",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/12516",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-09",
+   "role": "WAIVED/released by the Titans per an Aug 2026 Titans.com roster-moves report; had been listed 6th on the RB depth chart (behind Tony Pollard, Tyjae Spears, Julius Chestnut, Michael Carter, ahead of Nick Singleton) before the release",
+   "note": "Reported waived/released by Tennessee \u2014 verify current roster status before rostering, Sleeper API still shows him on TEN",
+   "source": "https://www.tennesseetitans.com/news/20-things-that-caught-my-eye-on-the-first-unofficial-depth-chart-for-the-titans-in-2026"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "questionable",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/tennessee-titans-depth-chart-ten"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "RB5 on Sleeper depth chart (order 5), buried behind Tony Pollard/Tyjae Spears",
+   "note": "No 2026 Week 2 news found for Mullings; only stale 2025-season injured-reserve articles surfaced in search. no notable news found",
+   "source": "https://api.sleeper.app/players/nfl/12516"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "player_id": "2449",
+ "name": "Stefon Diggs",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NE"
+   },
+   {
+    "season": 2026,
+    "team": "WAS"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NE",
+    "games": 17,
+    "targets": 102,
+    "rec": 85,
+    "yards": 1013,
+    "td": 4,
+    "note": "Played all 17 games with New England while recovering from a torn ACL suffered in Houston in late Oct 2024."
+   }
+  ],
+  "contract": {
+   "years": 1,
+   "signed": "2026-08-05",
+   "note": "Signed 1-year, $12M deal with Washington Commanders after Patriots released him."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "WAS head coach Dan Quinn (as of last verified source, 2024); no 2026 OC change confirmed in sources checked."
+  },
+  "competition": [
+   {
+    "name": "Terry McLaurin",
+    "age": 30,
+    "status": "WR1",
+    "note": "Born 1995-09-15; signed 3-year, $96M extension Aug 26, 2025. Commanders reportedly needed WR depth behind McLaurin, which is why Diggs was signed.",
+    "resolved_id": "5927",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Patriots released Diggs and instead restocked their WR room with other additions (reported: Romeo Doubs), per 985thesportshub.com.",
+   "Deebo Samuel, who had been on Washington in 2025, is NOT a 2026 teammate \u2014 he signed with San Francisco as a free agent on 2026-07-31."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Active per Sleeper as of 2026-09-22 (no injury flag)",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://985thesportshub.com/2026/08/05/stefon-diggs-has-found-his-next-team-washington-commanders/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/player/_/id/2976212/stefon-diggs",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/player/stefon-diggs-10133",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Terry_McLaurin",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/2449",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy / no current designation",
+   "note": "baseline from initial research pass",
+   "source": "https://985thesportshub.com/2026/08/05/stefon-diggs-has-found-his-next-team-washington-commanders/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 4,
+   "injury": "",
+   "role": "TEAM CHANGE: signed by Washington in free agency; WR2 behind Terry McLaurin",
+   "note": "[news 2026-09-13] Week 1 at PHI: 4 rec/9 tgt/55 yds/1 TD",
+   "source": "https://www.statmuse.com/nfl/ask/stefon-diggs-week-1-2026-stats"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Active per Sleeper as of 2026-09-22 (no injury flag)",
+   "role": "Sleeper lists him as WAS RWR, depth_chart_order 2.",
+   "note": "No notable Diggs-specific news found in ESPN WAS news feed as of this run.",
+   "source": "https://api.sleeper.app/players/nfl/2449"
+  }
+ ]
+}

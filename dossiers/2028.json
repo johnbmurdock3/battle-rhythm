@@ -1,0 +1,48 @@
+{
+ "player_id": "2028",
+ "name": "Derek Carr",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NO"
+   },
+   {
+    "season": 2026,
+    "team": ""
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "Retired May 10, 2025, citing a shoulder labral tear and degenerative rotator cuff damage; did not play 2025 season; no 2026 team, retirement stands as of this pass."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "retired",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Derek_Carr",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "retired",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Derek_Carr"
+  }
+ ]
+}

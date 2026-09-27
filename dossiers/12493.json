@@ -1,0 +1,90 @@
+{
+ "player_id": "12493",
+ "name": "Oronde Gadsden",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LAC"
+   },
+   {
+    "season": 2026,
+    "team": "LAC"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "LAC",
+    "games": null,
+    "carries": 0,
+    "targets": 50,
+    "rec": 49,
+    "yards": 664,
+    "td": 3,
+    "note": "rookie 2025 (5th round, 165th overall); ranked 3rd among rookie TEs in rec yards, 2nd in aDOT (9.4), led all TEs w/ 50+ targets in yards/reception (13.6); Week 8 NFL Rookie of the Week (5 rec, 77 yds, 1 TD)"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Mike McDaniel",
+   "note": "Chargers hired Mike McDaniel (former Dolphins HC) as OC for 2026; his offense reportedly prioritizes TE usage"
+  },
+  "competition": [
+   {
+    "name": "David Njoku",
+    "age": 29,
+    "status": "TE1/primary in-line option, newly signed",
+    "note": "born Jul 10, 1996; signed 1-yr deal with LAC May 11, 2026 after leaving Cleveland; per chargers.com he's positioned as the 'primary in-line option,' with Gadsden used more as a move/slot piece",
+    "resolved_id": "4033",
+    "resolved_team": "LAC",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Per chargers.com (May 25, 2026), Gadsden has 'potential to become Justin Herbert's new security blanket' but Njoku's arrival changes the target competition at TE."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury reported; was participating in Phase 2 of offseason program",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.chargers.com/news/oronde-gadsden-mike-mcdaniel-offense-fantasy",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Oronde_Gadsden_II",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/David_Njoku",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/nfl-network-chargers-agree-to-terms-with-te-david-njoku",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury reported; was participating in Phase 2 of offseason program",
+   "note": "baseline from initial research pass",
+   "source": "https://www.chargers.com/news/oronde-gadsden-mike-mcdaniel-offense-fantasy"
+  }
+ ]
+}

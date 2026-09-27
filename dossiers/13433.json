@@ -1,0 +1,79 @@
+{
+ "player_id": "13433",
+ "name": "Riley Nowakowski",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "college (Indiana)"
+   },
+   {
+    "season": 2026,
+    "team": "PIT"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "drafted round 5, 2026 NFL Draft, out of Indiana"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Pat Freiermuth",
+    "age": 27,
+    "status": "TE1",
+    "note": "",
+    "resolved_id": "7600",
+    "resolved_team": "PIT",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Darnell Washington",
+    "age": 24,
+    "status": "TE2",
+    "note": "",
+    "resolved_id": "9479",
+    "resolved_team": "PIT",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Steelers list him as the No. 1 (and only) fullback, NOT grouped on the TE depth chart despite draft billing as a TE; minimal 2026 fantasy relevance expected"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": "No injury reported"
+  },
+  "camp": [
+   "Reported to still be a factor at TE in some packages despite FB depth chart listing"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.steelers.com/news/steelers-release-initial-2026-depth-chart",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/171244/steelers-rookie-fb-riley-nowakowski-still-a-factor-at-te-ramon-chinyoung-interview-otas-roster-news-indiana-stats-offense-2026",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.steelers.com/news/steelers-release-initial-2026-depth-chart"
+  }
+ ]
+}

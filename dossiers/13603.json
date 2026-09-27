@@ -1,0 +1,46 @@
+{
+ "player_id": "13603",
+ "name": "Gregory Desrosiers",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-08-31"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-31",
+   "touches": 9,
+   "injury": "None reported",
+   "role": "Signed to Chargers practice squad (did not make 53-man roster)",
+   "note": "Undrafted rookie RB; 118 yds and a TD on 9 carries in preseason finale vs Rams (Aug 28, 2026); signed to practice squad Aug 31, 2026 behind Hampton, Mitchell, Vidal on the 53-man roster",
+   "source": "https://sports.yahoo.com/articles/chargers-sign-undrafted-rb-greg-194604932.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper lists him as LAC RB with no depth_chart_order set.",
+   "note": "No notable news found; LAC news feed had no mentions of him (unrelated LAC RB-adjacent news: C Tyler Biadasz placed on season-ending IR with ACL injury [news 2026-08-19/08-23]).",
+   "source": "https://api.sleeper.app/players/nfl/13603"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://api.sleeper.app/players/nfl/13603",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

@@ -1,0 +1,75 @@
+{
+ "player_id": "6154",
+ "name": "David Sills",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "ATL"
+   },
+   {
+    "season": 2026,
+    "team": "TB"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "1-year deal, signed April 7, 2026"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jalen McMillan",
+    "age": 24,
+    "status": "starter",
+    "note": "ahead at right WR",
+    "resolved_id": "11618",
+    "resolved_team": "TB",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Tez Johnson",
+    "age": 24,
+    "status": "2nd",
+    "note": "ahead of Sills",
+    "resolved_id": "12485",
+    "resolved_team": "TB",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: signed with Buccaneers from Atlanta, filling depth void left by Mike Evans' departure; ranked 3rd string at right WR - deep bench role only."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.buccaneers.com/news/bucs-add-david-sills-receiving-corps",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/TB",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.buccaneers.com/news/bucs-add-david-sills-receiving-corps"
+  }
+ ]
+}

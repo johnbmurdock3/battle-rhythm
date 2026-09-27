@@ -1,0 +1,43 @@
+{
+ "player_id": "12540",
+ "name": "Chimere Dike",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "touches": 1,
+   "injury": "",
+   "role": "Backup slot WR behind Wan'Dale Robinson; also punt/kick returner",
+   "note": "[news 2026-09-13] Week 1 vs NYJ: 1 target/1 rec/7 yds; no injury, no role change yet",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/TEN"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Complementary/depth WR role in Titans passing game; also used as returner",
+   "note": "Week1 vs NYJ: 1 rec/7 yds; Week2 vs PHI: 1 rec/7 yds; minimal target volume through 2 games [news 2026-09-21]",
+   "source": "https://www.fantasypros.com/nfl/players/chimere-dike.php"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.fantasypros.com/nfl/players/chimere-dike.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

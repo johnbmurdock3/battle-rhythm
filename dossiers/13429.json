@@ -1,0 +1,77 @@
+{
+ "player_id": "13429",
+ "name": "Seydou Traore",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "college (Mississippi State)"
+   },
+   {
+    "season": 2026,
+    "team": "MIA"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "drafted round 5, 2026 NFL Draft"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Greg Dulcich",
+    "age": 26,
+    "status": "TE1",
+    "note": "",
+    "resolved_id": "8172",
+    "resolved_team": "MIA",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Will Kacmarek",
+    "age": 23,
+    "status": "TE2 (rookie, blocking specialist)",
+    "note": "",
+    "resolved_id": "13434",
+    "resolved_team": "MIA",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Rookie; ranked TE3 on Dolphins depth chart, ahead of vets Cole Turner and Ben Sims; touted as 'explosive option in passing game'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": "No injury reported"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.miamidolphins.com/news/training-camp-preview-2026-tight-ends",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Seydou_Traore_(American_football)",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.miamidolphins.com/news/training-camp-preview-2026-tight-ends"
+  }
+ ]
+}

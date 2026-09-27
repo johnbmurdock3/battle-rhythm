@@ -1,0 +1,83 @@
+{
+ "player_id": "13380",
+ "name": "Brenen Thompson",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": null
+   },
+   {
+    "season": 2026,
+    "team": "LAC"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tre' Harris",
+    "age": 24,
+    "status": "starter",
+    "note": "ahead of Thompson at right WR",
+    "resolved_id": "12509",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Ladd McConkey",
+    "age": 24,
+    "status": "starter",
+    "note": "slot WR1",
+    "resolved_id": "11635",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Quentin Johnston",
+    "age": 24,
+    "status": "starter",
+    "note": "left WR1",
+    "resolved_id": "9754",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "2026 rookie, drafted by Chargers in the 4th round (#105) - no 2025 NFL team. Listed as WR2 (right side) behind Tre' Harris; deep receiver room limits immediate role for the speed rookie."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/LAC",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Brenen_Thompson",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/LAC"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "player_id": "5850",
+ "name": "Josh Jacobs",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "NA / body part listed as 'Personal' per Sleeper API, checked 2026-09-22",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-01",
+   "role": "Placed on Commissioner's Exempt List (personal/legal matter) as of Aug 31, 2026 - unavailable to play or practice with team",
+   "note": "Charged with two misdemeanors Aug 27, 2026 stemming from a May 2026 domestic violence arrest; placed on Commissioner's Exempt List Aug 31, 2026, making him unavailable for Week 1. Packers GM said team has not seen video in the case as of Sep 1, 2026.",
+   "source": "https://www.espn.com/nfl/story/_/id/49774523/packers-rb-josh-jacobs-placed-commission-exempt-list"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "NOT on Green Bay's active RB depth chart - listed on the Reserve/Commissioner's Exempt list amid an NFL investigation into alleged misdemeanor battery/criminal destruction of property; court date moved up to 9/10. MarShawn Lloyd is the current lead back",
+   "note": "[news 2026-09-10] GM Brian Gutekunst said he expects Jacobs to play in 2026, timeline unclear",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/GB"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "NA / body part listed as 'Personal' per Sleeper API, checked 2026-09-22",
+   "role": "Not practicing with team, not on Packers' current injury/practice report \u2014 consistent with Reserve/Commissioner's Exempt placement noted ~9/15 amid NFL investigation",
+   "note": "No explicit return-timeline update found; status appears unchanged from 9/15 (still off the active practice/injury report). RB depth_chart_order 3.",
+   "source": "https://api.sleeper.app/players/nfl/5850"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://api.sleeper.app/players/nfl/5850",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

@@ -1,0 +1,105 @@
+{
+ "player_id": "5970",
+ "name": "Greg Dortch",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "DET"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Amon-Ra St. Brown",
+    "age": 26,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "7547",
+    "resolved_team": "DET",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jameson Williams",
+    "age": 25,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "8148",
+    "resolved_team": "DET",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Isaac TeSlaa",
+    "age": 24,
+    "status": "starter",
+    "note": "WR3",
+    "resolved_id": "12535",
+    "resolved_team": "DET",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Signed with Lions in 2026 free agency per Pride of Detroit coverage (prior team not confirmed this pass); called a 2026 training camp standout (Last Word on Sports, 2026-08-04); now Lions WR4."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Named a 2026 training camp standout by Last Word on Sports (2026-08-04)"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.prideofdetroit.com/detroit-lions-free-agency/160152/detroit-lions-free-agency-greg-dortch-instant-analysis",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://lastwordonsports.com/nfl/2026/08/04/greg-dortch-detroit-lions-2026-training-camp-standout/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/detroit-lions-depth-chart-det",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/5970",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.prideofdetroit.com/detroit-lions-free-agency/160152/detroit-lions-free-agency-greg-dortch-instant-analysis"
+  },
+  {
+   "date": "2026-09-03",
+   "note": "CONFLICT/UNRESOLVED: Sleeper API lists team as DET; ESPN player search also showed team as Buffalo Bills; but current CBS Sports rosters for both Detroit Lions and Buffalo Bills (checked Sep 3, 2026) do NOT include Dortch, and the Lions roster page explicitly notes 'Let go by Detroit.' He may currently be a free agent; could not confirm an active current team.",
+   "source": "https://www.cbssports.com/nfl/teams/DET/detroit-lions/roster/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "No depth chart position returned by Sleeper API; not on Bills injury report",
+   "note": "No notable news found.",
+   "source": "https://api.sleeper.app/players/nfl/5970"
+  }
+ ]
+}

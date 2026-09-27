@@ -1,0 +1,96 @@
+{
+ "player_id": "5154",
+ "name": "Trent Sherfield",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DEN/NE"
+   },
+   {
+    "season": 2026,
+    "team": "BUF"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "2025": "2-year, $8M with DEN, signed 2025-03-13, waived 2025-11-15",
+   "2026": "1-year, signed with BUF 2026-03-26"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "DJ Moore",
+    "age": 29,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "4983",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Khalil Shakir",
+    "age": 26,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "8134",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Joshua Palmer",
+    "age": 26,
+    "status": "starter",
+    "note": "WR3",
+    "resolved_id": "7670",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Keon Coleman",
+    "age": 23,
+    "status": "starter",
+    "note": "WR4",
+    "resolved_id": "11637",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Bounced DEN (released 11/15/25) -> ARI practice squad -> NE practice squad -> signed with BUF 3/26/26; now buried at WR8 on Bills depth chart."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Trent_Sherfield",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/buffalo-bills-depth-chart-buf",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Trent_Sherfield"
+  }
+ ]
+}

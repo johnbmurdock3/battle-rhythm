@@ -1,0 +1,139 @@
+{
+ "player_id": "9757",
+ "name": "Kendre Miller",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NO"
+   },
+   {
+    "season": 2026,
+    "team": "NO"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NO",
+    "games": 7,
+    "carries": 47,
+    "targets": 5,
+    "rec": 5,
+    "yards": 223,
+    "td": 1,
+    "note": "193 rush yds + 30 rec yds = 223 total. Placed on IR 2025-10-20 after torn ACL suffered Week 7 vs Chicago; season ended there."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Doug Nussmeier",
+   "note": "HC Kellen Moore entering 2nd season. Whether Nussmeier is new for 2026 was not confirmed (could be continuing) - unverified."
+  },
+  "competition": [
+   {
+    "name": "Travis Etienne Jr.",
+    "age": 27,
+    "status": "RB1 depth chart (new signing)",
+    "note": "Signed 4-year, $52M deal with NO on 2026-03-13, previously Jacksonville. Ourlads NO depth chart lists him RB1 ahead of Kamara and Miller - major role change for the whole Saints backfield.",
+    "resolved_id": "7543",
+    "resolved_team": "NO",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Alvin Kamara",
+    "age": 31,
+    "status": "RB2 depth chart",
+    "note": "Ourlads NO depth chart.",
+    "resolved_id": "4035",
+    "resolved_team": "NO",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Devin Neal",
+    "age": 22,
+    "status": "RB3 depth chart",
+    "note": "2025 6th-round pick (184 overall). Ourlads NO depth chart, ahead of Miller.",
+    "resolved_id": "12476",
+    "resolved_team": "NO",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Ourlads NO depth chart order: Travis Etienne Jr. (1), Alvin Kamara (2), Devin Neal (3), Kendre Miller (4), Ty Chandler (5), Audric Estime (6), CJ Donaldson (7). Miller has fallen to RB4 after the Etienne signing and Neal's development."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Exited a 9/1 practice with trainers; cleared for the opener. Sleeper lists Questionable as of 9/15",
+   "as_of": "2026-09-15"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Kendre_Miller",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NO",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Travis_Etienne",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Devin_Neal",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_New_Orleans_Saints_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872938",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Questionable (per task brief)",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Kendre_Miller"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "Questionable per Sleeper API as of today; FantasyPros' most recent detailed report (~4 weeks old) described a back issue that kept him out of a Thursday practice, with a note about a possibly new knee injury early in camp",
+   "role": "Devin Neal and Audric Estime cited as receiving increased opportunity during his absence",
+   "note": "Injury details are dated (camp-era); current Week 1 status not confirmed by a dated current report",
+   "source": "https://www.fantasypros.com/nfl/players/kendre-miller.php"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Exited a 9/1 practice with trainers; cleared for the opener. Sleeper lists Questionable as of 9/15",
+   "role": "RB2 behind Travis Etienne; Kamara (knee) out could open added early-down work",
+   "note": "[news 2026-09-01] No verified Week 1 stat line found",
+   "source": "https://www.cbssports.com/fantasy/football/news/saints-kendre-miller-exits-practice-tuesday/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "RB depth order 3 per Sleeper, behind Alvin Kamara",
+   "note": "Week 1: 9 carries/30 yds/1 TD, tied for team lead [news 2026-09-14]. Week 2 at BAL: did not record a rushing or receiving stat in the box score (Kamara led with 9 car/15 yds + 5 rec/7 yds) - usage dropped off sharply, role uncertain heading into Week 3.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872938"
+  }
+ ]
+}

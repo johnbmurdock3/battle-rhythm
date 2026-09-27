@@ -1,0 +1,48 @@
+{
+ "player_id": "11377",
+ "name": "Tyrell Shavers",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "BUF"
+   },
+   {
+    "season": 2026,
+    "team": "BUF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "Made Bills' initial 53-man roster in a prior season as preseason standout"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "IR (torn ACL)",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.buffalobills.com/news/bills-place-wide-receiver-wr-tyrell-shavers-on-injured-reserve",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "IR (torn ACL)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.buffalobills.com/news/bills-place-wide-receiver-wr-tyrell-shavers-on-injured-reserve"
+  }
+ ]
+}

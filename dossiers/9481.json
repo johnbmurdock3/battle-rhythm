@@ -1,0 +1,77 @@
+{
+ "player_id": "9481",
+ "name": "Luke Musgrave",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "GB"
+   },
+   {
+    "season": 2026,
+    "team": "GB"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tucker Kraft",
+    "age": 25,
+    "status": "healthy, starter",
+    "note": "TE1",
+    "resolved_id": "9484",
+    "resolved_team": "GB",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Packers TE room thin behind Kraft (Josh Whyle, Drake Dabney, Luke Lachey, undrafted/rookie names) with Musgrave's absence a real concern per beat writers."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Neck, Physically Unable to Perform (PUP), expected return Week 5 [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://atozsports.com/nfl/green-bay-packers-news/tight-end-options-luke-musgrave-neck-injury/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/GB/green-bay-packers/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "PUP list, uncertain timeline",
+   "note": "baseline from initial research pass",
+   "source": "https://atozsports.com/nfl/green-bay-packers-news/tight-end-options-luke-musgrave-neck-injury/"
+  },
+  {
+   "date": "2026-09-02",
+   "injury": "Neck injury (evaluated ~2026-07-29); placed on Reserve/PUP to start the season (reported ~2026-09-02)",
+   "role": "Out to start the season on Reserve/PUP; team expects him back on the field before season ends",
+   "note": "Packers 'hopeful' update on his recovery; will miss at least the first 4 games under PUP rules",
+   "source": "https://www.msn.com/en-us/sports/football/packers-expect-luke-musgrave-to-recover-from-his-neck-injury-and-play-this-season/ar-AA2bmgA6"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Neck, Physically Unable to Perform (PUP), expected return Week 5 [news 2026-09-21]",
+   "role": "Sleeper depth_chart_position TE order 5 (buried on depth chart); Tucker Kraft is GB's lead TE",
+   "note": "On PUP with neck injury as of 2026-09-21, expected back around Week 5; not fantasy-relevant while out",
+   "source": "https://www.cbssports.com/nfl/teams/GB/green-bay-packers/injuries/"
+  }
+ ]
+}

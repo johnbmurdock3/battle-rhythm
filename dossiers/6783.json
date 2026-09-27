@@ -1,0 +1,95 @@
+{
+ "player_id": "6783",
+ "name": "Jerry Jeudy",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CLE"
+   },
+   {
+    "season": 2026,
+    "team": "CLE"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "KC Concepcion",
+    "age": 21,
+    "status": "WR2 rookie",
+    "note": "",
+    "resolved_id": "13298",
+    "resolved_team": "CLE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Denzel Boston",
+    "age": 22,
+    "status": "WR3",
+    "note": "",
+    "resolved_id": "13346",
+    "resolved_team": "CLE",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; listed WR1 on Browns depth chart, but multiple articles note 'training camp struggles' for Jeudy heading into 2026"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08",
+   "note": "No confirmed injury; one headline references a different Browns WR leaving camp early with injury (not confirmed to be Jeudy)"
+  },
+  "camp": [
+   "Reported camp struggles per Yahoo Sports headline 'Browns fans must accept a Jerry Jeudy reality after his training camp struggles'"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/browns/onsi/browns-depth-chart-entering-training-camp-who-s-starting-who-s-fighting-for-their-job-01ky2m0zdrqj",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/browns-fans-must-accept-jerry-130004796.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872935",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/browns/onsi/browns-depth-chart-entering-training-camp-who-s-starting-who-s-fighting-for-their-job-01ky2m0zdrqj"
+  },
+  {
+   "date": "2026-09-01",
+   "role": "WR1 starter on Browns depth chart, ahead of KC Concepcion",
+   "note": "Starting outside WR; not on Browns injury report dated 9/1/26.",
+   "source": "https://www.cbssports.com/nfl/teams/CLE/cleveland-browns/depth-chart/"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 0,
+   "injury": "",
+   "role": "WR3 (RWR, depth_chart_order 3) on CLE depth chart per Sleeper - diminished role",
+   "note": "Week 2 (9/20 vs TB, won 23-19): 0 rec on 1 target - very low usage; depth chart shows him behind two other WRs.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872935"
+  }
+ ]
+}

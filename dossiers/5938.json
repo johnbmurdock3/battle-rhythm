@@ -1,0 +1,86 @@
+{
+ "player_id": "5938",
+ "name": "Lil'Jordan Humphrey",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYG/DEN"
+   },
+   {
+    "season": 2026,
+    "team": "DEN"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "2025": "signed with Giants 2025-03-21; signed off Giants practice squad by Broncos 2025-11-12",
+   "2026": "re-signed 1-year with Broncos 2026-03-12"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Courtland Sutton",
+    "age": 30,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "5045",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jaylen Waddle",
+    "age": 27,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "7526",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Troy Franklin",
+    "age": 23,
+    "status": "starter",
+    "note": "WR3",
+    "resolved_id": "11627",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Started 2025 with Giants, finished it with Broncos, re-signed with Denver for 2026 - no net change entering this season; buried WR6 on Broncos depth chart."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Lil%27Jordan_Humphrey",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/denver-broncos-depth-chart-den",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Lil%27Jordan_Humphrey"
+  }
+ ]
+}

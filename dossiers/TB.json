@@ -1,0 +1,38 @@
+{
+ "player_id": "TB",
+ "name": "Tampa Bay Buccaneers",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Jacob Parrish (CB) back, Questionable for Wk3; Mohamed Kamara (LB) knee, IR",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-22",
+   "injury": "Jacob Parrish (CB) back, Questionable for Wk3; Mohamed Kamara (LB) knee, IR",
+   "role": "",
+   "note": "Wk1 allowed 33 pts at CIN (27-33, final); Wk2 pts allowed unresolved (source unavailable); CB Jacob Parrish questionable for Wk3 vs Minnesota [news 2026-09-21]; Wk3 opponent MIN (home)",
+   "source": "https://www.cbssports.com/nfl/teams/TB/tampa-bay-buccaneers/injuries/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/teams/TB/tampa-bay-buccaneers/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

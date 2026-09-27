@@ -1,0 +1,38 @@
+{
+ "player_id": "NE",
+ "name": "New England Patriots",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Carlton Davis III (CB) neck, Questionable for Wk3; Dre'Mont Jones (DE) shoulder, Questionable for Wk3",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-22",
+   "injury": "Carlton Davis III (CB) neck, Questionable for Wk3; Dre'Mont Jones (DE) shoulder, Questionable for Wk3",
+   "role": "",
+   "note": "Allowed only 3 pts in Wk2 home win vs PIT (20-3, final); CB Carlton Davis and DE Dre'Mont Jones both questionable for Wk3 [news 2026-09-21]; Wk3 opponent JAX (away)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

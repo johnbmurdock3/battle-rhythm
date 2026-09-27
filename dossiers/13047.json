@@ -1,0 +1,81 @@
+{
+ "player_id": "13047",
+ "name": "Jacardia Wright",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SEA"
+   },
+   {
+    "season": 2026,
+    "team": "SEA"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Zach Charbonnet",
+    "age": 25,
+    "status": "starter",
+    "note": "RB1",
+    "resolved_id": "9753",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Jadarian Price",
+    "age": 22,
+    "status": "RB2",
+    "note": "",
+    "resolved_id": "13286",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "George Holani",
+    "age": 26,
+    "status": "RB3",
+    "note": "",
+    "resolved_id": "12048",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Buried 7th on Seahawks RB chart; long-shot roster spot, no fantasy relevance in 2026."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": ""
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/SEA",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/SEA"
+  }
+ ]
+}

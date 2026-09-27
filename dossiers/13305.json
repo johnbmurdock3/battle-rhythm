@@ -1,0 +1,105 @@
+{
+ "player_id": "13305",
+ "name": "Mike Washington",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "LV"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NCAA (Arkansas)",
+    "games": 0,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 0,
+    "td": 0,
+    "note": "Rookie; no 2025 NFL workload. Played college ball at Arkansas in 2025 (previously Buffalo 2021-2023, New Mexico State 2024)."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract, 2026 draft class."
+  },
+  "scheme": {
+   "oc": "Andrew Janocko",
+   "note": "Raiders have an entirely new coaching staff for 2026: HC Klint Kubiak (hired Feb 9, 2026, ex-Seahawks OC) and OC Andrew Janocko (ex-Seahawks QB coach), replacing Pete Carroll who was fired after one season."
+  },
+  "competition": [
+   {
+    "name": "Ashton Jeanty",
+    "age": 22,
+    "status": "RB1",
+    "note": "2025 first-round rookie; led all rookies with 975 rush yds / 1,321 scrimmage yds in 2025. Firmly entrenched starter.",
+    "resolved_id": "12527",
+    "resolved_team": "LV",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Washington drafted in Round 4 (122nd overall) by Las Vegas in 2026 per Wikipedia; note raiders.com team article described him as 'fourth-round' as well (some other pieces reference him loosely as later-round sleeper).",
+   "raiders.com (Jul 2, 2026): projected as primary backup to Jeanty, fits Kubiak's wide-zone scheme, 'positioned to earn substantial carries.'",
+   "Yahoo Sports (Aug 9, 2026) fantasy sleeper piece: projected as 'change-of-pace back behind Jeanty' who could 'garner carries near the goal line.'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No injury reported for Washington as of Aug 11, 2026 in sources checked."
+  },
+  "camp": [
+   {
+    "quote": "Unique blend of size, speed and explosiveness... fits the wide zone system.",
+    "who": "raiders.com position breakdown",
+    "date": "2026-07-02"
+   },
+   {
+    "quote": "Change-of-pace back behind Jeanty and garner carries near the goal line.",
+    "who": "Yahoo Sports fantasy sleeper article",
+    "date": "2026-08-09"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.raiders.com/news/2026-position-breakdown-raiders-running-backs-ashton-jeanty-mike-washington-jr-connor-heyward",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/raiders-rookie-mike-washington-jr-175425374.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Mike_Washington_Jr.",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ashton_Jeanty",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Las_Vegas_Raiders_season",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.raiders.com/news/2026-position-breakdown-raiders-running-backs-ashton-jeanty-mike-washington-jr-connor-heyward"
+  }
+ ]
+}

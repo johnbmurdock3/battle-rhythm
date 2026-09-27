@@ -1,0 +1,86 @@
+{
+ "player_id": "12738",
+ "name": "Phil Mafah",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DAL"
+   },
+   {
+    "season": 2026,
+    "team": "DAL"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Javonte Williams",
+    "age": 26,
+    "status": "starter",
+    "note": "RB1, 222 lbs",
+    "resolved_id": "7588",
+    "resolved_team": "DAL",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Jaydon Blue",
+    "age": 22,
+    "status": "competing",
+    "note": "media/fan favorite for backup role, more versatile",
+    "resolved_id": "12457",
+    "resolved_team": "DAL",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; spent rookie year (2025) partly on IR, now competing with Jaydon Blue for the No. 2 RB job behind Javonte Williams - roster spot close to a lock but game-day role less certain."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://atozsports.com/nfl/dallas-cowboys-news/phil-mafah-player-profile-2026-season/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/york-giants-signing-former-dallas-211539443.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-06-13",
+   "role": "Competing for RB2 behind starter Javonte Williams, against Malik Davis and Jaydon Blue; impressed at OTAs (red-zone TD, called 'night-and-day different' by coaches) tightening the competition, though Davis remained the favorite as of mid-June 2026",
+   "note": "No confirmed depth-chart rank yet as of source date; RB2 battle described as tighter than expected after strong OTAs",
+   "source": "https://www.si.com/nfl/cowboys/onsi/how-otas-changed-dallas-cowboys-running-back-depth-chart-ahead-mandatory-minicamp"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://atozsports.com/nfl/dallas-cowboys-news/phil-mafah-player-profile-2026-season/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Released by Dallas; signed to New York Giants practice squad [news 2026-09-14]. Giants RB room led by Cam Skattebo, with Devin Singletary and Tyrone Tracy Jr. ahead of him. Sleeper API still lists DAL/active-roster RB4, which appears stale.",
+   "note": "Team change: cut by Cowboys, now Giants practice squad, buried on depth chart [news 2026-09-14]",
+   "source": "https://sports.yahoo.com/articles/york-giants-signing-former-dallas-211539443.html"
+  }
+ ]
+}

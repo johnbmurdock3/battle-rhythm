@@ -1,0 +1,79 @@
+{
+ "player_id": "13324",
+ "name": "Matt Hibner",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": null
+   },
+   {
+    "season": 2026,
+    "team": "BAL"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Mark Andrews",
+    "age": 30,
+    "status": "starter",
+    "note": "TE1",
+    "resolved_id": "5012",
+    "resolved_team": "BAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Durham Smythe",
+    "age": 31,
+    "status": "backup",
+    "note": "veteran TE2, blocking",
+    "resolved_id": "5008",
+    "resolved_team": "BAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Josh Cuevas",
+    "age": 22,
+    "status": "rookie",
+    "note": "fellow 2026 4th-round rookie TE, also competing for snaps",
+    "resolved_id": "13273",
+    "resolved_team": "BAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "2026 rookie (draft pick), no 2025 NFL team - was in college. Ravens project an 'Isaiah Likely-type' role but he's TE3 behind Andrews and Smythe; deep, crowded TE room limits rookie-year target share."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.baltimoreravens.com/news/ravens-depth-chart-post-draft-vega-ioane-2026",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.baltimoreravens.com/news/ravens-depth-chart-post-draft-vega-ioane-2026"
+  }
+ ]
+}

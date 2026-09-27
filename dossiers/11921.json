@@ -1,0 +1,95 @@
+{
+ "player_id": "11921",
+ "name": "Xavier Weaver",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "ARI"
+   },
+   {
+    "season": 2026,
+    "team": "ARI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Marvin Harrison Jr.",
+    "age": 24,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "11628",
+    "resolved_team": "ARI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Michael Wilson",
+    "age": 26,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "10232",
+    "resolved_team": "ARI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Kendrick Bourne",
+    "age": 31,
+    "status": "veteran",
+    "note": "WR3",
+    "resolved_id": "4454",
+    "resolved_team": "ARI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Reggie Virgil",
+    "age": 22,
+    "status": "rookie",
+    "note": "WR5, behind Weaver",
+    "resolved_id": "13297",
+    "resolved_team": "ARI",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Listed WR4 on Cardinals depth chart (RotoWire), crowded room behind Harrison/Wilson/Bourne"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "WR4 on depth chart as of Aug 2026"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/arizona-cardinals-depth-chart-ari",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/player/53505/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Questionable",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/arizona-cardinals-depth-chart-ari"
+  }
+ ]
+}

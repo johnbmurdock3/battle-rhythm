@@ -1,0 +1,119 @@
+{
+ "player_id": "6801",
+ "name": "Tee Higgins",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2024,
+    "team": "CIN"
+   },
+   {
+    "season": 2025,
+    "team": "CIN"
+   },
+   {
+    "season": 2026,
+    "team": "CIN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "CIN",
+    "games": 15,
+    "receptions": 59,
+    "rec_yards": 846,
+    "rec_td": 11,
+    "note": "Missed games early season (hamstring) and midseason (ankle, concussions); listed WR2 behind Ja'Marr Chase."
+   },
+   {
+    "season": 2024,
+    "team": "CIN",
+    "games": 12,
+    "receptions": 73,
+    "rec_yards": 911,
+    "rec_td": 10,
+    "note": "Missed time to quad strain (Oct/Nov 2024)."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2025-03-20",
+   "note": "4-year deal replacing a franchise tender worth $26.16M. 2026 terms: $10M fully-guaranteed offseason roster bonus, $10.9M guaranteed base salary, $100K workout bonus, plus $2M in per-game roster bonuses (up to $8M tied to weekly availability). Incentives: $1M for 65%+ snap share + AFC title; $1.7M if Bengals win Super Bowl. Signals team views him as a true co-No.1, not a No.2 role player."
+  },
+  "scheme": {
+   "oc": "Dan Pitcher",
+   "note": "No OC change \u2014 Pitcher continues in 2026 (promoted to OC in 2024), per wcpo.com/spectrumnews1 (2026-07-27/28): stated 2026 goals are 'more explosive plays and fewer turnovers.'"
+  },
+  "competition": [
+   {
+    "name": "Ja'Marr Chase",
+    "age": 26,
+    "status": "WR1, healthy",
+    "note": "Bengals' top target; Higgins and Chase combined for 12,278 yards, 99 TD in their careers per atozsports.com (2026-06-24).",
+    "resolved_id": "7564",
+    "resolved_team": "CIN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Andrei Iosivas",
+    "age": 26,
+    "status": "WR3",
+    "note": "Depth behind Chase/Higgins per atozsports.com depth chart preview (2026-06-24).",
+    "resolved_id": "10226",
+    "resolved_team": "CIN",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "atozsports.com (2026-06-24): Higgins described as 'an undisputed No. 1 option for about half the league if he were anywhere else' \u2014 signals locked-in WR2 role only because Chase is ahead of him, not a competition/decline story."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Full participant, no limitations",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.cincyjungle.com/cincinnati-bengals-depth-chart/195849/7-takeaways-2026-season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://atozsports.com/nfl/cincinnati-bengals-news/bengals-depth-chart-preview-jamarr-chase-tee-higgins/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://local12.com/sports/bengals/details-tee-higgins-contract-cincinnati-bengals-revealed-guaranteed-money-franchise-tender-salary-incentives-millions",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/H/HiggTe00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sicscore.com/nfl/players/tee-higgins",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.wcpo.com/sports/football/bengals/bengals-oc-dan-pitcher-says-more-explosive-plays-and-fewer-turnovers-are-the-goal-in-2026",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Full participant, no limitations",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cincyjungle.com/cincinnati-bengals-depth-chart/195849/7-takeaways-2026-season"
+  }
+ ]
+}

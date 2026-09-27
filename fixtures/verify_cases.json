@@ -1,0 +1,31 @@
+{
+  "_source": "Captured live from Sleeper API 2026-08-09 via session WebFetch. Ground truth = players_points from league matchup endpoints.",
+  "hybrid14_2025_scoring": {"sack":1.0,"fgm_40_49":4.0,"bonus_rec_te":0.5,"pass_int":-2.0,"pts_allow_0":10.0,"pass_2pt":2.0,"rec_0_4":0.5,"st_td":6.0,"rec_30_39":1.0,"rec_td":6.0,"rec_20_29":1.0,"fgm_30_39":3.0,"xpmiss":-1.0,"rush_td":6.0,"rec_2pt":2.0,"rush_fd":0.5,"pass_int_td":-2.0,"st_fum_rec":2.0,"fgmiss":-1.0,"ff":1.0,"rec":0.0,"pts_allow_14_20":1.0,"fgm_0_19":3.0,"int":2.0,"def_st_fum_rec":1.0,"fum_lost":-2.0,"pts_allow_1_6":7.0,"rec_fd":0.5,"rec_5_9":0.5,"fgm_20_29":3.0,"pts_allow_21_27":0.0,"xpm":1.0,"rec_40p":1.0,"rush_2pt":2.0,"fum_rec":2.0,"rec_10_19":1.0,"def_st_td":6.0,"fgm_50p":5.0,"def_td":6.0,"pass_fd":0.25,"safe":2.0,"pass_yd":0.04,"blk_kick":2.0,"pass_td":4.0,"rush_yd":0.1,"fum":0.0,"pts_allow_28_34":-1.0,"pts_allow_35p":-4.0,"fum_rec_td":6.0,"rec_yd":0.1,"def_st_ff":1.0,"pts_allow_7_13":4.0,"st_ff":0.0},
+  "turkey_bowl_2025_scoring": {"sack":1.0,"fgm_40_49":4.0,"pass_int":-1.0,"pts_allow_0":10.0,"pass_2pt":2.0,"st_td":6.0,"rec_td":6.0,"fgm_30_39":3.0,"fgm_50_59":5.0,"xpmiss":-1.0,"rush_td":6.0,"rec_2pt":2.0,"st_fum_rec":1.0,"fgmiss":-1.0,"ff":1.0,"rec":1.0,"pts_allow_14_20":1.0,"fgm_0_19":3.0,"int":2.0,"def_st_fum_rec":1.0,"fum_lost":-2.0,"pts_allow_1_6":7.0,"fgm_60p":6.0,"fgm_20_29":3.0,"pts_allow_21_27":0.0,"xpm":1.0,"rush_2pt":2.0,"fum_rec":2.0,"def_st_td":6.0,"def_td":6.0,"safe":2.0,"pass_yd":0.04,"blk_kick":2.0,"pass_td":4.0,"rush_yd":0.1,"fum":0.0,"pts_allow_28_34":-1.0,"pts_allow_35p":-4.0,"fum_rec_td":6.0,"rec_yd":0.1,"def_st_ff":1.0,"pts_allow_7_13":4.0,"st_ff":1.0},
+  "cases": [
+    {
+      "label": "QB 7083, 2025 wk17, Hybrid 14 (league 9000000000000000005)",
+      "scoring": "hybrid14_2025_scoring",
+      "expected": 18.03,
+      "stats": {"rush_lng":25.0,"pass_air_yd":54.0,"pos_rank_std":19.0,"gp":1.0,"tm_def_snp":47.0,"gms_active":1.0,"pos_rank_half_ppr":19.0,"pass_ypc":6.69,"pass_lng":13.0,"pass_rush_yd":167.0,"pts_std":14.28,"tm_st_snp":25.0,"pass_rtg":105.6,"rush_fd":5.0,"pass_att":20.0,"rush_att":8.0,"pass_rz_att":6.0,"rush_ypa":7.5,"gs":1.0,"tm_off_snp":76.0,"pos_rank_ppr":19.0,"pass_sack":1.0,"off_snp":76.0,"pass_cmp":16.0,"cmp_pct":80.0,"rush_yac":6.0,"pts_half_ppr":14.28,"pass_ypa":5.35,"pass_fd":5.0,"pass_yd":107.0,"rush_rz_att":2.0,"rush_rec_yd":60.0,"pass_td":1.0,"bonus_fd_qb":10.0,"rush_yd":60.0,"pass_td_lng":10.0,"pts_ppr":14.28,"pass_inc":4.0}
+    },
+    {
+      "label": "RB 9753, 2025 wk17, Hybrid 14",
+      "scoring": "hybrid14_2025_scoring",
+      "expected": 29.2,
+      "stats": {"rush_lng":29.0,"rush_td_lng":2.0,"bonus_rush_yd_100":1.0,"pos_rank_std":4.0,"gp":1.0,"rec_0_4":1.0,"tm_def_snp":50.0,"first_td":1.0,"gms_active":1.0,"rec_ypt":6.0,"pos_rank_half_ppr":5.0,"rush_td":2.0,"rush_btkl":1.0,"pass_rush_yd":110.0,"pts_std":24.2,"rec_lng":10.0,"tm_st_snp":21.0,"bonus_rush_rec_yd_100":1.0,"rush_fd":6.0,"rec":2.0,"rec_yar":9.0,"rec_fd":1.0,"rush_att":18.0,"rush_ypa":6.11,"tm_off_snp":66.0,"pos_rank_ppr":6.0,"off_snp":35.0,"rush_yac":29.0,"pts_half_ppr":25.2,"rec_air_yd":3.0,"rec_ypr":6.0,"rec_10_19":1.0,"rush_rz_att":6.0,"rush_rec_yd":122.0,"anytime_tds":2.0,"rush_yd":110.0,"bonus_rec_rb":2.0,"rec_tgt":2.0,"pts_ppr":26.2,"rec_yd":12.0,"bonus_fd_rb":7.0}
+    },
+    {
+      "label": "DEF CHI, 2025 wk17, Turkey Bowl (league 9000000000000000008)",
+      "scoring": "turkey_bowl_2025_scoring",
+      "expected": 5.0,
+      "stats": {"sack":1.0,"qb_hit":1.0,"def_forced_punts":2.0,"pos_rank_std":999.0,"gp":1.0,"yds_allow_450_499":1.0,"penalty":7.0,"sack_yd":7.0,"tkl_ast":33.0,"pos_rank_half_ppr":999.0,"def_kr_yd":102.0,"pts_allow":42.0,"fan_pts_allow_k":6.0,"def_st_tkl_solo":4.0,"pts_std":5.0,"int_ret_yd":34.0,"def_kr_ypa":25.5,"int":1.0,"yds_allow":496.0,"fan_pts_allow_def":-1.0,"def_kr":4.0,"pos_rank_ppr":999.0,"def_kr_lng":30.0,"penalty_yd":39.0,"fan_pts_allow_qb":37.92,"fan_pts_allow_wr":35.2,"tkl_loss":3.0,"pts_half_ppr":5.0,"def_pass_def":6.0,"fan_pts_allow_te":19.0,"tkl":70.0,"def_td":1.0,"tkl_solo":37.0,"fan_pts_allow":130.02,"td":5.0,"pts_ppr":5.0,"pts_allow_35p":1.0,"fan_pts_allow_rb":31.9}
+    },
+    {
+      "label": "DEF GB, 2025 wk17, Turkey Bowl (negative total)",
+      "scoring": "turkey_bowl_2025_scoring",
+      "expected": -3.0,
+      "stats": {"sack":1.0,"qb_hit":4.0,"def_forced_punts":1.0,"pos_rank_std":999.0,"gp":1.0,"penalty":5.0,"yds_allow_400_449":1.0,"tkl_ast":40.0,"pos_rank_half_ppr":999.0,"def_kr_yd":163.0,"pts_allow":41.0,"fan_pts_allow_k":11.0,"def_st_tkl_solo":4.0,"pts_std":-3.0,"def_kr_ypa":23.29,"tkl_solo_misc":1.0,"yds_allow":414.0,"fan_pts_allow_def":6.0,"def_kr":7.0,"pos_rank_ppr":999.0,"def_kr_lng":27.0,"penalty_yd":38.0,"fan_pts_allow_qb":14.28,"fan_pts_allow_wr":14.7,"tkl_loss":2.0,"pts_half_ppr":-3.0,"def_pass_def":2.0,"fan_pts_allow_te":12.5,"tkl":84.0,"tkl_solo":44.0,"fan_pts_allow":106.68,"td":3.0,"pts_allow_35p":1.0,"pts_ppr":-3.0,"fan_pts_allow_rb":54.2}
+    }
+  ]
+}

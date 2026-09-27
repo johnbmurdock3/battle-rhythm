@@ -1,0 +1,88 @@
+﻿(no league given ΓÇö using the one that's drafting: LG01)
+
+ΓòÉΓòÉ LG01 ΓÇö review of your last 12 picks
+   Scored with TODAY'S projections, research and model, against the board as it
+   actually stood at each pick. Not a scorecard of what was knowable then.
+   VALUE = 65% model + 35% market ┬╖ scarcity damping 0.35 ┬╖ horizon 20
+   rise QB0.94 RB0.92 TE0.9 WR0.92
+   [!] marks a pick where model and market disagree sharply ΓÇö look before trusting.
+
+ΓöÇΓöÇ pick 9   you took Brock Bowers (TE)   value 528   rank 1/512  <-- best available
+
+ΓöÇΓöÇ pick 16   you took Justin Jefferson (WR)   value 176   rank 11/505
+      would take: Colston Loveland         TE age  22  proj    215  adp    24  value    413
+      would take: Jeremiyah Love           RB age  21  proj    238  adp    16  value    380
+      would take: Malik Nabers             WR age  23  proj    227  adp     9  value    263
+      gap to best: +237
+
+ΓöÇΓöÇ pick 33   you took TreVeyon Henderson (RB)   value 61   rank 24/488
+      would take: Colston Loveland         TE age  22  proj    215  adp    24  value    389
+      would take: Harold Fannin            TE age  22  proj    180  adp    39  value    223
+      would take: Tyler Warren             TE age  24  proj    201  adp    32  value    187
+      gap to best: +328
+
+ΓöÇΓöÇ pick 40   you took Bucky Irving (RB)   value 92   rank 15/481
+      would take: Colston Loveland         TE age  22  proj    215  adp    24  value    380
+      would take: Harold Fannin            TE age  22  proj    180  adp    39  value    216
+      would take: Tyler Warren             TE age  24  proj    201  adp    32  value    184
+      gap to best: +288
+
+ΓöÇΓöÇ pick 57   you took Marvin Harrison (WR)   value 8   rank 27/464
+      would take: Jaxson Dart              QB age  23  proj    265  adp    56  value    166
+      would take: Luther Burden            WR age  22  proj    209  adp    47  value    162
+      would take: Sam LaPorta              TE age  25  proj    196  adp    62  value     92
+      gap to best: +158
+
+ΓöÇΓöÇ pick 64   you took Travis Etienne (RB)   value 30   rank 9/457
+      would take: Jaxson Dart              QB age  23  proj    265  adp    56  value    166
+      would take: Luther Burden            WR age  22  proj    209  adp    47  value    162
+      would take: Parker Washington        WR age  24  proj    204  adp    96  value     52
+          [!] model loves him: model #3 vs market #32 (11x)
+      gap to best: +135
+
+ΓöÇΓöÇ pick 81   you took Christian Watson (WR)   value 34   rank 6/440
+      would take: Jaxson Dart              QB age  23  proj    265  adp    56  value    218
+      would take: Brock Purdy              QB age  26  proj    268  adp    77  value     76
+      would take: Parker Washington        WR age  24  proj    204  adp    96  value     52
+          [!] model loves him: model #3 vs market #16 (5x)
+      gap to best: +185
+
+ΓöÇΓöÇ pick 88   you took Jaxson Dart (QB)   value 218   rank 1/434  <-- best available
+
+ΓöÇΓöÇ pick 105   you took Rhamondre Stevenson (RB)   value 14   rank 9/417
+      would take: Brock Purdy              QB age  26  proj    268  adp    77  value     79
+      would take: Bo Nix                   QB age  26  proj    260  adp    62  value     50
+      would take: Dak Prescott             QB age  33  proj    271  adp   112  value     47
+      gap to best: +65
+
+ΓöÇΓöÇ pick 112   you took Josh Downs (WR)   value 36   rank 3/410
+      would take: Bo Nix                   QB age  26  proj    260  adp    62  value     65
+      would take: Dak Prescott             QB age  33  proj    271  adp   112  value     56
+      would take: Josh Downs               WR age  24  proj    181  adp   126  value     36
+          [!] model loves him: model #3 vs market #21 (7x)
+      gap to best: +29
+
+ΓöÇΓöÇ pick 129   you took Chris Rodriguez (RB)   value 17   rank 8/394
+      would take: Jayden Reed              WR age  26  proj    198  adp   124  value     46
+          target collision (same position) ΓÇö shares GB targets with Christian Watson
+      would take: Jared Goff               QB age  31  proj    254  adp   157  value     37
+          [!] model loves him: model #2 vs market #32 (16x)
+      would take: Gunnar Helm              TE age  23  proj    130  adp   149  value     28
+          [!] model loves him: model #3 vs market #27 (9x)
+      gap to best: +30
+
+ΓöÇΓöÇ pick 136   you took Jalen Coker (WR)   value 28   rank 4/387
+      would take: Jayden Reed              WR age  26  proj    198  adp   124  value     50
+          target collision (same position) ΓÇö shares GB targets with Christian Watson
+      would take: Gunnar Helm              TE age  23  proj    130  adp   149  value     44
+          [!] model loves him: model #2 vs market #22 (11x)
+      would take: Jared Goff               QB age  31  proj    254  adp   157  value     37
+          [!] model loves him: model #3 vs market #27 (9x)
+      gap to best: +22
+
+cumulative value left on the board: 1478
+7 of the suggested alternatives carry a model/market disagreement flag.
+Where those two diverge there is either an edge or a bug. The first version of
+this review had no market term at all and recommended a 22-year-old TE over
+Justin Jefferson ΓÇö treat a flagged suggestion as a question, not an answer.
+(gaps are only real if you accept ages.json ΓÇö the curves are priors, not fitted)

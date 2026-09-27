@@ -1,0 +1,97 @@
+{
+ "player_id": "13293",
+ "name": "Ja'Kobi Lane",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "BAL"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "drafted Round 3, pick 80, 2026-04-24 (rookie contract)"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Zay Flowers",
+    "age": 25,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "9997",
+    "resolved_team": "BAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Rashod Bateman",
+    "age": 26,
+    "status": "starter",
+    "note": "WR2, veteran",
+    "resolved_id": "7571",
+    "resolved_team": "BAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Elijah Sarratt",
+    "age": 23,
+    "status": "rookie",
+    "note": "4th-round rookie also competing for WR3",
+    "resolved_id": "13268",
+    "resolved_team": "BAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Devontez Walker",
+    "age": 25,
+    "status": "3rd-year",
+    "note": "also competing for WR3",
+    "resolved_id": "11629",
+    "resolved_team": "BAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Rookie (born 2004-08-05, drafted 2026-04-24 R3/P80). Standing out early in camp; competing for the WR3 role in an offense planning to use more 11-personnel \u2014 real path to relevant snaps as a rookie but crowded WR3 competition."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "standing out early in camp per 2026 report"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/ravens/onsi/ravens-rookie-wr-ja-kobi-lane-is-already-standing-out-in-training-camp-01kyt0hxz0ym",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ja%27Kobi_Lane",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/ravens/onsi/ravens-rookie-wr-ja-kobi-lane-is-already-standing-out-in-training-camp-01kyt0hxz0ym"
+  }
+ ]
+}

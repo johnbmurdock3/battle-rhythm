@@ -1,0 +1,52 @@
+{
+ "player_id": "11604",
+ "name": "Brock Bowers",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Left knee meniscus trim procedure (Sept 8 surgery); practicing in Week 3, targeting return Sunday vs Saints pending no setback [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-05-28",
+   "injury": "Cleared the knee injury that limited him to 12 games in 2025 (missed 5 games); fully participating in offseason workouts at full speed as of May 28, 2026.",
+   "role": "Raiders' clear starting/lead TE.",
+   "note": "Sleeper currently lists his injury_status as 'Active' (no designation), consistent with a clean bill of health.",
+   "source": "https://bleacherreport.com/articles/25431900-brock-bowers-updates-knee-injury-status-2026-nfl-season-amid-raiders-otas"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Out - knee meniscus trim procedure 9/9, expected to miss a game or two. Schefter reported 9/14 a realistic chance to return Week 2 vs LAC",
+   "role": "Michael Mayer projected for increased usage during the absence",
+   "note": "[news 2026-09-09] Ruled out for Week 1 vs KC; meniscus trim (not full repair) should speed recovery",
+   "source": "https://www.rotowire.com/football/headlines/brock-bowers-injury-undergoes-meniscus-trim-out-1-to-2-games-636483"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Left knee meniscus trim procedure (Sept 8 surgery); practicing in Week 3, targeting return Sunday vs Saints pending no setback [news 2026-09-21]",
+   "role": "",
+   "note": "Missed Weeks 1-2 recovering from knee surgery; on track for Week 3 season debut.",
+   "source": "https://www.rotowire.com/football/headlines/brock-bowers-injury-practicing-in-week-3-aiming-to-play-sunday-638461"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/headlines/brock-bowers-injury-practicing-in-week-3-aiming-to-play-sunday-638461",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

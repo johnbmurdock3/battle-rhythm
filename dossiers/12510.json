@@ -1,0 +1,51 @@
+{
+ "player_id": "12510",
+ "name": "Jalen Milroe",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Out (per Sleeper as of 2026-09-22; specific reason/date not found in news)",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-29",
+   "role": "Projected to make Seahawks' 53-man roster as the QB3, behind starter Sam Darnold and QB2 Drew Lock, after a strong final preseason game",
+   "note": "Deep QB3 role, no near-term fantasy relevance barring injuries ahead of him",
+   "source": "https://www.spokesman.com/stories/2026/aug/29/seahawks-53-man-roster-projection-following-final-/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Out - Coach's Decision per Sleeper as of 9/15",
+   "role": "Remains Seattle inactive emergency QB3; package-based usage plans have not materialized",
+   "note": "No confirmed change to his QB3/emergency-only role for 2026",
+   "source": "https://www.cbssports.com/fantasy/football/news/seahawks-jalen-milroe-remains-emergency-qb"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Out (per Sleeper as of 2026-09-22; specific reason/date not found in news)",
+   "role": "Sleeper lists him QB3 on depth chart (order 3) and Out - contradicts earlier reporting that had him as QB2 behind Drew Lock while Sam Darnold (hip) was out",
+   "note": "Earlier reporting (Sept 16) had Milroe as backup QB2 to starter Drew Lock with Darnold out (hip); Sleeper's current snapshot shows Milroe himself tagged Out and dropped to QB3 - reason for his own injury/demotion not found in searched news. Verify before relying on him. [news 2026-09-16 vs Sleeper snapshot 2026-09-22]",
+   "source": "https://sports.yahoo.com/articles/seahawks-jalen-milroe-could-play-161433312.html"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/seahawks-jalen-milroe-could-play-161433312.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

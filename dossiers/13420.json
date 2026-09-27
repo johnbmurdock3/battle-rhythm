@@ -1,0 +1,76 @@
+{
+ "player_id": "13420",
+ "name": "Bryce Lance",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "NO"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": ""
+   }
+  ],
+  "notes": [
+   "Rookie WR, drafted by New Orleans in Round 4 (pick 136) of 2026 NFL Draft (North Dakota State) \u2014 called a potential 'steal' of Saints' draft by one outlet \u2014 2025 was college"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Active (per Sleeper API)",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.neworleanssaints.com/news/bryce-lance-saints-draft-pick-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/bryce-lances-rookie-fantasy-outlook-221124488.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.neworleanssaints.com/video/bryce-lance-wide-receiver-interview-9-2-2026",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.neworleanssaints.com/news/bryce-lance-saints-draft-pick-2026"
+  },
+  {
+   "date": "2026-08-30",
+   "role": "Made Saints 53-man roster (WR room: Olave, Vele, Lance, Brown, Austin Jr.)",
+   "note": "2-of-4 targets for 28 yds vs Cowboys preseason Aug 28, 2026, headline called him top receiver that game; made 53-man roster Aug 30, 2026",
+   "source": "https://www.si.com/nfl/saints/onsi/saints-53-man-roster-revealed-who-made-it-and-who-was-cut-01m1afcfnk5a"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Active (per Sleeper API)",
+   "role": "Sleeper depth chart lists him LWR order 3. Saints' team site named him a preseason 'Player of the Day' and ran a growth/role interview ahead of Week 1.",
+   "note": "Coverage found is all preseason/training-camp hype (interview dated 2026-09-02); no verified regular-season Week 1-2 snap or target numbers located in this pass.",
+   "source": "https://www.neworleanssaints.com/video/bryce-lance-wide-receiver-interview-9-2-2026"
+  }
+ ]
+}

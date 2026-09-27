@@ -1,0 +1,38 @@
+{
+ "player_id": "KC",
+ "name": "Kansas City Chiefs",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Chamarri Conner (DB) knee, Out; Omarr Norman-Lott (DT) knee-ACL, PUP",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-22",
+   "injury": "Chamarri Conner (DB) knee, Out; Omarr Norman-Lott (DT) knee-ACL, PUP",
+   "role": "",
+   "note": "Wk2 vs IND score source returned inconsistent/implausible in-progress status, discarded; DB Chamarri Conner Out with knee injury, rookie DT Omarr Norman-Lott on PUP with ACL [news 2026-09-21]; Wk3 opponent MIA (away)",
+   "source": "https://www.cbssports.com/nfl/teams/KC/kansas-city-chiefs/injuries/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/teams/KC/kansas-city-chiefs/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

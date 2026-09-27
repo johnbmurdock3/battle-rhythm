@@ -1,0 +1,136 @@
+{
+ "player_id": "8142",
+ "name": "Alec Pierce",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "IND"
+   },
+   {
+    "season": 2026,
+    "team": "IND"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "IND",
+    "games": 15,
+    "targets": 84,
+    "rec": 47,
+    "yards": 1003,
+    "td": 6,
+    "note": "21.3 YPR, first career ~1,000-yard season"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Jim Bob Cooter",
+   "note": "HC Shane Steichen retained; unclear if Cooter is a new or returning OC"
+  },
+  "competition": [
+   {
+    "name": "Josh Downs",
+    "age": 24,
+    "status": "Listed WR2 behind Pierce on depth chart, but also Questionable",
+    "note": "Born 2001-08-12 (turns 25 tomorrow). Rotowire IND depth chart (fetched 8/11/26) still lists Pierce WR1 despite PUP status",
+    "resolved_id": "9500",
+    "resolved_team": "IND",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Nick Westbrook-Ikhine",
+    "age": 29,
+    "status": "WR3, likely primary snap beneficiary while Pierce is out",
+    "note": "",
+    "resolved_id": "7496",
+    "resolved_team": "IND",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Michael Pittman Jr. (age 28) is no longer on the Colts roster \u2014 he moved to the Pittsburgh Steelers WR2 spot for 2026, per Rotowire/CBS Steelers depth charts, which changes the target-share math on IND"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Heel, Questionable for Week 3 vs Houston [news 2026-09-21 CBS]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "Still no timetable for Pierce's return",
+    "who": "Shane Steichen",
+    "date": "2026-08-06"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-06/steichen-still-no-timetable-for-pierces-return",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.colts.com/news/alec-pierce-ankle-surgery-recovery-timeline-training-camp-will-he-play-2026-regular-season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/indianapolis-colts-depth-chart-ind",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/stats/alec-pierce.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/pittsburgh-steelers-depth-chart-pit",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/IND/indianapolis-colts/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "PUP (Physically Unable to Perform) - practicing (PUP-P)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-06/steichen-still-no-timetable-for-pierces-return"
+  },
+  {
+   "date": "2026-09-01",
+   "injury": "Questionable, left ankle (surgery), per ESPN injury report dated 2026-09-01; missed most of training camp and preseason recovering; Colts GM expressed hope he'd be ready for Week 1 vs. Baltimore (Sept 13, 2026)",
+   "role": "Re-signed with Indianapolis this offseason (reported 4-year, $114M deal) after exploring free agency; no depth-chart demotion reported",
+   "note": "Ankle-surgery recovery is the key Week 1 availability question",
+   "source": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/athletes/4360078/injuries/635840"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 4,
+   "injury": "Sleeper lists Questionable/hand from pre-Week-1 (activated off PUP ~9/8 after March ankle surgery); he played a full workload Week 1 with no in-game injury, so the flag looks stale",
+   "role": "Primary deep threat for the Colts",
+   "note": "[news 2026-09-13] Week 1 vs BAL: 4 rec/6 tgt/61 yds, led Colts in receiving yards",
+   "source": "https://www.statmuse.com/nfl/ask/alec-pierce-week-1-2026-stats"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 1,
+   "injury": "Heel, Questionable for Week 3 vs Houston [news 2026-09-21 CBS]",
+   "role": "LWR1, depth_chart_order 1",
+   "note": "RESOLVED: CBS Colts injury report (9/21) lists Heel/Questionable for Wk3, NOT PUP and NOT 'out weeks'. Week2 box score (IND@KC, lost 20-27): 1 reception, 11 yards. Darius Slayton does NOT appear on ESPN IND roster or injury report as of this check -- signing report looks unconfirmed/inaccurate.",
+   "source": "https://www.cbssports.com/nfl/teams/IND/indianapolis-colts/injuries/"
+  }
+ ]
+}

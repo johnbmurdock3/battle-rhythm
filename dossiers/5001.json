@@ -1,0 +1,85 @@
+{
+ "player_id": "5001",
+ "name": "Dalton Schultz",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "HOU"
+   },
+   {
+    "season": 2026,
+    "team": "HOU"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Foster Moreau",
+    "age": 29,
+    "status": "",
+    "note": "TE2",
+    "resolved_id": "5985",
+    "resolved_team": "HOU",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Clear TE1 on Texans depth chart ahead of Foster Moreau, Cade Stover, and Brevin Jordan (Ques). Stable starting role for redraft purposes."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/houston-texans-depth-chart-hou",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/dalton-schultz.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-03-10",
+   "injury": "None reported for 2026; prior calf injury during Jan 2026 Divisional Round playoff game (~28 weeks before 2026-09-03) appears resolved",
+   "role": "Primary receiving TE / 'safety blanket' for QB C.J. Stroud",
+   "note": "Agreed to a one-year, $12.6M contract extension with Houston on March 10, 2026 (guaranteed earnings to $17.6M through 2027).",
+   "source": "https://www.fantasypros.com/nfl/news/dalton-schultz.php"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/houston-texans-depth-chart-hou"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 4,
+   "injury": "",
+   "role": "With WR Jayden Higgins out (ACL), Schultz is option B behind Nico Collins",
+   "note": "[news 2026-09-13] Week 1: 4 rec on 8 targets (2nd on team) for 35 yds vs BUF",
+   "source": "https://www.rotowire.com/football/player/dalton-schultz-12514"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "",
+   "note": "No fresh Week 2/3 news found; most recent items are a contract extension (~22 weeks ago) and an old calf injury (~28 weeks ago) - no notable current news found",
+   "source": "https://www.fantasypros.com/nfl/news/dalton-schultz.php"
+  }
+ ]
+}

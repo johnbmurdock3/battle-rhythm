@@ -1,0 +1,71 @@
+{
+ "player_id": "8207",
+ "name": "Tyler Goodson",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "IND"
+   },
+   {
+    "season": 2026,
+    "team": "ATL"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Bijan Robinson",
+    "age": 24,
+    "status": "starter",
+    "note": "RB1, workhorse",
+    "resolved_id": "9509",
+    "resolved_team": "ATL",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Brian Robinson",
+    "age": 27,
+    "status": "RB2",
+    "note": "",
+    "resolved_id": "8154",
+    "resolved_team": "ATL",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: signed with Atlanta as free agent on March 26, 2026, after 2025 season with Indianapolis; buried behind Bijan Robinson, minimal standalone value."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": ""
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Tyler_Goodson",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Tyler_Goodson"
+  }
+ ]
+}

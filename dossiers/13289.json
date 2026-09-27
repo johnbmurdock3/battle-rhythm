@@ -1,0 +1,118 @@
+{
+ "player_id": "13289",
+ "name": "Drew Allar",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "PIT"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NCAA (Penn State)",
+    "games": 0,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 0,
+    "td": 0,
+    "note": "Rookie; no 2025 NFL workload. Played QB for Penn State in 2025."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Signed rookie contract (yardbarker.com)."
+  },
+  "scheme": {
+   "oc": "Brian Angelichio",
+   "note": "Drafted by Pittsburgh in Round 3 (76th overall) of the 2026 NFL Draft. MAJOR PIT COACHING CHANGE: Mike Tomlin stepped down Jan 13, 2026 after 19 seasons; new HC is Mike McCarthy. OC listed as Brian Angelichio (no explicit note on whether this is a new hire vs. holdover)."
+  },
+  "competition": [
+   {
+    "name": "Aaron Rodgers",
+    "age": 42,
+    "status": "QB1",
+    "note": "Returned for what's reported as his 'final season'; unquestioned starter entering camp (Bolavip, Jul 29 2026).",
+    "resolved_id": "96",
+    "resolved_team": "PIT",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Mason Rudolph",
+    "age": 30,
+    "status": "QB2",
+    "note": "Second-team QB per depth chart; born 1995, exact DOB not confirmed but approx. 30-31 years old.",
+    "resolved_id": "4972",
+    "resolved_team": "PIT",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Will Howard",
+    "age": 24,
+    "status": "QB3 (splits w/ Allar)",
+    "note": "Shares third-team reps with Allar.",
+    "resolved_id": "12511",
+    "resolved_team": "PIT",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Bolavip (Jul 29, 2026): depth chart order is Rodgers (starter) > Rudolph (2nd team) > Howard/Allar splitting 3rd team snaps. Allar is buried behind three veterans/incumbents to start camp - developmental rookie year expected."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No injury reported for Allar as of Aug 11, 2026 in sources checked."
+  },
+  "camp": [
+   {
+    "quote": "Steelers remain encouraged by rookie QB Drew Allar after rough start: 'routine throws.'",
+    "who": "Yardbarker",
+    "date": "2026 (exact date not confirmed)"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://bolavip.com/en/nfl/steelers-confirm-qb-depth-chart-to-start-2026-training-camp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Drew_Allar",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Mason_Rudolph",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Pittsburgh_Steelers_season",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://bolavip.com/en/nfl/steelers-confirm-qb-depth-chart-to-start-2026-training-camp"
+  }
+ ]
+}

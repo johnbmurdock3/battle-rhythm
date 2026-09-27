@@ -1,0 +1,73 @@
+{
+ "player_id": "11574",
+ "name": "Dylan Laube",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LV"
+   },
+   {
+    "season": 2026,
+    "team": "LV"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Ashton Jeanty",
+    "age": 22,
+    "status": "starter",
+    "note": "RB1 (rookie feature back) ahead of Laube",
+    "resolved_id": "12527",
+    "resolved_team": "LV",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Mike Washington Jr.",
+    "age": 23,
+    "status": "backup",
+    "note": "RB2 ahead of Laube",
+    "resolved_id": "13305",
+    "resolved_team": "LV",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "3rd-string RB behind feature back Ashton Jeanty; role likely limited to passing-down/kick-return duty."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Dylan_Laube",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/LV",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Dylan_Laube"
+  }
+ ]
+}

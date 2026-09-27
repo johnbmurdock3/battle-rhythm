@@ -1,0 +1,142 @@
+{
+ "player_id": "13274",
+ "name": "Germie Bernard",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "Alabama (college)"
+   },
+   {
+    "season": 2026,
+    "team": "PIT"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Alabama (NCAA)",
+    "games": null,
+    "targets": null,
+    "rec": null,
+    "yards": null,
+    "td": null,
+    "note": "No NFL 2025 workload - Bernard was a college player in 2025 (Alabama, after transferring from Michigan State then Washington). Drafted by Pittsburgh in Round 2, #47 overall, 2026 NFL Draft."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract, 2026 2nd-round pick"
+  },
+  "scheme": {
+   "oc": "Brian Angelichio",
+   "note": "New HC Mike McCarthy for 2026, replacing Mike Tomlin who stepped down 2026-01-13 after a Wild Card loss - Bernard's entire rookie season is under a new head coach"
+  },
+  "competition": [
+   {
+    "name": "DK Metcalf",
+    "age": 28,
+    "status": "WR1 on PIT depth chart",
+    "note": "Born 1997-12-14. Traded to Pittsburgh from Seattle in March 2025.",
+    "resolved_id": "5846",
+    "resolved_team": "PIT",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Michael Pittman Jr.",
+    "age": 28,
+    "status": "WR2 on PIT depth chart",
+    "note": "Born 1997-10-05. Newly on Steelers roster for 2026 (formerly Colts) per Rotowire/CBS depth charts - notable offseason arrival.",
+    "resolved_id": "6819",
+    "resolved_team": "PIT",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Roman Wilson",
+    "age": 25,
+    "status": "WR3 on PIT depth chart, ahead of Bernard",
+    "note": "Born 2001-06-19.",
+    "resolved_id": "11630",
+    "resolved_team": "PIT",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Bernard is listed WR4 on the Steelers' initial 2026 depth chart (Rotowire, CBS Sports, fetched 8/11/26), behind Metcalf, Pittman, and Wilson. Steelers.com (8/5/26) similarly lists him second-string behind Pittman."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No injury designation found for Bernard"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/pittsburgh-steelers-depth-chart-pit",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.steelers.com/news/steelers-release-initial-2026-depth-chart",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/PIT/pittsburgh-steelers/depth-chart/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Germie_Bernard",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Pittsburgh_Steelers_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://steelersdepot.com/2026/09/how-soon-will-germie-bernard-work-into-rotation/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/pittsburgh-steelers-depth-chart-pit"
+  },
+  {
+   "date": "2026-08-27",
+   "role": "2026 2nd-round rookie (traded up for, pick 47) has emerged as Steelers' clear WR3, per Aug 27, 2026 report; had 4 catches/51 yards (incl. 25-yard catch-and-run) vs Green Bay in preseason; his rise pushes Roman Wilson down to compete for WR4",
+   "note": "Won the WR3 job in camp; versatile alignment (outside/slot/even RB) cited as an edge",
+   "source": "https://www.steelernation.com/2026/08/27/steelers-rookie-germie-bernard-battle"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Competing for Steelers WR3 role behind Calvin Austin (undisclosed camp injury), alongside Roman Wilson",
+   "note": "[news 2026-09-13] Rookie earning coaching staff trust; no hard Week 1 target/snap numbers surfaced",
+   "source": "https://www.steelernation.com/2026/09/13/steelers-surprising-germie-bernard-revelation"
+  },
+  {
+   "date": "2026-09-22",
+   "route_pct": 0,
+   "target_share": 0,
+   "touches": 0,
+   "injury": "",
+   "role": "WR4 on Steelers depth chart behind Roman Wilson (matches Sleeper SWR order 3). Week 1 debut: only 3 offensive snaps, 0 targets; OC said the game script never got to his package concepts.",
+   "note": "Minimal Week 1 usage (3 snaps, 0 targets); DK Metcalf, Roman Wilson, Jaylen Warren, Pat Freiermuth, Rico Dowdle all ahead of him in the pecking order",
+   "source": "https://steelersdepot.com/2026/09/how-soon-will-germie-bernard-work-into-rotation/"
+  }
+ ]
+}

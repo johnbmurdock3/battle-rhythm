@@ -1,0 +1,109 @@
+{
+ "player_id": "11655",
+ "name": "Tyrone Tracy",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYG"
+   },
+   {
+    "season": 2026,
+    "team": "NYG"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NYG",
+    "games": 15,
+    "carries": 176,
+    "targets": null,
+    "rec": 36,
+    "yards": 1028,
+    "td": 2,
+    "note": "740 rush yds/2 TD + 288 rec yds (0 rec TD); 11 starts. Started as RB1 but dislocated his shoulder Week 3 vs Kansas City; returned Week 6 with a reduced role as rookie Cam Skattebo took over the starting job."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Matt Nagy",
+   "note": "NYG hired John Harbaugh as HC (2026-01-17) and Matt Nagy as OC (2026-02-03, ex-Kansas City) after firing Brian Daboll on 2025-11-10 following a 2-8 start."
+  },
+  "competition": [
+   {
+    "name": "Cam Skattebo",
+    "age": 24,
+    "status": "RB1 depth chart",
+    "note": "Ourlads NYG depth chart lists him ahead of Tracy. In 2025 (through 8 games before injury): 101 car/410 rush yds/5 TD, 24 rec/207 rec yds/2 TD. Suffered a dislocated ankle Week 8 (2025-10-26) and was ruled out for the rest of that season; his 2026 recovery/practice status was not verified with a dated source - flagged as a gap given he sits ahead of Tracy on the depth chart.",
+    "resolved_id": "12481",
+    "resolved_team": "NYG",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Ourlads NYG RB depth chart: Cam Skattebo (1), Tyrone Tracy Jr. (2), Devin Singletary (3, UDFA ex-Houston), Eric Gray (4, 2023 5th-round pick), Dante Miller (5), Damon Bankston (6)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None listed",
+   "as_of": "2026-09-15"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Tyrone_Tracy_Jr.",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NYG",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Cam_Skattebo",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_New_York_Giants_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.amny.com/sports/najee-harris-giants-w2-9-15-26/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Tyrone_Tracy_Jr."
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 2,
+   "injury": "None listed",
+   "role": "DEMOTED to RB3 behind a healthy Cam Skattebo (back from fibula fracture, scored in his return) and Devin Singletary",
+   "note": "[news 2026-09-14] Only 2 carries for 14 yds plus 9 special-teams snaps; fumbled on his 2nd carry and was benched the rest of the game",
+   "source": "https://www.rotowire.com/football/headlines/tyrone-tracy-news-two-offensive-snaps-in-week-1-637436"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Poor Week 1 performance (2 carries for 14 yards, lost fumble) has created a role threat from Najee Harris, who returned healthy from a prior ACL/Achilles injury and could take carries in Week 2 [news 2026-09-15/09-20]",
+   "note": "Multiple outlets (Heavy.com, amNewYork) flagged a possible committee shift toward Harris; exact snap/touch split for Week 2 not confirmed in sources found. One source's head-coach attribution looked incorrect and was discarded.",
+   "source": "https://www.amny.com/sports/najee-harris-giants-w2-9-15-26/"
+  }
+ ]
+}

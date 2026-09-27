@@ -1,0 +1,64 @@
+{
+ "player_id": "12473",
+ "name": "Mitchell Evans",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CAR"
+   },
+   {
+    "season": 2026,
+    "team": "CAR"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "note": "solid rookie campaign per CBS Sports"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tommy Tremble",
+    "age": 26,
+    "status": "TE1",
+    "note": "first team, ahead of Evans",
+    "resolved_id": "7694",
+    "resolved_team": "CAR",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. TE2 behind Tommy Tremble on Panthers' official depth chart released 8/3/26 for Hall of Fame game."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.panthers.com/news/panthers-release-depth-chart-ahead-of-hall-of-fame-game-to-start-2026-preseason",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.panthers.com/news/panthers-release-depth-chart-ahead-of-hall-of-fame-game-to-start-2026-preseason"
+  }
+ ]
+}

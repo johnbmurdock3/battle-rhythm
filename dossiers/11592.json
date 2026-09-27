@@ -1,0 +1,92 @@
+{
+ "player_id": "11592",
+ "name": "Erick All",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CIN"
+   },
+   {
+    "season": 2026,
+    "team": "CIN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Mike Gesicki",
+    "age": 30,
+    "status": "starter",
+    "note": "receiving TE, 28 rec/307 yds/2 TD in 2025",
+    "resolved_id": "4993",
+    "resolved_team": "CIN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Drew Sample",
+    "age": 30,
+    "status": "backup",
+    "note": "blocking TE",
+    "resolved_id": "6001",
+    "resolved_team": "CIN",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change, but CONFLICTING reports: an Aug 6, 2026 local Cincinnati report (WCPO) says All is 'back to full strength' running with the 1st-team offense as primary TE; a separate June 12, 2026 report claimed the Bengals ruled him out for the entire 2026 season with ACL issues. Verify status before draft day - do not treat as clear TE1 without confirming."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Sleeper API lists status as Questionable (no date given as of lookup 2026-09-22)",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.wcpo.com/sports/football/bengals/erick-all-jr-is-back-from-a-knee-injury-and-shining-in-bengals-training-camp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://profootballnews.net/articles/bengals-erick-all-jr-out-for-2026-season-bengals-te-room-faces-development-setback",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/bengals-erick-all-plays-on-20-snaps/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-06",
+   "injury": "Recovered from an ACL/knee injury that required multiple surgeries and kept him out for the entire 2025 season; cleared for training camp and passed his conditioning test, but being brought along gradually.",
+   "role": "Has not played in a regular-season game since 2024; working back into the Bengals' TE rotation.",
+   "note": "Sleeper lists his current injury_status as 'Questionable'; most recent news (Aug 6, 2026) is positive about his return to camp.",
+   "source": "https://www.foxsports.com/nfl/erick-all-player"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "conflicting reports - verify",
+   "note": "baseline from initial research pass",
+   "source": "https://www.wcpo.com/sports/football/bengals/erick-all-jr-is-back-from-a-knee-injury-and-shining-in-bengals-training-camp"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 0,
+   "injury": "Sleeper API lists status as Questionable (no date given as of lookup 2026-09-22)",
+   "role": "Not a featured piece in a crowded Bengals TE passing game per beat coverage",
+   "note": "Week 1 vs TB (W 33-27): played 20 snaps, 0 targets, 0 catches. [news 2026-09-14]",
+   "source": "https://www.cbssports.com/fantasy/football/news/bengals-erick-all-plays-on-20-snaps/"
+  }
+ ]
+}

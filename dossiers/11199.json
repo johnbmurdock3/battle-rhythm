@@ -1,0 +1,75 @@
+{
+ "player_id": "11199",
+ "name": "Emari Demercado",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "KC"
+   },
+   {
+    "season": 2026,
+    "team": "KC"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Kenneth Walker",
+    "age": 25,
+    "status": "RB1",
+    "note": "offseason addition",
+    "resolved_id": "8151",
+    "resolved_team": "KC",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Emmett Johnson",
+    "age": 22,
+    "status": "RB2",
+    "note": "rookie",
+    "resolved_id": "13337",
+    "resolved_team": "KC",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; article calls him 'one of the Chiefs' biggest mysteries' heading into camp, now RB3 behind Walker/Johnson."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Described as facing pressure/uncertain role entering 2026 camp"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-emari-demercado-biggest-mysteries-2026-nfl-training-camp/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/kansas-city-chiefs-depth-chart-kc",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-emari-demercado-biggest-mysteries-2026-nfl-training-camp/"
+  }
+ ]
+}

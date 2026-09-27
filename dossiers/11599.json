@@ -1,0 +1,98 @@
+{
+ "player_id": "11599",
+ "name": "Cade Stover",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "HOU"
+   },
+   {
+    "season": 2026,
+    "team": "HOU"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "note": "broke foot Week 1 vs Rams, placed on IR 9/10/25, missed remainder of season"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Dalton Schultz",
+    "age": 30,
+    "status": "TE1",
+    "note": "veteran leads TE group",
+    "resolved_id": "5001",
+    "resolved_team": "HOU",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Marlin Klein",
+    "age": 23,
+    "status": "rookie 2nd-round TE",
+    "note": "competing with Stover",
+    "resolved_id": "13307",
+    "resolved_team": "HOU",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Foster Moreau",
+    "age": 29,
+    "status": "TE competitor",
+    "note": "",
+    "resolved_id": "5985",
+    "resolved_team": "HOU",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Brevin Jordan",
+    "age": 26,
+    "status": "TE competitor",
+    "note": "",
+    "resolved_id": "7568",
+    "resolved_team": "HOU",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Recovered from Week 1 2025 broken foot (IR) and offseason hernia surgery; fully cleared and doing conditioning/Phase 2 work as of 5/25/26, but buried behind Schultz and rookie Klein -- also cross-training as blocking fullback, capping receiving upside."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy/cleared",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.click2houston.com/sports/2026/05/25/how-a-healthy-cade-stover-fits-into-texans-competitive-tight-end-situation-and-as-a-blocking-fullback/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-put-te-cade-stover-on-ir",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy/cleared",
+   "note": "baseline from initial research pass",
+   "source": "https://www.click2houston.com/sports/2026/05/25/how-a-healthy-cade-stover-fits-into-texans-competitive-tight-end-situation-and-as-a-blocking-fullback/"
+  }
+ ]
+}

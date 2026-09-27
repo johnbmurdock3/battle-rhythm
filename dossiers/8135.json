@@ -1,0 +1,61 @@
+{
+ "player_id": "8135",
+ "name": "Treylon Burks",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "WAS"
+   },
+   {
+    "season": 2026,
+    "team": "WAS"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "Re-signed, terms undisclosed, March 12, 2026 (per other reports ~1yr/$4M)"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Terry McLaurin",
+    "age": 30,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "5927",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change (he moved from Titans to Washington in 2025, then re-signed with WAS for 2026); trying to find a role in a crowded WR corps behind McLaurin."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.commanders.com/news/commanders-re-sign-treylon-burks",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.commanders.com/news/commanders-re-sign-treylon-burks"
+  }
+ ]
+}

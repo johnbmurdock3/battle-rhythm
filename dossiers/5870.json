@@ -1,0 +1,152 @@
+{
+ "player_id": "5870",
+ "name": "Daniel Jones",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "IND"
+   },
+   {
+    "season": 2026,
+    "team": "IND"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "IND",
+    "games": 13,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 3101,
+    "td": 19,
+    "note": "Passing: 3,101 yds/19 TD/8 INT (ESPN gamelog); rush 164 yds/5 TD. CBS Sports reports slightly different totals for the same season (2,989 pass yds, 17 pass TD, 163 rush yds) \u2014 minor source discrepancy, INTs (8) agree."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Colts re-signed Jones to a contract extension per colts.com; specific terms not verified in this pass."
+  },
+  "scheme": {
+   "oc": "Jim Bob Cooter",
+   "note": "Cooter continues as Colts OC into 2026 (in role since 2023); HC Shane Steichen also continues. No new HC/OC for 2026."
+  },
+  "competition": [
+   {
+    "name": "Anthony Richardson",
+    "age": 24,
+    "status": "QB2 (co-listed)",
+    "note": "Listed alongside rookie Riley Leonard for backup QB2 spot as of Aug 10, 2026 preseason depth chart.",
+    "resolved_id": "9229",
+    "resolved_team": "IND",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Riley Leonard",
+    "age": 22,
+    "status": "QB2 (co-listed, rookie)",
+    "note": "2025 6th-round pick (189th overall); splitting QB2 reps with Richardson in Aug 2026 preseason.",
+    "resolved_id": "12470",
+    "resolved_team": "IND",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Colts preseason Week 1 depth chart (colts.com, Aug 10 2026): Daniel Jones is QB1 and will not play in the preseason opener vs. New England (rest, not reported as injury). Anthony Richardson and Riley Leonard split reps for QB2.",
+   "Heavy.com (Aug 10, 2026): 'Daniel Jones is firmly established as QB1.'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Fully recovered from Dec 2025 Achilles tear/surgery; no current designation",
+   "as_of": "2026-09-15"
+  },
+  "camp": [
+   {
+    "quote": "Daniel Jones is firmly established as QB1.",
+    "who": "Heavy.com",
+    "date": "2026-08-10"
+   },
+   {
+    "quote": "Jones will not play in the preseason opener against New England.",
+    "who": "colts.com",
+    "date": "2026-08-10"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/news/colts-quarterback-battle-anthony-richardson-daniel-jones-begin-preseason-games-as-co-starters-on-depth-chart",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/player/gamelog/_/id/3917792/daniel-jones",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/players/2179245/daniel-jones/game-log/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/indianapolis-colts/make-surprising-anthony-richardson-decision/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.colts.com/news/colts-release-unofficial-depth-chart-for-preseason-week-1-game-vs-new-england-patriots",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.colts.com/team/coaches-roster/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Riley_Leonard",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.statmuse.com/nfl/ask/anthony-richardson-age",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/5870",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-07-27",
+   "role": "Colts QB, fully cleared from 2025 Achilles tear as of Jul 27, 2026",
+   "note": "Confirmed with Indianapolis Colts; not on Colts injury report as of Sep 1, 2026. Fully medically cleared for camp after Achilles rehab.",
+   "source": "https://www.espn.com/nfl/story/_/id/49463610/colts-daniel-jones-says-fully-cleared-achilles-injury"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/nfl/news/colts-quarterback-battle-anthony-richardson-daniel-jones-begin-preseason-games-as-co-starters-on-depth-chart"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Fully recovered from Dec 2025 Achilles tear/surgery; no current designation",
+   "role": "Healthy starting QB for Indianapolis in 2026",
+   "note": "No Week 1 box score found in this pass beyond recovery confirmation",
+   "source": "https://www.colts.com/news/daniel-jones-progressing-well-through-achilles-injury-expects-to-be-100-percent-for-week-1-of-2026-season"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "QB1 on Indianapolis depth chart per Sleeper; not on Colts injury report (healthy). Anthony Richardson also on roster with no injury designation.",
+   "note": "No clear QB-competition news located this pass; no notable injury/role change found beyond existing IND QB1 status.",
+   "source": "https://api.sleeper.app/players/nfl/5870"
+  }
+ ]
+}

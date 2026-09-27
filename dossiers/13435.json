@@ -1,0 +1,87 @@
+{
+ "player_id": "13435",
+ "name": "Joe Royer",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CLE"
+   },
+   {
+    "season": 2026,
+    "team": "CLE"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Harold Fannin Jr.",
+    "age": 22,
+    "status": "starter",
+    "note": "TE1, 2025 3rd-round pick",
+    "resolved_id": "12506",
+    "resolved_team": "CLE",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Blake Whiteheart",
+    "age": 26,
+    "status": "backup",
+    "note": "TE2",
+    "resolved_id": "11201",
+    "resolved_team": "CLE",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Ourlads has Royer 3rd on Browns TE depth chart behind Fannin and Whiteheart -- minimal 2026 fantasy relevance."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable (per Sleeper API as of this check; no body part or date confirmed in this pass)",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/CLE",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/13435",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/CLE"
+  },
+  {
+   "date": "2026-08-30",
+   "injury": "Questionable per Sleeper; placed on reserve/non-football illness (NFI) list",
+   "role": "Out at least first 4 weeks of regular season; designated to return",
+   "note": "Rookie 5th-round TE missed all of preseason due to a personal issue; placed on reserve/NFI list as of Aug 30, 2026 report",
+   "source": "https://www.rotowire.com/football/headlines/joe-royer-news-placed-on-non-football-illness-list-635414"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Questionable (per Sleeper API as of this check; no body part or date confirmed in this pass)",
+   "role": "5th-round rookie TE (170 overall via trade from Broncos), Sleeper depth chart shows TE order 3 (TE3).",
+   "note": "Sleeper API flags him Questionable but no injury detail (body part/date) or Week 1-2 snap data was found in searches this pass \u2014 flag for follow-up before Week 3.",
+   "source": "https://api.sleeper.app/players/nfl/13435"
+  }
+ ]
+}

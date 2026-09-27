@@ -1,0 +1,96 @@
+{
+ "player_id": "12462",
+ "name": "Damien Martinez",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "unverified"
+   },
+   {
+    "season": 2026,
+    "team": "GB"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Josh Jacobs",
+    "age": 28,
+    "status": "starter",
+    "note": "RB1",
+    "resolved_id": "5850",
+    "resolved_team": "GB",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "MarShawn Lloyd",
+    "age": 25,
+    "status": "backup",
+    "note": "ahead of Martinez",
+    "resolved_id": "11581",
+    "resolved_team": "GB",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Chris Brooks",
+    "age": 26,
+    "status": "backup",
+    "note": "ahead of Martinez",
+    "resolved_id": "11370",
+    "resolved_team": "GB",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Martinez is RB5 on GB depth chart behind Jacobs, Brooks, Lloyd, and Pierre Strong Jr.; deep bench role only. Tagged 'SF25' (signed as free agent 2025) on ourlads, so prior-team confirmation not obtained this pass -- could not verify if this represents a 2025->2026 team change."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/GB",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/605076/damien-martinez-released-by-packers.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/GB"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "Released by the Green Bay Packers on 8/31/2026 after competing for a depth RB role behind Josh Jacobs; no confirmed new team found as of the most recent report",
+   "note": "TEAM CHANGE: waived by Packers, currently unsigned per latest report; Sleeper's team field (GB) appears stale",
+   "source": "https://www.fantasypros.com/nfl/news/605076/damien-martinez-released-by-packers.php"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Packers practice squad RB, deep on depth chart (order 5)",
+   "note": "Released by Seattle earlier in 2025/26, signed to Green Bay practice squad, briefly released by GB on Aug 31, 2026 [news 2026-08-31] then re-signed to Packers practice squad; Sleeper currently lists him active on GB roster, RB depth order 5, no injury.",
+   "source": "https://www.fantasypros.com/nfl/news/605076/damien-martinez-released-by-packers.php"
+  }
+ ]
+}

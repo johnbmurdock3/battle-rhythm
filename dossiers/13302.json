@@ -1,0 +1,133 @@
+{
+ "player_id": "13302",
+ "name": "Adam Randall",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "BAL"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "",
+    "games": null,
+    "carries": null,
+    "targets": null,
+    "rec": null,
+    "yards": null,
+    "td": null,
+    "note": "College player (Clemson) in 2025; no NFL stats."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract, drafted round 5, pick 174 overall, 2026 NFL Draft, out of Clemson."
+  },
+  "scheme": {
+   "oc": "Declan Doyle",
+   "note": "Ravens fired longtime HC John Harbaugh on 2026-01-06 after 18 seasons; hired Jesse Minter as new HC and Declan Doyle as new OC for 2026 - a full offensive/staff overhaul, including new RB coach Eddie Faulkner."
+  },
+  "competition": [
+   {
+    "name": "Derrick Henry",
+    "age": 32,
+    "status": "RB1 depth chart",
+    "note": "17 games, 307 car, 1,595 rush yds, 16 TD, 15 rec in 2025. Signed 2-yr/$30M extension 2025-05-14.",
+    "resolved_id": "3198",
+    "resolved_team": "BAL",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Justice Hill",
+    "age": 28,
+    "status": "RB2 depth chart",
+    "note": "Placed on IR 2025-11-27 with a neck injury; current 2026 recovery status not verified.",
+    "resolved_id": "5995",
+    "resolved_team": "BAL",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Rasheen Ali",
+    "age": 25,
+    "status": "RB3 depth chart",
+    "note": "2024 5th-round pick; age not verified.",
+    "resolved_id": "11570",
+    "resolved_team": "BAL",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Ourlads BAL RB depth chart: Derrick Henry (1), Justice Hill (2), Rasheen Ali (3), Adam Randall (4), plus UDFAs. Randall is buried behind three backs including a workhorse (Henry) still productive at 32.",
+   "SI/Onsi Ravens article headline (undated within July 2026 grouping): 'Rookie Adam Randall Checking All The Boxes To Become A \"Joker\" Role In Ravens Offense' - suggests a receiving/hybrid role projection, but full text not retrieved."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "IR (placed on injured reserve) [news 2026-08-30]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Adam_Randall_(American_football)",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Baltimore_Ravens_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/BAL",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Derrick_Henry",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Justice_Hill",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/ravens/onsi",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-30/adam-randall-lands-on-ir-to-start-the-season",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Adam_Randall_(American_football)"
+  },
+  {
+   "date": "2026-08-30",
+   "injury": "Placed on injured reserve Aug 30, 2026 with an undisclosed injury (designated to return); cannot return before Oct 11, must miss at least 4 games. Note: Sleeper API currently shows injury_status as None, which conflicts with this IR report -- treat the IR report as the more current/specific source.",
+   "role": "Rookie RB behind Derrick Henry, Justice Hill, and Rasheen Ali on Baltimore's active RB depth chart",
+   "note": "Placed on IR at final cuts after a strong preseason (rushing TDs); out until at least Week 6 (Oct 11)",
+   "source": "https://www.cbssports.com/fantasy/football/news/ravens-adam-randall-placed-on-ir-designated-to-return/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "IR (placed on injured reserve) [news 2026-08-30]",
+   "role": "On IR to start the season; no Week 1/2 activity",
+   "note": "Ravens placed Randall on IR before Week 1; no return timeline reported as of last check [news 2026-08-30]",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-30/adam-randall-lands-on-ir-to-start-the-season"
+  }
+ ]
+}

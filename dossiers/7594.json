@@ -1,0 +1,156 @@
+{
+ "player_id": "7594",
+ "name": "Chuba Hubbard",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CAR"
+   },
+   {
+    "season": 2026,
+    "team": "CAR"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "CAR",
+    "games": 15,
+    "carries": 134,
+    "targets": 30,
+    "rec": 30,
+    "yards": 511,
+    "td": 1,
+    "note": "Rushing: 134 car/511 yds/1 TD in 15 games (injuries limited him). Receiving: 30 tgt/30 rec/223 yds/3 TD. Combined 6 total TDs. Efficiency reportedly declined (broken-tackle rate and YAC/att down from 2024)."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Could not verify current contract terms this pass (Spotrac/OTC fetches failed)."
+  },
+  "scheme": {
+   "oc": "Brad Idzik (listed as OC on team site; unable to confirm if new hire)",
+   "note": "HC Dave Canales is NOT new (in role since Jan 25, 2024)."
+  },
+  "competition": [
+   {
+    "name": "Jonathon Brooks",
+    "age": 23,
+    "status": "recovering from back-to-back ACL surgeries; reported cleared for full training camp participation and competing directly with Hubbard as of camp reports",
+    "note": "2024 2nd-round pick",
+    "resolved_id": "11583",
+    "resolved_team": "CAR",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Trevor Etienne",
+    "age": 22,
+    "status": "healthy, RB3",
+    "note": "2025 4th-round pick",
+    "resolved_id": "12531",
+    "resolved_team": "CAR",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "AJ Dillon",
+    "age": 28,
+    "status": "healthy, depth/UDFA add from Philadelphia",
+    "note": "",
+    "resolved_id": "6828",
+    "resolved_team": "CAR",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Panthers' official depth chart (Aug 3, 2026) lists Hubbard atop the RB room as the presumptive starter, with Brooks second.",
+   "Rico Dowdle (2025 depth competitor) left in free agency for Pittsburgh, clearing early-down work for Hubbard if he holds off Brooks."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Not on CAR Week 3 injury report [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "Hubbard leads the depth chart at the position, with Jonathon Brooks listed second",
+    "who": "panthers.com depth chart release",
+    "date": "2026-08-03"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.panthers.com/news/panthers-release-depth-chart-ahead-of-hall-of-fame-game-to-start-2026-preseason",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.profootballnetwork.com/carolina-panthers-rb-depth-chart-chuba-hubbard/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/players/2865693/chuba-hubbard/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/players/2865693/chuba-hubbard/fantasy/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/players/chuba-hubbard.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.panthers.com/team/players-roster/jonathon-brooks/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.panthers.com/team/coaches-roster/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872933",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "no injury reported for Hubbard himself",
+   "note": "baseline from initial research pass",
+   "source": "https://www.panthers.com/news/panthers-release-depth-chart-ahead-of-hall-of-fame-game-to-start-2026-preseason"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "Hamstring - Questionable for Week 1 vs. Chicago",
+   "role": "Panthers starting RB (when healthy)",
+   "note": "Listed questionable for Week 1 with a hamstring injury as of the current roster report",
+   "source": "https://www.cbssports.com/nfl/teams/CAR/carolina-panthers/roster/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 13,
+   "injury": "August hamstring (MRI-confirmed), week-to-week, missed preseason; played full workload Week 1 with no setback",
+   "role": "Clear lead RB for CAR over Jonathon Brooks in Week 1 snaps",
+   "note": "[news 2026-09-13] Week 1 vs CHI: 10 car/49 yds/1 TD + 3 rec/38 yds/1 TD",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-13/hubbard-sees-13-touches-scores-twice-vs-chi"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 14,
+   "injury": "Not on CAR Week 3 injury report [news 2026-09-21]",
+   "role": "RB1, depth order 1 per Sleeper",
+   "note": "Week 2 vs ATL: 12 rush/53 yds, 2 rec/2 tgt. Clear lead back; CAR backups Jonathon Brooks (Questionable, groin) and Trevor Etienne (IR, ankle) both limited/out, so no threat to his workload.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872933"
+  }
+ ]
+}

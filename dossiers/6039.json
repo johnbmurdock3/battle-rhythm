@@ -1,0 +1,104 @@
+{
+ "player_id": "6039",
+ "name": "Ty Johnson",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "BUF"
+   },
+   {
+    "season": 2026,
+    "team": "BUF"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "BUF",
+    "games": 17,
+    "carries": 50,
+    "targets": 21,
+    "rec": 20,
+    "yards": 236,
+    "td": 4,
+    "note": "Rushing: 50 car/236 yds/4 TD (4.7 ypc). Receiving: 21 tgt/20 rec/263 yds/2 TD (per NFL.com game logs). Complementary/passing-down back and pass-blocker for Josh Allen."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "SI Bills Onsi piece (Jun 16, 2026) noted Johnson entering a contract year, ranked as Buffalo's 25th most important player."
+  },
+  "scheme": {
+   "oc": "Pete Carmichael Jr.",
+   "note": "Bills have new HC Joe Brady (promoted Jan 27, 2026, replacing fired Sean McDermott) and new OC Pete Carmichael Jr. (Brady held the OC role himself for two seasons prior to promotion)."
+  },
+  "competition": [
+   {
+    "name": "James Cook",
+    "age": 26,
+    "status": "RB1",
+    "note": "Lead back; Johnson operates as change-of-pace/passing-down complement behind him.",
+    "resolved_id": "8138",
+    "resolved_team": "BUF",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "James Cook DOB Sept 25, 1999 -> age 26 as of Aug 2026 (Wikipedia)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable/undiagnosed",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "The training staff helped Johnson to the sideline, then back to the locker room.",
+    "who": "twobillsdrive.com",
+    "date": "2026-08-09"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.twobillsdrive.com/2026/08/09/bills-ty-johnson-injury-scare-rb-leaves-red-blue-scrimmage-with-trainers/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/bills/onsi/player-rankings-bills-rb-ty-johnson-veteran-enters-contract-year-no-25",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/players/ty-johnson/stats/logs/2025/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/bills-ominous-injury-key-offensive-151123707.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Buffalo_Bills_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/James_Cook_(running_back)",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Questionable/undiagnosed",
+   "note": "baseline from initial research pass",
+   "source": "https://www.twobillsdrive.com/2026/08/09/bills-ty-johnson-injury-scare-rb-leaves-red-blue-scrimmage-with-trainers/"
+  }
+ ]
+}

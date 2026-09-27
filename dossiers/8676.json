@@ -1,0 +1,73 @@
+{
+ "player_id": "8676",
+ "name": "Rashid Shaheed",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SEA"
+   },
+   {
+    "season": 2026,
+    "team": "SEA"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "re-signed with Seahawks (headline 'Seahawks Re-Sign WR Rashid Shaheed')"
+  },
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "No team change; re-signed by Seattle. Handles both punt/kick return duties historically - open question per team site whether he keeps both in 2026."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "unverified for Aug 2026",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Seahawks training camp Day 8 report exists but was not fetched in detail"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.seahawks.com/news/rashid-shaheed-cleared-for-saturday-s-game-vs-49ers-other-seahawks-injury-news",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.seahawks.com/video/seahawks-re-sign-wide-receiver-rashid-shaheed",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/SEA/seattle-seahawks/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified for Aug 2026",
+   "note": "baseline from initial research pass",
+   "source": "https://www.seahawks.com/news/rashid-shaheed-cleared-for-saturday-s-game-vs-49ers-other-seahawks-injury-news"
+  },
+  {
+   "date": "2026-08-28",
+   "role": "Expected expanded offensive role in Seattle's 2026 passing game",
+   "note": "Signed 3-year, $51M extension with Seahawks (~late July 2026); no trade or injury reported; participating fully in camp/practice as of late Aug",
+   "source": "https://www.washingtonpost.com/sports/nfl/2026/07/28/seahawks-shaheed-contract-settling/e96df9c6-8afb-11f1-8912-d71e69d679d7_story.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper depth_chart_position RWR order 2",
+   "note": "Not on SEA injury report as of 2026-09-21; no notable news found this session",
+   "source": "https://www.cbssports.com/nfl/teams/SEA/seattle-seahawks/injuries/"
+  }
+ ]
+}

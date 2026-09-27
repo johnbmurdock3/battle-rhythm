@@ -1,0 +1,136 @@
+{
+ "player_id": "11624",
+ "name": "Xavier Worthy",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "KC"
+   },
+   {
+    "season": 2026,
+    "team": "KC"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "KC",
+    "games": 14,
+    "targets": 73,
+    "rec": 42,
+    "yards": 532,
+    "td": 1,
+    "note": "Missed time to Week 1 shoulder dislocation/labrum tear (surgery in January 2026) and an ankle injury; down from 2024 rookie line of 98 tgt/59 rec/638 yds/6 TD in 17 games"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Eric Bieniemy (per Wikipedia 2026 Chiefs season page)",
+   "note": "Single-source, not independently corroborated - treat with caution"
+  },
+  "competition": [
+   {
+    "name": "Rashee Rice",
+    "age": 26,
+    "status": "WR1 on KC depth chart, ahead of Worthy",
+    "note": "Born 2000-04-22. Rotowire KC depth chart (fetched 8/11/26) lists Rice #1, Worthy #2",
+    "resolved_id": "10229",
+    "resolved_team": "KC",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Tyquan Thornton",
+    "age": 26,
+    "status": "WR3",
+    "note": "Behind Worthy on current depth chart",
+    "resolved_id": "8188",
+    "resolved_team": "KC",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Note: an older KC depth-chart snapshot (Yahoo, 12/14/25) had Hollywood Brown (age 29) and JuJu Smith-Schuster (age 29) in the WR mix, but neither appears on the current (8/11/26-fetched) Rotowire KC depth chart - Smith-Schuster signed with the NY Giants on 2026-06-02 per Wikipedia. Treat Brown's 2026 KC status as unconfirmed/likely departed."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None listed",
+   "as_of": "2026-09-15"
+  },
+  "camp": [
+   {
+    "quote": "Trending toward full health for training camp",
+    "who": "atozsports.com",
+    "date": "2026-07-13"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/kansas-city-chiefs-depth-chart-kc",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-xavier-worthy-breakout-candidate-tranform-outlook-2026-nfl-season/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/stats/xavier-worthy.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/JuJu_Smith-Schuster",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Kansas_City_Chiefs_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/chiefs-xavier-worthy-five-catches-in-week-2-win/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-06",
+   "injury": "Left practice on Aug 6, 2026 with a shoulder injury (early indications not serious, called a 'brief scare'); this follows offseason surgery on a labrum tear/shoulder injury suffered in Week 1 of the 2025 season.",
+   "role": "Entering 2026 expected to have an expanded role in the Chiefs' offense once fully healthy.",
+   "note": "Sleeper currently lists his injury_status as 'None' (no designation), suggesting the August shoulder scare resolved without lingering issues.",
+   "source": "https://sports.yahoo.com/articles/chiefs-receive-huge-xavier-worthy-003817968.html"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "Questionable ('Ques' tag)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/kansas-city-chiefs-depth-chart-kc"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 3,
+   "injury": "None listed",
+   "role": "No role change; limited overall passing volume to KC WRs",
+   "note": "[news 2026-09-14] Week 1 vs DEN: 3 catches on 6 targets for 18 yds",
+   "source": "https://www.rotowire.com/football/headlines/xavier-worthy-news-opens-season-with-three-catches-637489"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 5,
+   "injury": "",
+   "role": "",
+   "note": "Week 2 vs IND (OT win 33-30): 7 targets, 5 catches for 25 yds and a TD. [news 2026-09-21]",
+   "source": "https://www.cbssports.com/fantasy/football/news/chiefs-xavier-worthy-five-catches-in-week-2-win/"
+  }
+ ]
+}

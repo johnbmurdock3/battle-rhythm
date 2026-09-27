@@ -1,0 +1,110 @@
+{
+ "player_id": "11586",
+ "name": "Blake Corum",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LAR"
+   },
+   {
+    "season": 2026,
+    "team": "LAR"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "LAR",
+    "games": 17,
+    "carries": 145,
+    "targets": 14,
+    "rec": 8,
+    "yards": 746,
+    "td": 6,
+    "note": "Rush yards 746/6 TD; plus 8 rec for 36 yards; nearly tripled rookie-year attempts"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Unverified this pass"
+  },
+  "scheme": {
+   "oc": "",
+   "note": "No 2026 Rams HC/OC change found this pass (Sean McVay referenced as continuing HC)"
+  },
+  "competition": [
+   {
+    "name": "Kyren Williams",
+    "age": 25,
+    "status": "RB1",
+    "note": "Firmly ahead of Corum on 2026 Rotowire depth chart; same age as Corum (both 25)",
+    "resolved_id": "8150",
+    "resolved_team": "LAR",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Ronnie Rivers",
+    "age": 27,
+    "status": "RB3",
+    "note": "Depth chart RB3",
+    "resolved_id": "8195",
+    "resolved_team": "LAR",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Rams RB depth chart (Rotowire, fetched 2026-08-11): 1. Kyren Williams, 2. Blake Corum, 3. Ronnie Rivers, 4. Jarquez Hunter, 5. Jordan Waters, 6. Dean Connors"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No current injury status found for Corum in this pass"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.pro-football-reference.com/players/C/CoruBl00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/los-angeles-rams-depth-chart-lar",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/LAR/los-angeles-rams/roster/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/rams-blake-corum-even-timeshare-with-williams/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.pro-football-reference.com/players/C/CoruBl00.htm"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 13,
+   "injury": "",
+   "role": "Near-even timeshare with Kyren Williams; positioned as co-lead back option",
+   "note": "Week 2 (2026-09-21): 12 carries for 79 yds, 1 catch for 13 yds. Carries almost identical to Kyren Williams.",
+   "source": "https://www.cbssports.com/fantasy/football/news/rams-blake-corum-even-timeshare-with-williams/"
+  }
+ ]
+}

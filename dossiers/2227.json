@@ -1,0 +1,44 @@
+{
+ "player_id": "2227",
+ "name": "Aaron Donald",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury designation per Sleeper as of 2026-09-22",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-31",
+   "role": "Returning veteran DT, snap count/Week 1 availability undecided",
+   "note": "Unretired and signed a one-year, $20M deal to play for the Rams in 2026. As of Aug 31, 2026, HC Sean McVay had not committed to playing him in the Week 1 game vs. the 49ers in Australia, saying it's 'a day at a time' as Donald regains football fitness.",
+   "source": "https://www.49erswebzone.com/articles/202841-aaron-donald-49ers-provides-update/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "No injury designation per Sleeper as of 2026-09-22",
+   "role": "Active starter for the Rams; 49ers HC Kyle Shanahan said he expected Donald to play in the Week 1 opener vs. SF [news 2026-09-07], and Donald was highlighted among 'NFL Week 2's best [game-day] arrivals' [news 2026-09-22], indicating he played/participated in Week 2.",
+   "note": "Healthy and playing through Week 2; no injury or role-change news found.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?team=lar"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?team=lar",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

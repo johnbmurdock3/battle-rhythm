@@ -1,0 +1,227 @@
+rank	player	tier	pos	src_pos	team
+1	Jordyn Brooks	1	LB	LB1	MIA
+2	Jack Campbell	1	LB	LB2	DET
+3	Carson Schwesinger	1	LB	LB3	CLE
+4	Roquan Smith	1	LB	LB4	BAL
+5	Myles Garrett	1	DL	DE1	LAR
+6	Blake Cashman	1	LB	LB5	MIN
+7	Ernest Jones IV	1	LB	LB6	SEA
+8	Foyesade Oluokun	2	LB	LB7	JAC
+9	Fred Warner	2	LB	LB8	SF
+10	Cedric Gray	2	LB	LB9	TEN
+11	Zack Baun	2	LB	LB10	PHI
+12	Jamien Sherwood	2	LB	LB11	NYJ
+13	Aidan Hutchinson	2	DL	DE2	DET
+14	Will Anderson Jr.	2	DL	DE3	HOU
+15	Nick Bolton	2	LB	LB12	KC
+16	Nate Landman	2	LB	LB13	LAR
+17	Quay Walker	2	LB	LB14	LV
+18	Maxx Crosby	3	DL	DE4	LV
+19	Edgerrin Cooper	3	LB	LB15	GB
+20	Alex Singleton	3	LB	LB16	DEN
+21	Zaire Franklin	3	LB	LB17	GB
+22	Tremaine Edmunds	3	LB	LB18	NYG
+23	Robert Spillane	3	LB	LB19	NE
+24	Sonny Styles	3	LB	LB20	WAS
+25	Devin Lloyd	3	LB	LB21	CAR
+26	Kaden Elliss	4	LB	LB22	NO
+27	Daiyan Henley	4	LB	LB23	LAC
+28	Devin Bush Jr.	4	LB	LB24	CHI
+29	T.J. Edwards	4	LB	LB25	CHI
+30	Azeez Al-Shaair	4	LB	LB26	HOU
+31	Nick Bosa	4	DL	DE5	SF
+32	Nakobe Dean	4	LB	LB27	LV
+33	CJ Allen	4	LB	LB28	IND
+34	Quincy Williams	4	LB	LB29	CLE
+35	Danielle Hunter	4	DL	DE6	HOU
+36	Tre'von Moehrig	4	DB	S10	CAR
+37	Barrett Carter	4	LB	LB30	CIN
+38	Brian Burns	4	DL	DE7	NYG
+39	Talanoa Hufanga	4	DB	S11	DEN
+40	Terrel Bernard	4	LB	LB31	BUF
+41	Xavier McKinney	4	DB	S12	GB
+42	Patrick Queen	4	LB	LB32	PIT
+43	Antoine Winfield Jr.	4	DB	S13	TB
+44	Quentin Lake	5	DB	S14	LAR
+45	Chamarri Conner	5	DB	S15	KC
+46	Kevin Byard III	5	DB	S16	NE
+47	Divine Deablo	5	LB	LB33	ATL
+48	Jordan Battle	5	DB	S17	CIN
+49	Alex Anzalone	5	LB	LB34	TB
+50	Demario Davis	5	LB	LB35	NYJ
+51	Jeffery Simmons	5	DL	DT1	TEN
+52	Mack Wilson Sr.	5	LB	LB36	ARI
+53	Eric Wilson	5	LB	LB37	MIN
+54	Cooper DeJean	5	DB	CB1	PHI
+55	Xavier Watts	5	DB	S18	ATL
+56	DeMarvion Overshown	5	LB	LB38	DAL
+57	T.J. Watt	5	LB	LB39	PIT
+58	Payton Wilson	5	LB	LB40	PIT
+59	Andrew Van Ginkel	5	LB	LB41	MIN
+60	Jalen Pitre	5	DB	S19	HOU
+61	Laiatu Latu	5	DL	DE8	IND
+62	Dillon Thieneman	5	DB	S20	CHI
+63	Arvell Reese	5	LB	LB42	NYG
+64	Demetrius Knight Jr.	5	LB	LB43	CIN
+65	Caleb Downs	6	DB	S21	DAL
+66	Julian Love	6	DB	S22	SEA
+67	Drake Thomas	6	LB	LB44	SEA
+68	Dee Winters	6	LB	LB45	DAL
+69	Byron Young	6	DL	DE9	LAR
+70	Josh Hines-Allen	6	DL	DE10	JAC
+71	Jared Verse	6	DL	DE11	CLE
+72	Nik Bonitto	6	DL	DE12	DEN
+73	Drue Tranquill	6	LB	LB46	KC
+74	Paulson Adebo	6	DB	CB2	NYG
+75	Jihaad Campbell	6	LB	LB47	PHI
+76	Frankie Luvu	6	LB	LB48	WAS
+77	Cody Simon	6	LB	LB49	ARI
+78	Tuli Tuipulotu	6	DL	DE13	LAC
+79	Devon Witherspoon	6	DB	CB3	SEA
+80	Alex Highsmith	6	LB	LB50	PIT
+81	Kamari Lassiter	6	DB	CB4	HOU
+82	Montez Sweat	6	DL	DE14	CHI
+83	DeForest Buckner	6	DL	DT2	IND
+84	Jaquan Brisker	6	DB	S23	PIT
+85	Ventrell Miller	6	LB	LB51	JAC
+86	Henry To'oTo'o	6	LB	LB52	HOU
+87	Akeem Davis-Gaither	6	LB	LB53	IND
+88	DeShon Elliott	6	DB	S24	PIT
+89	Brian Branch	6	DB	S25	DET
+90	Trey Hendrickson	6	DL	DE15	BAL
+91	Tyrel Dodson	6	LB	LB54	CAR
+92	Micah Parsons	7	LB	LB55	GB
+93	AJ Haulcy	7	DB	S26	IND
+94	Dallas Turner	7	DL	DE16	MIN
+95	Kevin Winston Jr.	7	DB	S27	TEN
+96	Abdul Carter	7	DL	DE17	NYG
+97	Jaelan Phillips	7	DL	DE18	CAR
+98	Dre Greenlaw	7	LB	LB56	SF
+99	Jacob Rodriguez	7	LB	LB57	MIA
+100	George Karlaftis III	7	DL	DE19	KC
+101	Brandon Jones	7	DB	S28	DEN
+102	Chase Young	7	DL	DE20	NO
+103	Joshua Metellus	7	DB	S29	MIN
+104	Josiah Trotter	7	LB	LB58	TB
+105	Leonard Williams	7	DL	DT3	SEA
+106	Alontae Taylor	7	DB	CB5	TEN
+107	Greg Rousseau	7	DL	DE21	BUF
+108	Cameron Heyward	7	DL	DT4	PIT
+109	Anthony Hill Jr.	7	LB	LB59	TEN
+110	Cody Barton	7	LB	LB60	TEN
+111	Yaya Diaby	7	DL	DE22	TB
+112	Minkah Fitzpatrick	7	DB	S30	NYJ
+113	Christian Elliss	7	LB	LB61	NE
+114	Bobby Okereke	7	LB	LB62	CAR
+115	Aaron Donald	7	DL	DT5	LAR
+116	Cole Bishop	7	DB	S31	BUF
+117	Cam Bynum	7	DB	S32	IND
+118	Grant Delpit	8	DB	S33	CLE
+119	Malik Mustapha	8	DB	S34	SF
+120	Tyler Nubin	8	DB	S35	NYG
+121	Jalen Thompson	8	DB	S36	DAL
+122	Jalen Carter	8	DL	DT6	PHI
+123	Jonathan Greenard	8	DL	DE23	PHI
+124	Derrick Brown	8	DL	DT7	CAR
+125	Zach Sieler	8	DL	DT8	MIA
+126	Bradley Chubb	8	LB	LB63	BUF
+127	Austin Booker	8	LB	LB64	CHI
+128	Quinnen Williams	8	DL	DT9	DAL
+129	Jalen Ramsey	8	DB	CB6	PIT
+130	Riley Moss	8	DB	CB7	DEN
+131	Travon Walker	8	DL	DE24	JAC
+132	Andrew Wingard	8	DB	S37	ARI
+133	Josh Sweat	8	DL	DE25	ARI
+134	Teddye Buchanan	8	LB	LB65	BAL
+135	Zach Allen	8	DL	DE26	DEN
+136	Jermaine Johnson II	8	DL	DE27	TEN
+137	Devin White	8	LB	LB66	DET
+138	David Bailey	8	DL	DE28	NYJ
+139	Tyson Campbell	8	DB	CB8	CLE
+140	Pete Werner	8	LB	LB67	NO
+141	Chris Jones	8	DL	DT10	KC
+142	Harold Landry III	8	LB	LB68	NE
+143	Rashan Gary	8	LB	LB69	DAL
+144	Amani Hooker	8	DB	S38	TEN
+145	Dru Phillips	8	DB	CB9	NYG
+146	Kool-Aid McKinstry	8	DB	CB10	NO
+147	C.J. Gardner-Johnson	8	DB	S39	BUF
+148	Mike Sainristil	8	DB	CB11	WAS
+149	Jordan Davis	8	DL	DT11	PHI
+150	Nick Herbig	8	LB	LB70	PIT
+151	Odafe Oweh	8	DL	DE29	WAS
+152	Reed Blankenship	8	DB	S40	HOU
+153	Leo Chenal	8	LB	LB71	WAS
+154	Carl Granderson	8	DL	DE30	NO
+155	Rueben Bain Jr.	8	DL	DE31	TB
+156	Nick Scott	8	DB	S41	CAR
+157	Dexter Lawrence II	8	DL	DT12	CIN
+158	Jalen Redmond	8	DL	DE32	MIN
+159	DeMarcus Lawrence	8	DL	DE33	SEA
+160	Boye Mafe	8	DL	DE34	CIN
+161	Julian Blackmon	8	DB	S42	NO
+162	Khalil Mack	9	LB	LB72	LAC
+163	Dee Alford	9	DB	CB12	BUF
+164	Alohi Gilman	9	DB	S43	KC
+165	Omar Speights	9	LB	LB73	LAR
+166	Evan Williams	9	DB	S44	GB
+167	Chop Robinson	9	DL	DE35	MIA
+168	Justin Reid	9	DB	S45	NO
+169	Cameron Jordan	9	DL	DE36	NO
+170	Walter Nolen III	9	DL	DT13	ARI
+171	D'Angelo Ponds	9	DB	CB13	NYJ
+172	Jonas Sanker	9	DB	S46	NO
+173	Denzel Perryman	9	LB	LB74	LAC
+174	DaRon Bland	9	DB	CB14	DAL
+175	Byron Murphy II	9	DL	DT14	SEA
+176	Kaleb Elarms-Orr	9	LB	LB75	BUF
+177	Uchenna Nwosu	9	LB	LB76	SEA
+178	Kamren Kinchens	9	DB	S47	LAR
+179	Upton Stout	9	DB	CB15	SF
+180	Dorian Williams	9	LB	LB77	BUF
+181	SirVocea Dennis	9	LB	LB78	TB
+182	Calen Bullock	9	DB	S48	HOU
+183	Dax Hill	9	DB	S49	CIN
+184	Shemar James	9	LB	LB79	DAL
+185	Antonio Johnson	9	DB	S50	JAC
+186	James Pearce Jr.	9	DL	DE37	ATL
+187	Ed Oliver	9	DL	DT15	BUF
+188	Jaishawn Barham	9	LB	LB80	DAL
+189	K'Lavon Chaisson	9	DL	DE38	WAS
+190	Malaki Starks	9	DB	S51	BAL
+191	Will McDonald IV	9	DL	DE39	NYJ
+192	Christian Rozeboom	9	LB	LB81	TB
+193	Bryan Cook	9	DB	S52	CIN
+194	Ja'Quan McMillian	9	DB	CB16	DEN
+195	Kendal Daniels	9	DB	S53	ATL
+196	Tatum Bethune	9	LB	LB82	SF
+197	Bryce Boettcher	9	LB	LB83	IND
+198	Craig Woodson	9	DB	S54	NE
+199	Kobie Turner	9	DL	DT16	LAR
+200	Myles Murphy	9	DL	DE40	CIN
+201	Danny Stutsman	9	LB	LB84	NO
+202	Jalyx Hunt	10	LB	LB85	PHI
+203	Dadrion Taylor-Demerson	10	DB	S55	ARI
+204	Trenton Simpson	10	LB	LB86	BAL
+205	Jevon Holland	10	DB	S56	NYG
+206	Nnamdi Madubuike	10	DL	DT17	BAL
+207	Donovan Ezeiruaku	10	DL	DE41	DAL
+208	Daron Payne	10	DL	DT18	WAS
+209	Andrew Mukuba	10	DB	S57	PHI
+210	Keisean Nixon	10	DB	CB17	GB
+211	Rayshawn Jenkins	10	DB	S58	PIT
+212	Malcolm Rodriguez	10	LB	LB87	DET
+213	Calijah Kancey	10	DL	DT19	TB
+214	Jeffrey Bassa	10	LB	LB88	KC
+215	Braden Fiske	10	DL	DT20	LAR
+216	Trent McDuffie	10	DB	CB18	LAR
+217	Jonathon Cooper	10	DL	DE42	DEN
+218	Lukas Van Ness	10	DL	DE43	GB
+219	Nolan Smith Jr.	10	DL	DE44	PHI
+220	Mykel Williams	11	DL	DT21	SF
+221	Jonah Elliss	11	LB	LB89	DEN
+222	Jake Golday	11	LB	LB90	MIN
+223	Kerby Joseph	11	DB	S59	DET
+224	Kayvon Thibodeaux	11	DL	DE45	NYG
+225	Marques Sigle	11	DB	S60	SF
+226	Emmanuel McNeil-Warren	11	DB	S61	CLE

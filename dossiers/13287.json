@@ -1,0 +1,126 @@
+{
+ "player_id": "13287",
+ "name": "Jeremiyah Love",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "ARI"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Notre Dame (college)",
+    "games": null,
+    "targets": null,
+    "rec": null,
+    "yards": 1372,
+    "td": 18,
+    "note": "College production, not NFL. 2024 college: 1,125 rush yds, 17 TD. Career average 6.7 yards/carry, 40 total TDs over final two college seasons (3,014 scrimmage yards)."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2026-05 (rookie minicamp, exact date not confirmed beyond 'Friday')",
+   "note": "4-year, $53M contract, fully $53M guaranteed \u2014 most guaranteed money ever given to an NFL running back (previous record was Saquon Barkley's $31.8M in 2018). AAV $13.25M, 7th among current RBs by AAV."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Cardinals hired Mike LaFleur (former LA Rams offensive coordinator) as new head coach for 2026, replacing the prior staff (Drew Petzing, former Cardinals OC, left to become Detroit Lions OC in Jan 2026). Full new offensive coaching staff/scheme for 2026; specific new OC title not confirmed in this research pass."
+  },
+  "competition": [
+   {
+    "name": "Tyler Allgeier",
+    "age": 26,
+    "status": "listed RB1 on first 2026 preseason depth chart",
+    "note": "Getting first-team reps in camp as of 2026-08-02; has 2026 salary described as guaranteed per one source.",
+    "resolved_id": "8132",
+    "resolved_team": "ARI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "James Conner",
+    "age": 31,
+    "status": "listed RB3 on first 2026 preseason depth chart",
+    "note": "Retained in free agency; as of 2026-08-02 had 'yet to take part in 11-on-11 drills' despite still being ahead of Trey Benson on the depth chart.",
+    "resolved_id": "4137",
+    "resolved_team": "ARI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Trey Benson",
+    "age": 24,
+    "status": "listed RB4 on first 2026 preseason depth chart",
+    "note": "",
+    "resolved_id": "11589",
+    "resolved_team": "ARI",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Drafted 3rd overall in 2026 by Arizona out of Notre Dame \u2014 highest draft slot for an RB since Saquon Barkley went 2nd overall in 2018.",
+   "GM Monti Ossenfort said Love was 'the guy that could impact our team the most.'",
+   "Love quote on entering league: 'I still haven't done anything at the end of the day. I'm coming into the league with a mindset. I'm ready to work, ready to earn the things that I've been given.'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury reported as of research date.",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Jeremiyah Love listed as RB2 on Cardinals' 1st depth chart of preseason",
+    "who": "Arizona Sports (headline/report)",
+    "date": "2026-08-02"
+   },
+   {
+    "quote": "Questions about rookie year role makes Arizona Cardinals running back Jeremiyah Love a risky fantasy draft decision",
+    "who": "Heavy.com",
+    "date": "2026-08-05"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.nfl.com/news/jeremiyah-love-cardinals-no-3-overall-pick-2026-nfl-draft",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/cardinals-rb-jeremiyah-love-signs-rookie-contract-53-million-guaranteed",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/arizona-cardinals/jeremiyah-love-risky-fantasy-draft/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://arizonasports.com/nfl/arizona-cardinals/jeremiyah-love-listed-as-rb2-on-cardinals-1st-depth-chart-of-preseason",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.azcardinals.com/news/and-then-there-were-10-nfl-coaching-changes-cardinals-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/cardinals-plan-to-hire-rams-offensive-coordinator-mike-lafleur-as-new-head-coach",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury reported as of research date.",
+   "note": "baseline from initial research pass",
+   "source": "https://www.nfl.com/news/jeremiyah-love-cardinals-no-3-overall-pick-2026-nfl-draft"
+  }
+ ]
+}

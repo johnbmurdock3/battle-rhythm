@@ -1,0 +1,79 @@
+{
+ "player_id": "11625",
+ "name": "Adonai Mitchell",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "IND -> NYJ (traded 2025-11-04)"
+   },
+   {
+    "season": 2026,
+    "team": "NYJ"
+   }
+  ],
+  "workload": [
+   {
+    "with IND before trade": "32 catches on 71 targets, 464 yards, 0 TD in 25 games"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "Team change happened mid-2025 season: traded from IND to NYJ (2025-11-04) as part of the Sauce Gardner blockbuster (Mitchell + two 1st-round picks for Gardner). Now with a full offseason in Jets' system for the first time; WR room described as 'suddenly crowded' \u2014 exact 2026 depth chart slot not confirmed within budget."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None listed",
+   "as_of": "2026-09-15"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/jets-adonai-mitchell-part-of-gardner-trade-with-jets",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://athlonsports.com/nfl/new-york-jets-counting-on-adonai-mitchell-as-strong-no-2-receiver",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-01-07",
+   "injury": "None per Sleeper as of 2026-09-03",
+   "role": "Reported as Jets' locked-in starting WR heading into 2026 (profootballrumors, July 2026 headline). Post-2025-trade with NYJ he caught 24-of-58 targets for 301 yds, 2 TD in 8 games, an expanded role vs his Indianapolis usage.",
+   "note": "No 2026 training-camp injury or snap-share news found beyond the 'locked in as starter' report; treat role as promising but unconfirmed by hard camp snap data.",
+   "source": "https://www.cbssports.com/fantasy/football/news/jets-adonai-mitchell-sees-58-targets-in-eight-jets-games"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/fantasy/football/news/jets-adonai-mitchell-part-of-gardner-trade-with-jets"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 92,
+   "touches": 3,
+   "injury": "None listed",
+   "role": "Expanded playing time (2nd-most WR snaps behind Garrett Wilson) partly due to an injury to Omar Cooper",
+   "note": "[news 2026-09-14] 46 of 50 snaps, 3/3 targets for 60 yds incl a 40-yd catch in Week 1",
+   "source": "https://www.rotowire.com/football/headlines/adonai-mitchell-news-hauls-in-40-yard-pass-week-1-637324"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Traded from Colts to Jets in the Sauce Gardner deal; operating as Jets' No. 2 WR opposite Garrett Wilson [news 2026-09-11]",
+   "note": "No longer on Colts roster (contradicts stale hint); now Jets WR2. No current injury designation found.",
+   "source": "https://athlonsports.com/nfl/new-york-jets-counting-on-adonai-mitchell-as-strong-no-2-receiver"
+  }
+ ]
+}

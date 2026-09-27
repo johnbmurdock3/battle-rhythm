@@ -1,0 +1,106 @@
+{
+ "player_id": "11820",
+ "name": "Devin Culp",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TB"
+   },
+   {
+    "season": 2026,
+    "team": "TB"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Cade Otton",
+    "age": 27,
+    "status": "TE1",
+    "note": "",
+    "resolved_id": "8111",
+    "resolved_team": "TB",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Payne Durham",
+    "age": 26,
+    "status": "TE2",
+    "note": "",
+    "resolved_id": "10227",
+    "resolved_team": "TB",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Ko Kieft",
+    "age": 28,
+    "status": "TE3",
+    "note": "",
+    "resolved_id": "8484",
+    "resolved_team": "TB",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Bauer Sharp",
+    "age": 23,
+    "status": "TE4",
+    "note": "",
+    "resolved_id": "13308",
+    "resolved_team": "TB",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; Culp is TE5, deep on a crowded Bucs TE depth chart."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/tampa-bay-buccaneers-depth-chart-tb",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.yardbarker.com/nfl/articles/bucs_release_devin_culp_make_several_roster_moves/s1_17102_44252287",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/tampa-bay-buccaneers-depth-chart-tb"
+  },
+  {
+   "date": "2026-09-02",
+   "role": "RELEASED by the Buccaneers from the practice squad on 2026-09-02 (team added TE C.J. Dippre to the practice squad in the corresponding move). Tampa Bay drafted TE Bauer Sharp in 2026, who beat Culp out for both blocking and receiving reps; Culp had already been moved to the practice squad during final cuts before this release.",
+   "note": "TEAM CHANGE / ROSTER STATUS ALERT: Sleeper's API still lists Culp as TB/Active as of 2026-09-03, but he was released from Tampa Bay's practice squad on 9/2 and has no confirmed new team; treat him as unrostered/free agent pending a new signing.",
+   "source": "https://www.pewterreport.com/bucs-release-devin-culp-make-several-roster-moves/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "released from Buccaneers practice squad, currently no NFL team found",
+   "note": "Released from TB practice squad Sept 2, 2026 (C.J. Dippre signed to replace him) [news 2026-09-02]; no subsequent signing found with another team as of search.",
+   "source": "https://www.yardbarker.com/nfl/articles/bucs_release_devin_culp_make_several_roster_moves/s1_17102_44252287"
+  }
+ ]
+}

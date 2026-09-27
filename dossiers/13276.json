@@ -1,0 +1,154 @@
+{
+ "player_id": "13276",
+ "name": "Omar Cooper",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "NYJ",
+    "note": "Drafted Round 1, Pick 30 (acquired via trade with San Francisco) in 2026 NFL Draft out of Indiana."
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Indiana (college)",
+    "games": 16,
+    "receptions": 69,
+    "rec_yards": 937,
+    "rec_td": 13,
+    "note": "Led Indiana's undefeated national-championship team; newyorkjets.com lists 69 rec/937 yds (13.6 YPC)/13 TD, while 247sports.com lists 60 rec/937 yds/15 TD for the season \u2014 both sources agree on 937 yards; reception/TD counts conflict slightly. Career (247sports): 115 rec, 1,798 yards, 22 TD, 15.6 YPC. 4.42 40-yard dash at Combine; 6-0/199."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract terms not verified this search (typically 4-year rookie-scale deal for a Round 1 pick)."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "No Jets 2026 OC name/scheme detail found this search; HC is Aaron Glenn. Jets project a multi-tight-end offensive scheme per footballguys.com, which may limit early Cooper usage."
+  },
+  "competition": [
+   {
+    "name": "Garrett Wilson",
+    "age": 26,
+    "status": "Jets WR1, healthy, 'determined to return to form' for 2026",
+    "note": "newyorkjets.com (2026 camp) headline; clear top target.",
+    "resolved_id": "8146",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Isaiah Williams",
+    "age": 25,
+    "status": "2nd-year WR, 137 routes run in camp per footballguys.com",
+    "note": "Ahead of Cooper in early route-count data.",
+    "resolved_id": "11608",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Arian Smith",
+    "age": 24,
+    "status": "98 routes run in camp per footballguys.com",
+    "note": "Also ahead of Cooper in early camp route counts.",
+    "resolved_id": "12539",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Adonai Mitchell",
+    "age": 23,
+    "status": "Listed alongside Wilson/Cooper as WR starter in one Aug 10, 2026 depth-chart report",
+    "note": "See conflicting depth-chart notes below.",
+    "resolved_id": "11625",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Mason Taylor",
+    "age": 22,
+    "status": "Jets TE, part of target competition",
+    "note": "footballguys.com cites him among options that could limit Cooper's early role.",
+    "resolved_id": "12498",
+    "resolved_team": "NYJ",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "DEPTH CHART CONFLICT (both dated 2026-08-10): jetsxfactor.com's unofficial-depth-chart piece lists Cooper as 2nd-team WR behind Garrett Wilson; si.com's 'Updated Jets Depth Chart' piece (same date) lists Cooper as a starter alongside Wilson and Adonai Mitchell with 'no changes to this group.' Keeping both as current since same-date and cannot resolve which is more authoritative.",
+   "footballguys.com instant-reaction: projects ~40% snap share and a Week 1 start timeline; 'Deebo Samuel Sr.-like profile' with strong YAC ability; role 'expected to expand over time' and could 'leapfrog' others besides Wilson as season progresses.",
+   "newyorkjets.com camp piece (2026-07-30): Cooper reports NFL adjustment is more mental than physical ('Everybody is smarter'); building rapport with Geno Smith; HC Aaron Glenn says he's 'expected to have a role' but must compete for playing time."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "High ankle sprain suffered Week 1 (Sept 13, 2026) vs Titans; placed on Injured Reserve Sept 19, 2026, ruled out at least 4 games, eligible to return Week 5 [news 2026-09-19]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "Everybody is smarter [at the NFL level].",
+    "who": "Omar Cooper Jr.",
+    "date": "2026-07-30"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.newyorkjets.com/news/omar-cooper-jr-jets-stepping-up-to-nfl-challenges-training-camp-07-30-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.footballguys.com/article/2026-omar-cooper-jr-new-york-jets-instant-reactions",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.newyorkjets.com/news/2026-jets-unofficial-depth-chart",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/jets/onsi/updated-jets-depth-chart-after-first-2-weeks-training-camp-rising-falling-01kzkky7yj6k",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://247sports.com/article/2026-nfl-draft-indiana-wide-receiver-omar-cooper-jr-selected-in-round-1-no-30-overall-by-new-york-jets-282951002/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://lastwordonsports.com/nfl/2026/09/19/jets-rookie-omar-cooper-jr-on-ir/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury reported",
+   "note": "baseline from initial research pass",
+   "source": "https://www.newyorkjets.com/news/omar-cooper-jr-jets-stepping-up-to-nfl-challenges-training-camp-07-30-2026"
+  },
+  {
+   "date": "2026-08-29",
+   "role": "First-round rookie battling Isaiah Williams (ex-Lions) for the WR3 job behind Garrett Wilson and Adonai Mitchell; as of late August, Williams was reported ahead of him on the depth chart. Sleeper lists him Active with no injury designation and on the Jets roster; one Aug 31 SI roster-grading piece said he was IR-designated while also listing him as WR3, so that IR claim is unconfirmed/conflicting with Sleeper's Active status.",
+   "note": "Rookie 1st-rounder (Indiana) in a slow start, currently trailing Isaiah Williams for WR3 reps in a run-first Jets offense",
+   "source": "https://www.profootballnetwork.com/fantasy-football/omar-cooper-fantasy-outlook-updated-2026/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "High ankle sprain suffered Week 1 (Sept 13, 2026) vs Titans; placed on Injured Reserve Sept 19, 2026, ruled out at least 4 games, eligible to return Week 5 [news 2026-09-19]",
+   "role": "Out for at least 4 games. Jets are redistributing looks to Adonai Mitchell (60 rec yards/3 targets Week 1), plus TEs Kenyon Sadiq and Mason Taylor.",
+   "note": "Note: Sleeper API still shows injury_status=Active for this player, which conflicts with the confirmed IR move \u2014 treat the news as current",
+   "source": "https://lastwordonsports.com/nfl/2026/09/19/jets-rookie-omar-cooper-jr-on-ir/"
+  }
+ ]
+}

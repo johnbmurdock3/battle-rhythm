@@ -1,0 +1,77 @@
+{
+ "player_id": "8698",
+ "name": "Jake Tonges",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SF"
+   },
+   {
+    "season": 2026,
+    "team": "SF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "George Kittle",
+    "age": 32,
+    "status": "PUP-P to start camp",
+    "note": "normal TE1, but currently sidelined",
+    "resolved_id": "4217",
+    "resolved_team": "SF",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. RotoWire depth chart still lists Kittle first with Tonges second, but Kittle opened camp on PUP-P, and other outlets say Tonges is 'likely to enter 2026 atop' the TE depth chart if Kittle's absence continues."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Knee - MCL, Injured Reserve [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/san-francisco-49ers-depth-chart-sf",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/SF/san-francisco-49ers/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/san-francisco-49ers-depth-chart-sf"
+  },
+  {
+   "date": "2026-08-16",
+   "injury": "Questionable (per Sleeper status; specific current injury detail not found)",
+   "role": "TE2 behind George Kittle, earned larger role and $8M contract after 2025 breakout (34 rec/293 yds/5 TD on 46 targets)",
+   "note": "Sleeper lists him Questionable but no article specifying the injury or date was found; treat status as unverified beyond Sleeper flag",
+   "source": "https://www.msn.com/en-us/sports/nfl/49ers-george-kittle-gives-big-update-jake-tonges-embraces-2025-fame/ar-AA2adjGm"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Knee - MCL, Injured Reserve [news 2026-09-21]",
+   "role": "On IR; George Kittle remains healthy and is SF's lead TE (not on injury report)",
+   "note": "Tonges is on Injured Reserve with an MCL knee injury as of 2026-09-21; unrosterable role in SF TE room while out",
+   "source": "https://www.cbssports.com/nfl/teams/SF/san-francisco-49ers/injuries/"
+  }
+ ]
+}

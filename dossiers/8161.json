@@ -1,0 +1,131 @@
+{
+ "player_id": "8161",
+ "name": "Malik Willis",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "GB"
+   },
+   {
+    "season": 2026,
+    "team": "MIA"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "GB",
+    "games": 4,
+    "pass_yards": 422,
+    "pass_td": 3,
+    "int": 0,
+    "note": "30/35 passing (backup role behind Jordan Love), plus 123 rush yards; per StatMuse"
+   }
+  ],
+  "contract": {
+   "years": 3,
+   "signed": "2026-03-09",
+   "note": "3-year, $67.5M deal with Miami, signed hours after Dolphins released Tua Tagovailoa (post-June-1 designation, ~$99M dead cap); per ESPN"
+  },
+  "scheme": {
+   "oc": "Bobby Slowik",
+   "note": "New Dolphins HC Jeff Hafley hired for 2026; Slowik promoted to OC from senior pass game coordinator (per MiamiDolphins.com, published 2026-02-13)"
+  },
+  "competition": [
+   {
+    "name": "Quinn Ewers",
+    "age": 23,
+    "status": "Rookie-year QB (7th-round pick, 2025 draft, DOB 2003-03-15) in open camp competition with Willis as of Aug 4 2026; described as still turnover-prone in camp ('at least one pick a day')",
+    "note": "Per Heavy.com Dolphins camp day-6 report (2026-08-04)",
+    "resolved_id": "12500",
+    "resolved_team": "MIA",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Miami released longtime starter Tua Tagovailoa in March 2026 and signed Willis same day as presumptive/new starter; multiple outlets (SI, Yardbarker, DolphinsTalk, AOL) call him Miami's 'new starter'/'presumptive starting QB' entering 2026 camp.",
+   "Camp QB competition with rookie Quinn Ewers is real but Willis has taken the lead role per multiple August 2026 camp reports."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy, no current injury reported",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "QB Malik Willis fired some nice passes down the field. There's a lot of juice on that ball.",
+    "who": "C. Isaiah Smalls II, Miami Herald",
+    "date": "2026-08-04"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.espn.com/nfl/story/_/id/48154190/miami-dolphins-sign-malik-willis-free-agency-contract-green-bay-packers-faq-questions",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.raiders.com/news/kirk-cousins-2026-raiders-training-camp-qb1-klint-kubiak-fernando-mendoza",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.statmuse.com/nfl/ask/malik-willis-rushing-and-passing-stats-with-green-bay",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.miamidolphins.com/news/miami-dolphins-announce-2026-coaching-staff",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/miami-dolphins/dolphins-qb-malik-willis-quinn-ewers-training-camp/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Quinn_Ewers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/story/_/id/48151647/dolphins-release-tua-tagovailoa-take-record-cap-hit",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/8161",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy, no current injury reported",
+   "note": "baseline from initial research pass",
+   "source": "https://www.espn.com/nfl/story/_/id/48154190/miami-dolphins-sign-malik-willis-free-agency-contract-green-bay-packers-faq-questions"
+  },
+  {
+   "date": "2026-09-03",
+   "role": "Starting quarterback for Miami Dolphins in 2026; signed 3-year, $67.5M contract in free agency",
+   "note": "Tua Tagovailoa is no longer on the Dolphins roster (parted ways in offseason); WR Jaylen Waddle was traded to Denver before playing with Willis. Major role change - Willis is now QB1, not a backup",
+   "source": "https://www.nfl.com/players/malik-willis/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "ROLE CHANGE: named Dolphins starting QB for 2026 under new coach Jeff Hafley",
+   "note": "[news 2026-09-13] Started Week 1 loss to LV (27-13), sacked 5 times",
+   "source": "https://www.bing.com/news/search?q=Malik+Willis+Dolphins+week+1+snap+count+stats"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "QB1 per Sleeper depth chart, depth_chart_order 1",
+   "note": "TEAM CHANGE: Sleeper lists MIA (confirmed 2x independent fetches) as QB1 by depth_chart_order -- this is an unusual/notable slot, flag for manual verification since it conflicts with typical Dolphins starter expectations. Not on MIA injury report (9/21). Week2 (MIA@SF, lost 13-35) individual stat line not retrievable from box score fetch attempted.",
+   "source": "https://api.sleeper.app/players/nfl/8161"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "player_id": "4066",
+ "name": "Evan Engram",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DEN"
+   },
+   {
+    "season": 2026,
+    "team": "DEN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Adam Trautman",
+    "age": 29,
+    "status": "backup",
+    "note": "blocking TE, listed TE2/complementary to Engram",
+    "resolved_id": "6869",
+    "resolved_team": "DEN",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change for 2026 (joined Denver from Jacksonville before the 2025 season). Confirmed as Denver's primary receiving TE1 for 2026 per Yahoo Sports depth chart preview; 2025 analyst projection was 65-75 catches."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Active, not on DEN injury report [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/broncos-tight-end-fullback-depth-123025387.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/onsi/fantasy/nfl/evan-engram-poised-bounce-back-debut-season-denver-broncos",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/DEN/denver-broncos/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/broncos-tight-end-fullback-depth-123025387.html"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "Broncos TE1 (listed first on TE depth on team roster page, wearing #1)",
+   "note": "Released by Jacksonville Mar 6, 2025 after torn labrum; signed 2yr/$23M with Denver Mar 13, 2025; not on Broncos Aug 31, 2026 injury report",
+   "source": "https://en.wikipedia.org/wiki/Evan_Engram"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 4,
+   "injury": "",
+   "role": "TE1 in Denver",
+   "note": "[news 2026-09-13] 4-of-5 targets for 43 yds and a TD in Week 1 loss to KC, led team in receiving",
+   "source": "https://www.bing.com/news/search?q=Evan+Engram+Broncos+injury+2026"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Active, not on DEN injury report [news 2026-09-21]",
+   "role": "TE1, depth_chart_order 1",
+   "note": "No usage stats found this run; confirmed healthy, listed TE1 on Broncos",
+   "source": "https://www.cbssports.com/nfl/teams/DEN/denver-broncos/injuries/"
+  }
+ ]
+}

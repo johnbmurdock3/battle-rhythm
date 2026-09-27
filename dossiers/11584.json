@@ -1,0 +1,157 @@
+{
+ "player_id": "11584",
+ "name": "Bucky Irving",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TB"
+   },
+   {
+    "season": 2024,
+    "team": "TB"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "TB",
+    "games": 10,
+    "carries": 173,
+    "targets": null,
+    "rec": 30,
+    "yards": 588,
+    "td": 1,
+    "note": "Rushing: 173 car/588 yds/1 TD in 10 games (missed ~7 games). Receiving: 30 rec/277 yds/3 TD. Played 95 fewer snaps than 2024 due to shoulder injury (required surgery) and a simultaneous foot injury."
+   },
+   {
+    "season": 2024,
+    "team": "TB",
+    "games": 17,
+    "carries": 207,
+    "targets": null,
+    "rec": 47,
+    "yards": 1122,
+    "td": 8,
+    "note": "Rookie season: 207 car/1,122 rush yds/8 rush TD; 47 rec/392 rec yds/0 rec TD."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Still on rookie contract (2024 draft pick); no extension info found."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "No 2026 OC/scheme change reported for Tampa Bay found in search."
+  },
+  "competition": [
+   {
+    "name": "Kenneth Gainwell",
+    "age": 26,
+    "status": "signed by TB in free agency",
+    "note": "Signed a two-year deal with Tampa Bay on 2026-03-12 after a 2025 season with Pittsburgh (1,000+ scrimmage yards, 8 TD: 537 rush yds, 486 rec yds; named Steelers Team MVP by teammates). Prior 4 years with Eagles (2021-2024), 2x Super Bowl appearances, 1 ring. Buccaneers.com framed him as joining Irving 'in the running back room, ready to make an impact' -- exact touch split vs. Irving not stated in sources found.",
+    "resolved_id": "7567",
+    "resolved_team": "TB",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Rachaad White",
+    "age": 27,
+    "status": "2026 free agent focus / uncertain roster status",
+    "note": "Buccaneers.com published a '2026 Buccaneers Free Agent Focus: Rachaad White' piece, implying his TB future/role is in question; exact 2026 roster status not confirmed in sources found.",
+    "resolved_id": "8136",
+    "resolved_team": "WAS",
+    "resolved_pos": "RB",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "Irving's 2025 season workload dropped sharply from his 2024 rookie campaign due to injury, missing about 7 games."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None active; fully recovered from 2025 shoulder surgery",
+   "as_of": "2026-09-15"
+  },
+  "camp": [
+   {
+    "quote": "He feels fine, he's great. He's full speed. He's full-go right now.",
+    "who": "Todd Bowles (HC)",
+    "date": "2026-07-29"
+   },
+   {
+    "quote": "Shoulder [is] feeling good. I just want to thank the training staff and everyone that helped me on the road to recovery.",
+    "who": "Bucky Irving",
+    "date": "2026-07-29"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.buccaneers.com/news/bucky-irving-full-go-feeling-stronger-from-adversity",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.statmuse.com/nfl/ask/bucky-irving-vs-rachaad-white-stats",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.buccaneers.com/news/rb-kenneth-gainwell-signs-bucs-2026-nfl-free-agency",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://bvmsports.com/2026/07/22/bucky-irving-injury-update-ready-for-bucs-training-camp-2026/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.buccaneers.com/news/2026-buccaneers-free-agent-focus-rachaad-white",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.draftsharks.com/fantasy-football-news/82777/bucky-irving-dominates-week-2-backfield-work",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-07-31",
+   "injury": "Recovering from offseason shoulder surgery (~late Jan 2026). Was limited to individual work at OTAs/minicamp; a May 26, 2026 report had cast doubt on Week 1 availability, but by July 22 Irving said he believed he'd be ready for camp (opened July 29), and a July 31, 2026 report described him taking full-contact reps (including landing hard on the repaired shoulder) without issue.",
+   "role": "Buccaneers' lead/starting RB.",
+   "note": "Sleeper's current injury_status field shows no designation (clean), consistent with the positive late-July trend, but no explicit Week 1 status confirmation was found in the sources checked.",
+   "source": "https://www.joebucsfan.com/2026/07/all-you-need-to-know-about-bucky-irvings-shoulder/"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "Fully cleared, full-speed, first-team reps, no restrictions",
+   "note": "baseline from initial research pass",
+   "source": "https://www.buccaneers.com/news/bucky-irving-full-go-feeling-stronger-from-adversity"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 62,
+   "route_pct": 58,
+   "target_share": 26,
+   "touches": 15,
+   "injury": "None active; fully recovered from 2025 shoulder surgery",
+   "role": "Clear TB backfield lead over Kenneth Gainwell (62% snaps to 46%)",
+   "note": "[news 2026-09-14] Week 1: 8 carries, 7 catches on 7 targets",
+   "source": "https://www.draftsharks.com/fantasy-football-news/82632/bucky-irving-starts-2026-with-an-edge-over-kenneth-gainwell"
+  },
+  {
+   "date": "2026-09-22",
+   "snap_pct": 68.9,
+   "touches": 21,
+   "injury": "",
+   "role": "Bell-cow lead back over Sean Tucker/Rachaad-type backups (Irving 51 snaps vs backup's 23)",
+   "note": "Week 2: 17 carries for 89 yds, caught all 4 targets. Dominant backfield workload. [news 2026-09-21]",
+   "source": "https://www.draftsharks.com/fantasy-football-news/82777/bucky-irving-dominates-week-2-backfield-work"
+  }
+ ]
+}

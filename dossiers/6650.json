@@ -1,0 +1,47 @@
+{
+ "player_id": "6650",
+ "name": "Chase McLaughlin",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-03",
+   "note": "On Buccaneers active roster (#4, K); no notable news found.",
+   "source": "https://www.cbssports.com/nfl/teams/TB/tampa-bay-buccaneers/roster/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Starting kicker and kickoff man",
+   "note": "No notable news found; Week 1 kicking line unavailable from source fetched",
+   "source": "https://www.buccaneers.com/team/depth-chart/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "K1 on TB depth chart (Sleeper depth_chart_order 1)",
+   "note": "Week 2 (9/20 vs CLE, 19-23 loss): 4/4 FG (long 59 yds), 1/1 XP, 13 kicking points - strong volume game.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872935"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872935",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

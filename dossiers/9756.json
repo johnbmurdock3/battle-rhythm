@@ -1,0 +1,116 @@
+{
+ "player_id": "9756",
+ "name": "Jordan Addison",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "MIN"
+   },
+   {
+    "season": 2026,
+    "team": "MIN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "MIN",
+    "games": 14,
+    "carries": 0,
+    "targets": 79,
+    "rec": 42,
+    "yards": 610,
+    "td": 3,
+    "note": "reduced role vs 2023/2024 per PFR; missed 3 games"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Wes Phillips",
+   "note": "HC Kevin O'Connell returning for 5th season; OC Wes Phillips retained; no HC/OC change for 2026"
+  },
+  "competition": [
+   {
+    "name": "Justin Jefferson",
+    "age": 27,
+    "status": "WR1, entrenched",
+    "note": "1,048 rec yds, 84 rec in 2025 (6th straight 1,000-yd season); Addison is clearly the WR2 behind him",
+    "resolved_id": "6794",
+    "resolved_team": "MIN",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable - thumb injury, sidelined from practice reps",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "We had it checked out. All the imaging and everything came back clean. It's just a little sore.",
+    "who": "Kevin O'Connell",
+    "date": "2026-08-05"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.vikings.com/news/jordan-addison-sidelined-thumb-injury-training-camp-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/A/AddiJo00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Justin_Jefferson",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872937",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-06",
+   "injury": "Jammed thumb (as of ~4 weeks ago); HC Kevin O'Connell said he'd miss a day or two, expected short-term",
+   "note": "Sleeper API currently shows no active injury designation as of 2026-09-03, consistent with the thumb injury having resolved",
+   "source": "https://www.fantasypros.com/nfl/players/jordan-addison.php"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "Questionable - thumb injury, sidelined from practice reps",
+   "note": "baseline from initial research pass",
+   "source": "https://www.vikings.com/news/jordan-addison-sidelined-thumb-injury-training-camp-2026"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 0,
+   "injury": "",
+   "role": "WR2 in Minnesota passing game; no injury or demotion noted",
+   "note": "[news 2026-09-13] Week 1: 0 catches on 2 targets in a win over GB",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-13/jordan-addison-held-without-a-catch-in-week-1"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 2,
+   "injury": "",
+   "role": "RWR depth order 2 per Sleeper",
+   "note": "Week 2 at CHI: 5 targets, 2 rec, 21 yds, 0 TD. No injury reported.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872937"
+  }
+ ]
+}

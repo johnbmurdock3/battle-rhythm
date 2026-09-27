@@ -1,0 +1,91 @@
+{
+ "player_id": "3163",
+ "name": "Jared Goff",
+ "as_of": "2026-09-15",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DET"
+   },
+   {
+    "season": 2026,
+    "team": "DET"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "DET",
+    "games": 17,
+    "targets": null,
+    "rec": null,
+    "yards": 4564,
+    "td": 34,
+    "note": "QB: 393/578 (68% comp), 4,564 pass yds, 34 pass TD, 8 INT, 105.5 rating"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Drew Petzing",
+   "note": "New OC for 2026, hired from Arizona Cardinals OC role; Goff (8/9/26 interview) says Petzing 'built something tailored to the guys we have' rather than forcing his old scheme"
+  },
+  "competition": [],
+  "notes": [
+   "Unquestioned starter; no QB competition found. Goff has said he's open to playing in the 2026 preseason per SI headline"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No injury designation found"
+  },
+  "camp": [
+   {
+    "quote": "The best thing he's done so far is build something tailored to the guys we have.",
+    "who": "Jared Goff on new OC Drew Petzing",
+    "date": "2026-08-09"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-15"
+ },
+ "sources": [
+  {
+   "url": "https://heavy.com/sports/nfl/detroit-lions/jared-goff-difference-petzing/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/stats/jared-goff.php",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://heavy.com/sports/nfl/detroit-lions/jared-goff-difference-petzing/"
+  },
+  {
+   "date": "2026-09-03",
+   "role": "Starting QB",
+   "note": "Entering 2026 as Lions' starter; ranked No. 33 on NFL's 2026 Top 100 (player vote) and named to the 2026 Pro Bowl Games (NFC roster). Lions restructured his contract to clear ~$32M cap space; new OC Drew Petzing hired, which Goff called a 'home run hire.' No current injury found.",
+   "source": "https://www.nfl.com/players/jared-goff/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Starter; Joshua Dobbs is backup",
+   "note": "[news 2026-09-13] Week 1: 26/39, 206 yds, 2 TD in a 31-30 OT win over NO",
+   "source": "https://www.pro-football-reference.com/teams/det/2026.htm"
+  }
+ ]
+}

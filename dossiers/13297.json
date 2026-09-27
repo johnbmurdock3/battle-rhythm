@@ -1,0 +1,82 @@
+{
+ "player_id": "13297",
+ "name": "Reggie Virgil",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "ARI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Xavier Weaver",
+    "age": 25,
+    "status": "roster",
+    "note": "WR4, ahead of Virgil",
+    "resolved_id": "11921",
+    "resolved_team": "ARI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Ihmir Smith-Marsette",
+    "age": 26,
+    "status": "roster",
+    "note": "competing in camp",
+    "resolved_id": "7559",
+    "resolved_team": "ARI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Bryson Green",
+    "age": 23,
+    "status": "rookie",
+    "note": "competing in camp",
+    "resolved_id": "12799",
+    "resolved_team": "ARI",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "2026 5th-round rookie out of college; entering NFL for first time in 2026",
+   "Crowded Cardinals WR room, decisions still in flux"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Praised for 'best catch of Cardinals camp' (Aug 3-4, 2026)"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://arizonasports.com/nfl/arizona-cardinals/training-camp-takeaways-reggie-virgil-makes-his-case-for-best-catch-of-cardinals-camp",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://arizonasports.com/nfl/arizona-cardinals/training-camp-takeaways-reggie-virgil-makes-his-case-for-best-catch-of-cardinals-camp"
+  }
+ ]
+}

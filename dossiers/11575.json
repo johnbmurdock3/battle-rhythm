@@ -1,0 +1,104 @@
+{
+ "player_id": "11575",
+ "name": "Ray Davis",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "BUF"
+   },
+   {
+    "season": 2026,
+    "team": "BUF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "James Cook III",
+    "age": 26,
+    "status": "RB1",
+    "note": "",
+    "resolved_id": "8138",
+    "resolved_team": "BUF",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Ty Johnson",
+    "age": 28,
+    "status": "RB2",
+    "note": "ahead of Davis",
+    "resolved_id": "6039",
+    "resolved_team": "BUF",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. RB3 on Ourlads Bills depth chart behind James Cook III and Ty Johnson -- limits standalone fantasy value even with a clean camp."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None listed",
+   "as_of": "2026-09-15"
+  },
+  "camp": [
+   "Injury scare 8/4/26 but cleared to finish practice"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/bills/onsi/ray-davis-buffalo-bills-training-camp-practice-injury",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/BUF",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/players/ray-davis.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-05-03",
+   "touches": 58,
+   "injury": "None reported.",
+   "role": "Backup/change-of-pace RB behind James Cook, who led the NFL in rushing in 2025 (1,621 yds, 309 carries); Davis's offensive role depends on how much Buffalo uses Cook as a bell-cow.",
+   "note": "Davis had only 58 carries in 2025 (down from 113 in 2024) but earned All-Pro honors as a kick returner; article suggests his long-term role with Buffalo is uncertain.",
+   "source": "https://www.si.com/nfl/bills/onsi/under-the-radar-bills-storyline-in-2026-is-what-is-ray-davis-role-entering-year-3"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "minor foot injury, returned to practice same day",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/bills/onsi/ray-davis-buffalo-bills-training-camp-practice-injury"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 9,
+   "touches": 1,
+   "injury": "None listed",
+   "role": "RB2 behind James Cook; veteran Frank Gore out-snapped Davis 10-5 in Week 1, clouding handcuff standing",
+   "note": "[news 2026-09-13] 1 carry for 3 yards in Week 1 win over HOU",
+   "source": "https://www.rotowire.com/football/player/ray-davis-17792"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 0,
+   "injury": "",
+   "role": "James Cook III firmly entrenched as primary RB; Davis a clear #2/handcuff [news 2026-09-18/19]",
+   "note": "Week 2 vs DET (W 41-31): 0 carries, 0 targets, only 10 offensive snaps played. Non-factor.",
+   "source": "https://www.fantasypros.com/nfl/players/ray-davis.php"
+  }
+ ]
+}

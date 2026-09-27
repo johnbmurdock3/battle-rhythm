@@ -1,0 +1,83 @@
+{
+ "player_id": "6588",
+ "name": "Tom Kennedy",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DET"
+   },
+   {
+    "season": 2026,
+    "team": "DET"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Amon-Ra St. Brown",
+    "age": 26,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "7547",
+    "resolved_team": "DET",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jameson Williams",
+    "age": 25,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "8148",
+    "resolved_team": "DET",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Greg Dortch",
+    "age": 28,
+    "status": "backup",
+    "note": "WR4, ahead of Kennedy",
+    "resolved_id": "5970",
+    "resolved_team": "DET",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; re-signed and is now longest-tenured Lion after Taylor Decker's release; competing for punt/kick return duties after Kalif Raymond's departure; WR7 on depth chart."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.detroitfootball.net/p/detroit-lions-bringing-back-wr-tom",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/detroit-lions-depth-chart-det",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.detroitfootball.net/p/detroit-lions-bringing-back-wr-tom"
+  }
+ ]
+}

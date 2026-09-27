@@ -1,0 +1,159 @@
+{
+ "player_id": "11603",
+ "name": "AJ Barner",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SEA"
+   },
+   {
+    "season": 2026,
+    "team": "SEA"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "SEA",
+    "games": null,
+    "carries": 10,
+    "targets": 77,
+    "rec": 52,
+    "yards": 519,
+    "td": 6,
+    "note": "~77 targets (14.9% target share), 52 rec, 519 yds, 6 rec TD; also 10 carries/14 yds/1 rush TD. Snap share rose to 72% (from 45% as a rookie in 2024). Included a strong Super Bowl performance (4 catches, 54 yds, 1 TD)."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Not researched this pass."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "No HC/OC change verified for SEA this pass."
+  },
+  "competition": [
+   {
+    "name": "Elijah Arroyo",
+    "age": 23,
+    "status": "healthy, TE2",
+    "note": "2025 2nd-round pick",
+    "resolved_id": "12521",
+    "resolved_team": "SEA",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Eric Saubert",
+    "age": 32,
+    "status": "healthy, veteran depth signed from SF",
+    "note": "",
+    "resolved_id": "4189",
+    "resolved_team": "SEA",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Harrison Bryant",
+    "age": 28,
+    "status": "",
+    "note": "",
+    "resolved_id": "6850",
+    "resolved_team": null,
+    "resolved_pos": "TE",
+    "same_team": false
+   },
+   {
+    "name": "Nick Kallerup",
+    "age": 25,
+    "status": "",
+    "note": "",
+    "resolved_id": "13151",
+    "resolved_team": "SEA",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Barner is the clear TE1 in Seattle after a breakout 2025 (72% snap share, 6 TDs)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None listed",
+   "as_of": "2026-09-15"
+  },
+  "camp": [
+   {
+    "quote": "I'm excited about the offense / physically good following offseason surgery",
+    "who": "AJ Barner via seahawks.com",
+    "date": "2026-07"
+   },
+   {
+    "quote": "expects to take the next step heading into year three",
+    "who": "AJ Barner via seahawks.com",
+    "date": "2026-07"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.fantasypros.com/nfl/players/aj-barner.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.seahawks.com/team/players-roster/aj-barner/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/SEA",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/sea/seattle-seahawks",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/aj-barner-salvages-day-with-late-tush-push-td",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-06-05",
+   "injury": "Underwent two offseason surgeries (unspecified procedures) in the week after Seattle's Super Bowl LX win; recovering well and expected to be ready for the 2026 season.",
+   "role": "Seahawks starting TE; caught 4 passes for 54 yards and a TD in the Super Bowl win.",
+   "note": "2025 stats: 52 receptions, 519 yards, 6 TD across all 17 regular-season games (perfect attendance through his first two NFL seasons). Sleeper currently lists his injury_status as 'Questionable.'",
+   "source": "https://heavy.com/sports/nfl/seattle-seahawks/aj-barner-surgeries-injury-update/"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "cleared for training camp after offseason surgery; considered healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.fantasypros.com/nfl/players/aj-barner.php"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 90,
+   "touches": 2,
+   "injury": "None listed",
+   "role": "Remains Seahawks top TE despite Elijah Arroyo",
+   "note": "[news 2026-09-10] 44-45 of 50 snaps, 2/2 targets for 13 yds Week 1; QB Sam Darnold left that game with a hip injury, which could cap passing volume",
+   "source": "https://www.rotowire.com/football/player/aj-barner-17811"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 2,
+   "injury": "",
+   "role": "",
+   "note": "Week 2 vs ARI (W): 1/1 target for 8 yds, 1 rush for 1 yd and a late 'Tush Push' TD. [news 2026-09-20]",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/aj-barner-salvages-day-with-late-tush-push-td"
+  }
+ ]
+}

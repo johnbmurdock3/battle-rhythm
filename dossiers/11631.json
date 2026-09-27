@@ -1,0 +1,190 @@
+{
+ "player_id": "11631",
+ "name": "Brian Thomas",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "JAX"
+   },
+   {
+    "season": 2024,
+    "team": "JAX"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "JAX",
+    "games": 14,
+    "carries": 0,
+    "targets": 91,
+    "rec": 48,
+    "yards": 707,
+    "td": 2,
+    "note": "Drop rate rose from 5.3% (2024) to 11.0% (2025); catch rate fell from 67.4% to 52.7%. High ankle sprain Week 9 cost him 3 games; also played through shoulder, wrist, and a Game 1 hand injury. Was outproduced by WR Parker Washington (58 rec/847 yds) within the same offense in 2025."
+   },
+   {
+    "season": 2024,
+    "team": "JAX",
+    "games": null,
+    "carries": 0,
+    "targets": null,
+    "rec": 87,
+    "yards": 1282,
+    "td": 10,
+    "note": "Rookie season (2024 1st-round pick, No. 23 overall); Pro Bowl selection. Exact 2024 games/targets not verified in sources checked."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Still on rookie contract (2024 1st-round pick); no extension reported as of Aug 2026."
+  },
+  "scheme": {
+   "oc": "Liam Coen (HC and play-caller)",
+   "note": "Coen remains Jaguars HC and primary play-caller entering 2026, same role as 2025."
+  },
+  "competition": [
+   {
+    "name": "Travis Hunter",
+    "age": 23,
+    "status": "healthy, full camp participation",
+    "note": "2025 No. 2 overall pick; two-way WR/CB. Suffered season-ending LCL knee injury in Week 9 2025 (missed final ~10 games). As of July 31, 2026 report: fully participating in camp, added 10 lbs of muscle, clocked 22.6 mph, said 'I definitely feel a lot faster entering this season.'",
+    "resolved_id": "12530",
+    "resolved_team": "JAX",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jakobi Meyers",
+    "age": 29,
+    "status": "signed extension, entrenched slot/WR2",
+    "note": "Veteran (7th-year in 2025) acquired via trade from Las Vegas in Nov 2025; caught 42 passes/483 yds in 9 games with JAX in 2025. Agreed to 3-year, $60M extension with Jaguars (per ESPN).",
+    "resolved_id": "5947",
+    "resolved_team": "JAX",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Parker Washington",
+    "age": 24,
+    "status": "3rd-year WR, led team in catches 2025",
+    "note": "Led Jaguars receivers in 2025 with 58 rec for 847 yards, emerging as a 'clutch playmaker' after entering the season as the No. 4 option.",
+    "resolved_id": "9487",
+    "resolved_team": "JAX",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Tim Patrick",
+    "age": 32,
+    "status": "added depth",
+    "note": "Traded from Detroit Lions to Jacksonville on Aug 27, 2025, adding size/hands depth to the WR room.",
+    "resolved_id": "4351",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "Jeff Howe (The Athletic, July 20, 2026) named Thomas the Jaguars player with 'the most on the line' in 2026, calling his 2025 output 'nightmarish' compared to his rookie year.",
+   "Jaguars WR room in 2025 was described as balanced with multiple contributors rather than one dominant receiver, which worked against Thomas's WR1 target share."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Playing through wrist injury; also dealt with a shoulder injury earlier in Week 2 practice week (limited practice, cleared to play) [news 2026-09-14 to 2026-09-20]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "He's playing confident right now.",
+    "who": "HC Liam Coen",
+    "date": "2026-08-07"
+   },
+   {
+    "quote": "Mentally, I feel good; body-wise, I feel good; I feel like we have a strong team and we're going to do big things.",
+    "who": "Brian Thomas Jr.",
+    "date": "2026-08-07"
+   },
+   {
+    "quote": "The hand injury wasn't an excuse. Anytime the ball hits my hand, I expect to catch it.",
+    "who": "Brian Thomas Jr.",
+    "date": "2026-08-07"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/jaguars-wr-brian-thomas-jr-114500974.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.jaguars.com/news/camp-wrap-day-8-thomas-playing-confident-right-now",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/jacksonville-jaguars/brian-thomas-jr-brutal-assessment-training-camp/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/jacksonville-jaguars/travis-hunter-offseason-progress-2026-training-camp/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.jaguars.com/news/camp-wrap-day-3-hunter-feeling-a-lot-faster-entering-26",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.jaguars.com/news/k000589-2026-offseason-a-look-at-jaguars-wide-receivers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/story/_/id/47350292/sources-jaguars-wr-jakobi-meyers-finalizing-3-year-60m-deal",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/onsi/fantasy/nfl/detroit-lions-trade-tim-patrick-jaguars-opening-door-isaac-teslaa",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/news/jaguars-brian-thomas-jr-was-dealing-with-wrist-injury-in-disastrous-week-2-outing-against-bengals",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy, full camp participation",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/jaguars-wr-brian-thomas-jr-114500974.html"
+  },
+  {
+   "date": "2026-08-27",
+   "injury": "Shoulder injury from Tue 8/25 practice (fell on shoulder); held out precautionarily, returned to practice in red no-contact jersey by Wed 8/26/8/27. HC Liam Coen: 'I think he's alright.' Expected ready for season opener at Cleveland on 2026-09-13.",
+   "note": "Injury scare resolved without a serious diagnosis; on track for Week 1 as of 8/27.",
+   "source": "https://sports.yahoo.com/articles/jaguars-star-wr-brian-thomas-072254018.html"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 3,
+   "injury": "Briefly left the Week 1 game but finished it; no designation reported afterward",
+   "role": "No role change; #2 target on the team",
+   "note": "[news 2026-09-14] 3/3 targets for 40 yds in Week 1 win over CLE",
+   "source": "https://www.cbssports.com/fantasy/football/news/jaguars-brian-thomas-three-catches-in-week-1-win/"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 8,
+   "injury": "Playing through wrist injury; also dealt with a shoulder injury earlier in Week 2 practice week (limited practice, cleared to play) [news 2026-09-14 to 2026-09-20]",
+   "role": "",
+   "note": "Week 2 vs Bengals: disastrous outing, ~40 yards on 8 targets while playing hurt with wrist injury; to be monitored on Wed injury report ahead of Week 3 vs Texans",
+   "source": "https://www.cbssports.com/nfl/news/jaguars-brian-thomas-jr-was-dealing-with-wrist-injury-in-disastrous-week-2-outing-against-bengals"
+  }
+ ]
+}

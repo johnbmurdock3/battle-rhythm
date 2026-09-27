@@ -1,0 +1,79 @@
+{
+ "player_id": "10867",
+ "name": "Jake Bobo",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SEA"
+   },
+   {
+    "season": 2026,
+    "team": "SEA"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jaxon Smith-Njigba",
+    "age": 24,
+    "status": "starter",
+    "note": "LWR1, ahead of Bobo",
+    "resolved_id": "9488",
+    "resolved_team": "SEA",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Cooper Kupp",
+    "age": 33,
+    "status": "starter",
+    "note": "slot WR1",
+    "resolved_id": "4039",
+    "resolved_team": "SEA",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Rashid Shaheed",
+    "age": 27,
+    "status": "starter",
+    "note": "RWR1",
+    "resolved_id": "8676",
+    "resolved_team": "SEA",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Bobo is listed as backup left WR (WR2 in that spot) behind Jaxon Smith-Njigba on ourlads depth chart; Seahawks WR room is crowded with Kupp, Shaheed, JSN ahead of him."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/SEA",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/SEA"
+  }
+ ]
+}

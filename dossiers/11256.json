@@ -1,0 +1,59 @@
+{
+ "player_id": "11256",
+ "name": "Tyson Bagent",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CHI"
+   },
+   {
+    "season": 2026,
+    "team": "CHI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Caleb Williams",
+    "age": 24,
+    "status": "starter",
+    "note": "entrenched QB1",
+    "resolved_id": "11560",
+    "resolved_team": "CHI",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Bagent is the 'strong favorite' to remain Bears QB2 per HC Ben Johnson (article dated July 20, 2026); only relevant if Williams is injured."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/bears/onsi/bears-depth-chart-training-camp-2026",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/bears/onsi/bears-depth-chart-training-camp-2026"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "player_id": "11646",
+ "name": "Jalen Coker",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CAR"
+   },
+   {
+    "season": 2026,
+    "team": "CAR"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "CAR",
+    "games": 11,
+    "targets": null,
+    "receptions": 33,
+    "rec_yards": 394,
+    "rec_td": 3,
+    "note": "Plus playoff Wild Card game: 9 receptions, 134 yards, 1 TD vs LA Rams. Per Wikipedia."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Brad Idzik",
+   "note": "HC Dave Canales (since Jan 2024, unchanged) per Panthers.com"
+  },
+  "competition": [
+   {
+    "name": "Tetairoa McMillan",
+    "age": 23,
+    "status": "Listed WR1 on Panthers depth chart ahead of Coker (born 2003-04-05), 2025 rookie",
+    "note": "Per RotoWire/Wikipedia",
+    "resolved_id": "12526",
+    "resolved_team": "CAR",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Xavier Legette",
+    "age": 25,
+    "status": "Listed WR3 on Panthers depth chart",
+    "note": "",
+    "resolved_id": "11626",
+    "resolved_team": "CAR",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Coker is listed WR2 on Carolina's RotoWire depth chart as of 2026-08-11, behind rookie-year star Tetairoa McMillan and ahead of Xavier Legette.",
+   "No team change; no coaching change at HC level."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Left ankle injury (rolled ankle), wore boot precautionarily; expected to play, does not expect to miss time [news 2026-09-14 to 2026-09-16]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Jalen_Coker",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/carolina-panthers-depth-chart-car",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.panthers.com/team/coaches-roster/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Tetairoa_McMillan",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-wr-jalen-coker-doesnt-expect-to-miss-time-with-ankle-injury",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury designation on depth chart",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Jalen_Coker"
+  },
+  {
+   "date": "2026-08-30",
+   "injury": "Quad injury suffered in practice; placed on injured reserve. Must miss at least 4 games, earliest eligible return Week 5 vs Miami (2026-10-05).",
+   "role": "Had been positioned as a starting WR after Carolina traded Adam Thielen to Minnesota, but the IR move (day after that trade) removes him from the Week 1 picture. Team subsequently brought back Hunter Renfrow.",
+   "note": "OUT for Week 1 and at least three more weeks.",
+   "source": "https://www.cbssports.com/nfl/news/panthers-bring-back-hunter-renfrow-place-jalen-coker-on-injured-reserve-as-wr-picture-for-week-1-takes-shape"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Minor left ankle tweak in Week 1 vs CHI; wore a protective boot postgame but downplayed severity",
+   "role": "No role change; remains primary complementary WR",
+   "note": "[news 2026-09-14] Expects to play Week 2; team monitoring daily, no games expected missed",
+   "source": "https://www.therx.com/nfl/panthers-wr-jalen-coker-in-walking-boot-with-minor-ankle-tweak-expects-to-play/47551/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Left ankle injury (rolled ankle), wore boot precautionarily; expected to play, does not expect to miss time [news 2026-09-14 to 2026-09-16]",
+   "role": "",
+   "note": "Sleeper API currently lists him Questionable; ankle injury has been described as minor/precautionary as of mid-September",
+   "source": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-wr-jalen-coker-doesnt-expect-to-miss-time-with-ankle-injury"
+  }
+ ]
+}

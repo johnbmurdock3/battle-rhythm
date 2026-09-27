@@ -1,0 +1,52 @@
+{
+ "player_id": "12529",
+ "name": "TreVeyon Henderson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Off injury report, full practice; missed Week1 with ankle injury, made season debut Week2 [news 2026-09-18]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-29",
+   "injury": "Right ankle injury (slipped on wet field during a practice cut, ~Aug 24); sat out the following Tuesday practice and Thursday preseason finale vs. Cleveland as a precaution",
+   "role": "Expected to play Week 1 \u2014 a league source said he avoided a serious ankle injury and 'should be good to go'; walked/moved well in testing and was cleared by Patriots medical staff; HC Mike Vrabel had been cautious with starters in preseason generally",
+   "note": "Sleeper lists him Questionable; latest reporting (8/29) is encouraging for Week 1",
+   "source": "https://www.yardbarker.com/nfl/articles/treveyon_henderson_injury_update_patriots_get_encouraging_week_1_news/s1_17702_44234732"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Ankle (injured 8/24 in practice); ruled out Week 1, but RETURNED TO PRACTICE 9/14 - trending toward playing, not yet officially confirmed active. Sleeper still shows Out as of 9/15",
+   "role": "Rhamondre Stevenson took over as lead back with Corey Kiner secondary; Henderson's return threatens to reclaim the lead role",
+   "note": "[news 2026-09-14] Multiple 9/14 reports confirm he practiced for the first time since the injury",
+   "source": "https://www.boston.com/sports/new-england-patriots/2026/09/14/new-england-patriots-treveyon-henderson-practice-nfl-football/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Off injury report, full practice; missed Week1 with ankle injury, made season debut Week2 [news 2026-09-18]",
+   "role": "Splits backfield with veteran Rhamondre Stevenson rather than a clear lead-back role",
+   "note": "Rookie 2025 totals: 911 rush yds, 35 rec. Week2 stat line not specified in source [news 2026-09-18 to 09-20]",
+   "source": "https://www.si.com/betting/treveyon-henderson-injury-update-betting-impact-for-steelers-vs-patriots-in-nfl-week-2-2026"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.si.com/betting/treveyon-henderson-injury-update-betting-impact-for-steelers-vs-patriots-in-nfl-week-2-2026",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

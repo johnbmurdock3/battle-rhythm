@@ -1,0 +1,81 @@
+{
+ "player_id": "11034",
+ "name": "Jalen Brooks",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "ARI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Marvin Harrison Jr.",
+    "age": 24,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "11628",
+    "resolved_team": "ARI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Michael Wilson",
+    "age": 26,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "10232",
+    "resolved_team": "ARI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Kendrick Bourne",
+    "age": 31,
+    "status": "starter",
+    "note": "slot WR1",
+    "resolved_id": "4454",
+    "resolved_team": "ARI",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Listed 3rd string behind Harrison Jr.; roster-bubble depth WR."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": ""
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/ARZ",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/ARZ"
+  }
+ ]
+}

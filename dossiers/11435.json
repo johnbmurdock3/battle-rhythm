@@ -1,0 +1,138 @@
+{
+ "player_id": "11435",
+ "name": "Emanuel Wilson",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "GB"
+   },
+   {
+    "season": 2026,
+    "team": "SEA"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "GB",
+    "games": 17,
+    "carries": 125,
+    "rec": 15,
+    "targets": 15,
+    "yards": 496,
+    "rec_yards": 99,
+    "td": 3,
+    "note": "Rushing yards 496 on 125 carries plus 15 receptions for 99 yards, 3 rush TD"
+   }
+  ],
+  "contract": {
+   "years": 1,
+   "signed": "2026-03-12",
+   "note": "One-year deal, reported as up to $2.1M (one source said $1.6M with $300K guaranteed) with Seattle after leaving Green Bay in free agency"
+  },
+  "scheme": {
+   "oc": "Brian Fleury (new OC, hired 2026, replacing Klint Kubiak who left to become Raiders HC)",
+   "note": "Seahawks HC Mike Macdonald entering 3rd season; this is SEA's 4th OC in 4 seasons"
+  },
+  "competition": [
+   {
+    "name": "Zach Charbonnet",
+    "age": 25,
+    "status": "presumed starter/lead back",
+    "note": "Suffered a season-ending torn ACL during the 2025 playoffs; recovery timeline for 2026 Week 1 unclear as of camp reports (July 2026)",
+    "resolved_id": "9753",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "George Holani",
+    "age": 26,
+    "status": "roster RB",
+    "note": "",
+    "resolved_id": "12048",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Jadarian Price",
+    "age": 22,
+    "status": "2026 draft pick, No. 32 overall",
+    "note": "Rookie competing for early-down/passing-down role",
+    "resolved_id": "13286",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Kenny McIntosh",
+    "age": 26,
+    "status": "roster RB",
+    "note": "",
+    "resolved_id": "10216",
+    "resolved_team": null,
+    "resolved_pos": "RB",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "Kenneth Walker III (previous starter, Super Bowl 60 MVP per one source) signed with Kansas City Chiefs in free agency, opening the SEA backfield",
+   "One July 17, 2026 Yahoo Sports piece suggested Wilson's own roster spot could hinge on Charbonnet's ACL recovery timeline, and floated the possibility Wilson gets cut before Week 1"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No current injury report found for Wilson specifically as of Aug 2026; Charbonnet (ACL, playoffs 2025) is the key injury affecting the depth chart"
+  },
+  "camp": [
+   {
+    "quote": "Wilson's roster spot could depend on Zach Charbonnet's recovery",
+    "who": "Yahoo Sports",
+    "date": "2026-07-17"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.spokesman.com/stories/2026/mar/12/seahawks-sign-running-back-emanuel-wilson/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/could-seahawks-cut-rb-emanuel-130116561.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fieldgulls.com/seattle-seahawks-free-agency/164573/seahawks-2026-free-agency-seattle-adds-former-packers-running-back-emanuel-wilson-nfl-news",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Emanuel_Wilson_(American_football)",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Seattle_Seahawks_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/sea/seattle-seahawks",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.spokesman.com/stories/2026/mar/12/seahawks-sign-running-back-emanuel-wilson/"
+  }
+ ]
+}

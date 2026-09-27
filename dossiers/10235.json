@@ -1,0 +1,76 @@
+{
+ "player_id": "10235",
+ "name": "Roschon Johnson",
+ "as_of": "2026-09-15",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CHI"
+   },
+   {
+    "season": 2026,
+    "team": "CHI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "D'Andre Swift",
+    "age": 27,
+    "status": "starter",
+    "note": "RB1",
+    "resolved_id": "6790",
+    "resolved_team": "CHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Kyle Monangai",
+    "age": 24,
+    "status": "backup",
+    "note": "RB2, ahead of Johnson",
+    "resolved_id": "12534",
+    "resolved_team": "CHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Johnson is RB3 behind Swift and Monangai; touches likely limited barring injury."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-15"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/CHI",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/CHI"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "RB3 behind D'Andre Swift and Kyle Monangai; Monangai hyperextension (reported 9/8) opens a path if he sits",
+   "note": "[news 2026-09-08] OC Press Taylor said Bears would trust Johnson with a heavier load if a RB ahead of him goes down",
+   "source": "https://fantasyfootballcalculator.com/players/roschon-johnson/news"
+  }
+ ]
+}

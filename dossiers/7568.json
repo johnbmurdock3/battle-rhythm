@@ -1,0 +1,89 @@
+{
+ "player_id": "7568",
+ "name": "Brevin Jordan",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "HOU"
+   },
+   {
+    "season": 2026,
+    "team": "HOU"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Dalton Schultz",
+    "age": 30,
+    "status": "starter",
+    "note": "TE1, presumed lock",
+    "resolved_id": "5001",
+    "resolved_team": "HOU",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Marlin Klein",
+    "age": 23,
+    "status": "presumed lock",
+    "note": "",
+    "resolved_id": "13307",
+    "resolved_team": "HOU",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Foster Moreau",
+    "age": 29,
+    "status": "presumed lock",
+    "note": "",
+    "resolved_id": "5985",
+    "resolved_team": "HOU",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Cade Stover",
+    "age": 26,
+    "status": "competing",
+    "note": "main competition for 4th TE spot",
+    "resolved_id": "11599",
+    "resolved_team": "HOU",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change, but only competing for the 4th TE spot, and currently banged up - roster-bubble/deep-stash only."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "day-to-day",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/texans-injury-te-brevin-jordan-021328392.html",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "day-to-day",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/texans-injury-te-brevin-jordan-021328392.html"
+  }
+ ]
+}

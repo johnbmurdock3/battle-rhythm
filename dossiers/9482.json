@@ -1,0 +1,78 @@
+{
+ "player_id": "9482",
+ "name": "Michael Mayer",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LV"
+   },
+   {
+    "season": 2026,
+    "team": "LV"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Brock Bowers",
+    "age": 23,
+    "status": "starter",
+    "note": "clear TE1, one of NFL's top receiving TEs",
+    "resolved_id": "11604",
+    "resolved_team": "LV",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Mayer is firmly TE2 behind Brock Bowers with minimal receiving-role fantasy relevance."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/LV",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/LV/las-vegas-raiders/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/LV"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 6,
+   "injury": "",
+   "role": "Started at TE in Week 1 for injured Brock Bowers; led team in targets. Bowers has a realistic chance to return Week 2 vs LAC per Schefter (9/14), which would push Mayer back to TE2",
+   "note": "[news 2026-09-14] Week 1: 6 catches on 7 targets for 32 yds in a 27-13 win over MIA",
+   "source": "https://www.cbssports.com/fantasy/football/news/raiders-michael-mayer-six-catches-in-top-te-role/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper depth_chart_position TE order 2; not on LV injury report as of 2026-09-21 (healthy)",
+   "note": "LV TE1 Brock Bowers has a knee/meniscus injury, was inactive Week 2 at LAC, and had no expected-return date listed as of 2026-09-21 -- Mayer's contingent add case remains live pending Bowers' Week 3 status",
+   "source": "https://www.cbssports.com/nfl/teams/LV/las-vegas-raiders/injuries/"
+  }
+ ]
+}

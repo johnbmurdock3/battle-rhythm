@@ -1,0 +1,152 @@
+{
+  "_note": "The league key. Slug -> id -> folder, one place. Before 8/13 league identity lived in at least six: keepers.json (4 ids), mcp_server.py LEAGUE_IDS (5), room_bias.json, the HANDOFF status table, the lg05_* filename convention, and API discovery. mcp_server and keepers.json disagreed -- lg02 existed in one and not the other. Rewiring mcp_server and keepers.json to read FROM this file is phase E, deferred until after the 8/18 draft.",
+  "_verified": "2026-09-02. SEVEN leagues, confirmed against the cached league list. The seventh -- best-ball, 9000000000000000022 -- had never appeared here, in keepers.json, or in mcp_server.LEAGUE_IDS. That is twice now. The drift check that was supposed to catch it compared this file against mcp_server.LEAGUE_IDS, two copies maintained by hand; as of 9/2 mcp_server DERIVES its ids from this file, so the two cannot disagree and the only remaining question is whether this file matches the API. smoke.py asks. Run it after every league you join.",
+  "_slug_rule": "Lowercase, hyphenated, no emoji. The id is the only safe key; never key a folder or a filename on a league name. UPDATED 9/3: the two Hybrids no longer normalize to the same string -- 'LG03-LG05' was renamed 'LG03' -- so the slugs were realigned to the real names (lg05 -> lg03, lg05-emoji -> lg05) and leagues/ renamed with them. Old slug -> new slug: lg05 -> lg03, lg05-emoji -> lg05. DECISIONS.md, CHANGELOG.md and DEPENDENCIES.md keep the OLD names on purpose: they are history and describe the state at the time.",
+  "_keepers_note": "Only leagues with rules that are NOT in the Sleeper API need an entry in data/keepers.json. lg02 and lg06 have none and are absent from it; every reader does .get(lid) or {}, so absence is safe and means room_shave 0.",
+  "leagues": {
+    "lg03": {
+      "id": "9000000000000000013",
+      "name": "LG03",
+      "aliases": [
+        "lg03",
+        "lg03",
+        "lg03"
+      ],
+      "teams": 12,
+      "type": "hybrid",
+      "starters": "QB1 RB2 WR3 TE1 FLEX1 SUPER_FLEX1, BN11",
+      "note": "Renamed 'LG03' in the app between 8/18 and 9/2; SAME id. SLUG CHANGED 9/3 from lg05 to lg03: the two Hybrids no longer share a name, so the collision the old slug worked around is gone, and 'lg05' pointing here while a DIFFERENT league is actually named LG03-LG05 was a live trap -- `lg03-lg05` resolved to this league. Drafted 8/18 from slot 8. Superflex, tiered receptions, TE reception bonus, reversal_round 3.",
+      "drafts": "2026-08-18 (done)",
+      "former_names": [
+        "LG03-LG05"
+      ],
+      "status": "in_season"
+    },
+    "lg05": {
+      "id": "9000000000000000019",
+      "name": "LG05",
+      "aliases": [
+        "lg03-lg05",
+        "hybrid",
+        "lg05",
+        "hero",
+        "hybrid_hero",
+        "superhero"
+      ],
+      "teams": 12,
+      "type": "hybrid",
+      "starters": "QB1 RB2 WR3 TE1 FLEX1 SUPER_FLEX1, BN9",
+      "note": "The emoji one, and the only league actually NAMED LG03-LG05. Took the slug lg05 on 9/3 (was lg05-emoji). 'hero'/'hybrid_hero'/'superhero' are kept as legacy aliases only -- they exist because the two leagues once shared a name; prefer the real name. Drafted 8/18. Superflex, tiered receptions, TE reception bonus. reversal_round 0 -- plain snake, unlike the other Hybrid.",
+      "drafts": "2026-08-18 (done)",
+      "status": "in_season"
+    },
+    "lg01": {
+      "id": "9000000000000000009",
+      "name": "LG01",
+      "aliases": [
+        "dynasty",
+        "lg01"
+      ],
+      "teams": 12,
+      "type": "dynasty",
+      "starters": "QB1 RB2 WR2 TE1 FLEX2 DEF1, BN10",
+      "note": "Full dynasty, drafting now. 1.0 PPR, carries DEF, 3 taxi seats. room_shave 10 -- this room buys veterans about 10 picks early, the only measured value in the portfolio.",
+      "drafts": "2026-08 (done)",
+      "status": "in_season"
+    },
+    "lg04": {
+      "id": "9000000000000000017",
+      "name": "LG04",
+      "aliases": [
+        "lg04",
+        "lg04",
+        "lg04"
+      ],
+      "teams": 12,
+      "type": "redraft-keeper",
+      "starters": "QB1 RB2 WR2 TE1 FLEX2 DEF1, BN6",
+      "note": "2026 startup, nothing kept this year. Round-cost keeper begins 2027, so late-round hits carry extra value. Two FLEX slots, 6-point passing TD, kick and punt return yardage, 100 FAAB.",
+      "drafts": "2026-09-06",
+      "status": "pre_draft",
+      "slot": 10,
+      "rounds": 15,
+      "draft_format": "plain snake, reversal_round 0",
+      "_draft_format_source": "Confirmed by John 9/3: none of the three upcoming rooms uses a reversal round. Their rules differ from each other in other ways, but the snake is plain. Recorded here because reversal_round is not readable for a draft that has not started and the two Hybrids proved two rooms in one format need not share a shape -- 3 and 0."
+    },
+    "lg02": {
+      "id": "9000000000000000010",
+      "name": "LG02",
+      "aliases": [
+        "lg02",
+        "lg02",
+        "lg02"
+      ],
+      "teams": 14,
+      "type": "redraft",
+      "starters": "QB1 RB2 WR2 TE1 FLEX1 K1 DEF1, BN4",
+      "note": "14 teams, the deepest room. Carries BOTH K and DEF, which no card has planned around -- ROADMAP P1 #5, where the turn-plan banner prints 'starters filled' with a required slot empty. 0.5 PPR, waiver order rather than FAAB. No entry in keepers.json.",
+      "drafts": "2026-09-05",
+      "status": "pre_draft",
+      "slot": 13,
+      "rounds": 13,
+      "draft_format": "plain snake, reversal_round 0",
+      "_draft_format_source": "Confirmed by John 9/3: none of the three upcoming rooms uses a reversal round. Their rules differ from each other in other ways, but the snake is plain. Recorded here because reversal_round is not readable for a draft that has not started and the two Hybrids proved two rooms in one format need not share a shape -- 3 and 0.",
+      "draft_time": "16:00 PT",
+      "_drafts_source": "John, 9/3: Saturday 9/5 at 4pm. The index carried null and a session read that null and told him 'no date set, and that has been true all week' -- a hand-maintained field reported as a live fact. The API may have carried a start_time the whole time. If a date here is null it means NOBODY TYPED ONE, not that none exists; check the draft object."
+    },
+    "lg06": {
+      "id": "9000000000000000021",
+      "name": "LG06",
+      "aliases": [
+        "lg06",
+        "lg06",
+        "lg06",
+        "idp",
+        "lg06"
+      ],
+      "teams": 10,
+      "type": "redraft-idp",
+      "starters": "QB1 RB2 WR2 TE1 FLEX1 K1 DL1 LB1 DB1, BN5",
+      "note": "THE IDP LEAGUE. ROADMAP said 'the sixth league does not exist yet -- IDP support is built and tested and waiting. Nothing to do until there is a league id.' It has one, and it is pre-draft with no date set. 10 teams, the only league that is not 12 or 14. Carries K but NO team DEF -- individual defenders instead, so every pts_allow_* and team sack/int rule is zeroed out.",
+      "scoring_warning": "Scoring is unlike anything else in the portfolio and every intuition from the other five leagues is wrong here. Touchdowns are 10 points, not 6. Passing yards 0.05, not 0.04. Full 1.0 PPR. Turnovers -5, not -2. Yardage bonuses at 100/200 rushing and receiving and 300/400 passing. Most importantly it pays 0.5 PER ATTEMPT on both pass and rush -- volume scoring, which nothing else he plays has, and which rewards high-attempt players independent of efficiency. A 600-attempt quarterback banks 300 points before a single yard. IDP pays 10 for a sack, an interception or a defensive TD, 2 for a pass defensed, 1 per tackle and assist, plus 10 for a 10-tackle game.",
+      "drafts": "done (2026-09-09)",
+      "status": "in_season",
+      "_drafts_note": "Wed 9/9 5:00 PM PT per this league's brief; an earlier handoff said Thu 9/10. 9/9 is the Wednesday. Confirm in the app.",
+      "rounds": 16,
+      "draft_format": "plain snake, reversal_round 0",
+      "_draft_format_source": "Confirmed by John 9/3: none of the three upcoming rooms uses a reversal round. Their rules differ from each other in other ways, but the snake is plain. Recorded here because reversal_round is not readable for a draft that has not started and the two Hybrids proved two rooms in one format need not share a shape -- 3 and 0.",
+      "slot": null,
+      "_slot_note": "THE CURVEBALL, per John 9/3: draft position is revealed about 30 MINUTES before the draft, not days. Any plan that needs a slot has to be readable in that window, so the card carries the pick numbers for all ten slots precomputed. Do not guess it early -- reading a slot off Sleeper's placeholder draft_order produced a confident fictional 'slot 4 of 10' once already."
+    },
+    "best-ball": {
+      "id": "9000000000000000022",
+      "name": "LG07",
+      "aliases": [
+        "best ball",
+        "bestball",
+        "best-ball",
+        "bb"
+      ],
+      "teams": 12,
+      "type": "best-ball",
+      "starters": "QB1 RB2 WR3 TE1 FLEX1, BN10",
+      "status": "in_season",
+      "drafts": "done",
+      "note": "REGISTERED 9/2, and it had been live and unnoticed. Best ball: no weekly lineup to set, no waivers, no trades -- the draft was the whole game and it is over. Nothing in the weekly cadence applies to it and it should be EXCLUDED from the lineup and waiver briefs rather than silently optimised. 1.0 PPR, waiver order rather than FAAB, no DEF and no K."
+    },
+    "lg08": {
+      "id": "9000000000000000024",
+      "name": "LG08",
+      "aliases": [
+        "lg08",
+        "lg08",
+        "lg08"
+      ],
+      "teams": 10,
+      "type": "redraft-idp",
+      "ignore": true,
+      "status": "in_season",
+      "note": "NOT A LEAGUE JOHN PLAYS IN. Surfaced 9/12 on the first live weekly run: the API returned two LG06 with identical rosters and scoring, this one with the lg08 prefix and FAAB 1000. Created after the 9/9 draft (its id is newer than the real room's draft id), so it is a commissioner copy. John confirmed the plain-named league is the real room and asked the commissioner whether this one stays. ignore:true keeps weekly, the dashboard and the ledger off it while smoke still sees it as known. If it ever becomes a second real room, flip the flag and give it a folder of its own."
+    }
+  }
+}

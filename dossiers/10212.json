@@ -1,0 +1,61 @@
+{
+ "player_id": "10212",
+ "name": "Josh Whyle",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "GB"
+   },
+   {
+    "season": 2026,
+    "team": "GB"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "1-year, $2M re-signing, March 2026"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tucker Kraft",
+    "age": 25,
+    "status": "starter (injured)",
+    "note": "TE1, but tore ACL - opens up receiving-down role for Whyle",
+    "resolved_id": "9484",
+    "resolved_team": "GB",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Re-signed with Packers, not a new team; Tucker Kraft's torn ACL significantly increases Whyle's pass-catching opportunity in 2026."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.acmepackingcompany.com/green-bay-packers-news/80616/packers-to-bring-back-josh-whyle",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.acmepackingcompany.com/green-bay-packers-news/80616/packers-to-bring-back-josh-whyle"
+  }
+ ]
+}

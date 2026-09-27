@@ -1,0 +1,75 @@
+{
+ "player_id": "10226",
+ "name": "Andrei Iosivas",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CIN"
+   },
+   {
+    "season": 2026,
+    "team": "CIN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": ""
+   }
+  ],
+  "notes": [
+   "No team change indicated; behind Bengals' top WRs (Chase/Higgins tier) as depth/rotational piece \u2014 not independently confirmed this pass"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "Not confirmed this pass"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.bengals.com/team/players-roster/andrei-iosivas/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/iosivas-one-of-many-with-one-target-vs-hou",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.bengals.com/team/players-roster/andrei-iosivas/"
+  },
+  {
+   "date": "2026-08-13",
+   "role": "Bengals WR, started preseason game vs Lions",
+   "note": "Preseason Week vs Lions: started, 2 catches on 2 targets for 20 yards (Aug 13, 2026). Older (2025-season) reporting showed drop issues after Mike Gesicki injury; not necessarily current for 2026.",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-13/andrei-iosivas-starts-goes-2-20-against-lions"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 1,
+   "injury": "",
+   "role": "WR3/SWR (depth_chart_order 3)",
+   "note": "1 catch on 1 target for 7 yds in Week 2 win over HOU; one of several CIN receivers with limited volume [news 2026-09-20]",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/iosivas-one-of-many-with-one-target-vs-hou"
+  }
+ ]
+}

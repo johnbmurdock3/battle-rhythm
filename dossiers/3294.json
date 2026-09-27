@@ -1,0 +1,110 @@
+{
+ "player_id": "3294",
+ "name": "Dak Prescott",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2024,
+    "team": "DAL"
+   },
+   {
+    "season": 2025,
+    "team": "DAL"
+   },
+   {
+    "season": 2026,
+    "team": "DAL"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "DAL",
+    "games": 17,
+    "pass_yards": 4552,
+    "pass_td": 30,
+    "int": 10,
+    "note": "Played full 2025 season, including finale vs. Giants (cbssports.com, 2026-01-04)."
+   },
+   {
+    "season": 2024,
+    "team": "DAL",
+    "games": 8,
+    "pass_yards": 1978,
+    "pass_td": 11,
+    "int": 8,
+    "note": "Season ended Week 9 (2024-11-03) vs. Falcons with a right leg/hamstring partial tendon avulsion requiring season-ending surgery. Completion % (64.7%) was his lowest since 2017 pre-injury."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Could not verify current contract terms (years remaining, cap hit) this search \u2014 Spotrac page returned 403. CBS Sports/OTC headlines reference Cowboys 'addressing Dak Prescott contract situation' and a 'huge cap hit pending' for 2026, but exact figures unverified. Leave blank rather than guess."
+  },
+  "scheme": {
+   "oc": "Brian Schottenheimer (HC, play-caller)",
+   "note": "No offensive coordinator change found for 2026; Schottenheimer (promoted to HC in 2025 after serving as OC) continues calling plays. thelandryhat.com (2026-08 camp tracker) reports offense operating within the same scheme, no new OC hire mentioned."
+  },
+  "competition": [],
+  "notes": [
+   "Beat-writer note: Prescott has a history of notable injuries in even-numbered seasons (2020, 2022, 2024) per RotoWire (2026-06-16).",
+   "2025 finished season ranked among NFL's top-five quarterbacks per SI.com Cowboys Country headline (title only verified, article body not fetched)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Full participant, no restrictions",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Nothing we're concerned about but we're just going to be smart heading into these last couple days.",
+    "who": "HC Brian Schottenheimer (via Jori Epstein, Yahoo Sports)",
+    "date": "2026-06-16"
+   },
+   {
+    "quote": "A lot of things in my life, you know, I said I'd do, and I did it.",
+    "who": "Dak Prescott (on Super Bowl aspirations)",
+    "date": "2026-08-06"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://thelandryhat.com/dallas-cowboys-2026-training-camp-tracker-latest-updates-news-injuries-rumors",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://thelandryhat.com/dallas-cowboys-dak-prescott-injury-concern-departed-just-as-quickly-as-it-arrived",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/headlines/dak-prescott-injury-managing-sore-knee-631415",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.yardbarker.com/nfl/articles/dallas_cowboys_qb_dak_prescott_has_a_growing_injury_concern/s1_17355_44137818",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/cowboys-dak-prescott-throws-for-4552-yards-in-2025/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/cowboys/onsi/news/dak-prescott-injury-update-dallas-cowboys-star-target-date-return",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Full participant, no restrictions",
+   "note": "baseline from initial research pass",
+   "source": "https://thelandryhat.com/dallas-cowboys-2026-training-camp-tracker-latest-updates-news-injuries-rumors"
+  }
+ ]
+}

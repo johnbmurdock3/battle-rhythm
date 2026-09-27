@@ -1,0 +1,114 @@
+{
+ "player_id": "6806",
+ "name": "J.K. Dobbins",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DEN"
+   },
+   {
+    "season": 2026,
+    "team": "DEN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "DEN",
+    "games": 10,
+    "targets": 11,
+    "rec": 11,
+    "yards": 772,
+    "td": 4,
+    "note": "772 rushing yards on 153 carries through Week 10; season ended with a foot/ligament injury requiring surgery. Receiving line: 11 rec, 39 yards (targets approximated at 11)."
+   }
+  ],
+  "contract": {
+   "years": 2,
+   "signed": "2026",
+   "note": "Re-signed with Denver on a 2-year deal for 2026 (per nfl.com player page headlines); exact dollar terms not verified."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Sean Payton remained HC through 2025 per Wikipedia; no confirmed 2026 coaching change found in sources checked."
+  },
+  "competition": [
+   {
+    "name": "RJ Harvey",
+    "age": 25,
+    "status": "took over as starter after Dobbins' Week 10 2025 injury",
+    "note": "Born 2001-02-04; Broncos 2nd-round pick (60th overall), 2025 draft. Began 2025 as RB2 behind Dobbins, became starter/pass-catching option after Dobbins went down.",
+    "resolved_id": "12489",
+    "resolved_team": "DEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Dobbins has publicly said he intends to 'lead the NFL in rushing' in 2026 and avoid recurring injuries."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable per Sleeper depth-chart/injury data as of 2026-09-22 [no specific article/date found for the designation]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.nfl.com/players/j-k-dobbins/stats/logs/2025/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/players/j-k-dobbins/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/injuries/_/name/den/denver-broncos",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/RJ_Harvey",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Denver_Broncos",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872940",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "no injury listed on team report as of Aug 5, 2026",
+   "note": "baseline from initial research pass",
+   "source": "https://www.nfl.com/players/j-k-dobbins/stats/logs/2025/"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 53,
+   "touches": 8,
+   "injury": "Camp soft-tissue issue resolved; Sleeper flags Questionable/undisclosed but no fresh 2026 report supports it as of 9/15",
+   "role": "Denver RB1 (~53% snaps) but rookie RJ Harvey already ~40% - real committee threat",
+   "note": "[news 2026-09-14] Week 1 vs KC: 8 carries for 36 yds, 0 targets, limited by game script",
+   "source": "https://www.rotowire.com/football/player/jk-dobbins-14418"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 8,
+   "injury": "Questionable per Sleeper depth-chart/injury data as of 2026-09-22 [no specific article/date found for the designation]",
+   "role": "RB1 (depth_chart_order 1) on DEN, re-signed 2yr/$20M deal [news 2026-03-10]",
+   "note": "Week 2 (9/20 vs JAX): 8 car/36 yds rushing, 0 receptions/targets. Currently tagged Questionable on Sleeper as of run date - worth checking practice reports before Week 3.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872940"
+  }
+ ]
+}

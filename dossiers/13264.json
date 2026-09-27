@@ -1,0 +1,41 @@
+{
+ "player_id": "13264",
+ "name": "Dohnte Meyers",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-31",
+   "role": "Made Bengals' initial 53-man roster as a rookie WR (CFL/Presbyterian College/Delta State background) after standout preseason ('camp star'); in a deep WR room behind Ja'Marr Chase and Tee Higgins",
+   "note": "Roster spot earned via strong camp performance rather than draft pedigree; depth/role behind Chase-Higgins unclear",
+   "source": "https://www.bengals.com/news/bengals-initial-2026-53-man-roster-feature"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Signed a reserve/futures contract with Cincinnati out of the CFL (Saskatchewan Roughriders) [news 2026-01-08]; competing for a roster spot. No Week 1/2 regular-season activity found.",
+   "note": "No notable in-season news found; last item is January 2026 futures signing",
+   "source": "https://www.cbssports.com/fantasy/football/news/bengals-dohnte-meyers-signs-with-cincy"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/bengals-dohnte-meyers-signs-with-cincy",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

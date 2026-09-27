@@ -1,0 +1,96 @@
+{
+ "player_id": "7049",
+ "name": "Jauan Jennings",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SF"
+   },
+   {
+    "season": 2026,
+    "team": "MIN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Justin Jefferson",
+    "age": 27,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "6794",
+    "resolved_team": "MIN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jordan Addison",
+    "age": 24,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "9756",
+    "resolved_team": "MIN",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Team change: signed with Minnesota after 6 years with SF (free agency, 2026). Slots in as WR3 behind Jefferson/Addison but analysts say he 'has the talent to challenge Addison for the No. 2 job.'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Out per Sleeper injury_status [checked 2026-09-22]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://thevikingage.com/minnesota-vikings-updated-depth-chart-after-jauan-jennings-signing",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/7049",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://thevikingage.com/minnesota-vikings-updated-depth-chart-after-jauan-jennings-signing"
+  },
+  {
+   "date": "2026-08-31",
+   "injury": "Sleeper API flags injury_status=Out (no date given); conflicts with Vikings' own report",
+   "role": "WR3 on Vikings depth chart behind Justin Jefferson and Jordan Addison",
+   "note": "Conflicting reports: Sleeper API marks him 'Out', but the Vikings' 8/31/26 injury report and depth chart list him as an active WR3 with no injury designation. Treat the team report as more current.",
+   "source": "https://www.cbssports.com/nfl/teams/MIN/minnesota-vikings/injuries/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 0,
+   "injury": "",
+   "role": "TEAM CHANGE: signed a 1-year deal with Minnesota after leaving San Francisco; WR3 behind Justin Jefferson and Jordan Addison",
+   "note": "[news 2026-09-14] Week 1: 0 receptions on 1 target in the 39-22 win over GB",
+   "source": "https://www.fantasypros.com/nfl/news/jauan-jennings.php"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 0,
+   "injury": "Out per Sleeper injury_status [checked 2026-09-22]",
+   "role": "TEAM CHANGE: now on Minnesota Vikings (MIN), not his prior team. Depth chart SWR (WR3) order 3.",
+   "note": "Sleeper lists him on Minnesota (MIN), a team change from his prior roster; status Out. No Week 2 stats found (did not play).",
+   "source": "https://api.sleeper.app/players/nfl/7049"
+  }
+ ]
+}

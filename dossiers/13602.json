@@ -1,0 +1,48 @@
+{
+ "player_id": "13602",
+ "name": "Jack Strand",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-30",
+   "role": "Made Falcons initial 53-man roster as QB4 (No.18)",
+   "note": "Undrafted rookie (Minnesota State Moorhead, DII); preseason mixed: 212 yds/2 TD vs Indy, but 6/7-44 yds with a pick-six-type INT vs Miami; Falcons chose not to risk waiving him",
+   "source": "https://sports.yahoo.com/articles/falcons-rookie-qb-jack-strand-225212769.html"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Deep depth QB behind Michael Penix Jr and Cooper Rush; no game action Week 1",
+   "note": "No notable news found; emergency QB",
+   "source": "https://www.atlantafalcons.com/team/players-roster/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper lists him as ATL QB with no depth_chart_order set; behind Tua Tagovailoa, Michael Penix Jr., and Cooper Rush per ATL camp coverage.",
+   "note": "'Jack Strand has impressed with his arm and ability to pick up the playbook' during camp [news 2026-08-13]; appears to be a deep backup, no September news found.",
+   "source": "https://api.sleeper.app/players/nfl/13602"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://api.sleeper.app/players/nfl/13602",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

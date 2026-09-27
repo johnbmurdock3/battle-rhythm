@@ -1,0 +1,135 @@
+{
+ "player_id": "8137",
+ "name": "George Pickens",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2024,
+    "team": "PIT"
+   },
+   {
+    "season": 2025,
+    "team": "DAL",
+    "note": "Traded from Pittsburgh to Dallas on 2025-05-07 for a 2026 third-round pick and a 2027 pick swap."
+   },
+   {
+    "season": 2026,
+    "team": "DAL"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "DAL",
+    "games": null,
+    "targets": 137,
+    "rec": 93,
+    "yards": 1423,
+    "td": 9,
+    "note": "Career year in first season with Dallas. Season concluded with a game vs. NYG on 2026-01-04."
+   }
+  ],
+  "contract": {
+   "years": 1,
+   "signed": "franchise tag, 2026",
+   "note": "Playing 2026 on the franchise tag worth $27.298M fully guaranteed. Deadline for a long-term extension passed without a deal (per ESPN, 2026-08-04); Cowboys reportedly prioritizing extensions for CeeDee Lamb and Quinnen Williams instead. Signals 2026 is likely Pickens' last season in Dallas, with trade or free agency likely next offseason given rising WR market (e.g., Zay Flowers $140M, Drake London ~$141M deals cited as comparables)."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "No confirmed Cowboys offensive coordinator/scheme change found in this research pass. Pickens made a comment about an opponent's defense being 'new and improved,' not about the Cowboys' own offensive scheme."
+  },
+  "competition": [
+   {
+    "name": "CeeDee Lamb",
+    "age": 27,
+    "status": "WR1",
+    "note": "'For the first time in his career, he won't be a number one option at wide receiver' \u2014 Pickens is pairing with Lamb as the clear top target on the Cowboys.",
+    "resolved_id": "6786",
+    "resolved_team": "DAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jalen Tolbert",
+    "age": 27,
+    "status": "WR depth",
+    "note": "Listed on Cowboys WR depth chart.",
+    "resolved_id": "8117",
+    "resolved_team": "MIA",
+    "resolved_pos": "WR",
+    "same_team": false
+   },
+   {
+    "name": "KaVontae Turpin",
+    "age": 30,
+    "status": "WR depth/returner",
+    "note": "Listed on Cowboys WR depth chart.",
+    "resolved_id": "8917",
+    "resolved_team": "DAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Traded from Pittsburgh Steelers to Dallas on 2025-05-07.",
+   "CeeDee Lamb has publicly lobbied Jerry Jones to extend Pickens (per Yardbarker headline), underscoring how the team values him even without a completed deal."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury reported as of research date; reported to Cowboys training camp on time/as expected.",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "I kind of leave that to the people that can do that. For me, I just make catches, make plays, be a playmaker.",
+    "who": "George Pickens, on his contract situation",
+    "date": "2026-07-30"
+   },
+   {
+    "quote": "The limitations and the nuance of a limitation, you shouldn't put that on yourself. You can really do anything you want.",
+    "who": "George Pickens",
+    "date": "2026-07-30"
+   },
+   {
+    "quote": "Pickens is locked in on the franchise tag earning $27.298 million fully guaranteed in 2026; Cowboys chose not to engage in long-term extension talks this offseason.",
+    "who": "ESPN / CBS Sports",
+    "date": "2026-08-04"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/cowboys-george-pickens-finishes-with-1423-yards-nine-tds",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/news/george-pickens-2026-season-likely-to-be-cowboys-swan-song/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.dallascowboys.com/news/depth-chart-cowboys-wr-room-outlook-following-george-pickens-trade",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.dallascowboys.com/news/george-pickens-on-approach-to-2026-season-facing-new-and-improved-defense",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/news/steelers-trade-george-pickens-to-cowboys-in-exchange-for-2026-third-rounder-pick-swap-in-2027/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury reported as of research date; reported to Cowboys training camp on time/as expected.",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/fantasy/football/news/cowboys-george-pickens-finishes-with-1423-yards-nine-tds"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "player_id": "12539",
+ "name": "Arian Smith",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "NYJ"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Garrett Wilson",
+    "age": 26,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "8146",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Adonai Mitchell",
+    "age": 23,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "11625",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Omar Cooper",
+    "age": 22,
+    "status": "backup",
+    "note": "WR3",
+    "resolved_id": "13276",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "2025 team not independently verified this pass (was a 2025 Jets draft pick per general knowledge, unconfirmed here); currently WR6 on Jets depth chart."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/new-york-jets-depth-chart-nyj",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/jets/onsi/door-is-open-for-arian-smith-to-erase-jets-doubts-after-omar-cooper-injury-update-01m2jv7pe0k1",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/new-york-jets-depth-chart-nyj"
+  },
+  {
+   "date": "2026-08-30",
+   "role": "Made the Jets' initial 53-man roster as the WR6 (behind Garrett Wilson, A.D. Mitchell, Omar Cooper Jr., Isaiah Williams, Tim Patrick); per JetNation 'did less than nothing this preseason' and his roster spot is described as tenuous ('for now'), kept mainly on draft pedigree",
+   "note": "Made initial 53, but bottom of the WR depth chart and preseason performance was weak \u2014 watch for further roster movement",
+   "source": "https://www.jetnation.com/2026/08/30/jets-initial-53-is-official-a-look-at-who-made-the-cut/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Opportunity for larger WR3 role with Omar Cooper Jr. (ankle) week-to-week (hoped back within ~4 weeks)",
+   "note": "Week1: only 2 offensive snaps, dropped his lone target, team-worst PFF grade (29.3) [news 2026-09-15]",
+   "source": "https://www.si.com/nfl/jets/onsi/door-is-open-for-arian-smith-to-erase-jets-doubts-after-omar-cooper-injury-update-01m2jv7pe0k1"
+  }
+ ]
+}

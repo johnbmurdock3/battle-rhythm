@@ -1,0 +1,57 @@
+{
+ "player_id": "6427",
+ "name": "Ashton Dulin",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "IND"
+   },
+   {
+    "season": 2026,
+    "team": "IND"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "2-year, $6.5M re-signing, $2.94M guaranteed"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": "Primarily a special-teams/gunner role, not a target-share WR"
+   }
+  ],
+  "notes": [
+   "No team change; role is special teams ace/depth WR, minimal standalone fantasy value."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/colts/news/colts-announce-return-three-key-free-agents",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/colts/news/colts-announce-return-three-key-free-agents"
+  }
+ ]
+}

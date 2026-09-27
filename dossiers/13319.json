@@ -1,0 +1,75 @@
+{
+ "player_id": "13319",
+ "name": "Oscar Delp",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NCAA (Georgia)"
+   },
+   {
+    "season": 2026,
+    "team": "NO"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "2026": "Rookie deal, drafted 3rd round, 73rd overall, 2026 NFL Draft"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Juwan Johnson",
+    "age": 29,
+    "status": "starter",
+    "note": "TE1",
+    "resolved_id": "7002",
+    "resolved_team": "NO",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Noah Fant",
+    "age": 28,
+    "status": "backup",
+    "note": "TE2",
+    "resolved_id": "5857",
+    "resolved_team": "NO",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Rookie entering league in 2026 (was in college in 2025). Ourlads lists Delp 3rd on Saints TE depth chart behind Johnson and Fant -- deep-stash value only for 2026."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Oscar_Delp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NO",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Oscar_Delp"
+  }
+ ]
+}

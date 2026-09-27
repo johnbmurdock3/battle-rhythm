@@ -1,0 +1,65 @@
+{
+ "player_id": "8583",
+ "name": "Stone Smartt",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "PHI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "Not found on Philadelphia's published TE depth chart (Goedert, Mundt, Stowers, Latu, Calcaterra listed, Smartt absent) - roster status uncertain, could be off the 53-man roster or camp body; unverified this session."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "unknown",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/PHI",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/NO/new-orleans-saints/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unknown",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/PHI"
+  },
+  {
+   "date": "2026-09-02",
+   "role": "Practice squad TE (not on 53-man active roster)",
+   "note": "Released by Eagles during roster cuts (Aug 30), signed to Saints practice squad Sept 2 alongside WR Cedric Tillman",
+   "source": "https://www.cbssports.com/fantasy/football/news/stone-smartt-signs-with-new-orleans-practice-squad/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper depth_chart_position/order null (undefined TE depth slot)",
+   "note": "Not on NO injury report as of 2026-09-21; no notable news found this session",
+   "source": "https://www.cbssports.com/nfl/teams/NO/new-orleans-saints/injuries/"
+  }
+ ]
+}

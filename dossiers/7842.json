@@ -1,0 +1,87 @@
+{
+ "player_id": "7842",
+ "name": "Luke Farrell",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "SF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "George Kittle",
+    "age": 32,
+    "status": "starter",
+    "note": "TE1, listed PUP as of depth chart pull",
+    "resolved_id": "4217",
+    "resolved_team": "SF",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Jake Tonges",
+    "age": 27,
+    "status": "backup",
+    "note": "TE2, ahead of Farrell",
+    "resolved_id": "8698",
+    "resolved_team": "SF",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "2025 team not independently verified this pass (likely SF, unconfirmed); TE3 on 49ers depth chart; Kittle's PUP designation could mean added early-season blocking/TE2 snaps if Kittle is out."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported (Sleeper injury_status: null, status: Active) as of 2026-09-03",
+   "as_of": "2026-09-03"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/san-francisco-49ers-depth-chart-sf",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/7842",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/san-francisco-49ers-depth-chart-sf"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported (Sleeper injury_status: null, status: Active) as of 2026-09-03",
+   "role": "Listed TE2 (tied with Jake Tonges) on official 49ers depth chart, behind starter George Kittle, ahead of Brayden Willis and Khalil Dinkins",
+   "note": "Depth/blocking TE behind Kittle; minimal fantasy relevance expected",
+   "source": "https://www.49ers.com/team/depth-chart/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "TE3, depth order 3 per Sleeper",
+   "note": "SF Week 2 vs MIA box score not available via ESPN API at fetch time. No notable news found.",
+   "source": "https://api.sleeper.app/players/nfl/7842"
+  }
+ ]
+}

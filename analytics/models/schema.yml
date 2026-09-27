@@ -1,0 +1,49 @@
+version: 2
+
+models:
+  - name: stg_truth__player_weeks
+    description: >
+      Engine vs Sleeper, one row per league x season x week x rostered player,
+      from out/truth/player_weeks.csv (rebuilt by `br.py truth compare`).
+    columns:
+      - name: league_id
+        tests: [not_null]
+      - name: player_id
+        tests: [not_null]
+      - name: season
+        tests: [not_null]
+      - name: week
+        tests: [not_null]
+      - name: match_status
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['exact', 'rounding', 'miss']
+      - name: slot
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['starter', 'bench']
+      - name: source
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['sleeper_players_points']
+
+  - name: dim_league
+    description: One row per league-season.
+    columns:
+      - name: league_id
+        tests: [not_null]
+
+  - name: fct_engine_check_league_week
+    description: Match rate per league-week.
+    columns:
+      - name: match_rate
+        tests: [not_null]
+
+  - name: fct_engine_misses
+    description: Every engine-vs-Sleeper disagreement. Empty is the goal.
+
+  - name: fct_player_week_spread
+    description: One player-week across every league that rosters him.

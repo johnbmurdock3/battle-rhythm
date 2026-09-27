@@ -1,0 +1,113 @@
+{
+ "player_id": "7561",
+ "name": "Elijah Mitchell",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "KC"
+   },
+   {
+    "season": 2026,
+    "team": "PHI"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "Signed June 2, 2026"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Saquon Barkley",
+    "age": 29,
+    "status": "starter",
+    "note": "RB1",
+    "resolved_id": "4866",
+    "resolved_team": "PHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Tank Bigsby",
+    "age": 23,
+    "status": "depth",
+    "note": "ahead of Mitchell in pecking order",
+    "resolved_id": "9225",
+    "resolved_team": "PHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Will Shipley",
+    "age": 23,
+    "status": "depth",
+    "note": "",
+    "resolved_id": "11577",
+    "resolved_team": "PHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Dameon Pierce",
+    "age": 26,
+    "status": "depth",
+    "note": "",
+    "resolved_id": "8129",
+    "resolved_team": "PHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: signed with Eagles from Kansas City in June 2026, but placed on IR August 10, 2026 (injury/severity not disclosed) - his roster spot for 2026 is now in serious jeopardy."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury notes on roster listing",
+   "as_of": "2026-09-03"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.philadelphiaeagles.com/news/eagles-sign-elijah-mitchell",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-put-rb-elijah-mitchell-on-ir-sign-three-players",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Injured Reserve",
+   "note": "baseline from initial research pass",
+   "source": "https://www.philadelphiaeagles.com/news/eagles-sign-elijah-mitchell"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "No injury notes on roster listing",
+   "role": "On 53-man roster but not listed on the RB depth chart (Barkley, Bigsby, Shipley ahead of him)",
+   "note": "Buried on depth chart behind Saquon Barkley, Tank Bigsby, and Will Shipley; minimal near-term fantasy relevance expected",
+   "source": "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/depth-chart/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "TEAM CHANGE: now on Philadelphia Eagles (PHI), depth chart RB order 3 (behind Saquon Barkley). Not on Eagles injury report as of 2026-09-21.",
+   "note": "Week 2 at Tennessee: no usable rushing/receiving stat data available from ESPN summary (statistics array empty in feed). Saquon Barkley listed Questionable (shoulder) for Week 3 vs Chicago per CBS injury report [news 2026-09-21], which could open touches if Barkley sits, but unconfirmed for Mitchell specifically.",
+   "source": "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/injuries/"
+  }
+ ]
+}

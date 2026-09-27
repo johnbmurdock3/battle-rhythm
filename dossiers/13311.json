@@ -1,0 +1,128 @@
+{
+ "player_id": "13311",
+ "name": "Chris Bell",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "MIA"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Louisville (college)",
+    "games": 0,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 0,
+    "td": 0,
+    "note": "Suffered a major/torn ACL injury in November 2025 during his final college season at Louisville; no 2026 NFL workload yet (rookie, has not practiced with team due to injury)"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract; drafted in the 3rd round, No. 94 overall, in the 2026 NFL Draft by Miami"
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Dolphins hired new HC Jeff Hafley (formerly Packers DC) in the 2026 offseason; Bobby Slowik (formerly Houston Texans OC) was promoted/hired as Dolphins offensive coordinator under Hafley, per AP/nbcmiami/cbsnews reports and Feb 4, 2026 introductory press conference."
+  },
+  "competition": [],
+  "notes": [
+   "Bell was placed on the Active/Non-Football Injury (NFI) list around July 21, 2026 (dolphinseer.wordpress.com, nbcsports.com/profootballtalk) because his ACL tear occurred in college (Nov 2025), not with the Dolphins -- some outlets (playerprofiler.com) colloquially call this 'PUP,' but the technical designation reported by nbcsports/AP is NFI, not PUP (Physically Unable to Perform is normally for injuries sustained with the current team)",
+   "si.com/onsi (Aug 4, 2026) reports he may be moved to Reserve/NFI before the Aug 30 53-man roster cutdown, which would sideline him for at least the first four games of the 2026 regular season",
+   "Draft-profile comparisons made to A.J. Brown regarding skill set/physique (si.com/onsi)"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Recovering from a torn ACL suffered at Louisville in Dec 2025; began camp on the Active/Non-Football Injury (NFI) list (per July 21 report), then was activated off the NFI list on Aug 17, 2026 and returned to practice.",
+   "as_of": "2026-08-17"
+  },
+  "camp": [
+   {
+    "quote": "I mean he's still a long way away.",
+    "who": "Dolphins OC Bobby Slowik",
+    "date": "2026-08-05"
+   },
+   {
+    "quote": "I don't think it's like way off in the distance... he's in a good spot.",
+    "who": "Dolphins HC Jeff Hafley",
+    "date": ""
+   },
+   {
+    "quote": "be very cautious about when to integrate Bell and his workload",
+    "who": "Dolphins HC Jeff Hafley (paraphrase)",
+    "date": "2026-07-28"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://dolphinseer.wordpress.com/2026/07/21/dolphins-place-rookie-wr-chris-bell-on-active-non-football-injury-list/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/dolphins/onsi/examining-the-mixed-signals-regarding-miami-dolphins-wr-chris-bell-s-status-01kz6kdbe7j7",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/recovering-from-torn-acl-dolphins-rookie-wr-chris-bell-placed-on-nfi-list",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.playerprofiler.com/news/chris-bell-headed-to-pup-list/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/jeff-hafley-dolphins-hire-packers-dc-next-head-coach",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.miamidolphins.com/news/miami-dolphins-announce-2026-coaching-staff",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/chris-bell-sees-just-one-target-in-loss",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "On Active/Non-Football Injury (NFI) list; not practicing; 'still a long way away' from returning",
+   "note": "baseline from initial research pass",
+   "source": "https://dolphinseer.wordpress.com/2026/07/21/dolphins-place-rookie-wr-chris-bell-on-active-non-football-injury-list/"
+  },
+  {
+   "date": "2026-08-17",
+   "injury": "Recovering from a torn ACL suffered at Louisville in Dec 2025; began camp on the Active/Non-Football Injury (NFI) list (per July 21 report), then was activated off the NFI list on Aug 17, 2026 and returned to practice.",
+   "role": "Rookie WR now practicing with Miami after NFI activation; team views him as a long-term/developmental piece, not an immediate contributor",
+   "note": "GM Jon-Eric Sullivan: 'expectations should remain reasonable, given that he is returning from a significant knee injury'",
+   "source": "https://dolphinstalk.com/2026/08/miami-dolphins-activate-wr-chris-bell-from-nfi-list/"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 29.0,
+   "injury": "",
+   "role": "Rookie WR, depth chart order 4; started but limited workload in first game back from a Nov 2025 torn ACL",
+   "note": "[news 2026-09-13] Played 29 offensive snaps in Week 1 loss to LV; coaches said no formal pitch count but usage was modest",
+   "source": "https://www.si.com/nfl/dolphins/onsi/breaking-down-the-miami-dolphins-2026-week-1-snap-counts-01m2fqhd4aht"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 0,
+   "injury": "",
+   "role": "Fringe WR, minimal target share",
+   "note": "Week 2 vs 49ers (loss): 1 target, 0 catches [news 2026-09-20]",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/chris-bell-sees-just-one-target-in-loss"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "player_id": "8110",
+ "name": "Jake Ferguson",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DAL"
+   },
+   {
+    "season": 2026,
+    "team": "DAL"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "DAL",
+    "games": 17,
+    "targets": 102,
+    "rec": 82,
+    "yards": 600,
+    "td": 8,
+    "note": "80.4% catch rate; 2nd Pro Bowl selection; 10 starts of 17 games played"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Not confirmed in sources fetched"
+  },
+  "scheme": {
+   "oc": "Klayton Adams (per Wikipedia; one training-camp source implied HC Schottenheimer calls plays directly -- minor conflict, Wikipedia taken as more reliable)",
+   "note": "HC Brian Schottenheimer entering 2nd season, no HC change"
+  },
+  "competition": [
+   {
+    "name": "Michael Trigg",
+    "age": 24,
+    "status": "UDFA TE, gaining camp reps",
+    "note": "Getting increased opportunities after Princeton Fant's season-ending ACL tear (Aug 4, 2026); making highlight plays in camp",
+    "resolved_id": "13401",
+    "resolved_team": "DAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Princeton Fant",
+    "age": 27,
+    "status": "OUT for season",
+    "note": "Torn ACL suffered Aug 4, 2026 -- removes a TE-room competitor, mild positive for Ferguson's snap share",
+    "resolved_id": "11508",
+    "resolved_team": "DAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Luke Schoonmaker",
+    "age": 27,
+    "status": "roster TE",
+    "note": "",
+    "resolved_id": "10871",
+    "resolved_team": "DAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Brevyn Spann-Ford",
+    "age": 26,
+    "status": "roster TE",
+    "note": "",
+    "resolved_id": "11593",
+    "resolved_team": "DAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy, no injury designation",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Jake Ferguson made highlight-reel grabs in traffic during Monday practice, connecting with Dak Prescott on several passes including a seam ball",
+    "who": "BloggingTheBoys",
+    "date": "2026-08-04"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.bloggingtheboys.com/dallas-cowboys-preseason/213099/tight-end-te-jake-ferguson-shine-training-camp-practices",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://thelandryhat.com/dallas-cowboys-2026-training-camp-tracker-latest-updates-news-injuries-rumors",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Dallas_Cowboys_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/F/FergJa00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/dal/dallas-cowboys",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy, no injury designation",
+   "note": "baseline from initial research pass",
+   "source": "https://www.bloggingtheboys.com/dallas-cowboys-preseason/213099/tight-end-te-jake-ferguson-shine-training-camp-practices"
+  }
+ ]
+}

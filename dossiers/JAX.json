@@ -1,0 +1,44 @@
+{
+ "player_id": "JAX",
+ "name": "Jacksonville Jaguars",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22",
+  "injury": {
+   "status": "DaVon Hamilton (DT) back, Questionable for Wk3",
+   "as_of": "2026-09-22"
+  }
+ },
+ "timeline": [
+  {
+   "date": "2026-08-31",
+   "injury": "",
+   "note": "Unit personnel: DE Zach Durfee, LBs Parker Hughes and Jared Bartlett, and DT Keivie Rose all placed on IR (Aug 8-31) || IR losses are depth pieces, not established starters; no notable Week 1 outlook change identified from this report.",
+   "source": "https://www.cbssports.com/nfl/teams/JAX/jacksonville-jaguars/injuries/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "DaVon Hamilton (DT) back, Questionable for Wk3",
+   "role": "",
+   "note": "Wk2 pts allowed unresolved (source unavailable); DT DaVon Hamilton questionable for Wk3 with back injury [news 2026-09-21]; Wk3 opponent NE (home)",
+   "source": "https://www.cbssports.com/nfl/teams/JAC/jacksonville-jaguars/injuries/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/teams/JAC/jacksonville-jaguars/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

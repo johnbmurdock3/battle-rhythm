@@ -1,0 +1,44 @@
+{
+ "player_id": "DAL",
+ "name": "Dallas Cowboys",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22",
+  "injury": {
+   "status": "Malik Hooker (FS) forearm, Out; DeMarvion Overshown (LB) hamstring, Out",
+   "as_of": "2026-09-22"
+  }
+ },
+ "timeline": [
+  {
+   "date": "2026-08-31",
+   "injury": "",
+   "note": "Unit personnel: CB Devin Moore and LB Marist Liufau placed on IR (Aug 30, expected back Week 5); DE Jonathan Bullard questionable Week 1 vs. Giants with groin injury (Aug 31); DT Kelvin Gilliam Jr. on IR with triceps injury (Aug 25) || Multiple IR losses at CB/LB thin the front seven and secondary depth for Week 1 at NYG; no coordinator change reported.",
+   "source": "https://www.cbssports.com/nfl/teams/DAL/dallas-cowboys/injuries/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Malik Hooker (FS) forearm, Out; DeMarvion Overshown (LB) hamstring, Out",
+   "role": "",
+   "note": "Wk2 pts allowed unresolved (source unavailable); FS Malik Hooker and LB DeMarvion Overshown both Out [news 2026-09-21]; Wk3 opponent BAL (Brazil, neutral site)",
+   "source": "https://www.cbssports.com/nfl/teams/DAL/dallas-cowboys/injuries/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/teams/DAL/dallas-cowboys/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

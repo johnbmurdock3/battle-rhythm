@@ -1,0 +1,107 @@
+{
+ "player_id": "11630",
+ "name": "Roman Wilson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "PIT"
+   },
+   {
+    "season": 2026,
+    "team": "PIT"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Michael Pittman Jr.",
+    "age": 28,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "6819",
+    "resolved_team": "PIT",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "DK Metcalf",
+    "age": 28,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "5846",
+    "resolved_team": "PIT",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Germie Bernard",
+    "age": 22,
+    "status": "2nd year",
+    "note": "also ahead in camp battle",
+    "resolved_id": "13274",
+    "resolved_team": "PIT",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Ben Skowronek",
+    "age": 29,
+    "status": "veteran",
+    "note": "also ahead",
+    "resolved_id": "7757",
+    "resolved_team": "PIT",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; must beat out multiple players just for a WR3/4 role and a roster spot; Aaron Rodgers has spoken positively of his camp progress."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://steelersdepot.com/2026/07/90-in-30-steelers-2026-training-camp-preview-series-kaden-wetjen-payton-wilson-roman-wilson/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/roman-wilson-tallies-quiet-28-yards-in-week-2-loss",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://steelersdepot.com/2026/07/90-in-30-steelers-2026-training-camp-preview-series-kaden-wetjen-payton-wilson-roman-wilson/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "WR4 behind DK Metcalf, Michael Pittman Jr and Germie Bernard",
+   "note": "No 2026 game/stat data recorded for Week 1, consistent with a deep-bench role",
+   "source": "https://www.fantasypros.com/nfl/depth-chart/pittsburgh-steelers.php"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Taking on outside receiver (X) role per CBS Sports headline; leads Steelers WRs in Week 2 targets",
+   "note": "Week 2: 5 catches on 6 targets for 28 yards, led Steelers with 5 catches [news 2026-09-20]",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/roman-wilson-tallies-quiet-28-yards-in-week-2-loss"
+  }
+ ]
+}

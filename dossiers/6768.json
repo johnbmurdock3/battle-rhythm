@@ -1,0 +1,118 @@
+{
+ "player_id": "6768",
+ "name": "Tua Tagovailoa",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "MIA"
+   },
+   {
+    "season": 2026,
+    "team": "ATL"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "MIA",
+    "games": 14,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 2660,
+    "td": 20,
+    "note": "260/384 comp, 20 pass TD, 15 INT (PFR passing table + StatMuse INT confirmation); released by Miami after 2025 season"
+   }
+  ],
+  "contract": {
+   "years": 1,
+   "signed": "2026-03-09",
+   "note": "One-year, $1.3M deal with Atlanta; Miami still owes him $54M guaranteed for 2026 (CBS Sports)"
+  },
+  "scheme": {
+   "oc": "Tommy Rees",
+   "note": "New HC Kevin Stefanski (hired Jan 17, 2026, ex-Browns) and OC Tommy Rees (ex-Browns) both emphasize a quick-game, TE-heavy scheme with bootlegs/flat routes"
+  },
+  "competition": [
+   {
+    "name": "Michael Penix Jr.",
+    "age": 26,
+    "status": "Questionable (ACL rehab)",
+    "note": "Incumbent Falcons QB; Stefanski has created 'a genuine competition' per CBS Sports; Penix tore ACL in November 2025, limited to individual/7-on-7 drills as of Aug 5, 2026, possible clearance ~4 weeks out",
+    "resolved_id": "11559",
+    "resolved_team": "ATL",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Falcons signed Tua on a 1-year deal March 9, 2026 after Miami released him; explicitly to create a QB battle with Penix per ESPN/CBS reporting",
+   "Cooper Rush and UDFA Jack Strand were taking early first-team camp reps while both Tua and Penix were out (NFL.com)"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "I view it as a competition... It's definitely a competition.",
+    "who": "Tua Tagovailoa",
+    "date": "2026-08-05"
+   },
+   {
+    "quote": "Nothing too serious, just a caution kind of thing where we're not rushing it... We'll be fine.",
+    "who": "Tua Tagovailoa",
+    "date": "2026-08-05"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/news/falcons-signing-tua-tagovailoa-nfl-free-agency/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.atlantafalcons.com/news/atlanta-falcons-2026-coaching-staff",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-on-training-camp-with-michael-penix-its-definitely-a-competition",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://bleacherreport.com/articles/25431640-tua-tagovailoa-gives-injury-update-shares-timeline-full-return-falcons-training-camp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/michael-penix-jr-tua-tagovailoa-injuries-falcons-shuffle-qbs-camp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/T/TagoTu00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.statmuse.com/nfl/ask/tua-tagovailoa-2025-interceptions",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/ATL/atlanta-falcons/roster/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Questionable",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/nfl/news/falcons-signing-tua-tagovailoa-nfl-free-agency/"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "player_id": "4881",
+ "name": "Lamar Jackson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-15"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-13",
+   "injury": "No current injury reported; held out of preseason opener vs Eagles (~3 weeks before 2026-09-03, i.e. mid-August) as a coach's precaution, not for injury",
+   "role": "Starting QB, Ravens",
+   "note": "Identity resolved: player_id 4881 = Lamar Jackson (name hint was unknown). Prior-season hamstring injury history (2025) does not appear to be an active issue entering 2026.",
+   "source": "https://www.fantasypros.com/nfl/news/lamar-jackson.php"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 4,
+   "injury": "None reported",
+   "role": "Unquestioned Ravens starting QB",
+   "note": "[news 2026-09-13] Week 1 vs IND: 17/25, 324 yds, 1 pass TD, 4 car/43 yds, 1 rush TD",
+   "source": "https://www.baltimoresports.com/2026/09/13/baltimore-ravens-lamar-jackson-destroy-colts-in-week-1-injuries-penalties-pile-up-in-great-win/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "",
+   "note": "Sleeper API shows Active/no injury designation; no Week 2/3 news found, most recent FantasyPros items are preseason-era (OTAs/training camp) - no notable news found",
+   "source": "https://www.fantasypros.com/nfl/news/lamar-jackson.php"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.fantasypros.com/nfl/news/lamar-jackson.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

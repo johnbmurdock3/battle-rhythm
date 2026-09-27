@@ -1,0 +1,44 @@
+{
+ "player_id": "12506",
+ "name": "Harold Fannin",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "touches": 2,
+   "injury": "",
+   "role": "Listed as Cleveland's #1 TE on the current depth chart; David Njoku does not appear on the chart at all - reason unconfirmed",
+   "note": "Week 1 at JAX: 2 rec/3 tgt/21 yds. Appears to be CLE's clear starting TE now",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/CLE"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 5,
+   "injury": "",
+   "role": "TE1 on Sleeper depth chart (order 1)",
+   "note": "Wk2 vs TB: 6 tgt, 5 rec, 54 yds - solid TE1 usage. [news 2026-09-20]",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/fannin-has-five-grabs-against-bucs"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/fannin-has-five-grabs-against-bucs",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

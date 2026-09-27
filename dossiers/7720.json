@@ -1,0 +1,81 @@
+{
+ "player_id": "7720",
+ "name": "Kene Nwangwu",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYJ"
+   },
+   {
+    "season": 2026,
+    "team": "NYJ"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Breece Hall",
+    "age": 25,
+    "status": "starter",
+    "note": "RB1",
+    "resolved_id": "8155",
+    "resolved_team": "NYJ",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Braelon Allen",
+    "age": 22,
+    "status": "RB2",
+    "note": "",
+    "resolved_id": "11576",
+    "resolved_team": "NYJ",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Isaiah Davis",
+    "age": 24,
+    "status": "RB3",
+    "note": "",
+    "resolved_id": "11571",
+    "resolved_team": "NYJ",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Fourth on Jets RB chart; special-teams/kick-return value primarily."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": ""
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NYJ",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/NYJ"
+  }
+ ]
+}

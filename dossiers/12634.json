@@ -1,0 +1,86 @@
+{
+ "player_id": "12634",
+ "name": "Jordan Watkins",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "SF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Mike Evans",
+    "age": 32,
+    "status": "starter",
+    "note": "LWR1 ahead of Watkins - new veteran signing",
+    "resolved_id": "2216",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "De'Zhaun Stribling",
+    "age": 23,
+    "status": "backup",
+    "note": "LWR2 ahead of Watkins",
+    "resolved_id": "13417",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "3rd-string left WR on 49ers depth chart; 49ers added veteran Mike Evans, squeezing Watkins' path to snaps; 2025 team history not verified this session."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Out (coach's decision) - inactive, not injury-related [news 2026-09-20]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/SF",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/49ers-jordan-watkins-wont-play-against-miami/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-06-08",
+   "role": "Was projected as low as 6th WR on depth chart pre-camp (May 2025 report), but by June 2025 OTAs was 'balling' per Brock Purdy while Ricky Pearsall was out with hamstring strain, prompting speculation Watkins could surpass Pearsall",
+   "note": "No 2026-season-specific (Sept) update found confirming current depth chart slot; most recent sourced reports are from 2025 offseason",
+   "source": "https://www.si.com/nfl/49ers/news/will-jordan-watkins-surpass-ricky-pearsall-49ers-depth-chart"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "unknown",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/SF"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Out (coach's decision) - inactive, not injury-related [news 2026-09-20]",
+   "role": "Healthy scratch for 2nd consecutive week, buried in 49ers WR depth chart (RWR, depth order 5 per Sleeper)",
+   "note": "Inactive vs MIA in Week2 (coach's decision, not injury); next opportunity is Week3 vs Arizona on 2026-09-27 [news 2026-09-20]",
+   "source": "https://www.cbssports.com/fantasy/football/news/49ers-jordan-watkins-wont-play-against-miami/"
+  }
+ ]
+}

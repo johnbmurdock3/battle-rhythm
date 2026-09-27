@@ -1,0 +1,112 @@
+{
+ "player_id": "5967",
+ "name": "Tony Pollard",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TEN"
+   },
+   {
+    "season": 2026,
+    "team": "TEN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "TEN",
+    "games": null,
+    "carries": 242,
+    "targets": null,
+    "rec": 33,
+    "yards": 1288,
+    "td": 5,
+    "note": "1,082 rush yds/5 TD on 242 carries + 33 rec/206 rec yds (Wikipedia). Game count and target count not independently verified."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Brian Daboll",
+   "note": "New HC Robert Saleh hired 2026-01-22 (Brian Callahan fired after 1-5 start in 2025). New OC Brian Daboll hired 2026-01-27, arriving from NYG (where he was HC through 2025). Full offensive scheme change for Titans in 2026."
+  },
+  "competition": [
+   {
+    "name": "Tyjae Spears",
+    "age": 25,
+    "status": "RB2 depth chart",
+    "note": "ESPN Titans depth chart. Missed first 4 games of 2025 with ankle injury, activated from IR 2025-10-04 - old news, no 2026 update found.",
+    "resolved_id": "9508",
+    "resolved_team": "TEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Nicholas Singleton",
+    "age": 22,
+    "status": "RB3 depth chart",
+    "note": "ESPN Titans depth chart; age not verified.",
+    "resolved_id": "13288",
+    "resolved_team": "TEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Michael Carter",
+    "age": 27,
+    "status": "RB4 depth chart",
+    "note": "ESPN Titans depth chart; age not verified.",
+    "resolved_id": "7607",
+    "resolved_team": "TEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "ESPN depth chart order: Tony Pollard (RB1), Tyjae Spears (RB2), Nicholas Singleton (RB3), Michael Carter (RB4)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No current dated injury report found for Pollard as of 2026-08-11; SI Titans hub search returned no Pollard-specific articles."
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Tony_Pollard",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Tennessee_Titans_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/depth/_/name/ten/tennessee-titans",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Tyjae_Spears",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Tony_Pollard"
+  }
+ ]
+}

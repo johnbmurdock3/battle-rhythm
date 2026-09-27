@@ -1,0 +1,148 @@
+{
+ "player_id": "13411",
+ "name": "Zavion Thomas",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LSU (college)"
+   },
+   {
+    "season": 2026,
+    "team": "CHI"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "college",
+    "games": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 0,
+    "td": 0,
+    "note": "Not an NFL player in 2025; rookie entering NFL in 2026."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract, draft slot/round unverified in this pass."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Bears HC is Ben Johnson (hired Jan 2025); article on Thomas describes him developing 'quickly in Ben Johnson's system.' No 2026 HC/OC change identified for Bears in this pass; note a conflicting/unreliable auto-summary named an OC that could not be corroborated, so it is omitted here."
+  },
+  "competition": [
+   {
+    "name": "Rome Odunze",
+    "age": 24,
+    "status": "WR1 starter",
+    "note": "Born June 3, 2002.",
+    "resolved_id": "11620",
+    "resolved_team": "CHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Luther Burden III",
+    "age": 22,
+    "status": "WR2 starter",
+    "note": "Born Dec 12, 2003; sidelined by injury as of Aug 9, 2026 report, which opened preseason reps for Thomas.",
+    "resolved_id": "12519",
+    "resolved_team": "CHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Kalif Raymond",
+    "age": 32,
+    "status": "WR3 starter",
+    "note": "Age unverified.",
+    "resolved_id": "3634",
+    "resolved_team": "CHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jahdae Walker",
+    "age": 24,
+    "status": "WR depth",
+    "note": "Age unverified.",
+    "resolved_id": "13079",
+    "resolved_team": "CHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Bears WR depth chart per July 20, 2026 report: Odunze, Burden, Raymond, Walker, Thomas (5 receivers 'locked in')."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Was sidelined for Bears' first two preseason games with a knee injury (recovered by his preseason debut) [news 2026-08-30]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "Developing quickly in the offense during first two weeks of camp.",
+    "who": "Beat reporters (Bleacher Nation)",
+    "date": "2026-08-10"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.bleachernation.com/bears/2026/08/10/bears-injury-updates/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.bleachernation.com/bears/2026/08/09/zavion-thomas-injury/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/bears/onsi/bears-depth-chart-training-camp-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasynerds.com/news/story/2026/08/30/bears-rookie-zavion-thomas-makes-immediate-impact-with-97-yard-td-1610551",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Questionable / uncertain for preseason opener",
+   "note": "baseline from initial research pass",
+   "source": "https://www.bleachernation.com/bears/2026/08/10/bears-injury-updates/"
+  },
+  {
+   "date": "2026-08-29",
+   "injury": "Missed first two preseason games with a knee injury; returned to practice 8/18/26 and played in preseason finale 8/29/26",
+   "role": "3rd-round rookie WR (4.28 40-yard dash); preseason finale vs Titans 8/29/26: 5 receptions, 140 yards, including a 97-yard TD on his first NFL play from QB Tyson Bagent, plus special-teams work. Valued for elite speed.",
+   "note": "Explosive preseason debut after knee injury; 53-man roster status not explicitly confirmed in sources checked but Sleeper lists Active on CHI",
+   "source": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-third-round-pick-zavion-thomas-scores-97-yard-touchdown-on-his-first-nfl-play"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 0,
+   "touches": 0,
+   "injury": "",
+   "role": "Rookie WR; zero offensive and zero special-teams snaps in Week 1 despite preseason hype; return work went to Josh Blackwell",
+   "note": "[news 2026-09-14] Beat writer says no alarm yet, staff bringing rookie along slowly",
+   "source": "https://www.si.com/nfl/bears/onsi/key-observations-from-the-chicago-bears-snap-count-against-carolina-panthers"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Was sidelined for Bears' first two preseason games with a knee injury (recovered by his preseason debut) [news 2026-08-30]",
+   "role": "3rd-round rookie WR; also returns punts/kickoffs. Sleeper depth chart shows SWR order 4.",
+   "note": "Preseason debut 2026-08-30: 5 rec for 140 yds incl. 97-yd TD, plus a 31-yd punt return and 22-yd kickoff return. That was preseason, not a regular-season game; no verified Week 1-2 regular-season stat line found.",
+   "source": "https://www.fantasynerds.com/news/story/2026/08/30/bears-rookie-zavion-thomas-makes-immediate-impact-with-97-yard-td-1610551"
+  }
+ ]
+}

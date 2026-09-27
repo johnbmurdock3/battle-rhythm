@@ -1,0 +1,97 @@
+{
+ "player_id": "13431",
+ "name": "Miles Kitselman",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "DET"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Sam LaPorta",
+    "age": 25,
+    "status": "starter",
+    "note": "TE1 ahead of Kitselman",
+    "resolved_id": "10859",
+    "resolved_team": "DET",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Brock Wright",
+    "age": 27,
+    "status": "backup",
+    "note": "TE2 ahead of Kitselman",
+    "resolved_id": "7891",
+    "resolved_team": "DET",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Tyler Conklin",
+    "age": 31,
+    "status": "backup",
+    "note": "TE3 ahead of Kitselman",
+    "resolved_id": "5133",
+    "resolved_team": "DET",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "ESPN Lions TE depth chart (confirmed) lists only Sam LaPorta, Brock Wright, Tyler Conklin, Zach Horton \u2014 Kitselman does not appear, implying he is buried on the depth chart or practice-squad-level as of this pass. No draft-relevance this year barring injuries to all four ahead of him."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable (per Sleeper API as of this check)",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.espn.com/nfl/team/depth/_/name/det/detroit-lions",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/13431",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.espn.com/nfl/team/depth/_/name/det/detroit-lions"
+  },
+  {
+   "date": "2026-08-12",
+   "injury": "Questionable (leg, per Sleeper); waived via injury settlement",
+   "role": "Currently without a team; Sleeper lists status Inactive, no team",
+   "note": "Undrafted rookie signed with Lions, suffered a leg injury in early Aug 2026, waived/injury-settlement by Detroit on Aug 12, 2026; HC Dan Campbell cast doubt he plays at all in 2026; no report found of him signing elsewhere as of search date",
+   "source": "https://heavy.com/sports/nfl/detroit-lions/miles-kitselman-injury-settlement-nfl-news/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Questionable (per Sleeper API as of this check)",
+   "role": "",
+   "note": "Could not confirm current NFL team \u2014 Sleeper API returned a blank team field and NFL.com's bio page had no team/roster info, only college (Tennessee) and combine data (4.90s 40-yd dash). Sleeper does show injury_status Questionable. Verify team before using in any roster decision.",
+   "source": "https://api.sleeper.app/players/nfl/13431"
+  }
+ ]
+}

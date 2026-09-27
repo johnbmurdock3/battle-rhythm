@@ -1,0 +1,31 @@
+# Renders — rebuildable in one command, under a minute. See paths.py.
+out/
+# ...but out/ also accumulated SOURCE, and that is not a render. 31 .py
+# files, ~3200 lines, were sitting here untracked on 9/6: out/fz/test_live.py
+# (the 51-check draft-day suite), calibrate_reach.py and runs_test.py (the
+# reach model, which HANDOFF says to re-run after each draft), the def_*
+# series behind the defense null result, and the 9/6 replay scripts. One
+# `rm -rf out/` and the lot is unrecoverable -- a research pass each, which
+# is the Truth tier by CLAUDE.md's own test.
+# They are force-added, so git tracks them despite the rule above (ignore
+# rules do not apply to tracked files). Relocating them into the package is
+# the real fix and is an open item; this stops the bleeding without moving
+# paths that live commands point at.
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Not renders, deliberately NOT ignored — do not add these:
+#   dossiers/            447 accumulated research records
+#   data/measured/       room_bias.json, measured off a completed 2025 draft
+#   fixtures/            test data
+#   data/ledger/         every in-season recommendation and its scored outcome —
+#                        the 9/4 eval's fact table; a rec cannot be re-derived
+#                        once the week has played
+#   reports/             dated weekly research diffs — a research pass each,
+#                        not rebuildable, and an input to lineup decisions
+#   roster.md            tracked on purpose: git status showing it modified is
+#                        how you see when it was last regenerated, and a stale
+#                        roster.md is the 8/11 failure that cost three picks

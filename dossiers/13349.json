@@ -1,0 +1,108 @@
+{
+ "player_id": "13349",
+ "name": "Eli Stowers",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NCAA (Vanderbilt)"
+   },
+   {
+    "season": 2026,
+    "team": "PHI"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "N/A",
+    "games": 0,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 0,
+    "td": 0,
+    "note": "college player in 2025 (Vanderbilt); no 2025 NFL stats - rookie"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Signed rookie contract; per Yahoo Sports (Jul 2026) Eagles had signed all but one draft pick by that point"
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Eagles OC not identified in this pass; HC Nick Sirianni not verified this pass"
+  },
+  "competition": [
+   {
+    "name": "Dallas Goedert",
+    "age": 31,
+    "status": "TE1, entrenched but on short-term deal",
+    "note": "born Jan 3, 1995; re-signed to a 1-year, $7M contract Mar 15, 2026 after going unsigned in free agency; per Yahoo Sports 'could be gone after this season,' positioning Stowers as heir apparent",
+    "resolved_id": "5022",
+    "resolved_team": "PHI",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Drafted No. 54 overall (2nd round) by Philadelphia, Apr 25, 2026, out of Vanderbilt.",
+   "PlayerProfiler headline (2026) described him as 'buried on the Eagles depth chart' -- conflicts somewhat with Yahoo's framing of him as future TE1; both dated 2026, exact dates not fully resolved, worth treating current role as unsettled/rookie depth."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Quad and hamstring strains, placed on IR, minimum 4 weeks out [news 2026-09-12]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/eagles-draft-pick-vandy-te-003848783.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Eli_Stowers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Dallas_Goedert",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/eagles-ink-eli-stowers-rookie-183458406.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.profootballrumors.com/2026/09/eagles-place-rookie-te-eli-stowers-on-ir",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/eagles-draft-pick-vandy-te-003848783.html"
+  },
+  {
+   "date": "2026-08-27",
+   "role": "On Eagles active roster as 2nd-round rookie TE behind Dallas Goedert and Johnny Mundt; described as not having a standout camp, expected limited 2026 role with impact more likely years down the line.",
+   "note": "Roster TE3 behind Goedert/Mundt, no rush to force him onto field per beat coverage",
+   "source": "https://www.inquirer.com/eagles/film-study-second-round-2026-draft-eli-stowers-20260827.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Quad and hamstring strains, placed on IR, minimum 4 weeks out [news 2026-09-12]",
+   "role": "On IR, out of Week 1/2 and multiple upcoming weeks",
+   "note": "Eagles placed rookie TE Stowers on IR before Week 1 with quad/hamstring strains, expected to miss at least 4 weeks",
+   "source": "https://www.profootballrumors.com/2026/09/eagles-place-rookie-te-eli-stowers-on-ir"
+  }
+ ]
+}

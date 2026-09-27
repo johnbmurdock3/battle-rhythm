@@ -1,0 +1,141 @@
+{
+ "player_id": "10229",
+ "name": "Rashee Rice",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "KC"
+   },
+   {
+    "season": 2024,
+    "team": "KC"
+   },
+   {
+    "season": 2023,
+    "team": "KC"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "KC",
+    "games": 8,
+    "carries": 5,
+    "targets": 78,
+    "rec": 53,
+    "yards": 571,
+    "td": 5,
+    "note": "Missed first 6 games to NFL suspension (returned ~Week 7, Oct 19, 2025); season ended early after a knee injury required surgery. Also had 5 carries for 20 yards and 1 rushing TD. 8 games played total per ESPN game log (Oct 19-Dec 14, 2025)."
+   },
+   {
+    "season": 2024,
+    "team": "KC",
+    "games": null,
+    "carries": 0,
+    "targets": null,
+    "rec": null,
+    "yards": null,
+    "td": null,
+    "note": "Season cut short: suffered a knee injury Week 4 (Oct 3, 2024) in a collision with Patrick Mahomes vs. Chargers; placed on IR. Full-season stat line not verified in sources checked."
+   }
+  ],
+  "contract": {
+   "years": 1,
+   "signed": "",
+   "note": "Entering final year of his rookie contract (2023 2nd-round pick) in 2026. No extension agreed as of July 29, 2026; Chiefs have limited cap space (~$4.12M) and are 'hesitant' on an extension given his legal issues, per Athlon (July 29, 2026). Comparable top WRs (e.g., Jaxon Smith-Njigba) earn ~$42M/year, suggesting significant earning potential if he performs and stays out of trouble."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Not verified in sources checked."
+  },
+  "competition": [
+   {
+    "name": "Xavier Worthy",
+    "age": 23,
+    "status": "teammate WR",
+    "note": "Referenced as a supportive teammate during Rice's 2025 injury; no depth-chart or contract detail verified.",
+    "resolved_id": "11624",
+    "resolved_team": "KC",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "March 2024: hit-and-run incident in Dallas; Rice and four others left scene without checking on occupants of other vehicles, two of whom were hospitalized.",
+   "July 2025: pleaded guilty to two felony charges; sentenced to 30 days jail + 5 years probation.",
+   "2025 season: NFL suspended Rice 6 games (personal conduct policy) for the hit-and-run.",
+   "Oct 2025 (reported ~April 2026): ex-girlfriend Dacoda Jones filed a civil suit alleging repeated domestic abuse; an Oct 9, 2025 affidavit has Jones stating under penalty of perjury that Rice did not punch her, though a verbal argument occurred. No criminal charges filed. NFL concluded (per report published ~April 2026) that Rice 'has not engaged in conduct that violates the personal conduct policy' and issued no additional suspension.",
+   "May 19, 2026: arrested in Dallas for failing a drug test while on probation (violating probation tied to the 2024 case).",
+   "Rice was subsequently sentenced to serve additional jail time for the probation violation; released from Dallas County Jail June 16, 2026.",
+   "Rice did not participate in 2026 OTAs or mandatory minicamp, due to the jail sentence and knee recovery."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Recovering from right knee debridement (clean-up) surgery; progressing well in camp",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Chiefs appear comfortable with Rice taking contact on his knee, signaling meaningful progress in recovery.",
+    "who": "Yahoo Sports / AtoZ Sports reporting (paraphrase, not a direct quote)",
+    "date": "2026-08-05"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/news/rashee-rice-suspension-chiefs-wr-to-miss-first-six-games-of-season-as-part-of-disciplinary-action",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.profootballrumors.com/2026/04/chiefs-rashee-rice-will-not-face-nfl-suspension",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/player/gamelog/_/id/4428331/rashee-rice",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://athlonsports.com/nfl/kansas-city-chiefs/chiefs-rashee-rice-contract-extension",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/news/chiefs-place-rashee-rice-on-injured-reserve-andy-reid-says-receiver-will-undergo-additional-testing-next-week/amp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/rashee-rice-returns-practice-injury-213826518.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/chiefs/onsi/report-chiefs-wr-rashee-rice-to-miss-months-following-knee-surgery",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/kansas-city-chiefs-wr-rashee-161410905.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.keranews.org/news/2026-05-19/chiefs-rashee-rice-arrested-in-dallas-failing-drug-test-violating-probation",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.keranews.org/news/2026-06-16/kansas-city-chiefs-rashee-rice-released-from-dallas-jail-after-probation-violation-failed-drug-test",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Recovering from right knee debridement (clean-up) surgery; progressing well in camp",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/nfl/news/rashee-rice-suspension-chiefs-wr-to-miss-first-six-games-of-season-as-part-of-disciplinary-action"
+  }
+ ]
+}

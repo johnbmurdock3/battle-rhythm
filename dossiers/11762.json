@@ -1,0 +1,77 @@
+{
+ "player_id": "11762",
+ "name": "Anthony Gould",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "IND"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Josh Downs",
+    "age": 24,
+    "status": "starter",
+    "note": "slot WR1 ahead of Gould",
+    "resolved_id": "9500",
+    "resolved_team": "IND",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "2nd-string slot WR on Colts depth chart behind Josh Downs; 2025 team history and injury status not verified this session (source fetch failed)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "unknown",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/IND",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.colts.com/news/colts-elevate-wr-anthony-gould-from-practice-squad-for-week-2",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-10",
+   "injury": "None per Sleeper",
+   "role": "Listed as the WR2 on the Colts' second wide-receiver line on the first unofficial depth chart, plus the primary kick and punt returner (alongside Coleman Owen).",
+   "note": "Value is mostly as a return specialist with a depth WR role; no offensive snap-share numbers reported.",
+   "source": "https://1075thefan.com/731174/takeaways-from-colts-first-depth-chart-of-2026/"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "unknown",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/IND"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Elevated from practice squad ahead of Week 2 vs Chiefs, primarily as a special-teams (kickoff/punt return) contributor [news 2026-09-19]",
+   "note": "No injury above him on the depth chart cited as the reason; elevation appears to be for special teams depth, not offensive role",
+   "source": "https://www.colts.com/news/colts-elevate-wr-anthony-gould-from-practice-squad-for-week-2"
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "player_id": "7567",
+ "name": "Kenny Gainwell",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "PIT"
+   },
+   {
+    "season": 2026,
+    "team": "TB"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "PIT",
+    "games": null,
+    "carries": 114,
+    "targets": null,
+    "rec": 73,
+    "yards": 1023,
+    "td": 8,
+    "note": "Team-provided baseline (114 car/73 rec/1023 total yds/8 TD) matches Wikipedia's rush(537)+rec(486)=1023 yds and 8 TD split; exact game/target counts not independently verified. Named Steelers team MVP by teammates."
+   }
+  ],
+  "contract": {
+   "years": 2,
+   "signed": "2026-03-12",
+   "note": "2-year, $14M deal ($9.83M guaranteed) with TB. Buccaneers.com says signed 2026-03-12; Wikipedia says 2026-03-13 - minor date conflict, later (Wikipedia) not clearly more authoritative, both cited."
+  },
+  "scheme": {
+   "oc": "Zac Robinson",
+   "note": "New Bucs OC (ex-Atlanta OC/QB coach lineage). Footballguys (2026-03-10) notes his Atlanta scheme featured a 23% RB target share, 4th-highest in NFL, cited as reason Gainwell should be 'schemed into the game plan.'"
+  },
+  "competition": [
+   {
+    "name": "Bucky Irving",
+    "age": 23,
+    "status": "RB1",
+    "note": "Full-go, unlimited at start of camp per buccaneers.com (2026-07-29); recovered from 2025 shoulder surgery that cost him 7 games. Ourlads TB depth chart lists him RB1.",
+    "resolved_id": "11584",
+    "resolved_team": "TB",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Sean Tucker",
+    "age": 24,
+    "status": "RB3 depth chart",
+    "note": "Ourlads TB depth chart (2026).",
+    "resolved_id": "9506",
+    "resolved_team": "TB",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Ourlads depth chart (fetched 2026-08-11) lists order: Bucky Irving (RB1), Kenny Gainwell (RB2), Sean Tucker (RB3), Josh Williams (RB4), Kadarius Calloway (RB5).",
+   "SI/Onsi Bucs RB-room preview (2026-07-10): expects 'a bigger shift to more of a balanced attack,' projecting Irving and Gainwell both to top 500 rush yards plus similar receiving yardage, with neither reaching 1,000 total.",
+   "Footballguys (2026-03-10): projects Irving to handle lead rushing/goal-line work while Gainwell fills a receiving-down role with PPR emphasis; no specific carry/target split numbers given.",
+   "Mike Evans left TB for SF in free agency, opening target volume in the passing game generally."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-03"
+  },
+  "camp": [
+   {
+    "quote": "He feels fine, he's great. He's full speed. He's full-go right now.",
+    "who": "Todd Bowles (re: Bucky Irving)",
+    "date": "2026-07-29"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.buccaneers.com/news/rb-kenneth-gainwell-signs-bucs-2026-nfl-free-agency",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.footballguys.com/article/2026-kenneth-gainwell-fantasy-fallout-after-he-signs-with-tampa-bay-buccaneers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/buccaneers/onsi/predictions-thoughts-and-concerns-on-bucky-irving-and-buccaneers-rb-room-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Gainwell",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.buccaneers.com/news/bucky-irving-full-go-feeling-stronger-from-adversity",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/I/IrviBu00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Sean_Tucker_(American_football)",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/TB",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872935",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.buccaneers.com/news/rb-kenneth-gainwell-signs-bucs-2026-nfl-free-agency"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported",
+   "role": "RB2 behind Bucky Irving; starting kick returner, second on punt-return depth chart",
+   "note": "Primary role appears to be backup RB plus special-teams (kick return) duty",
+   "source": "https://www.cbssports.com/nfl/teams/TB/tampa-bay-buccaneers/depth-chart/"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 46,
+   "touches": 6,
+   "injury": "",
+   "role": "Backup RB behind starter Bucky Irving; also kick-return duty",
+   "note": "[news 2026-09-13] Week 1: 5 car/15 yds, 1 target/1 rec/3 yds",
+   "source": "https://www.pro-football-reference.com/teams/tam/2026.htm"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 5,
+   "injury": "",
+   "role": "TEAM CHANGE: now on Tampa Bay Buccaneers (TB), depth chart RB order 2 (behind Bucky Irving). Not on Bucs injury report as of 2026-09-21.",
+   "note": "Week 2 vs Cleveland: 2 carries/10 yds, 3 rec on 4 tgt/5 yds, plus 3 kick returns for 78 yds. Clearly a change-of-pace/passing-down/return role behind lead back Bucky Irving (15 carries/80 yds, 4 tgt/4 rec). [news 2026-09-20]",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872935"
+  }
+ ]
+}

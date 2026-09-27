@@ -1,0 +1,81 @@
+{
+ "player_id": "7039",
+ "name": "Cody White",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "SEA"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jaxon Smith-Njigba",
+    "age": 24,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "9488",
+    "resolved_team": "SEA",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Rashid Shaheed",
+    "age": 27,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "8676",
+    "resolved_team": "SEA",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Cooper Kupp",
+    "age": 33,
+    "status": "starter",
+    "note": "WR3/slot",
+    "resolved_id": "4039",
+    "resolved_team": "SEA",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Buried 8th of 9 on Seahawks WR depth chart; not fantasy relevant absent injuries."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": ""
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/SEA",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/SEA"
+  }
+ ]
+}

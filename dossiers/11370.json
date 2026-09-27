@@ -1,0 +1,81 @@
+{
+ "player_id": "11370",
+ "name": "Chris Brooks",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "GB"
+   },
+   {
+    "season": 2026,
+    "team": "GB"
+   }
+  ],
+  "workload": [
+   {
+    "note": "2025: 3.15 yards after contact/attempt, broke a tackle every 4.5 attempts; only 24 career catches"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Josh Jacobs",
+    "age": 28,
+    "status": "starter, status uncertain",
+    "note": "RB1, but facing off-season legal issues that could affect availability",
+    "resolved_id": "5850",
+    "resolved_team": "GB",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; moved up to clear No.2 RB after Emanuel Wilson's departure - real standalone value if Josh Jacobs' legal situation causes him to miss time."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/packers/onsi/packers-rb-chris-brooks-offense-might-depend-on-no-23-player-in-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.yardbarker.com/nfl/articles/packers_rb_josh_jacobs_lands_more_good_suspension_news/s1_17292_44323327",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-06-16",
+   "role": "Packers' RB2 behind Josh Jacobs after team re-signed Brooks and released Emanuel Wilson",
+   "note": "Valued for pass protection and two-back sets (3.15 YAC/att in 2025); receiving limited (24 career catches). Role could expand significantly if Jacobs faces suspension tied to an offseason legal matter.",
+   "source": "https://www.si.com/nfl/packers/onsi/packers-rb-chris-brooks-offense-might-depend-on-no-23-player-in-2026"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/packers/onsi/packers-rb-chris-brooks-offense-might-depend-on-no-23-player-in-2026"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 7,
+   "injury": "",
+   "role": "Committee RB; lead back Josh Jacobs on commissioner's exempt list (not yet suspended) pending NFL review of a May domestic incident",
+   "note": "Jacobs on exempt list as of [news 2026-09-19]; games missed there will count toward an eventual suspension (ESPN estimates 4-6 games); Brooks had 7 carries/29 yds in Week 1 loss to MIN, MarShawn Lloyd led GB backs Week 1 with 13 carries/37 yds; no Week 2 individual total for Brooks found",
+   "source": "https://www.yardbarker.com/nfl/articles/packers_rb_josh_jacobs_lands_more_good_suspension_news/s1_17292_44323327"
+  }
+ ]
+}

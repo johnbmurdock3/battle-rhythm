@@ -1,0 +1,63 @@
+{
+ "player_id": "7891",
+ "name": "Brock Wright",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DET"
+   },
+   {
+    "season": 2026,
+    "team": "DET"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Sam LaPorta",
+    "age": 25,
+    "status": "TE1",
+    "note": "",
+    "resolved_id": "10859",
+    "resolved_team": "DET",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; Wright is TE2 but Lions signed Tyler Conklin in FA which reportedly took 'wind out of Wright's sails' for pass-catching role."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://detroitjockcity.com/lions-fa-signing-takes-some-wind-out-brock-wright-sails-01kkvka35g0w",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/detroit-lions-depth-chart-det",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://detroitjockcity.com/lions-fa-signing-takes-some-wind-out-brock-wright-sails-01kkvka35g0w"
+  }
+ ]
+}

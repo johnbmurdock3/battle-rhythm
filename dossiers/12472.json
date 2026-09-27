@@ -1,0 +1,89 @@
+{
+ "player_id": "12472",
+ "name": "Raheim Sanders",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "CLE"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Quinshon Judkins",
+    "age": 22,
+    "status": "starter",
+    "note": "RB1",
+    "resolved_id": "12512",
+    "resolved_team": "CLE",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Dylan Sampson",
+    "age": 21,
+    "status": "backup",
+    "note": "RB2, ahead of Sanders",
+    "resolved_id": "12469",
+    "resolved_team": "CLE",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "2025 team not independently verified this pass; currently RB3 on Browns depth chart behind Judkins/Sampson."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/cleveland-browns-depth-chart-cle",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/headlines/raheim-sanders-news-slated-for-increased-role-sans-sampson-637729",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/cleveland-browns-depth-chart-cle"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 4,
+   "injury": "",
+   "role": "ROLE CHANGE: elevated after starter Dylan Sampson was hurt early in Week 1; expected to see more work",
+   "note": "[news 2026-09-13] 1 rush for 1 yd, 3 rec for 25 yds, plus a 74-yd kickoff return",
+   "source": "https://www.bing.com/news/search?q=Raheim+Sanders+Browns+week+1+2026"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 1,
+   "injury": "",
+   "role": "moved up to RB2 behind Quinshon Judkins with increased offensive snaps after Dylan Sampson (knee) landed on IR",
+   "note": "1 carry, 3 targets in stats cited around the Sept 16, 2026 role-change report; expected for expanded receiving role going forward. Sleeper confirms CLE, depth_chart_order 2.",
+   "source": "https://www.rotowire.com/football/headlines/raheim-sanders-news-slated-for-increased-role-sans-sampson-637729"
+  }
+ ]
+}

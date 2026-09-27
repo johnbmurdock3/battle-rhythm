@@ -1,0 +1,69 @@
+{
+ "player_id": "829",
+ "name": "Andy Dalton",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CAR"
+   },
+   {
+    "season": 2026,
+    "team": "PHI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jalen Hurts",
+    "age": 28,
+    "status": "starter",
+    "note": "QB1, no injury notes found this pass",
+    "resolved_id": "6904",
+    "resolved_team": "PHI",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Tanner McKee",
+    "age": 26,
+    "status": "backup",
+    "note": "QB2, ahead of Dalton",
+    "resolved_id": "9230",
+    "resolved_team": "PHI",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: traded from Carolina (2025) to Philadelphia (2026), tagged 'T/Car' on Eagles depth chart. Dalton is QB3 behind Hurts and McKee -- in superflex he's a deep stash only, two players from starting, not one."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/PHI",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/PHI"
+  }
+ ]
+}

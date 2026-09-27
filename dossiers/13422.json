@@ -1,0 +1,76 @@
+{
+ "player_id": "13422",
+ "name": "Jaren Kanak",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "TEN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": ""
+   }
+  ],
+  "notes": [
+   "Rookie: drafted by Tennessee in Round 7 of 2026 NFL Draft as a TE/FB tweener \u2014 2025 was college; deep-roster/practice-squad-caliber piece, minimal 2026 fantasy relevance"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://bleacherreport.com/articles/25417365-jaren-kanak-nfl-draft-2026-scouting-report-tennessee-titans-tefb",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/2026-nfl-draft-tennessee-titans-221138146.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.tennesseetitans.com/team/players-roster/jaren-kanak/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-04",
+   "role": "Rookie 7th-round pick (No.225); TE depth chart has Gunnar Helm, Daniel Bellinger, David Martin-Robinson, Kylen Granson ahead of him; expected to settle for special-teams role as a rookie",
+   "note": "5 receptions across two camp practices as of Aug 4, 2026; called an athletic, impressive camp performer despite limited offensive reps",
+   "source": "https://titansized.com/titans-rookie-te-jaren-kanak-has-been-secret-weapon-playmaker-at-training-camp"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://bleacherreport.com/articles/25417365-jaren-kanak-nfl-draft-2026-scouting-report-tennessee-titans-tefb"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "7th-round rookie (225 overall), converted from college linebacker to TE for his senior season. Sleeper depth chart shows TE order 3 (TE3, deep on chart).",
+   "note": "No injury report, regular-season snap counts, or role-change news found for him in this pass \u2014 appears to be a deep-roster rookie with no notable Week 1-2 coverage.",
+   "source": "https://www.tennesseetitans.com/team/players-roster/jaren-kanak/"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "player_id": "13516",
+ "name": "Max Bredeson",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "MIN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "C.J. Ham",
+    "age": null,
+    "status": "incumbent",
+    "note": "Bredeson drafted to replace Ham at fullback"
+   }
+  ],
+  "notes": [
+   "POSITION FLAG: Drafted as a FULLBACK (Round 5, pick 159, 2026), not tight end as listed \u2014 Vikings site and draft coverage both list him as FB/'fox hole guy'. Verify roster position before drafting as TE."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Making 'all the right moves' at camp per PurplePTSD"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.vikings.com/news/max-bredeson-2026-nfl-draft-fullback-michigan",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://purpleptsd.com/2026/vikings/top_news/vikings-max-bredeson-training-camp/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.vikings.com/news/max-bredeson-2026-nfl-draft-fullback-michigan"
+  }
+ ]
+}

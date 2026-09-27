@@ -1,0 +1,49 @@
+{
+ "player_id": "12455",
+ "name": "Brashard Smith",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-20",
+   "role": "RB4 on Chiefs' unofficial depth chart behind Kenneth Walker III, Emari Demercado, and Emmett Johnson",
+   "note": "Path to offensive touches uncertain; GM Brett Veach values him mainly as a punt/kick returner",
+   "source": "https://www.cbssports.com/fantasy/football/news/chiefs-brashard-smith-listed-fourth-on-initial-depth-chart/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 12,
+   "injury": "",
+   "role": "Sleeper lists RB3 on current KC depth chart; Kenneth Walker signed as primary back",
+   "note": "[news 2026-01-05] Most recent verifiable usage is from a Jan 2026 game; no fresher 2026 report found",
+   "source": "https://www.cbssports.com/fantasy/football/news/chiefs-brashard-smith-gets-chance-as-lead-back"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper depth chart RB3 for Chiefs",
+   "note": "9 special-teams snaps (27%) in Week 2 vs Colts [news 2026-09-20]; described as clear RB3 in KC backfield in earlier season coverage. Offensive snap/touch count not found.",
+   "source": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-week-2-colts-snap-count-observations-tyquan-thornton-jalen-royals-do-more-with-less/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-week-2-colts-snap-count-observations-tyquan-thornton-jalen-royals-do-more-with-less/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

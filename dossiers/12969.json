@@ -1,0 +1,71 @@
+{
+ "player_id": "12969",
+ "name": "Lan Larison",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NE"
+   },
+   {
+    "season": 2026,
+    "team": "NE"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Rhamondre Stevenson",
+    "age": 28,
+    "status": "starter",
+    "note": "RB1",
+    "resolved_id": "7611",
+    "resolved_team": "NE",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "TreVeyon Henderson",
+    "age": 23,
+    "status": "starter/rookie",
+    "note": "RB2, 2025 2nd rd pick",
+    "resolved_id": "12529",
+    "resolved_team": "NE",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Listed 3rd on Patriots RB depth chart behind Stevenson and Henderson; deep dynasty/late-round stash only."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": "No injury news found this pass"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NE",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/NE"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "player_id": "8183",
+ "name": "Brock Purdy",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "None -- not on SF injury report (9/21)",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "QB1 for San Francisco, no injury designation",
+   "note": "No fresh 2026-season news found beyond depth chart confirmation",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/SF"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "None -- not on SF injury report (9/21)",
+   "role": "QB1, depth_chart_order 1",
+   "note": "Week2 (MIA@SF, SF won 35-13): 20/22 passing, 287 yards, 2 TD -- excellent efficiency. Fully healthy.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/sf/schedule?seasontype=2"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/sf/schedule?seasontype=2",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

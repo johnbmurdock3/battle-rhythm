@@ -1,0 +1,78 @@
+{
+ "player_id": "5127",
+ "name": "Kyle Allen",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "BUF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Josh Allen",
+    "age": 30,
+    "status": "starter",
+    "note": "MVP-caliber, iron-man QB1 ahead of Kyle Allen",
+    "resolved_id": "4984",
+    "resolved_team": "BUF",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Bills depth chart (ESPN, confirmed): 1. Josh Allen, 2. Kyle Allen, 3. Shane Buechele. Kyle Allen is QB2 behind one of the league's most durable starters \u2014 very low realistic superflex value."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "not checked this pass"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.espn.com/nfl/team/depth/_/name/buf/buffalo-bills",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/5127",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-03-10",
+   "role": "backup QB behind Josh Allen",
+   "note": "Re-signed with Bills on a 2-year deal in March 2026 as backup to Josh Allen; not on Bills injury report as of Aug 30, 2026.",
+   "source": "https://www.espn.com/nfl/story/_/id/48158031/buffalo-bills-reach-2-year-deal-kyle-allen-back-qb-josh-allen"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.espn.com/nfl/team/depth/_/name/buf/buffalo-bills"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "QB3 on Buffalo depth chart per Sleeper; not on Bills injury report",
+   "note": "No notable news found; backup QB behind Allen/starter and Drew Lock-tier depth.",
+   "source": "https://api.sleeper.app/players/nfl/5127"
+  }
+ ]
+}

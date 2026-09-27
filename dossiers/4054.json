@@ -1,0 +1,56 @@
+{
+ "player_id": "4054",
+ "name": "Mo Alie-Cox",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "IND"
+   },
+   {
+    "season": 2026,
+    "team": "IND"
+   }
+  ],
+  "workload": [
+   {
+    "season": "career",
+    "note": "127 receptions, 1,550 yards, 16 TD over 8 seasons (125 games, 53 starts)"
+   }
+  ],
+  "contract": {
+   "note": "re-signed by Colts, announced 2026-03-16"
+  },
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "Primarily a run-blocking TE, helps spring Jonathan Taylor runs",
+   "Second-longest tenured Colt behind LS Luke Rhodes"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.colts.com/news/colts-re-sign-te-mo-alie-cox",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.colts.com/news/colts-re-sign-te-mo-alie-cox"
+  }
+ ]
+}

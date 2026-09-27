@@ -1,0 +1,126 @@
+{
+ "player_id": "1466",
+ "name": "Travis Kelce",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "KC"
+   },
+   {
+    "season": 2026,
+    "team": "KC"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "KC",
+    "games": 17,
+    "targets": 108,
+    "rec": 76,
+    "yards": 851,
+    "td": 5,
+    "note": "Per Pro Football Reference."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Not researched."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "No 2026 KC head coach or OC change found; Andy Reid remains head coach."
+  },
+  "competition": [
+   {
+    "name": "Noah Gray",
+    "age": 27,
+    "status": "backup TE",
+    "note": "Born 1999-04-30.",
+    "resolved_id": "7828",
+    "resolved_team": "KC",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Entering his 14th NFL season at age 36; widespread retirement speculation ('Last Dance' framing) but no announcement of retirement found."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury designation per Sleeper as of 2026-09-22",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "Know the GOAT is preparing for THE LAST DANCE. Next stop Canton/HOF.",
+    "who": "Cris Carter (Kelce's trainer), via mensjournal.com",
+    "date": "2026-07-21"
+   },
+   {
+    "quote": "Kelce returned for opening week of Chiefs training camp.",
+    "who": "mensjournal.com",
+    "date": "2026-07-29"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.pro-football-reference.com/players/K/KelcTr00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.mensjournal.com/sports/travis-kelce-returns-to-camp-as-rumors-swirl-of-a-final-season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/onsi/athlete-lifestyle/news/travis-kelce-retirement-speculation-training-circle-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Noah_Gray",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/1466",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "active, no injury designation found",
+   "note": "baseline from initial research pass",
+   "source": "https://www.pro-football-reference.com/players/K/KelcTr00.htm"
+  },
+  {
+   "date": "2026-09-01",
+   "injury": "Illness (under the weather), missed Chiefs kickoff luncheon on 2026-09-01",
+   "role": "Starting TE",
+   "note": "Reported sick and absent from a pre-season Chiefs event on Sept 1, 2026; no word yet on Week 1 availability. Sleeper shows no formal injury designation.",
+   "source": "https://www.yardbarker.com/nfl/articles/chiefs_te_travis_kelce_sidelined_by_illness_just_days_before_the_regular_season/s1_17730_44249574"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 1,
+   "injury": "No injury designation entering Week 1",
+   "role": "Chiefs leaned run-heavy early; still primary TE target",
+   "note": "Week 1 vs DEN: 1 catch/6 yds on 3 targets through first half; healthy",
+   "source": "https://heavy.com/sports/nfl/kansas-city-chiefs/travis-kelce-playing-today-injury-fantasy-stats-what-happened/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "No injury designation per Sleeper as of 2026-09-22",
+   "role": "Confirmed starting TE (depth_chart_order 1) for Kansas City.",
+   "note": "No notable injury/role news found in KC team news feed beyond generic training-camp preview mentions [news 2026-07-23]; no Week 2 snap/target data found (search budget exhausted this session).",
+   "source": "https://api.sleeper.app/players/nfl/1466"
+  }
+ ]
+}

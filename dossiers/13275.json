@@ -1,0 +1,109 @@
+{
+ "player_id": "13275",
+ "name": "Ty Simpson",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "LAR"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "years": null,
+   "signed": "2026",
+   "note": "Rookie contract as a first-round pick; specific years/value not found in sources searched."
+  },
+  "scheme": {
+   "oc": "Sean McVay (HC, Rams)",
+   "note": "Rams' offense run by McVay; Simpson drafted as developmental QB behind Matthew Stafford."
+  },
+  "competition": [
+   {
+    "name": "Matthew Stafford",
+    "age": 38,
+    "status": "Entrenched starter, reigning 2025 NFL MVP",
+    "note": "Publicly committed to returning for his 18th NFL season in 2026 ('I enjoy playing too much to hang it up'); no retirement imminent. This makes Simpson QB2/3 with no near-term path to starting.",
+    "resolved_id": "421",
+    "resolved_team": "LAR",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Stetson Bennett",
+    "age": 28,
+    "status": "Competing with Simpson for QB2 role",
+    "note": "Per ProFootballRumors (2026-06), Bennett and Simpson are competing for the Rams' QB2 job. Some reports (Athlon Sports, heavy.com) indicate Simpson was pulling ahead / McVay 'put Bennett on notice' during camp; Bennett's roster spot described as 'uncertain' in some SI Rams Digest pieces.",
+    "resolved_id": "10857",
+    "resolved_team": "LAR",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Jimmy Garoppolo",
+    "age": 34,
+    "status": "On roster, reportedly shut down for preseason",
+    "note": "SI Rams Digest headline references 'Rams' Jimmy Garoppolo shut down for preseason, Stetson Bennett could win QB2 role' -- suggests Garoppolo may not be full QB2 competition, increasing path for Simpson or Bennett.",
+    "resolved_id": "1837",
+    "resolved_team": null,
+    "resolved_pos": "QB",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "Drafted by the Rams in Round 1, Pick 13 of the 2026 NFL Draft out of Alabama -- a notable first-round investment at QB despite Stafford entrenched as starter.",
+   "College stats (final Alabama season): 305 completions, 3,567 passing yards, 28 TD-5 INT, 64.5% completion.",
+   "Simpson quote on draft night: 'Learning from (head coach) Sean McVay, and then (quarterback) Matthew (Stafford), who is obviously one of the greatest of all time, I'm looking forward to it.'",
+   "No NFL regular-season workload yet (rookie, has not played a regular season snap as of 2026-08-11)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No injury reports found for Simpson in 2026 camp coverage."
+  },
+  "camp": [
+   {
+    "quote": "Learning from (head coach) Sean McVay, and then (quarterback) Matthew (Stafford), who is obviously one of the greatest of all time, I'm looking forward to it.",
+    "who": "Ty Simpson",
+    "date": "2026"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.therams.com/news/ty-simpson-nfl-draft-quarterback-alabama",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.profootballrumors.com/2026/06/ty-simpson-stetson-bennett-competing-for-rams-qb2-gig",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/matthew-stafford-entertain-playing-2026-160647216.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.therams.com/news/rams-matthew-stafford-will-return-for-18th-nfl-season-2026-honors",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/los-angeles-rams/mcvay-notice-bennett-simpson-preseason-stafford/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.therams.com/news/ty-simpson-nfl-draft-quarterback-alabama"
+  }
+ ]
+}

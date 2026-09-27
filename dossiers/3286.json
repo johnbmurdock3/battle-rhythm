@@ -1,0 +1,105 @@
+{
+ "player_id": "3286",
+ "name": "Demarcus Robinson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SF"
+   },
+   {
+    "season": 2026,
+    "team": "SF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Mike Evans",
+    "age": 32,
+    "status": "WR1",
+    "note": "",
+    "resolved_id": "2216",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Ricky Pearsall",
+    "age": 25,
+    "status": "WR2",
+    "note": "",
+    "resolved_id": "11638",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Christian Kirk",
+    "age": 29,
+    "status": "WR3/slot",
+    "note": "",
+    "resolved_id": "4950",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; listed WR4 on 49ers depth chart, described as favorite for that role over Cowing/Stribling/Watkins with a 'realistic path to the starting lineup'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "High ankle sprain, ruled out vs Dolphins; multiple reports say he is headed for injured reserve. [news ~2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   "Named favorite for WR4 role per ESPN/Yardbarker depth chart pieces"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.yardbarker.com/nfl/articles/49ers_depth_chart_2026_projected_starters_full_roster_position_battles_and_training_camp_updates/s1_17702_44069346",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/depth/_/name/sf/san-francisco-49ers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/3286",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.yardbarker.com/nfl/articles/49ers_depth_chart_2026_projected_starters_full_roster_position_battles_and_training_camp_updates/s1_17702_44069346"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 63.1,
+   "touches": 2,
+   "injury": "",
+   "role": "WR3 but saw elevated role after rookie De'Zhaun Stribling suffered an ankle injury in Week 1's first quarter",
+   "note": "[news 2026-09-11] 2 catches for 50 yards incl a 39-yd TD; 41-of-65 snaps (63.1%), second-most among SF WRs",
+   "source": "https://www.cbssports.com/fantasy/football/news/49ers-demarcus-robinson-hauls-in-39-yard-td-pass/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "High ankle sprain, ruled out vs Dolphins; multiple reports say he is headed for injured reserve. [news ~2026-09-21]",
+   "role": "Was LWR3 on 49ers depth chart pre-injury; Shanahan gave updates on him and Mike Evans injuries after Week 2. 49ers reportedly looking at veteran WR replacements.",
+   "note": "[news 2026-09-21] Ankle injury suffered in/around Week 2; expected on IR, not a Week 3 option.",
+   "source": "https://api.sleeper.app/players/nfl/3286"
+  }
+ ]
+}

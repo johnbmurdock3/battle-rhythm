@@ -1,0 +1,101 @@
+{
+ "player_id": "11834",
+ "name": "Devaughn Vele",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NO"
+   },
+   {
+    "season": 2026,
+    "team": "NO"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Chris Olave",
+    "age": 26,
+    "status": "starter",
+    "note": "RWR1, separate spot from Vele",
+    "resolved_id": "8144",
+    "resolved_team": "NO",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jordyn Tyson",
+    "age": 21,
+    "status": "starter",
+    "note": "LWR1, separate spot from Vele",
+    "resolved_id": "13281",
+    "resolved_team": "NO",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No 2026 team change (was traded from Denver to New Orleans on Aug 20, 2025, so this is his second season with the Saints, not a new move). Listed as SWR1 (slot) on ourlads. Ended 2025 season on IR with a shoulder injury (Dec 2025) -- worth confirming full health for 2026 before drafting."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy; no current injury designation",
+   "as_of": "2026-09-01"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Devaughn_Vele",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NO",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/headlines/devaughn-vele-news-five-snags-in-victory-638374",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Devaughn_Vele"
+  },
+  {
+   "date": "2026-09-01",
+   "route_pct": 84,
+   "target_share": 16,
+   "injury": "Healthy; no current injury designation",
+   "role": "Projected Saints No.2 WR behind Chris Olave to open 2026, with rookie Jordyn Tyson (hamstring) out for the first 4 games",
+   "note": "Ran a route on 84% of dropbacks and drew a target on 16% of routes over his final 5 games of 2025; positioned as the No.2 WR entering Week 1 2026",
+   "source": "https://dknetwork.draftkings.com/2026/09/01/is-devaughn-vele-worth-adding-in-fantasy-football-before-week-1/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 7,
+   "injury": "",
+   "role": "Now Saints WR2 behind Chris Olave; competition Jordyn Tyson (hamstring) on IR, out at least 4 weeks",
+   "note": "[news 2026-09-14] Week 1: 7 catches on 9 targets for 69 yds and a TD; top Week 2 waiver add across multiple outlets",
+   "source": "https://dknetwork.draftkings.com/2026/09/14/is-devaughn-vele-a-must-add-waiver-wire-pickup-for-week-2/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "No. 2 WR for Saints (roster hint of Broncos is stale)",
+   "note": "5 rec/7 tgt/64 yds in Week 2 win [news 2026-09-20]; 12-of-16 targets for 133 yds and a TD over first two games of 2026.",
+   "source": "https://www.rotowire.com/football/headlines/devaughn-vele-news-five-snags-in-victory-638374"
+  }
+ ]
+}

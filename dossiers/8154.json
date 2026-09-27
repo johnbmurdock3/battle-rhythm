@@ -1,0 +1,74 @@
+{
+ "player_id": "8154",
+ "name": "Brian Robinson",
+ "as_of": "2026-09-03",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SF"
+   },
+   {
+    "season": 2026,
+    "team": "ATL"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Bijan Robinson",
+    "age": 24,
+    "status": "",
+    "note": "Bleacher Report: 'Falcons Reportedly Agree to Contract, Updated RB Depth Chart Behind Bijan' \u2014 clearly RB2 behind Bijan Robinson",
+    "resolved_id": "9509",
+    "resolved_team": "ATL",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: originally traded by Washington to San Francisco (CBS Sports: 'Brian Robinson Jr. trade... Commanders deal running back to 49ers'), then signed with Atlanta in free agency in March 2026. Path is WAS -> SF (2025) -> ATL (2026).",
+   "Clear backup role behind Bijan Robinson in Atlanta; limited standalone value barring injury"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-03"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/news/brian-robinson-jr-trade-commanders-deal-running-back-to-49ers-in-exchange-for-sixth-round-pick-per-report",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.atlantafalcons.com/news/atlanta-falcons-sign-rb-brian-robinson",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://bleacherreport.com/articles/25410686-brian-robinson-jr-falcons-reportedly-agree-contract-updated-rb-depth-chart-behind-bijan",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/nfl/news/brian-robinson-jr-trade-commanders-deal-running-back-to-49ers-in-exchange-for-sixth-round-pick-per-report"
+  },
+  {
+   "date": "2026-09-03",
+   "role": "On Atlanta Falcons roster (#15) behind starter Bijan Robinson, ahead of Tyler Goodson",
+   "note": "Roster page confirms ATL as current team behind Bijan Robinson. A separate NFL.com article snippet (undated, possibly stale) referenced an earlier trade from Washington to San Francisco to pair with Christian McCaffrey - conflicts with the current Falcons roster listing; roster page treated as current/authoritative",
+   "source": "https://www.nfl.com/teams/atlanta-falcons/roster"
+  }
+ ]
+}

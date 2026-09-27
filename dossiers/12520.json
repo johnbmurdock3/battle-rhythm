@@ -1,0 +1,73 @@
+{
+ "player_id": "12520",
+ "name": "Xavier Restrepo",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TEN"
+   },
+   {
+    "season": 2026,
+    "team": "TEN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Wan'Dale Robinson",
+    "age": 25,
+    "status": "starter",
+    "note": "slot WR1 ahead of Restrepo",
+    "resolved_id": "8126",
+    "resolved_team": "TEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Chimere Dike",
+    "age": 24,
+    "status": "backup",
+    "note": "slot WR2 ahead of Restrepo",
+    "resolved_id": "12540",
+    "resolved_team": "TEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Undrafted 2025 UDFA out of Miami; 3rd-string slot WR on Titans depth chart behind Wan'Dale Robinson and Chimere Dike."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Xavier_Restrepo",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/TEN",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Xavier_Restrepo"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "player_id": "13404",
+ "name": "Garrett Nussmeier",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "KC"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NCAA (LSU)",
+    "games": 0,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 0,
+    "td": 0,
+    "note": "Rookie; no 2025 NFL workload. Played QB for LSU in 2025."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract; among the first 2026 Chiefs draft picks to sign (atozsports.com)."
+  },
+  "scheme": {
+   "oc": "Eric Bieniemy",
+   "note": "Drafted by Kansas City in Round 7 (249th overall) of the 2026 NFL Draft (nfl.com, Wikipedia). Chiefs OC changed for 2026: Eric Bieniemy returns to the role (his 6th time as KC OC), replacing Matt Nagy. HC Andy Reid continues."
+  },
+  "competition": [
+   {
+    "name": "Patrick Mahomes",
+    "age": 29,
+    "status": "QB1",
+    "note": "Entrenched starter.",
+    "resolved_id": "4046",
+    "resolved_team": "KC",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Justin Fields",
+    "age": 27,
+    "status": "QB2",
+    "note": "Acquired via trade from Jets in 2026 offseason; clear backup ahead of Nussmeier.",
+    "resolved_id": "7591",
+    "resolved_team": "KC",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "arrowheadaddict.com (Jun 3, 2026) depth chart: QB1 Mahomes, QB2 Fields, QB3 Nussmeier, QB4 Chris Oladokun (practice squad since 2022) - Nussmeier is QB3, buried on the depth chart as a developmental prospect."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No injury reported for Nussmeier as of Aug 11, 2026 in sources checked."
+  },
+  "camp": [
+   {
+    "quote": "Noted for possessing 'that gunslinger mentality.'",
+    "who": "arrowheadaddict.com",
+    "date": "2026-06-03"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.nfl.com/news/garrett-nussmeier-chiefs-pick-249-2026-nfl-draft",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Garrett_Nussmeier",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://arrowheadaddict.com/chiefs-projected-quarterback-depth-chart-leaves-little-room-for-debate",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.chiefs.com/team/coaches-roster/eric-bieniemy",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.nfl.com/news/garrett-nussmeier-chiefs-pick-249-2026-nfl-draft"
+  }
+ ]
+}

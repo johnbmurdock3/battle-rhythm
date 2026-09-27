@@ -1,0 +1,123 @@
+{
+ "player_id": "4137",
+ "name": "James Conner",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "ARI"
+   },
+   {
+    "season": 2026,
+    "team": "ARI"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "ARI",
+    "games": 3,
+    "carries": 32,
+    "targets": 9,
+    "rec": 8,
+    "yards": 95,
+    "td": 1,
+    "note": "Season ended in Week 3, 2025 due to a season-ending foot injury/surgery. Rushing: 32 car/95 yds/1 TD. Receiving: 9 tgt/8 rec/38 yds/1 TD (pro-football-reference)."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Nathaniel Hackett",
+   "note": "MAJOR REGIME CHANGE: Cardinals fired HC Jonathan Gannon after 2025 (15-36 record) and hired Mike LaFleur as new HC. New OC Nathaniel Hackett replaces Drew Petzing, who left for Detroit. Separately, Kyler Murray was released March 11, 2026 - QB situation in flux, relevant context for the offense overall."
+  },
+  "competition": [
+   {
+    "name": "Trey Benson",
+    "age": 22,
+    "status": "Also injured (meniscus tear)",
+    "note": "Benson has a meniscus tear as of July 20, 2026 with no return timetable (si.com) - both top Cardinals RBs are currently compromised, which could open early-season work to depth players.",
+    "resolved_id": "11589",
+    "resolved_team": "ARI",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "IR, foot (surgery) [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "Conner (foot) isn't yet doing full-team drills at training camp.",
+    "who": "Darren Urban, azcardinals.com via RotoWire",
+    "date": "2026-07-29"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/headlines/james-conner-news-advances-past-injuries-631844",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/cardinals/onsi/arizona-cardinals-notable-injuries-monitor-going-into-training-camp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/C/ConnJa00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Trey_Benson",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Arizona_Cardinals_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Questionable / limited",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/headlines/james-conner-news-advances-past-injuries-631844"
+  },
+  {
+   "date": "2026-08-30",
+   "injury": "Foot - Injured Reserve, expected return Week 5",
+   "role": "On IR to start 2026 season",
+   "note": "Suffered foot injury in Week 3, 2025 vs SF, underwent surgery, missed rest of 2025; backup Trey Benson also on IR with knee injury",
+   "source": "https://www.cbssports.com/nfl/teams/ARI/arizona-cardinals/injuries/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "On Injured Reserve to begin 2026 - right foot injury requiring surgery",
+   "role": "Trey Benson took over as lead back (Benson has since also landed on IR); Tyler Allgeier now the workhorse",
+   "note": "[news 2026-08-30] Sleeper depth_chart_order 4 while on IR; no confirmed return date",
+   "source": "https://www.azcardinals.com/news/with-james-conner-out-for-season-cardinals-turn-to-trey-benson"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "IR, foot (surgery) [news 2026-09-21]",
+   "role": "RB, depth_chart_order 4 (on IR)",
+   "note": "Backup Trey Benson also on IR (knee) as of same date [news 2026-09-21]; no expected-return week listed for Conner in this report, unlike most other IR entries which show a target week",
+   "source": "https://www.cbssports.com/nfl/injuries/"
+  }
+ ]
+}

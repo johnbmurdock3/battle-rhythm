@@ -1,0 +1,51 @@
+{
+ "player_id": "12508",
+ "name": "Jaxson Dart",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Sprained MCL, suffered Week 2 vs LAR; X-rays negative but expected to miss a few weeks",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-02",
+   "role": "On Giants' initial 53-man roster with Jameis Winston as the other QB; SI (9/2) reports Dart 'feels in command' heading into Week 1 despite limited preseason snaps, in position to start the season opener vs. Dallas on Sunday Night Football",
+   "note": "Entering sophomore season as presumptive Giants starter",
+   "source": "https://www.si.com/nfl/giants/onsi/jaxson-dart-giants-week-1-ready-preseason-reps-01m1h5spretr"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Giants unquestioned starting QB",
+   "note": "[news 2026-09-14] Week 1 vs DAL: 23/29, 230 yds, 3 pass TD, plus 11 carries for 54 rush yds in a 28-20 win",
+   "source": "https://sports.yahoo.com/articles/week-1-overreactions-jaxson-dart-211117555.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Sprained MCL, suffered Week 2 vs LAR; X-rays negative but expected to miss a few weeks",
+   "role": "Jameis Winston to start at QB while Dart is out",
+   "note": "Exited Monday night Wk2 game vs Rams with a left knee (MCL sprain) injury; X-rays negative, expected to miss multiple weeks; Jameis Winston takes over as starter. [news 2026-09-22]",
+   "source": "https://lastwordonsports.com/nfl/2026/09/22/jaxson-dart-injury-update/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://lastwordonsports.com/nfl/2026/09/22/jaxson-dart-injury-update/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

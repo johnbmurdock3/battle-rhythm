@@ -1,0 +1,147 @@
+{
+ "player_id": "11632",
+ "name": "Malik Nabers",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2024,
+    "team": "NYG"
+   },
+   {
+    "season": 2025,
+    "team": "NYG"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NYG",
+    "games": 4,
+    "targets": null,
+    "rec": null,
+    "yards": null,
+    "td": null,
+    "note": "Season ended Week 4 (vs LAC) due to torn ACL. Partial-season data points found: Week 2 vs DAL line was 9 rec/167 yds/2 TD; was 'on pace for 1,422 yards' before injury; in the injury game (Wk4) he had 3 rec/20 yds on 23 of 69 snaps. Full cumulative season totals not verified."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2024-05-10",
+   "note": "4-year rookie contract worth $29.2M with $18M signing bonus, signed after being drafted 6th overall (LSU) in 2024. No extension reported as of this research pass; still under rookie deal."
+  },
+  "scheme": {
+   "oc": "Matt Nagy",
+   "note": "Giants hired John Harbaugh as head coach in January 2026 (replacing Brian Daboll), a full coaching-staff change. Matt Nagy is the offensive coordinator per Giants.com staff announcement. New play-calling scheme for 2026, first year under Harbaugh/Nagy."
+  },
+  "competition": [
+   {
+    "name": "Darius Slayton",
+    "age": 29,
+    "status": "on roster",
+    "note": "Competing for 2nd outside WR role; possible last season with team per contract situation (unverified age/salary here).",
+    "resolved_id": "6149",
+    "resolved_team": "NYG",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Darnell Mooney",
+    "age": 28,
+    "status": "on roster",
+    "note": "Projected as one of top-3 WRs alongside Nabers/Slayton per Giants 2026 WR breakdown (Yahoo, 2026-07-17).",
+    "resolved_id": "7090",
+    "resolved_team": "NYG",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Odell Beckham Jr.",
+    "age": 33,
+    "status": "on roster, competing in camp",
+    "note": "In competition with Slayton/Smith-Schuster for WR2/3 role.",
+    "resolved_id": "2078",
+    "resolved_team": "NYG",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "JuJu Smith-Schuster",
+    "age": 29,
+    "status": "on roster, competing in camp",
+    "note": "Also competing for WR2/3 role.",
+    "resolved_id": "4040",
+    "resolved_team": "NYG",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Drafted 6th overall in 2024 by NYG out of LSU.",
+   "Nabers is expected to be the clear No. 1 WR for QB Jaxson Dart if healthy (Yahoo Giants 2026 WR breakdown, 2026-07-17)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Recovering from torn ACL suffered Week 4, 2025 (vs. Chargers); also had damaged meniscus and underwent a scar-tissue cleanup procedure in spring 2026. As of mid-July 2026, reported to be approximately 70-80% through rehab and had missed spring practices. HC John Harbaugh described it as 'not a simple knee' and said he hopes Nabers works into camp 'one way or another,' with camp participation possible but full readiness for season start uncertain.",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "He's making really good progress right now. I'm very hopeful that he'll be back soon.",
+    "who": "John Harbaugh (head coach)",
+    "date": "2026-07-15"
+   },
+   {
+    "quote": "not a simple knee",
+    "who": "John Harbaugh (head coach), describing severity",
+    "date": "2026-07-16"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.nfl.com/news/malik-nabers-torn-acl-out-for-2025-season-giants",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/news/nfl-injury-updates-2026-patrick-mahomes-malik-nabers-training-camp/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.giants.com/news/malik-nabers-injury-status-cam-skattebo-thomas-fidone-sam-roberts-beaux-collins-training-camp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/giants-2026-position-breakdown-malik-134000516.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.giants.com/news/malik-nabers-contract-nfl-draft-2024-wide-receiver-lsu-tigers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://bleacherreport.com/articles/10119359-malik-nabers-giants-agree-to-4-year-292m-rookie-contract-with-18m-signing-bonus",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.giants.com/news/john-harbaugh-announces-2026-coaching-staff-coordinators-matt-nagy-dennard-wilson-chris-horton",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/giants-john-harbaugh-finalize-deal-new-head-coach",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Recovering from torn ACL suffered Week 4, 2025 (vs. Chargers); also had damaged meniscus and underwent a scar-tissue cleanup procedure in spring 2026. As of mid-July 2026, reported to be approximately 70-80% through rehab and had missed spring practices. HC John Harbaugh described it as 'not a simple knee' and said he hopes Nabers works into camp 'one way or another,' with camp participation possible but full readiness for season start uncertain.",
+   "note": "baseline from initial research pass",
+   "source": "https://www.nfl.com/news/malik-nabers-torn-acl-out-for-2025-season-giants"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "player_id": "6920",
+ "name": "Isaiah Hodgins",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "multiple (SF/PIT/NYG)"
+   },
+   {
+    "season": 2026,
+    "team": "NYG"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Darius Slayton",
+    "age": 29,
+    "status": "starter",
+    "note": "RWR1 ahead of Hodgins",
+    "resolved_id": "6149",
+    "resolved_team": "NYG",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Darnell Mooney",
+    "age": 28,
+    "status": "starter",
+    "note": "RWR2 ahead of Hodgins",
+    "resolved_id": "7090",
+    "resolved_team": "NYG",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Journeyman who bounced between SF, Pittsburgh, and NY Giants during 2025; back with Giants for 2026 but buried at RWR3."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Isaiah_Hodgins",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NYG",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Isaiah_Hodgins"
+  }
+ ]
+}

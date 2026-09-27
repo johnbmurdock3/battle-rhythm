@@ -1,0 +1,87 @@
+{
+ "player_id": "13402",
+ "name": "Skyler Bell",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NCAA (UConn)"
+   },
+   {
+    "season": 2026,
+    "team": "BUF"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "2026": "Rookie deal, drafted 4th round, 2026 NFL Draft"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Khalil Shakir",
+    "age": 26,
+    "status": "starter",
+    "note": "ahead of Bell",
+    "resolved_id": "8134",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "D.J. Moore",
+    "age": 29,
+    "status": "starter",
+    "note": "ahead of Bell",
+    "resolved_id": "4983",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Keon Coleman",
+    "age": 23,
+    "status": "starter",
+    "note": "climbing toward WR3 role, ahead of Bell",
+    "resolved_id": "11637",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Rookie entering league in 2026 (was in college in 2025). Described as a 'roster lock' (SI, July 19, 2026) but likely WR3/4 depth, behind Shakir, Moore, and Coleman -- limited immediate role."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/bills/onsi/rumors-bills-wide-receivers-on-roster-bubble-vs-roster-locks-training-camp-skyler-bell",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-07-19",
+   "role": "4th-round rookie WR described in July 2026 as a 'clear roster lock' alongside DJ Moore and Khalil Shakir, expected to weigh heavily into Bills' offensive plans as a rookie. Final 53-man roster confirmation not located in sources checked, but Sleeper lists him Active on BUF as of 9/3/26.",
+   "note": "Projected as significant rookie contributor; explicit 53-man confirmation not found in this pass",
+   "source": "https://www.si.com/nfl/bills/onsi/rumors-bills-wide-receivers-on-roster-bubble-vs-roster-locks-training-camp-skyler-bell"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/bills/onsi/rumors-bills-wide-receivers-on-roster-bubble-vs-roster-locks-training-camp-skyler-bell"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "player_id": "12517",
+ "name": "Colston Loveland",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-18",
+   "role": "Described by Chicago Sun-Times (8/18) as having 'emerged as the Bears' biggest weapon' in training camp, especially valuable in tight red-zone spaces; no defender able to consistently cover him in camp reps",
+   "note": "Strong camp buzz but no concrete snap/target numbers reported yet",
+   "source": "https://chicago.suntimes.com/bears/2026/08/18/bears-training-camp-report-no-15-can-anybody-cover-te-colston-loveland-this-season"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 0,
+   "injury": "",
+   "role": "Bears clear TE1; played 100% of third-down snaps over Cole Kmet, who has slid to TE2",
+   "note": "[news 2026-09-14] Led all Bears pass-catchers in snaps (65) and routes (35) despite 0 catches on 2 targets - usage strong despite the quiet box score",
+   "source": "https://www.draftsharks.com/fantasy-football-news/82610/colston-loveland-gets-a-goose-eggbut-dont-worry-quite-yet"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Leads Bears TEs in routes run but buried in target share; used heavily in pass protection vs blitz-heavy defenses",
+   "note": "Week1: 0 catches on 33 routes; Week2 vs MIN: 1 catch/3 yds on 28 routes; 5 targets through 2 games (31st among TEs); avg separation down to 2.1 yds from 3.7 in 2025 [news 2026-09-21]",
+   "source": "https://www.cbssports.com/nfl/news/bears-te-colston-loveland-what-happened-2026/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/news/bears-te-colston-loveland-what-happened-2026/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

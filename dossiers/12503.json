@@ -1,0 +1,77 @@
+{
+ "player_id": "12503",
+ "name": "Isaiah Bond",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CLE"
+   },
+   {
+    "season": 2026,
+    "team": "CLE"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": ""
+   }
+  ],
+  "notes": [
+   "No team change; part of Browns' 2026 WR depth-chart discussion, exact ranking not confirmed this pass"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Concussion protocol; sidelined for Wednesday (9/2) practice after a head injury suffered in the Aug 22 preseason game vs. Buffalo",
+   "as_of": "2026-09-02"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://lastwordonsports.com/nfl/2026/07/11/browns-wide-receiver-depth-chart/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.dawgsbynature.com/cleveland-browns-roster-players/127713/browns-roster-wr-depth-chart-and-expectations",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://dawgpounddaily.com/browns-plan-for-isaiah-bond-is-unknown-after-confusing-week-1-usage-01m2repyne7f",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://lastwordonsports.com/nfl/2026/07/11/browns-wide-receiver-depth-chart/"
+  },
+  {
+   "date": "2026-09-02",
+   "injury": "Concussion protocol; sidelined for Wednesday (9/2) practice after a head injury suffered in the Aug 22 preseason game vs. Buffalo",
+   "role": "Not ruled out for Week 1 (Browns open vs. Jacksonville, more than a week away as of 9/2); missed practice time is limiting reps with QB Deshaun Watson; Jerry Jeudy, KC Concepcion Jr. and Denzel Boston available if he's out",
+   "note": "Concussion since Aug 22 preseason game; status for Week 1 still uncertain as of 9/2",
+   "source": "https://heavy.com/sports/nfl/cleveland-browns/worrisome-update-on-isaiah-bond-concussion/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Expected 3rd/4th WR option behind KC Concepcion, Denzel Boston, and Jerry Jeudy",
+   "note": "Wk1 played only 7 snaps; missed practice time before the opener after entering concussion protocol post-preseason G2. No Week 2 stat line found. [news 2026-09-20]",
+   "source": "https://dawgpounddaily.com/browns-plan-for-isaiah-bond-is-unknown-after-confusing-week-1-usage-01m2repyne7f"
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "player_id": "12509",
+ "name": "Tre' Harris",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LAC"
+   },
+   {
+    "season": 2026,
+    "team": "LAC"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "LAC",
+    "games": 17,
+    "carries": 2,
+    "targets": 43,
+    "rec": 30,
+    "yards": 324,
+    "td": 1,
+    "note": "Rookie year (2025 2nd-round pick): 43 tgt/30 rec/324 rec yds/1 TD in 17 games, plus 2 carries for 10 yds. Modest/quiet rookie production; a Week 18 report described him as 'a non-factor' late in the season."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract, not researched this pass."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "No HC/OC change verified for LAC this pass."
+  },
+  "competition": [
+   {
+    "name": "Ladd McConkey",
+    "age": 24,
+    "status": "healthy, slot WR1",
+    "note": "",
+    "resolved_id": "11635",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Quentin Johnston",
+    "age": 24,
+    "status": "healthy, left-WR1",
+    "note": "",
+    "resolved_id": "9754",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Ourlads 2026 depth chart lists Harris as the RWR1 (starter) at right wide receiver, ahead of Brenen Thompson, JaQuae Jackson, and Sincere Brown -- he is not buried on the depth chart, he's atop his alignment spot.",
+   "FantasyPros preseason content (accessed Aug 2026) frames him as a 'WR sleeper' entering year two."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable (per Sleeper as of check date; underlying reason not found in news)",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/LAC",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/lac/los-angeles-chargers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/players/tre-harris.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/stats/tre-harris.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/tre-harris-leads-lac-in-receiving-in-week-2",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/LAC"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 1,
+   "injury": "Questionable (per Sleeper as of check date; underlying reason not found in news)",
+   "role": "Led Chargers in receiving Week 2; earlier Wk1 had 41.9% slot-snap share with Ladd McConkey banged up",
+   "note": "Wk2: 3 tgt, 1 rec, 53 yds (long catch), led LAC in receiving yards. Wk1: 13 snaps, 41.9% slot share, with McConkey questionable (chest, DNP Wed/Thu). [news 2026-09-19/20]",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/tre-harris-leads-lac-in-receiving-in-week-2"
+  }
+ ]
+}

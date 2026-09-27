@@ -1,0 +1,79 @@
+{
+ "player_id": "9230",
+ "name": "Tanner McKee",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "PHI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jalen Hurts",
+    "age": 28,
+    "status": "starter",
+    "note": "QB1 ahead of McKee, per Eagles depth chart",
+    "resolved_id": "6904",
+    "resolved_team": "PHI",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Eagles depth chart (ourlads, confirmed): 1. Jalen Hurts, 2. Tanner McKee, 3. Andy Dalton, 4. Cole Payton. McKee is clear QB2 \u2014 one injury from starting for a healthy team.",
+   "2025 prior team not independently confirmed this pass; no indication of a team change."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "not checked this pass"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/PHI",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/PHI"
+  },
+  {
+   "date": "2026-09-02",
+   "role": "In unresolved competition with Andy Dalton for Eagles QB2 behind Jalen Hurts; Eagles kept 4 QBs and have not publicly named a QB2",
+   "note": "McKee struggled in preseason finale vs Cincinnati (30-13 loss), leaving backup competition undecided as of roster cutdowns",
+   "source": "https://www.msn.com"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper depth_chart_position QB order 3 (third string, behind starter)",
+   "note": "Not on PHI injury report as of 2026-09-21; no notable news found this session",
+   "source": "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/injuries/"
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "player_id": "9484",
+ "name": "Tucker Kraft",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2023,
+    "team": "GB"
+   },
+   {
+    "season": 2024,
+    "team": "GB"
+   },
+   {
+    "season": 2025,
+    "team": "GB"
+   },
+   {
+    "season": 2026,
+    "team": "GB"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2023,
+    "team": "GB",
+    "games": 17,
+    "carries": 0,
+    "targets": 40,
+    "rec": 31,
+    "yards": 355,
+    "td": 2,
+    "note": ""
+   },
+   {
+    "season": 2024,
+    "team": "GB",
+    "games": 17,
+    "carries": 0,
+    "targets": 70,
+    "rec": 50,
+    "yards": 707,
+    "td": 7,
+    "note": "Career-high targets/receptions to date."
+   },
+   {
+    "season": 2025,
+    "team": "GB",
+    "games": 8,
+    "carries": 0,
+    "targets": 44,
+    "rec": 32,
+    "yards": 489,
+    "td": 6,
+    "note": "Season cut short by Week 9 ACL tear vs Carolina; was playing at a top-5 TE level (per Athletic reporter Matt Schneidman) before injury."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Entering final year of rookie deal in 2026 ($3.93M cap hit); pending unrestricted free agent in 2027. Extension talks underway as of 2026-07-21 (ESPN's Rob Demovsky); projected to exceed Kyle Pitts' $18M AAV and potentially approach George Kittle/Trey McBride ($19M AAV) range."
+  },
+  "scheme": {
+   "oc": "Matt LaFleur (HC/playcaller)",
+   "note": "No OC change reported; LaFleur remains offensive play-caller for Packers in 2026."
+  },
+  "competition": [
+   {
+    "name": "Christian Watson",
+    "age": 27,
+    "status": "",
+    "note": "Other receiving option mentioned alongside Kraft in TE/pass-catcher discussion.",
+    "resolved_id": "8167",
+    "resolved_team": "GB",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Matthew Golden",
+    "age": 23,
+    "status": "",
+    "note": "Other receiving option mentioned alongside Kraft.",
+    "resolved_id": "12501",
+    "resolved_team": "GB",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Luke Musgrave",
+    "age": 25,
+    "status": "",
+    "note": "Backup/TE2 competition behind Kraft.",
+    "resolved_id": "9481",
+    "resolved_team": "GB",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Torn ACL suffered Week 9 of 2025 season vs Carolina Panthers; ended his season at 8 games played.",
+   "Ranked top-5 among NFL tight ends in yards after catch over the two seasons prior to the injury, per reporting.",
+   "Placed on training-camp PUP list to open camp 2026, then activated off PUP on Day 3 of camp (~2026-07-31/08-01)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Recovering from ACL injury; appears ready for Week 1 but Packers may manage his workload",
+   "as_of": "2026-09-02"
+  },
+  "camp": [
+   {
+    "quote": "So, we're just going to kind of get him back ingrained into the process and into individual...",
+    "who": "HC Matt LaFleur",
+    "date": "2026-08-01"
+   },
+   {
+    "quote": "The only way to move forward is just to control what you can control.",
+    "who": "Tucker Kraft",
+    "date": "2026-08-01"
+   },
+   {
+    "quote": "I think the best chance for Green Bay to win a Lombardi is with me on the field as well...",
+    "who": "Tucker Kraft",
+    "date": "2026-08-01"
+   },
+   {
+    "quote": "My goal is I want to play for this organization my entire career.",
+    "who": "Tucker Kraft",
+    "date": "2026-08-01"
+   },
+   {
+    "quote": "I understand other peoples' worries in that facet. However, I myself, I'm just worried about getting back to who I was pre-injury.",
+    "who": "Tucker Kraft",
+    "date": "2026-08-03"
+   },
+   {
+    "quote": "Told me my knee looks spectacular, almost like he had never seen rehabilitation like mine.",
+    "who": "Tucker Kraft (relaying doctor's assessment)",
+    "date": "2026-08-03"
+   },
+   {
+    "quote": "has looked swift while rehabbing on the side of practice this offseason... should be full go by the time the Packers visit the Vikings to open the season.",
+    "who": "Matt Schneidman (The Athletic)",
+    "date": "2026-06-22"
+   },
+   {
+    "quote": "Next up, Tucker Kraft. The Packers star tight end should be next in line for a contract extension... Both the Packers and Kraft have made it clear they want to continue going forward.",
+    "who": "Rob Demovsky (ESPN)",
+    "date": "2026-07-21"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://dairylandexpress.com/tucker-kraft-appears-to-put-injury-concerns-behind-him-at-packers-training-camp-01kyxb29jje9",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://collegefootballnetwork.com/nfl/tucker-kraft-injury-update-packers/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/packers-land-major-tucker-krafts-163423889.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sportsnaut.com/nfl/green-bay-packers-news-tucker-kraft-contract-extension-next",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/K/KrafTu00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/GB/green-bay-packers/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Recovering from ACL tear, on track for Week 1",
+   "note": "baseline from initial research pass",
+   "source": "https://dairylandexpress.com/tucker-kraft-appears-to-put-injury-concerns-behind-him-at-packers-training-camp-01kyxb29jje9"
+  },
+  {
+   "date": "2026-09-02",
+   "injury": "Recovering from ACL injury; appears ready for Week 1 but Packers may manage his workload",
+   "role": "Packers' top TE target, currently in \"complicated\" contract extension talks with GM Brian Gutekunst; Packers also signed Pro Bowl TE Jonnu Smith to a 1-year deal, adding competition at the position",
+   "note": "Returned to offense in camp with a TD catch (~Aug 23); ACL recovery appears on track for Week 1, workload could be managed early",
+   "source": "https://www.msn.com"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper depth_chart_position TE order 1 (starter); Sleeper injury_status field showed \"Questionable\" but explicitly does NOT appear on the 2026-09-21 GB CBS injury report",
+   "note": "Conflicting signal: Sleeper's raw injury_status field said Questionable, but the current CBS GB injury report (2026-09-21) lists no entry for Kraft -- treat as likely healthy/no game-status designation pending confirmation",
+   "source": "https://www.cbssports.com/nfl/teams/GB/green-bay-packers/injuries/"
+  }
+ ]
+}

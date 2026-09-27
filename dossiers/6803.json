@@ -1,0 +1,103 @@
+{
+ "player_id": "6803",
+ "name": "Brandon Aiyuk",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SF"
+   },
+   {
+    "season": 2026,
+    "team": "SF"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "SF",
+    "games": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 0,
+    "td": 0,
+    "note": "Did not play in 2025 - still recovering from Oct 2024 torn ACL/MCL and in a contract/rehab dispute with the team"
+   },
+   {
+    "season": 2024,
+    "team": "SF",
+    "games": 7,
+    "targets": 47,
+    "rec": 25,
+    "yards": 374,
+    "td": 0,
+    "note": "Last season played, ended by ACL/MCL tear"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Signed 4-yr/$120M extension in 2024; 49ers voided his 2026 guaranteed money over a dispute regarding his rehab process (NBC Sports Bay Area, 6/10/26)"
+  },
+  "scheme": {
+   "oc": "Klay Kubiak",
+   "note": "Referenced as SF OC in camp coverage; not independently confirmed via team/wiki source"
+  },
+  "competition": [],
+  "notes": [
+   "49ers front office stance: 'will not play for them again' per team sources (larrybrownsports, 8/7/26), preferring a trade over release; contractually still under team control through 2028"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Reserve-DNR (Did Not Report)",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "A bunch of social media posts... somewhat bizarre and alarming",
+    "who": "Adam Schefter (ESPN), re: why Washington cooled on trading for Aiyuk",
+    "date": "2026-08-07"
+   },
+   {
+    "quote": "Wishes Commanders 'great luck' amid 49ers standoff",
+    "who": "Aiyuk Instagram post, via Bleacher Report",
+    "date": "2026-07-29"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/san-francisco-49ers-depth-chart-sf",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://larrybrownsports.com/football/brandon-aiyuk-commanders-posts-interest/764977",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://bleacherreport.com/articles/25458989-brandon-aiyuk-wishes-commanders-great-luck-new-ig-post-amid-49ers-contract-standoff",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brandon-aiyuk-training-camp-fines/1942593/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/stats/brandon-aiyuk.php",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Reserve-DNR (Did Not Report)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/san-francisco-49ers-depth-chart-sf"
+  }
+ ]
+}

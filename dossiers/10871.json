@@ -1,0 +1,108 @@
+{
+ "player_id": "10871",
+ "name": "Luke Schoonmaker",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DAL"
+   },
+   {
+    "season": 2026,
+    "team": "DAL"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jake Ferguson",
+    "age": 27,
+    "status": "starter",
+    "note": "TE1",
+    "resolved_id": "8110",
+    "resolved_team": "DAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Brevyn Spann-Ford",
+    "age": 26,
+    "status": "backup",
+    "note": "TE2, rising",
+    "resolved_id": "11593",
+    "resolved_team": "DAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "John Stephens Jr.",
+    "age": 26,
+    "status": "backup",
+    "note": "high-potential UDFA",
+    "resolved_id": "11511",
+    "resolved_team": null,
+    "resolved_pos": "TE",
+    "same_team": false
+   },
+   {
+    "name": "Princeton Fant",
+    "age": 27,
+    "status": "backup",
+    "note": "special teams",
+    "resolved_id": "11508",
+    "resolved_team": "DAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Aug 2026 headline: 'former 2nd-round pick getting pushed off roster by UDFAs'; prior hamstring injury reported at 2025 OTAs \u2014 buried on depth chart, real cut/trade risk"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Unclear",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Being pushed off roster by undrafted rookies per Blogging The Boys (Aug 2026)"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.bloggingtheboys.com/dallas-cowboys-roster/212792/luke-schoonamker-roster-battle-brevyn-spann-ford-michael-trigg",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/10871",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Unclear",
+   "note": "baseline from initial research pass",
+   "source": "https://www.bloggingtheboys.com/dallas-cowboys-roster/212792/luke-schoonamker-roster-battle-brevyn-spann-ford-michael-trigg"
+  },
+  {
+   "date": "2026-08-12",
+   "role": "Third-string TE on Cowboys' initial 2026 training-camp depth chart, behind Jake Ferguson and Brevyn Spann-Ford",
+   "note": "A separate Dallas Morning News preseason piece (not fetchable, robots-blocked) was headlined 'Schoonmaker, Zack Kuntz see increased roles with Cowboys shorthanded at TE vs. Cardinals' suggesting a later preseason bump in playing time, but detail could not be verified.",
+   "source": "https://www.si.com/nfl/cowboys/onsi/dallas-cowboys-first-depth-chart-2026-training-camp"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "TE2 (Sleeper depth_chart_order 2)",
+   "note": "No current Week 2 2026 news found; only a stale 2024 article surfaced in search (discarded). No notable news found",
+   "source": "https://api.sleeper.app/players/nfl/10871"
+  }
+ ]
+}

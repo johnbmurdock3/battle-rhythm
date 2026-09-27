@@ -1,0 +1,75 @@
+{
+ "player_id": "6869",
+ "name": "Adam Trautman",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DEN"
+   },
+   {
+    "season": 2026,
+    "team": "DEN"
+   }
+  ],
+  "workload": [
+   {
+    "note": "57% offensive snap share in 2025; has exceeded 50% each of last 3 seasons"
+   }
+  ],
+  "contract": {
+   "terms": "Re-signed 3-year deal, March 9, 2026"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Lucas Krull",
+    "age": 28,
+    "status": "re-signed",
+    "note": "1-year deal",
+    "resolved_id": "8249",
+    "resolved_team": "DEN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Nate Adkins",
+    "age": 27,
+    "status": "re-signed",
+    "note": "1-year deal",
+    "resolved_id": "11433",
+    "resolved_team": "DEN",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; re-signed to a 3-year deal and remains the regular starting/high-snap-share TE in Denver."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.denverbroncos.com/news/broncos-re-sign-te-adam-trautman-to-3-year-contract",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.denverbroncos.com/news/broncos-re-sign-te-adam-trautman-to-3-year-contract"
+  }
+ ]
+}

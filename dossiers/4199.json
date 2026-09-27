@@ -1,0 +1,110 @@
+{
+ "player_id": "4199",
+ "name": "Aaron Jones",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "MIN"
+   },
+   {
+    "season": 2026,
+    "team": "MIN"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "2026": "Restructured from $9M to $5.5M base salary to stay with Vikings for 2026 (per NFL.com); Vikings had reportedly considered releasing him at start of 2026 league year"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jordan Mason",
+    "age": 27,
+    "status": "camp leader",
+    "note": "Acquired via trade from SF; per Draft Sharks (Aug 10, 2026) 'nearly all signs point to this being Mason's backfield'; officially still listed RB2 on ourlads roster depth chart behind Jones, but camp reporting (Yahoo, Clutch Points, Fansided, thebiglead) consistently frames Mason as overtaking Jones this camp",
+    "resolved_id": "8408",
+    "resolved_team": "MIN",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Took a pay cut ($9M->$5.5M) to remain in Minnesota rather than be released/traded.",
+   "Multiple Aug 2026 camp reports (Draft Sharks Aug 10, Yahoo, Fansided) say Jordan Mason is winning the RB1 job/lead-back role in camp despite Jones still sitting atop the official ourlads depth chart.",
+   "At 31, coming off a 2025 season shortened by injury; touches/role likely to be committee or Mason-leaning to start 2026."
+  ]
+ },
+ "volatile": {
+  "camp": [
+   "Jordan Mason drawing 'RB1' buzz in camp reporting through Aug 10, 2026; Jones has not been reported injured or limited"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22",
+  "injury": {
+   "status": "Active, not on MIN injury report [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  }
+ },
+ "sources": [
+  {
+   "url": "https://www.draftsharks.com/fantasy-football-news/82184/jordan-masons-camp-surge-has-vikings-rb1-battle-tilting",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/vikings-jordan-mason-turning-heads-143102533.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/vikings-rb-aaron-jones-agree-to-revised-contract-for-2026-season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://mabumbe.com/people/aaron-jones-injury-update-and-vikings-release-news-2026/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://thevikingage.com/minnesota-vikings-2026-training-camp-tracker-latest-updates-news-injuries-rumors",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/MIN",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/MIN/minnesota-vikings/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.draftsharks.com/fantasy-football-news/82184/jordan-masons-camp-surge-has-vikings-rb1-battle-tilting"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "",
+   "role": "Co-starting RB with Jordan Mason on Vikings' depth chart (CBS, 2026-09-02)",
+   "note": "CORRECTED 2026-09-03: an earlier IR claim did not verify \u2014 Sleeper returns injury_status Active/null and CBS 9/2 lists him co-starting with Mason.",
+   "source": "https://www.cbssports.com/fantasy/football/news/vikings-jordan-mason-co-starting-rb-with-jones/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "None currently reported",
+   "role": "Remains Vikings starting RB; Jordan Mason and rookie Demond Claiborne behind him",
+   "note": "[news 2026-09-04] Pre-Week-1 commentary recommended capping him near 20 snaps/game given age 31 and injury history",
+   "source": "https://www.si.com/nfl/vikings/onsi/vikings-good-reason-limit-aaron-jones-sr-s-week-1-snap-count-01m1mmr7tf34"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Active, not on MIN injury report [news 2026-09-21]",
+   "role": "RB1, depth_chart_order 1; backup Jordan Mason on IR (thumb, exp. return Wk7)",
+   "note": "Clear lead-back role for Jones with primary backup Mason out through ~Week 7; no specific Wk2 box-score numbers found this run",
+   "source": "https://www.cbssports.com/nfl/teams/MIN/minnesota-vikings/injuries/"
+  }
+ ]
+}

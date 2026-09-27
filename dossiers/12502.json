@@ -1,0 +1,50 @@
+{
+ "player_id": "12502",
+ "name": "Gunnar Helm",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-09",
+   "role": "Per Titans.com's own first unofficial 2026 depth chart (~Aug 8-9), 'the Titans listed one tight end in the starting lineup, and it's Gunnar Helm' \u2014 TE1 ahead of Chig Okonkwo entering his second season",
+   "note": "Team's own site lists him as starting TE for 2026",
+   "source": "https://www.tennesseetitans.com/news/20-things-that-caught-my-eye-on-the-first-unofficial-depth-chart-for-the-titans-in-2026"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 4,
+   "injury": "",
+   "role": "TEN TE1, primary receiving TE in Week 1",
+   "note": "[news 2026-09-13] Caught 4 of 5 targets for 28 yards in Week 1",
+   "source": "https://ca.sports.yahoo.com/news/gunnar-helm-catches-four-passes-223959071.html"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 2,
+   "injury": "",
+   "role": "TE1 on Sleeper depth chart (order 1)",
+   "note": "Wk2 vs PHI: 2 tgt, 2 rec, 13 yds - quiet game after a 4/28 Wk1. [news 2026-09-20]",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/gunnar-helm-held-to-2-13-vs-eagles"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/gunnar-helm-held-to-2-13-vs-eagles",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

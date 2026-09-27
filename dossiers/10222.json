@@ -1,0 +1,145 @@
+{
+ "player_id": "10222",
+ "name": "Jayden Reed",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "GB"
+   },
+   {
+    "season": 2026,
+    "team": "GB"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "GB",
+    "games": 7,
+    "carries": 3,
+    "targets": 22,
+    "rec": 19,
+    "yards": 207,
+    "td": 1,
+    "note": "Broke collarbone vs. WAS on 2025-09-11, placed on IR ~2025-09-12, missed most of season; rushing yards 28 not included in yards field (receiving only)."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Not researched this pass."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Matt LaFleur remains HC; no confirmed OC change found. LaFleur quoted 2026-08-10 re: camp workload management."
+  },
+  "competition": [
+   {
+    "name": "Matthew Golden",
+    "age": 23,
+    "status": "WR1 (2025 first-round rookie), projected ~24% target share for 2026",
+    "note": "Born 2003-08-01; per SI (2026), listed ahead of Reed as 'true WR1'.",
+    "resolved_id": "12501",
+    "resolved_team": "GB",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Romeo Doubs",
+    "age": 26,
+    "status": "WR3, projected ~19% target share",
+    "note": "Born 2000-04-13.",
+    "resolved_id": "8121",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": false
+   },
+   {
+    "name": "Dontayvion Wicks",
+    "age": 25,
+    "status": "WR4/backup, ~14% projected target share",
+    "note": "",
+    "resolved_id": "9486",
+    "resolved_team": "PHI",
+    "resolved_pos": "WR",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "Reed himself projected WR2/slot at ~21% target share per SI 2026 depth-chart projection article."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Out - back injury, ruled out, unlikely to play Thursday vs ATL [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "Jayden Reed appeared on the injury report with a new ankle injury during Practice 9.",
+    "who": "SI Packers (Onsi)",
+    "date": "2026-08-09"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.fantasypros.com/nfl/news/601592/jayden-reed-ankle-not-expected-to-practice-monday.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/packers/onsi/what-happened-at-practice-9-of-packers-training-camp-key-injury-updates",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/news/jayden-reed-injury-packers-wr-heading-to-ir-with-fractured-collarbone-reportedly-aiming-for-november-return/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.statmuse.com/nfl/ask/jayden-reed-season-stats-2025",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/onsi/fantasy/nfl/packers-wr-depth-chart-matthew-golden-jayden-reed",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/jayden-reeds-injury-status-remains-195526144.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "New ankle injury, did not practice",
+   "note": "baseline from initial research pass",
+   "source": "https://www.fantasypros.com/nfl/news/601592/jayden-reed-ankle-not-expected-to-practice-monday.php"
+  },
+  {
+   "date": "2026-08-21",
+   "injury": "No current designation on Sleeper; had a minor issue early August 2026 (missed some practice) but was cleared and played preseason Week 1 vs Pittsburgh (1 catch/2 targets, 19 yds); sat out preseason Week 2 vs Denver as rest/management decision, not injury",
+   "role": "Packers WR in mix with Christian Watson, Matthew Golden, Savion Williams",
+   "note": "As of Aug 21, 2026 report, absence described as precautionary rest, not a new injury; no Week 1 2026 regular-season status found yet.",
+   "source": "https://www.cbssports.com/fantasy/football/news/packers-jayden-reed-will-not-suit-up-friday/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "No role change found",
+   "note": "Listed Active with no injury designation; older collarbone/ankle reports were 2025 and do not apply",
+   "source": "https://fantasyfootballcalculator.com/players/jayden-reed/injury"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Out - back injury, ruled out, unlikely to play Thursday vs ATL [news 2026-09-21]",
+   "role": "Replaced in starting lineup by Christian Watson and Matthew Golden; Skyy Moore/Bo Melton complementary",
+   "note": "Back injury (initially misreported as neck); timetable unclear, realistic chance to return later this season [news 2026-09-21]",
+   "source": "https://sports.yahoo.com/articles/jayden-reeds-injury-status-remains-195526144.html"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "player_id": "12484",
+ "name": "Jayden Higgins",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "torn ACL, out for the 2026 season, on IR",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-19",
+   "injury": "OUT FOR THE SEASON - torn ACL suffered in a joint practice with the Raiders",
+   "role": "Season-ending injury; Texans expected to lean on Xavier Hutchinson, Jaylin Noel, and Justin Watson at WR with both Higgins and Tank Dell out",
+   "note": "MAJOR: Higgins is out for the entire 2026 season with a torn ACL; Sleeper's 'None/Active' status appears stale or incorrect",
+   "source": "https://www.nfl.com/news/texans-wr-jayden-higgins-torn-acl-out-2026-season"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Torn ACL in an Aug 18 joint practice; placed on IR, out for the entire 2026 season",
+   "role": "Removed from Texans WR rotation for the season; opens snaps for Houston's other receivers",
+   "note": "[news 2026-08-19] Season-ending injury confirmed by NFL Network; Sleeper still lists IR as of 9/15",
+   "source": "https://www.nfl.com/news/texans-wr-jayden-higgins-torn-acl-out-2026-season"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "torn ACL, out for the 2026 season, on IR",
+   "role": "season-ending injury; Xavier Hutchinson, Jaylin Noel and Justin Watson cited as beneficiaries",
+   "note": "Tore his ACL during an Aug 18-19, 2026 joint practice with the Raiders [news reported 2026-08-20]; ruled out for the entire 2026 season. Had 41 catches, 525 yds, 6 TD as a rookie. Sleeper confirms HOU WR, status IR.",
+   "source": "https://www.nfl.com/news/texans-wr-jayden-higgins-torn-acl-out-2026-season"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.nfl.com/news/texans-wr-jayden-higgins-torn-acl-out-2026-season",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

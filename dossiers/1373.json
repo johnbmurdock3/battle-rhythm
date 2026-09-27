@@ -1,0 +1,96 @@
+{
+ "player_id": "1373",
+ "name": "Geno Smith",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LV"
+   },
+   {
+    "season": 2026,
+    "team": "NYJ"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Justin Fields",
+    "age": 27,
+    "status": "",
+    "note": "Fields was Jets' 2025 starter before landing on season-ending IR; role behind Smith in 2026 not fully confirmed",
+    "resolved_id": "7591",
+    "resolved_team": "KC",
+    "resolved_pos": "QB",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: traded from Las Vegas Raiders to New York Jets in a swap of 2026 late-round picks (trade reported ~March 11, 2026), returning to the franchise that drafted him.",
+   "Jets HC Aaron Glenn has publicly confirmed Geno Smith as the Week 1 2026 starting QB \u2014 high-value superflex asset given confirmed starting role."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Active/no injury designation per Sleeper as of 2026-09-22",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.newyorkjets.com/news/jets-acquire-quarterback-geno-smith-trade-raiders-03-11-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/story/_/id/48164552/sources-jets-get-their-qb-trade-raiders-geno-smith",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/aaron-glenn-confirms-geno-smith-194408274.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.newyorkjets.com/news/jets-camp-position-preview-2026-quarterback-geno-smith",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/1373",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-03-11",
+   "role": "Starting QB, New York Jets",
+   "note": "Traded from Raiders to Jets on Mar 11, 2026 (Jets sent a 2026 6th-rounder, got Smith plus a 7th; Jets drafted Smith originally in 2013)",
+   "source": "https://www.newyorkjets.com/news/jets-acquire-quarterback-geno-smith-trade-raiders-03-11-2026"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.newyorkjets.com/news/jets-acquire-quarterback-geno-smith-trade-raiders-03-11-2026"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Traded from Raiders to Jets; Jets starting QB for 2026",
+   "note": "[news 2026-03-10] Team change: now NYJ, not LV",
+   "source": "https://www.cbssports.com/nfl/news/raiders-trading-geno-smith-to-jets-for-swap-of-2026-late-round-picks/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Active/no injury designation per Sleeper as of 2026-09-22",
+   "role": "Confirmed starting QB (depth_chart_order 1). Backup is rookie 4th-round QB Cade Klubnik, whom the Jets 'want to see grow into the No. 2 role' [news 2026-08-14].",
+   "note": "Was scratched vs. Bucs in preseason with a sore ankle, day-to-day [news 2026-08-15]; injury appears resolved since Sleeper shows Active status and he has started through Week 2. No Week 2 box score details found (search budget exhausted this session).",
+   "source": "https://api.sleeper.app/players/nfl/1373"
+  }
+ ]
+}

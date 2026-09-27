@@ -1,0 +1,81 @@
+{
+ "player_id": "11637",
+ "name": "Keon Coleman",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "BUF"
+   },
+   {
+    "season": 2026,
+    "team": "BUF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "D.J. Moore",
+    "age": 29,
+    "status": "starter",
+    "note": "WR1, ahead of Coleman",
+    "resolved_id": "4983",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Khalil Shakir",
+    "age": 26,
+    "status": "starter",
+    "note": "WR2, ahead of Coleman",
+    "resolved_id": "8134",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Joshua Palmer",
+    "age": 26,
+    "status": "competitor",
+    "note": "currently holds WR3 role but Coleman reportedly closing in on him",
+    "resolved_id": "7670",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. SI (Aug 5, 2026): Coleman 'climbing' the WR depth chart after consecutive strong camp days, closing in on Joshua Palmer for the WR3 spot -- positive camp trend for a 2026 draft target."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Climbing depth chart after consecutive good practices, per SI Aug 5, 2026"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/bills/onsi/training-camp-bills-keon-coleman-climbing-wr-depth-chart-after-stacking-consecutive-good-days",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/bills/onsi/training-camp-bills-keon-coleman-climbing-wr-depth-chart-after-stacking-consecutive-good-days"
+  }
+ ]
+}

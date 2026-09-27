@@ -1,0 +1,79 @@
+{
+ "player_id": "12515",
+ "name": "Donovan Edwards",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "WAS"
+   },
+   {
+    "season": 2026,
+    "team": "MIA"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "De'Von Achane",
+    "age": 24,
+    "status": "starter",
+    "note": "RB1",
+    "resolved_id": "9226",
+    "resolved_team": "MIA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Ollie Gordon II",
+    "age": 22,
+    "status": "backup",
+    "note": "ahead of Edwards",
+    "resolved_id": "12495",
+    "resolved_team": "MIA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Jaylen Wright",
+    "age": 23,
+    "status": "backup",
+    "note": "ahead of Edwards",
+    "resolved_id": "11643",
+    "resolved_team": "MIA",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: joined Miami (2026) from Washington practice squad (2025), tagged 'P/Was' on Dolphins depth chart. RB4, buried behind Achane/Gordon/Wright."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/MIA",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/MIA"
+  }
+ ]
+}

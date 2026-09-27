@@ -1,0 +1,141 @@
+{
+ "player_id": "8132",
+ "name": "Tyler Allgeier",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "ATL"
+   },
+   {
+    "season": 2026,
+    "team": "ARI"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "ATL",
+    "games": 17,
+    "carries": 143,
+    "targets": 16,
+    "rec": 14,
+    "yards": 610,
+    "td": 8,
+    "note": "514 rush yds/143 car/8 rush TD + 96 rec yds/14 rec, 0 rec TD; career-high 8 rushing TDs per CBS Sports"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Signed with Arizona in 2026 free agency/offseason (moved from Atlanta); exact date not confirmed this pass"
+  },
+  "scheme": {
+   "oc": "Nathaniel Hackett",
+   "note": "New Cardinals HC Mike LaFleur (first season) and new OC Nathaniel Hackett (replacing Drew Petzing, who left for Detroit) for 2026"
+  },
+  "competition": [
+   {
+    "name": "Jeremiyah Love",
+    "age": 21,
+    "status": "RB2, rookie, drafted 3rd overall",
+    "note": "Notre Dame RB, drafted Apr 23, 2026, signed 4-yr/$53M deal May 8, 2026; azcardinals.com notes he could 'jump to the top of the depth chart'",
+    "resolved_id": "13287",
+    "resolved_team": "ARI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "James Conner",
+    "age": 31,
+    "status": "RB3",
+    "note": "was ARI starter to open 2025 before season-ending foot injury",
+    "resolved_id": "4137",
+    "resolved_team": "ARI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Trey Benson",
+    "age": 24,
+    "status": "RB4",
+    "note": "coming off 2025 knee surgery, dealing with knee soreness in Aug 2026 camp",
+    "resolved_id": "11589",
+    "resolved_team": "ARI",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Allgeier listed RB1 on Cardinals' Aug 2, 2026 preseason depth chart (ahead of Love, Conner, Benson) per Yahoo Sports, but Love's draft pedigree/contract and press narrative suggest an incumbent-vs-rookie battle worth watching."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Not injured himself; ROLE-OPENING injuries ahead of him: James Conner (foot) placed on IR, expected return Week 5; Trey Benson (knee) placed on IR [news 2026-09-21/22]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/arizona-cardinals-release-first-preseason-180401066.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/A/AllgTy00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jeremiyah_Love",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/James_Conner_(American_football)",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Arizona_Cardinals_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/ARI/arizona-cardinals/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/arizona-cardinals-release-first-preseason-180401066.html"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported (ESPN roster data: 'Injury Status: None listed') as of 2026-09-03",
+   "role": "Role change/opportunity: Cardinals placed James Conner on Reserve/Injured with Designated for Return (Conner separately listed Questionable on an 2026-08-26 injury report), waived RB Trey Benson (knee issue), and traded RB Corey Kiner to New England while finalizing the 53-man roster; rookie Jeremiyah Love is described as 'still working toward 11-on-11 snaps.' This positions Allgeier as Arizona's clearest lead back in the near term",
+   "note": "Team change confirmed to Arizona; positioned for a lead-back role with Conner on IR and Benson waived",
+   "source": "https://www.azcardinals.com/news/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 19,
+   "injury": "",
+   "role": "TEAM CHANGE ATL to ARI. Lead RB role opened up because BOTH James Conner (foot, IR, earliest Wk5) and Trey Benson (knee, IR) are out",
+   "note": "[news 2026-09-13] Week 1 vs LAC: 17 carries for 61 yds + 2 rec for 9 yds - workhorse-level usage",
+   "source": "https://www.pro-football-reference.com/players/A/AllgTy00.htm"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 7,
+   "injury": "Not injured himself; ROLE-OPENING injuries ahead of him: James Conner (foot) placed on IR, expected return Week 5; Trey Benson (knee) placed on IR [news 2026-09-21/22]",
+   "role": "Listed RB2 per Sleeper depth chart as of fetch, but with both RBs ahead of him (Conner, Benson) now on IR, Allgeier is ARI's presumptive Week 3 lead back",
+   "note": "Week 2 vs SEA (7-0 loss, low-volume game overall): 5 rush/10 yds, 2 rec/2 tgt. Since that game, Conner and Benson both landed on IR, which is the clear driver of Allgeier's rising waiver interest -- expect a much larger workload Week 3.",
+   "source": "https://www.cbssports.com/nfl/teams/ARI/arizona-cardinals/injuries/"
+  }
+ ]
+}

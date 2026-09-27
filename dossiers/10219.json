@@ -1,0 +1,117 @@
+{
+ "player_id": "10219",
+ "name": "Chris Rodriguez",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "WAS"
+   },
+   {
+    "season": 2026,
+    "team": "JAX"
+   }
+  ],
+  "workload": [
+   "2025: 112 carries, 4.5 YPC with Washington"
+  ],
+  "contract": {
+   "note": "Non-tendered by Washington, signed with Jacksonville as unrestricted free agent"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Bhayshul Tuten",
+    "age": 23,
+    "status": "healthy, holding majority of first-team reps",
+    "note": "RB1, incumbent",
+    "resolved_id": "12490",
+    "resolved_team": "JAX",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "LeQuint Allen",
+    "age": 22,
+    "status": "",
+    "note": "RB3",
+    "resolved_id": "12544",
+    "resolved_team": "JAX",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "DeeJay Dallas",
+    "age": 27,
+    "status": "",
+    "note": "RB4",
+    "resolved_id": "6931",
+    "resolved_team": "JAX",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Jacksonville depth chart as of camp: RB1 Tuten, RB2 Rodriguez, RB3 Allen, RB4 Dallas.",
+   "Coach Liam Coen frames it as a committee/one-two punch with Tuten, not a clear path to lead-back role.",
+   "Rodriguez has very few pass-catching reps in his NFL career, capping PPR ceiling even in a committee."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Missed most of offseason program with a foot injury (as of Aug 15, 2026 report)",
+   "as_of": "2026-08-15"
+  },
+  "camp": [
+   "Tuten holding majority of first-team RB reps as of late July 2026 while Rodriguez ramps up individually"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/updated-jaguars-running-back-depth-154205930.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://roundtable.io/sports/nfl/jaguars/news/jaguars-slowly-working-rodriguez-jr-back-to-full-health",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/headlines/chris-rodriguez-news-minimal-output-again-in-week-2-638395",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "recovering, targeting Week 1",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/updated-jaguars-running-back-depth-154205930.html"
+  },
+  {
+   "date": "2026-08-15",
+   "injury": "Missed most of offseason program with a foot injury (as of Aug 15, 2026 report)",
+   "role": "Two-down, short-yardage/goal-line back behind clear RB1 Bhayshul Tuten; LeQuint Allen ahead of him on passing downs; signed via free agency in a crowded 5-RB room",
+   "note": "Foot injury during offseason may have set him back in the competition for carries; value tied heavily to goal-line work, which QB Trevor Lawrence sometimes vultures.",
+   "source": "https://sports.yahoo.com/articles/chris-rodriguez-fantasy-outlook-2026-130510965.html"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Elevated to co-starter at RB alongside Bhayshul Tuten on Jacksonville official depth chart, LeQuint Allen Jr backup",
+   "note": "[news 2026-09-08] No confirmed box-score numbers from Week 1; split remains fluid per HC Liam Coen",
+   "source": "https://www.jaguars.com/news/jaguars-reveal-first-depth-chart-of-the-2026-regular-season"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 6,
+   "injury": "",
+   "role": "RB2 behind Bhayshul Tuten",
+   "note": "6 carries for 13 yds Week 2 (minimal output); Tuten was lead back with 13 carries/65 yds/1 TD [news 2026-09-20]. Team confirmed as JAX (signed there in 2026 free agency, not his prior team)",
+   "source": "https://www.rotowire.com/football/headlines/chris-rodriguez-news-minimal-output-again-in-week-2-638395"
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "player_id": "9753",
+ "name": "Zach Charbonnet",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SEA"
+   },
+   {
+    "season": 2024,
+    "team": "SEA"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "SEA",
+    "games": 16,
+    "carries": 184,
+    "targets": 24,
+    "rec": 20,
+    "yards": 730,
+    "td": 12,
+    "note": "730 rushing yards, 144 receiving yards, 12 total/rushing TDs -- breakout season, career-best TD total. Was set up to be Seattle's clear No. 1 RB for 2026 once Kenneth Walker III's contract expired, before the playoff ACL tear (per Yahoo Sports/Randy Gurzi, Jun 28, 2026)."
+   },
+   {
+    "season": 2024,
+    "team": "SEA",
+    "games": 17,
+    "carries": 135,
+    "targets": 52,
+    "rec": 42,
+    "yards": 340,
+    "td": 8,
+    "note": "8 rushing TDs, 340 receiving yards on 42 catches."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Playing on an expiring/final-year deal in 2026 per Yahoo Sports (Jun 29, 2026); no extension agreed as of that report. A strong healthy return would be needed to earn a second contract -- the ACL tear working against his leverage."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "No 2026 Seahawks OC change specifically identified in sources checked this session."
+  },
+  "competition": [
+   {
+    "name": "Kenneth Walker III",
+    "age": 25,
+    "status": "Contract expired / no longer with team",
+    "note": "Per Yahoo Sports (Jun 29, 2026), Walker's contract expired, which was expected to clear the path for Charbonnet as Seattle's No. 1 back -- before the ACL injury intervened.",
+    "resolved_id": "8151",
+    "resolved_team": "KC",
+    "resolved_pos": "RB",
+    "same_team": false
+   },
+   {
+    "name": "Jadarian Price",
+    "age": 22,
+    "status": "Rookie, first-round pick 2026, emerging as co-lead back",
+    "note": "Drafted in the first round (pick 32 per Field Gulls mock-draft context) to replace Kenneth Walker. Per roundtable.io (Aug 5, 2026, citing ESPN's Brady Henderson): 'Early indications suggest that Holani and Price will be the top two options, with Wilson mixing in as a powerful complement' -- i.e., Price is currently ahead of Charbonnet on the depth chart while Charbonnet remains on PUP.",
+    "resolved_id": "13286",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "George Holani",
+    "age": 26,
+    "status": "Incumbent RB, currently RB1/RB2 with Price",
+    "note": "Per roundtable.io (Aug 5, 2026), Holani is 'excelling as both runner and pass-catcher' and rising in the coaching staff's estimation while Charbonnet is out.",
+    "resolved_id": "12048",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Emanuel Wilson",
+    "age": 27,
+    "status": "Free-agent signing, complementary back",
+    "note": "Per roundtable.io (Aug 5, 2026), signed as a powerful complement in a committee approach; has impressed as a pass-catcher in camp.",
+    "resolved_id": "11435",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Jul 22, 2026 official PUP-list depth chart (seahawks.com) listed order as: Charbonnet (out/PUP), Emanuel Wilson, Jadarian Price, George Holani, Jacardia Wright.",
+   "By Aug 5, 2026 (roundtable.io/ESPN), the practical on-field pecking order had shifted: Holani and Price are described as the emerging top two, with Charbonnet still out and no timetable set -- this is a more recent and more decision-relevant read than the Jul 22 official list order.",
+   "HC Mike Macdonald (quoted 'last month' as of the Jul 22 seahawks.com PUP article, so roughly Jun 2026): 'He's doing a great job. I know he has high expectations for himself, and we're looking forward to seeing where it ends up.'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "PUP list - knee, out at least through Week 4-5; coach called his return timeline 'aggressive' [news ~2026-09-15]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "He's doing a great job. I know he has high expectations for himself, and we're looking forward to seeing where it ends up.",
+    "who": "HC Mike Macdonald",
+    "date": "2026-06-22"
+   },
+   {
+    "quote": "Early indications suggest that Holani and Price will be the top two options, with Wilson mixing in as a powerful complement.",
+    "who": "Brady Henderson (ESPN, via roundtable.io)",
+    "date": "2026-08-05"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.seahawks.com/news/seahawks-rb-zach-charbonnet-placed-on-pup-list",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.heraldnet.com/2026/07/24/seahawks-zach-charbonnet-to-open-camp-on-pup/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://roundtable.io/sports/nfl/seahawks/news/seahawks-running-back-mix-starting-to-become-clear-at-training-camp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/seahawks-zach-charbonnet-gets-strong-073205881.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/C/CharZa00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.profootballnetwork.com/seahawks-rb-depth-chart-jadarian-price/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/zach-charbonnet.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "On PUP list to open training camp; no timetable for return",
+   "note": "baseline from initial research pass",
+   "source": "https://www.seahawks.com/news/seahawks-rb-zach-charbonnet-placed-on-pup-list"
+  },
+  {
+   "date": "2026-08-31",
+   "injury": "On PUP list recovering from an ACL tear suffered in the prior playoffs; will miss at least the first 4 games of the season",
+   "role": "Rookie Jadarian Price has taken over as Seattle's lead back in his absence",
+   "note": "Out to start 2026 season on PUP",
+   "source": "https://www.fantasypros.com/nfl/players/zach-charbonnet.php"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 0,
+   "injury": "PUP list - knee, out at least through Week 4-5; coach called his return timeline 'aggressive' [news ~2026-09-15]",
+   "role": "Depth order 5 (PUP), Jadarian Price is current lead back",
+   "note": "Did not play Week 2 vs ARI - SEA rushing went to Emanuel Wilson, Jadarian Price, George Holani, Rashid Shaheed. Not a Week 3 option.",
+   "source": "https://www.fantasypros.com/nfl/news/zach-charbonnet.php"
+  }
+ ]
+}

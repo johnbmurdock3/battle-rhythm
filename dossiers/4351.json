@@ -1,0 +1,73 @@
+{
+ "player_id": "4351",
+ "name": "Tim Patrick",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "JAX"
+   },
+   {
+    "season": 2026,
+    "team": "NYJ"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Adonai Mitchell",
+    "age": 23,
+    "status": "starter",
+    "note": "Ahead of Patrick at left WR",
+    "resolved_id": "11625",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Garrett Wilson",
+    "age": 26,
+    "status": "starter",
+    "note": "WR1 overall",
+    "resolved_id": "8146",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: signed with Jets May 14, 2026 after 2025 season with Jacksonville; history of major injuries (ACL 2022, Achilles 2023); ranked WR2 at left side on Jets depth chart."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.newyorkjets.com/news/jets-sign-tim-patrick-05-14-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NYJ",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.newyorkjets.com/news/jets-sign-tim-patrick-05-14-2026"
+  }
+ ]
+}

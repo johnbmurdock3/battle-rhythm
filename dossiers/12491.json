@@ -1,0 +1,43 @@
+{
+ "player_id": "12491",
+ "name": "Corey Kiner",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "touches": 6,
+   "injury": "",
+   "role": "3rd-string RB behind Rhamondre Stevenson and TreVeyon Henderson",
+   "note": "[news 2026-09-09] Week 1: 6 car/11 yds, 0 targets; Stevenson was the clear lead back",
+   "source": "https://www.pro-football-reference.com/teams/nwe/2026.htm"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "RB3 depth per Sleeper; headline reports role shrank after a Week 1 opportunity as TreVeyon Henderson returned healthy for Week 2",
+   "note": "Article headline states 'Corey Kiner's Role Shrinks After Week 1 Opportunity' but full body was inaccessible for specific snap/carry numbers; Henderson got a good Wk2 practice report suggesting he retook lead-committee touches. [news ~2026-09-19]",
+   "source": "https://www.rotoballer.com/player-news/corey-kiners-role-shrinks-after-week-1-opportunity/1945207"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.rotoballer.com/player-news/corey-kiners-role-shrinks-after-week-1-opportunity/1945207",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

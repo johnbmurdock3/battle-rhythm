@@ -1,0 +1,123 @@
+{
+ "player_id": "9480",
+ "name": "Brenton Strange",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "JAX"
+   },
+   {
+    "season": 2026,
+    "team": "JAX"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "JAX",
+    "games": 5,
+    "carries": 0,
+    "targets": null,
+    "rec": 20,
+    "yards": 204,
+    "td": null,
+    "note": "Stats cover only the first 5 games of 2025 before a quad injury in Week 5; rest-of-season stats and whether/when he returned were not verified."
+   }
+  ],
+  "contract": {
+   "years": 3,
+   "signed": "",
+   "note": "Signed a 3-year, $48M extension ($25M guaranteed), keeping him with Jacksonville through 2029. Signing date not verified."
+  },
+  "scheme": {
+   "oc": "Grant Udinski",
+   "note": "HC Liam Coen entering 2nd season. Staff additions: Shane Waldron (pass game coordinator), Brian Picucci (run game coordinator) - suggests scheme tweaks. Not confirmed whether Udinski is new to the OC role for 2026."
+  },
+  "competition": [
+   {
+    "name": "Hunter Long",
+    "age": 27,
+    "status": "TE2 depth chart",
+    "note": "Ourlads JAX depth chart; signed with JAX 2025-03-12.",
+    "resolved_id": "7535",
+    "resolved_team": "JAX",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Ourlads JAX TE depth chart: Brenton Strange (1), Nate Boerkircher (2), Tanner Koziol (3), Quintin Morris (4), Patrick Herbert (5); Hunter Long and Ethan Conner also listed as depth options.",
+   "3-year, $48M extension signals Jacksonville views him as a long-term starter/TE1."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "Quad (2025, historical)",
+   "as_of": "2026-08-11",
+   "note": "Suffered quad injury in Week 5, 2025; no 2026 update on recovery/current status found. SI Jaguars hub search returned no Strange-specific recent articles."
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Brenton_Strange",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Jacksonville_Jaguars_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/JAX",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Hunter_Long",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/jaguars/onsi",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/9480",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Brenton_Strange"
+  },
+  {
+   "date": "2026-08-31",
+   "snap_pct": 80,
+   "role": "Clear TE1 for Jacksonville, playing over 80% of offensive snaps",
+   "note": "Signed a 3-year extension (~2 months ago); considered the Jaguars pass-catcher with the most secure role for 2026 alongside QB Trevor Lawrence",
+   "source": "https://sports.yahoo.com/articles/updated-brenton-strange-fantasy-outlook-100502653.html"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 2,
+   "injury": "",
+   "role": "Remains Jacksonville top TE, continued red-zone chemistry with Trevor Lawrence",
+   "note": "[news 2026-09-13] Week 1: 2 catches on 3 targets for 23 yds and a 14-yd TD vs CLE",
+   "source": "https://www.rotowire.com/football/headlines/brenton-strange-news-boosts-line-with-td-in-week-1-637245"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper depth_chart_position TE order 1 (starter)",
+   "note": "No injury_status flagged by Sleeper; JAX CBS injury page returned a 404 this session so could not cross-verify; no notable news found",
+   "source": "https://api.sleeper.app/players/nfl/9480"
+  }
+ ]
+}

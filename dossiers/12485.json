@@ -1,0 +1,79 @@
+{
+ "player_id": "12485",
+ "name": "Tez Johnson",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TB"
+   },
+   {
+    "season": 2026,
+    "team": "TB"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jalen McMillan",
+    "age": 24,
+    "status": "starter",
+    "note": "ahead of Johnson at RWR",
+    "resolved_id": "11618",
+    "resolved_team": "TB",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Emeka Egbuka",
+    "age": 23,
+    "status": "starter",
+    "note": "ahead of Johnson at LWR",
+    "resolved_id": "12514",
+    "resolved_team": "TB",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Chris Godwin",
+    "age": 30,
+    "status": "starter",
+    "note": "ahead of Johnson at slot",
+    "resolved_id": "4037",
+    "resolved_team": "TB",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Ourlads lists Johnson as backup RWR behind Jalen McMillan (a 2025 7th-rounder himself) -- buried behind McMillan, Egbuka, and Godwin in a crowded WR room."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "unverified",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/TB",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/TB"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "player_id": "6826",
+ "name": "Cole Kmet",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CHI"
+   },
+   {
+    "season": 2026,
+    "team": "CHI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Colston Loveland",
+    "age": 22,
+    "status": "starter",
+    "note": "2025 1st-round rookie TE, now ahead of Kmet on Bears depth chart",
+    "resolved_id": "12517",
+    "resolved_team": "CHI",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change, but Kmet has been passed by rookie Colston Loveland and is now listed TE2 per ourlads; significant role/target downgrade from prior TE1 seasons."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/CHI",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/player/cole-kmet-14436",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872937",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/CHI"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "ROLE CHANGE: slid to TE2 behind rookie Colston Loveland on the current Bears depth chart",
+   "note": "Loveland now ahead of Kmet in the TE pecking order",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/CHI"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 0,
+   "injury": "",
+   "role": "TE2 on CHI depth chart per Sleeper (depth_chart_order 2) - reduced role",
+   "note": "Week 2 (9/20 vs MIN, L 0-3): 0 rec on 1 target - very limited involvement in low-scoring loss.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872937"
+  }
+ ]
+}

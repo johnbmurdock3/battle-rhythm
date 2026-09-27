@@ -1,0 +1,105 @@
+{
+ "player_id": "13338",
+ "name": "Kevin Coleman",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "MIA"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "rookie contract, drafted 2026"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Malik Washington",
+    "age": 25,
+    "status": "WR1 per Rotowire post-Hill/Waddle depth chart",
+    "note": "",
+    "resolved_id": "11610",
+    "resolved_team": "MIA",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jalen Tolbert",
+    "age": 27,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "8117",
+    "resolved_team": "MIA",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Tutu Atwell",
+    "age": 26,
+    "status": "starter",
+    "note": "WR3",
+    "resolved_id": "7562",
+    "resolved_team": "MIA",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Caleb Douglas",
+    "age": 22,
+    "status": "rookie",
+    "note": "WR4",
+    "resolved_id": "13296",
+    "resolved_team": "MIA",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Chris Bell",
+    "age": 22,
+    "status": "",
+    "note": "WR5",
+    "resolved_id": "13311",
+    "resolved_team": "MIA",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Rookie WR (Missouri, 66-732-1 in 2025, 4.49 40). Miami's WR room was completely remade after cutting Tyreek Hill (released 2026-02-16, post ACL/knee injury) and trading Jaylen Waddle to Denver (2026-03-18); Coleman currently listed WR6 on Rotowire's post-draft depth chart, buried behind several vets."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/dolphins-draft-kevin-coleman-jr-195639489.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/miami-dolphins-depth-chart-mia",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/dolphins-draft-kevin-coleman-jr-195639489.html"
+  }
+ ]
+}

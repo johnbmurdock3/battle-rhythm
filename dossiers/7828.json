@@ -1,0 +1,82 @@
+{
+ "player_id": "7828",
+ "name": "Noah Gray",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "KC"
+   },
+   {
+    "season": 2026,
+    "team": "KC"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Travis Kelce",
+    "age": 36,
+    "status": "",
+    "note": "Kelce re-signed with Chiefs for a 14th NFL season in 2026 \u2014 Gray remains firmly TE2 behind him",
+    "resolved_id": "1466",
+    "resolved_team": "KC",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; capped upside as long as Kelce is active \u2014 Kelce's per-season retirement speculation is worth monitoring but he is confirmed on the 2026 roster"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported (Sleeper injury_status: None, status: Active) as of 2026-09-03",
+   "as_of": "2026-09-03"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.nfl.com/news/travis-kelce-expected-to-return-to-chiefs-for-14th-nfl-season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.chiefs.com/team/players-roster/noah-gray/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872945",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.nfl.com/news/travis-kelce-expected-to-return-to-chiefs-for-14th-nfl-season"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported (Sleeper injury_status: None, status: Active) as of 2026-09-03",
+   "role": "Listed TE2 on official Chiefs depth chart behind starter Travis Kelce, ahead of Jared Wiley and Jake Briningstool",
+   "note": "Backup/complementary TE role behind Kelce; no target-share data found",
+   "source": "https://www.chiefs.com/team/depth-chart/"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 0,
+   "injury": "",
+   "role": "TE2, depth order 2 per Sleeper, behind Travis Kelce",
+   "note": "Week 2 vs IND: 0 rec/1 tgt/0 yds while Kelce had 7 rec/8 tgt/73 yds. Marginal role, Kelce dominates target share.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872945"
+  }
+ ]
+}

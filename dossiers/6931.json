@@ -1,0 +1,91 @@
+{
+ "player_id": "6931",
+ "name": "DeeJay Dallas",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CAR"
+   },
+   {
+    "season": 2026,
+    "team": "JAX"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Bhayshul Tuten",
+    "age": 23,
+    "status": "starter",
+    "note": "RB1",
+    "resolved_id": "12490",
+    "resolved_team": "JAX",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Chris Rodriguez Jr.",
+    "age": 26,
+    "status": "backup",
+    "note": "ahead of Dallas",
+    "resolved_id": "10219",
+    "resolved_team": "JAX",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "LeQuint Allen Jr.",
+    "age": 22,
+    "status": "backup",
+    "note": "ahead of Dallas",
+    "resolved_id": "12544",
+    "resolved_team": "JAX",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: signed with Jacksonville (2026) as free agent from Carolina (2025). Listed RB5, last on the depth chart -- minimal draft relevance."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/JAX",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872937",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/JAX"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 3,
+   "injury": "",
+   "role": "RB2 on MIN depth chart (Sleeper depth_chart_order 2)",
+   "note": "Week 2 (9/20 vs CHI, W 3-0): 2 car/8 yds rushing, 1 rec/12 yds - minor complementary role.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872937"
+  }
+ ]
+}

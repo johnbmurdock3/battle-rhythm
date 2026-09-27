@@ -1,0 +1,71 @@
+{
+ "player_id": "7602",
+ "name": "Kylen Granson",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TEN"
+   },
+   {
+    "season": 2026,
+    "team": "TEN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Gunnar Helm",
+    "age": 23,
+    "status": "starter",
+    "note": "TE1, 2025 rookie",
+    "resolved_id": "12502",
+    "resolved_team": "TEN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Daniel Bellinger",
+    "age": 25,
+    "status": "TE2",
+    "note": "",
+    "resolved_id": "8225",
+    "resolved_team": "TEN",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Third on Titans TE depth chart; no clear path to relevance."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": ""
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/TEN",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/TEN"
+  }
+ ]
+}

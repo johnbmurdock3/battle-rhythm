@@ -1,0 +1,35 @@
+{
+ "player_id": "5189",
+ "name": "Eddy Pineiro",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "K1 on San Francisco depth chart per Sleeper",
+   "note": "Player ID resolved via Sleeper API (was unnamed in store) = Eddy Pineiro, SF kicker. No notable news found.",
+   "source": "https://api.sleeper.app/players/nfl/5189"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://api.sleeper.app/players/nfl/5189",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

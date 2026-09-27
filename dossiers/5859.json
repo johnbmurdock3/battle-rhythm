@@ -1,0 +1,136 @@
+{
+ "player_id": "5859",
+ "name": "A.J. Brown",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "PHI"
+   },
+   {
+    "season": 2026,
+    "team": "NE"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "PHI",
+    "games": 15,
+    "carries": 0,
+    "targets": 121,
+    "rec": 78,
+    "yards": 1003,
+    "td": 7,
+    "note": "per PFR"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "traded, not re-signed; contract details not pulled this pass"
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Reunites Brown with Patriots HC Mike Vrabel, who coached him in Tennessee 2019-2022"
+  },
+  "competition": [
+   {
+    "name": "Kayshon Boutte",
+    "age": 24,
+    "status": "WR2/depth, has skipped voluntary offseason workouts",
+    "note": "born May 7, 2002; 2025: 33 rec, 551 yds, 6 TD with NE; not really 'ahead' of Brown -- Brown is the unquestioned WR1/alpha per ESPN and NFL.com",
+    "resolved_id": "9504",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Demario Douglas",
+    "age": 25,
+    "status": "depth WR",
+    "note": "",
+    "resolved_id": "9501",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Romeo Doubs",
+    "age": 26,
+    "status": "newly signed depth WR",
+    "note": "",
+    "resolved_id": "8121",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TRADE: Eagles traded A.J. Brown to New England for Patriots' 2028 1st-round pick and 2027 5th-round pick, announced Monday (per NFL.com/ESPN, 2026); deal was pending physical at time of report.",
+   "Brown is expected as Drake Maye's primary/No. 1 target and 'alpha receiver' in NE's offense per NFL.com analysis."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "IR - Ankle sprain, per Sleeper API, checked 2026-09-22",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.nfl.com/news/aj-brown-patriots-eagles-trade",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/story/_/id/48894633/philadelphia-eagles-aj-brown-traded-patriots-new-england-next",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/B/BrowAJ00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Kayshon_Boutte",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/5859",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.nfl.com/news/aj-brown-patriots-eagles-trade"
+  },
+  {
+   "date": "2026-09-02",
+   "injury": "Dislocated thumb reported Aug 3, 2026; played through it, not on Patriots injury report as of Sep 2, 2026",
+   "note": "Traded from Eagles to Patriots June 1, 2026 for two draft picks. Reports of a rift with former QB Jalen Hurts before the trade; Hurts confirmed Sep 2, 2026 the two 'grew apart' last season.",
+   "source": "https://www.espn.com/nfl/story/_/id/48937845/sources-eagles-agree-trade-aj-brown-patriots-2-picks"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 3,
+   "injury": "High-ankle sprain, placed on IR ~9/11; must miss min 4 games, eligible back Week 6",
+   "role": "TEAM CHANGE: now with New England (previously Eagles); out for a stretch",
+   "note": "[news 2026-09-11] Injured Week 1 vs SEA after 3 rec/26 yds before leaving",
+   "source": "https://bleacherreport.com/articles/25498326-aj-brown-reportedly-placed-ir-ankle-injury-latest-timeline-patriots-stars-return"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "IR - Ankle sprain, per Sleeper API, checked 2026-09-22",
+   "role": "Team change: traded from Philadelphia to New England (per ESPN 2026 offseason trade-grades article [news 2026-08-30]); LWR1 on NE depth chart per Sleeper. Not on Patriots' current injury/practice report, consistent with IR.",
+   "note": "No new return-timeline update found beyond the ~9/11 IR placement for high-ankle sprain (min. 4 games) already on file. He is now a Patriot, not an Eagle \u2014 recheck ownership implications.",
+   "source": "https://api.sleeper.app/players/nfl/5859"
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "player_id": "13348",
+ "name": "J'Mari Taylor",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "JAX"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "undrafted rookie free agent, 2026"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Bhayshul Tuten",
+    "age": 23,
+    "status": "starter/RB1 candidate",
+    "note": "",
+    "resolved_id": "12490",
+    "resolved_team": "JAX",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Chris Rodriguez Jr.",
+    "age": 26,
+    "status": "",
+    "note": "RB2",
+    "resolved_id": "10219",
+    "resolved_team": "JAX",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "LeQuint Allen",
+    "age": 22,
+    "status": "",
+    "note": "RB3",
+    "resolved_id": "12544",
+    "resolved_team": "JAX",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Undrafted rookie (2026), buried behind Tuten/Rodriguez/Allen on the depth chart; only described as 'impressive' in offseason camp reports but not formally slotted in the top 3 \u2014 deep-bench/practice-squad-risk profile."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "impressive early camp reports per blackandteal.com"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/jaguars/onsi/jacksonville-updated-depth-chart-after-offseason-program-is-bhayshul-tuten-rb1",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.jaguars.com/news/roster-moves-jaguars-announce-additions-to-practice-squad",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/jaguars/onsi/jacksonville-updated-depth-chart-after-offseason-program-is-bhayshul-tuten-rb1"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "Came up just short of Jaguars 53-man roster; signed to practice squad 8/31/26 (UDFA out of Virginia).",
+   "note": "Practice squad RB, not on active 53-man roster",
+   "source": "https://sports.yahoo.com/articles/jaguars-load-practice-squad-several-234434290.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Practice squad, not on 53-man active roster",
+   "note": "Signed to Jaguars practice squad after final roster cuts [news 2026-08-31]",
+   "source": "https://www.jaguars.com/news/roster-moves-jaguars-announce-additions-to-practice-squad"
+  }
+ ]
+}

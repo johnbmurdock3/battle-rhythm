@@ -1,0 +1,87 @@
+{
+ "player_id": "7531",
+ "name": "Feleipe Franks",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "ATL"
+   },
+   {
+    "season": 2026,
+    "team": "CAR"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "Signed one-year deal with Carolina March 20, 2026"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tommy Tremble",
+    "age": 26,
+    "status": "starter",
+    "note": "TE1",
+    "resolved_id": "7694",
+    "resolved_team": "CAR",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Ja'Tavion Sanders",
+    "age": 23,
+    "status": "TE2",
+    "note": "",
+    "resolved_id": "11600",
+    "resolved_team": "CAR",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Mitchell Evans",
+    "age": 23,
+    "status": "TE3",
+    "note": "",
+    "resolved_id": "12473",
+    "resolved_team": "CAR",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: left Atlanta, signed with Carolina for 2026; buried 4th on Panthers TE chart, not fantasy relevant."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": ""
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Feleipe_Franks",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/CAR",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Feleipe_Franks"
+  }
+ ]
+}

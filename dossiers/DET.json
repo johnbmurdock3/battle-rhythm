@@ -1,0 +1,44 @@
+{
+ "player_id": "DET",
+ "name": "Detroit Lions",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22",
+  "injury": {
+   "status": "Brian Branch (CB) Achilles, PUP (exp. return Wk5)",
+   "as_of": "2026-09-22"
+  }
+ },
+ "timeline": [
+  {
+   "date": "2026-08-31",
+   "injury": "",
+   "note": "Unit personnel: Starting S Kerby Joseph (knee) and CB Brian Branch (Achilles) on PUP, expected back Week 5; CBs D.J. Reed and Ennis Rakestraw Jr., DE Derrick Moore, DT Mekhi Wingo and LB Malcolm Rodriguez all questionable for Week 1 vs. New Orleans (Aug 31); DE Payton Turner and LB Damone Clark on IR || Losing both Joseph and Branch to start the year is a major hit to a top secondary; several more starters questionable for Week 1, significantly downgrading the unit's early outlook.",
+   "source": "https://www.cbssports.com/nfl/teams/DET/detroit-lions/injuries/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Brian Branch (CB) Achilles, PUP (exp. return Wk5)",
+   "role": "",
+   "note": "Allowed 41 pts in Wk2 loss at BUF (31-41, final); CB Brian Branch on PUP with Achilles injury, also FS Avonte Maddox Out for Wk3 [news 2026-09-21]; Wk3 opponent NYJ (home)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

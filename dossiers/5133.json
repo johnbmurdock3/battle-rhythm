@@ -1,0 +1,73 @@
+{
+ "player_id": "5133",
+ "name": "Tyler Conklin",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYJ"
+   },
+   {
+    "season": 2026,
+    "team": "DET"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Sam LaPorta",
+    "age": 25,
+    "status": "TE1",
+    "note": "",
+    "resolved_id": "10859",
+    "resolved_team": "DET",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Brock Wright",
+    "age": 27,
+    "status": "TE2",
+    "note": "",
+    "resolved_id": "7891",
+    "resolved_team": "DET",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: signed with Detroit in free agency from NY Jets; slots in as TE3 behind LaPorta and Wright, per Lions camp preview coverage his signing reduced Wright's role."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.detroitlions.com/news/2026-detroit-lions-training-camp-preview-tight-end-laporta-wright-conklin",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/detroit-lions-depth-chart-det",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.detroitlions.com/news/2026-detroit-lions-training-camp-preview-tight-end-laporta-wright-conklin"
+  }
+ ]
+}

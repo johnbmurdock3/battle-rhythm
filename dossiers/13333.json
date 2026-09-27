@@ -1,0 +1,71 @@
+{
+ "player_id": "13333",
+ "name": "Deion Burks",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "IND"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "rookie deal, 7th round pick #254 overall, 2026 draft"
+  },
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "Rookie WR out of Oklahoma, drafted #254 overall (final pick range) by Colts in 2026 draft; deep roster longshot, no depth chart detail found."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.colts.com/team/players-roster/deion-burks/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.colts.com/news/deion-burks-wide-receiver-oklahoma-seventh-round-draft-pick-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.colts.com/news/colts-release-unofficial-depth-chart-for-week-2-of-2026-season",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.colts.com/team/players-roster/deion-burks/"
+  },
+  {
+   "date": "2026-08-30",
+   "role": "Seventh-round rookie WR made the Colts' initial 53-man roster as the sixth WR, behind Alec Pierce, Josh Downs, Keenan Allen, Ashton Dulin, and Laquon Treadwell (beat out veteran Nick Westbrook-Ikhine for the spot)",
+   "note": "Depth/special-teams role expected rather than primary contributor",
+   "source": "https://www.si.com/nfl/colts/onsi/indianapolis-colts-initial-53-man-roster-breakdown-where-every-position-stands"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "3rd string WR behind Keenan Allen and Ashton Dulin",
+   "note": "Colts unofficial Week 2 depth chart lists Burks 3rd at WR (Allen, Dulin, Burks) [news 2026-09-15]",
+   "source": "https://www.colts.com/news/colts-release-unofficial-depth-chart-for-week-2-of-2026-season"
+  }
+ ]
+}

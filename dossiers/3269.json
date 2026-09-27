@@ -1,0 +1,96 @@
+{
+ "player_id": "3269",
+ "name": "Chris Moore",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "BAL"
+   },
+   {
+    "season": 2026,
+    "team": "BAL"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Zay Flowers",
+    "age": 25,
+    "status": "WR1, questionable",
+    "note": "",
+    "resolved_id": "9997",
+    "resolved_team": "BAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Rashod Bateman",
+    "age": 26,
+    "status": "WR2",
+    "note": "",
+    "resolved_id": "7571",
+    "resolved_team": "BAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Devontez Walker",
+    "age": 25,
+    "status": "WR3",
+    "note": "",
+    "resolved_id": "11629",
+    "resolved_team": "BAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; Moore is WR7 on a deep Ravens receiver room at age 33, minimal fantasy relevance."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/baltimore-ravens-depth-chart-bal",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/3269",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/baltimore-ravens-depth-chart-bal"
+  },
+  {
+   "date": "2026-09-01",
+   "role": "Depth/special-teams WR; not on Ravens Sep 1, 2026 injury report",
+   "note": "Sleeper lists current team as BAL; most recent Wikipedia transaction on file has him active-rostered by Washington in Dec 2025, so the BAL move/date could not be independently confirmed with a source",
+   "source": "https://api.sleeper.app/players/nfl/3269"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "None reported",
+   "role": "Signed to Ravens practice squad after an initial release [news ~2026-09-01], then had a strong Week 1 that reporters flagged as a possible path to an expanded role in Baltimore's reshaped offense.",
+   "note": "[news ~2026-09-15] 'Career day' framing was for Week 1; no confirmed Week 2 snap/target numbers found. Low depth-chart spot (SWR, order 6) per Sleeper.",
+   "source": "https://api.sleeper.app/players/nfl/3269"
+  }
+ ]
+}

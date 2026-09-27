@@ -1,0 +1,38 @@
+{
+ "player_id": "12556",
+ "name": "Donovan Ezeiruaku",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "None listed",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-22",
+   "injury": "None listed",
+   "role": "ROLB1/starting edge rusher, second-year player developing pass-rush role",
+   "note": "Week1 vs NYG: 10 tackles (4 solo), 0.5 sack (shared with Jonathan Bullard on Jaxson Dart), led team in tackles; also drew an NFL fine for a hit in that game [news 2026-09-16]",
+   "source": "https://www.newsbreak.com/news/4888518444143-cowboys-donovan-ezeiruaku-leading-tackler-in-loss"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.newsbreak.com/news/4888518444143-cowboys-donovan-ezeiruaku-leading-tackler-in-loss",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

@@ -1,0 +1,93 @@
+{
+ "player_id": "3161",
+ "name": "Carson Wentz",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "MIN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Kyler Murray",
+    "age": 29,
+    "status": "starter",
+    "note": "listed QB1 on Vikings depth chart, described as \"improving at practice, still sharing reps\"",
+    "resolved_id": "5849",
+    "resolved_team": "MIN",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "J.J. McCarthy",
+    "age": 23,
+    "status": "backup",
+    "note": "listed QB2, ahead of Wentz",
+    "resolved_id": "11565",
+    "resolved_team": "MIN",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "NOTABLE: Two independent sources (ESPN and CBS Sports depth charts) both list Kyler Murray as Vikings QB1 in August 2026, with J.J. McCarthy QB2 and Carson Wentz QB3. This is a significant, non-obvious change in the Vikings QB picture worth double-checking closer to draft \u2014 a QB1/QB2 competition note (\"still sharing reps\") suggests this may not be fully settled. Wentz himself is buried at QB3."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/teams/MIN/minnesota-vikings/depth-chart/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/3161",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-03-19",
+   "role": "QB depth/insurance in a crowded QB room (J.J. McCarthy, Kyler Murray, Wentz, Max Brosmer)",
+   "note": "Vikings announced agreement to re-sign Wentz on 2026-03-19, described as strengthening the QB room; framed as experienced depth/relief option rather than the starter.",
+   "source": "https://www.vikings.com/news/carson-wentz-quarterback-2026-contract-nfl"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/nfl/teams/MIN/minnesota-vikings/depth-chart/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "ROLE CHANGE: starter Kyler Murray suffered a concussion in Week 1 vs GB; Wentz relieved him and led a comeback win. Murray's next-game status described as less than 50/50 as of 9/15, making Wentz the leading candidate to start",
+   "note": "Week 1 relief: 12/19 for 133 yds and 3 TD. QB1-in-waiting pending Murray's protocol clearance",
+   "source": "https://www.valleynewslive.com/2026/09/15/minnesota-vikings-unsure-if-kyler-murray-can-play-against-chicago-bears-with-qb-recovering-concussion/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "None reported",
+   "role": "Vikings QB1, started and won Week 2 vs Bears (Vikings improved to 2-0). One report (unverified/single-source) suggests Kyler Murray, released by Arizona, has since joined Vikings and fans are debating a possible QB change for Week 3 -- treat as rumor pending confirmation.",
+   "note": "[news ~2026-09-20/21] Wentz playing well (2-0 start) but a Murray-to-Vikings QB competition storyline surfaced; could not independently confirm the Murray-Vikings signing with a second source.",
+   "source": "https://api.sleeper.app/players/nfl/3161"
+  }
+ ]
+}

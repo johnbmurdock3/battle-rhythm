@@ -1,0 +1,113 @@
+{
+ "player_id": "9754",
+ "name": "Quentin Johnston",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LAC"
+   },
+   {
+    "season": 2026,
+    "team": "LAC"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "LAC",
+    "games": 14,
+    "targets": 84,
+    "rec": 51,
+    "yards": 735,
+    "td": 8,
+    "note": "Missed Week 6 2025 with a hamstring injury; strong first 5 weeks (5.2 rec/75.4 yds/0.8 TD per game) then inconsistent final 10 games (~9.0 PPR pts, 37.8 yds avg)."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "2026-04",
+   "note": "Chargers exercised his fifth-year rookie option in April 2026."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "HC Jim Harbaugh remains; LAC 2026 OC not reliably verified in sources checked."
+  },
+  "competition": [
+   {
+    "name": "Ladd McConkey",
+    "age": 24,
+    "status": "WR1",
+    "note": "Born 2001-11-11; ranked #1 WR on Chargers depth chart per rotowire.",
+    "resolved_id": "11635",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Keenan Allen",
+    "age": 33,
+    "status": "on roster",
+    "note": "Veteran WR also on Chargers roster per rotowire; age not verified.",
+    "resolved_id": "1479",
+    "resolved_team": null,
+    "resolved_pos": "WR",
+    "same_team": false
+   },
+   {
+    "name": "Tre' Harris",
+    "age": 24,
+    "status": "on roster",
+    "note": "2025 2nd-round pick, also on roster per rotowire.",
+    "resolved_id": "12509",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Johnston ranked #2 WR on team depth chart per rotowire.com."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "no injury noted",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/player/quentin-johnston-16899",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ladd_McConkey",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/quentin-johnston.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "no injury noted",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/player/quentin-johnston-16899"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 2,
+   "injury": "",
+   "role": "LWR depth order 2 per Sleeper",
+   "note": "Week 2 vs LV: 1-of-5 targets for 7 yds + 1 rush for 7 yds - quiet game. Prior lower-body injury (~5 wks ago) resolved, no current designation.",
+   "source": "https://www.fantasypros.com/nfl/news/quentin-johnston.php"
+  }
+ ]
+}

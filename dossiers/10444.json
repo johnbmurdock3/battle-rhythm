@@ -1,0 +1,50 @@
+{
+ "player_id": "10444",
+ "name": "Cedric Tillman",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CLE"
+   },
+   {
+    "season": 2026,
+    "team": "CLE"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "No team change, but on the roster bubble: ESPN analyst Daniel Oyefusi (7/23/26) did not project Tillman to make Browns' 53-man roster; multiple headlines call him a trade candidate amid a younger WR corps -- significant draft-day risk flag."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "unverified",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Roster bubble per ESPN 7/23/26"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-07-23/cedric-tillman-on-the-roster-bubble",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-07-23/cedric-tillman-on-the-roster-bubble"
+  }
+ ]
+}

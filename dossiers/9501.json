@@ -1,0 +1,96 @@
+{
+ "player_id": "9501",
+ "name": "DeMario Douglas",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NE"
+   },
+   {
+    "season": 2026,
+    "team": "NE"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Stefon Diggs",
+    "age": 32,
+    "status": "WR1",
+    "note": "signed by NE in free agency; Douglas projected in slot behind him",
+    "resolved_id": "2449",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": false
+   },
+   {
+    "name": "Kyle Williams",
+    "age": 23,
+    "status": "competitor",
+    "note": "",
+    "resolved_id": "12547",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Mack Hollins",
+    "age": 32,
+    "status": "competitor",
+    "note": "",
+    "resolved_id": "4177",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Projected to reprise slot receiver role behind Stefon Diggs; source article dated 7/15/25 describing the Diggs-era Patriots WR room, so 2026 confirmation of unchanged role is lower confidence."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/patriots-demario-douglas-set-to-reprise-role-in-slot",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872946",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2025-12-01",
+   "note": "No current (2026 season) news found; most recent available note is from the 2025 season (2 catches on 3 targets for 29 yds vs MIA), stale and not verified current",
+   "source": "https://www.fantasypros.com/nfl/players/demario-douglas.php"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/fantasy/football/news/patriots-demario-douglas-set-to-reprise-role-in-slot"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 1,
+   "injury": "",
+   "role": "SWR depth order 3 per Sleeper",
+   "note": "Week 2 vs PIT: 2 targets, 1 rec, 9 yds, 0 rush - limited role. No injury reported.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872946"
+  }
+ ]
+}

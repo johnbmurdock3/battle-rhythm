@@ -1,0 +1,124 @@
+{
+ "player_id": "5045",
+ "name": "Courtland Sutton",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DEN"
+   },
+   {
+    "season": 2026,
+    "team": "DEN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "DEN",
+    "games": null,
+    "targets": null,
+    "receptions": 74,
+    "rec_yards": 1017,
+    "rec_td": 7,
+    "note": "Career year; plus a receiving TD in AFC Championship loss to Patriots (Denver made deep playoff run). Per Wikipedia."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2025-07-28",
+   "note": "4-year, $92M extension ($41M guaranteed) signed 2025-07-28 per Wikipedia"
+  },
+  "scheme": {
+   "oc": "",
+   "note": "HC Sean Payton remains (page data on OC Davis Webb appears stale/unverified for 2026 \u2014 flagged, not confirmed current)"
+  },
+  "competition": [
+   {
+    "name": "Jaylen Waddle",
+    "age": 27,
+    "status": "Listed WR2 on Broncos depth chart, Questionable (born 1998-11-25)",
+    "note": "Traded from Miami to Denver on 2026-03-18 (Dolphins sent Waddle + 2026 4th-rounder for Broncos' 2026 1st/3rd/4th picks); contract restructured 2026-03-24. Per Wikipedia.",
+    "resolved_id": "7526",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Marvin Mims",
+    "age": 24,
+    "status": "Listed WR5 on Broncos depth chart, Questionable",
+    "note": "",
+    "resolved_id": "9494",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Sutton remains listed WR1 on Denver's RotoWire depth chart as of 2026-08-11, ahead of newly-acquired Jaylen Waddle.",
+   "Notable: Broncos acquired Waddle from Miami in March 2026, adding target competition in Sutton's room; Sutton still tops the depth chart."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury designation for Sutton on depth chart",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Courtland_Sutton",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/denver-broncos-depth-chart-den",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jaylen_Waddle",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.denverbroncos.com/team/coaches-roster/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/courtland-sutton.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury designation for Sutton on depth chart",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Courtland_Sutton"
+  },
+  {
+   "date": "2026-08-31",
+   "note": "Not on Broncos injury report as of Aug 31, 2026; healthy. Signed 4yr/$92M extension in 2025.",
+   "source": "https://www.espn.com/nfl/story/_/id/45843930/broncos-courtland-sutton-reach-4-year-92m-extension"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 2,
+   "injury": "",
+   "role": "",
+   "note": "[news 2026-09-14] Quiet Week 1 vs KC: 2 rec on 5 targets, 11 yds; was intended receiver on a Bo Nix INT",
+   "source": "https://www.rotowire.com/football/headlines/courtland-sutton-news-limited-to-two-catches-in-loss-637482"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "",
+   "note": "Described as 'uninvolved' in a Monday loss per FantasyPros, likely the Week 2 Monday game [news ~2026-09-21, date approximate]; no target/snap numbers available",
+   "source": "https://www.fantasypros.com/nfl/news/courtland-sutton.php"
+  }
+ ]
+}

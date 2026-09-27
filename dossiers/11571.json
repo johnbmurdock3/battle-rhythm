@@ -1,0 +1,76 @@
+{
+ "player_id": "11571",
+ "name": "Isaiah Davis",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYJ"
+   },
+   {
+    "season": 2026,
+    "team": "NYJ"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Breece Hall",
+    "age": 25,
+    "status": "starter",
+    "note": "RB1, 2022 2nd-round pick",
+    "resolved_id": "8155",
+    "resolved_team": "NYJ",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Braelon Allen",
+    "age": 22,
+    "status": "backup",
+    "note": "RB2, 2024 4th-round pick",
+    "resolved_id": "11576",
+    "resolved_team": "NYJ",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Davis (2024 5th-round pick) is firmly RB3 behind Hall and Allen with little standalone value absent injury."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NYJ",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-07",
+   "injury": "Suffered a knee injury in training camp (reported Aug 7, 2026); HC Aaron Glenn said he'd miss 'a couple of weeks' but the injury is not considered serious.",
+   "role": "Named 'early favorite' for the Jets' RB2 job behind Breece Hall as of July 22, 2026, ahead of Braelon Allen.",
+   "note": "Glenn said none of the Jets' camp injuries, including Davis's, are considered serious, and players are expected to be ready for Week 1.",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-07-22/isaiah-davis-the-early-favorite-for-rb2-role"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/NYJ"
+  }
+ ]
+}

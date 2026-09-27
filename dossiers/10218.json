@@ -1,0 +1,71 @@
+{
+ "player_id": "10218",
+ "name": "Xavier Hutchinson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "HOU"
+   },
+   {
+    "season": 2026,
+    "team": "HOU"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2024,
+    "note": "16 games, 3 starts, 12 catches, 117 yards"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "Praised by C.J. Stroud as a 'Swiss army knife'; source article's dating is ambiguous (may reference 2025 camp) \u2014 low confidence on current 2026 standing"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/texans/news/texans-cj-stroud-demeco-ryans-training-camp-star-xavier-hutchinson",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/headlines/xavier-hutchinson-news-only-three-catches-on-nine-looks-week-2-638489",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/texans/news/texans-cj-stroud-demeco-ryans-training-camp-star-xavier-hutchinson"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "Reserve WR behind starters Nico Collins and Xavier Hutchinson listed as starter alongside Collins per roster breakdown; also grouped with Boutte/Noel/Wayne as depth",
+   "note": "Made Texans' initial 53-man roster for 2026; article language on starter vs reserve status was inconsistent, treat as WR2/3 depth.",
+   "source": "https://sports.yahoo.com/articles/houston-texans-set-initial-53-001858205.html"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 3,
+   "injury": "",
+   "role": "Elevated WR1-type role with Nico Collins out (hamstring)",
+   "note": "3 catches on 9 targets (most among HOU WRs), 37 yds, 65 offensive snaps Week 2; 6/15 for 69 yds through 2 games; would be lead WR vs Colts Wk3 if Collins unavailable [news 2026-09-21]",
+   "source": "https://www.rotowire.com/football/headlines/xavier-hutchinson-news-only-three-catches-on-nine-looks-week-2-638489"
+  }
+ ]
+}

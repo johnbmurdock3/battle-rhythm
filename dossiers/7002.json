@@ -1,0 +1,85 @@
+{
+ "player_id": "7002",
+ "name": "Juwan Johnson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NO"
+   },
+   {
+    "season": 2026,
+    "team": "NO"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Foster Moreau",
+    "age": 29,
+    "status": "",
+    "note": "alternate top TE option in Saints room",
+    "resolved_id": "5985",
+    "resolved_team": "HOU",
+    "resolved_pos": "TE",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "No team change. Could not verify current August 2026 injury/depth-chart status within search budget; only stale (2025-dated) groin-injury reporting was found \u2014 treat as unconfirmed for 2026."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "unverified for 2026",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://clutchpoints.com/nfl/new-orleans-saints/saints-news-juwan-johnson-suffers-injury-during-training-camp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872938",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified for 2026",
+   "note": "baseline from initial research pass",
+   "source": "https://clutchpoints.com/nfl/new-orleans-saints/saints-news-juwan-johnson-suffers-injury-during-training-camp"
+  },
+  {
+   "date": "2026-09-01",
+   "role": "TE1 starter on Saints depth chart, ahead of Noah Fant and Oscar Delp",
+   "note": "Starting TE; Delp (TE3) is questionable for Week 1 with a hamstring injury but does not affect Johnson's role. Johnson has no injury designation.",
+   "source": "https://www.cbssports.com/nfl/teams/NO/new-orleans-saints/depth-chart/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 3,
+   "injury": "",
+   "role": "",
+   "note": "[news 2026-09-13] Week 1 vs DET: 7 targets, 3 rec, 54 yds, 1 TD; not listed on the Saints 9/14 injury report",
+   "source": "https://www.pro-football-reference.com/players/J/JohnJu02.htm"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 4,
+   "injury": "",
+   "role": "TE1 on NO depth chart (Sleeper depth_chart_order 1), unchanged",
+   "note": "Week 2 (9/20 @ BAL, L 13-19): 4 rec/66 yds - solid involvement as clear top TE target.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872938"
+  }
+ ]
+}

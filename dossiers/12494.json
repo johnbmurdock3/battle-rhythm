@@ -1,0 +1,41 @@
+{
+ "player_id": "12494",
+ "name": "Kyle McCord",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-30",
+   "role": "Traded from GB to MIA (~Aug 31, 2026) for a 2028 6th-rounder; slots in as backup QB behind starter Malik Willis, replacing Quinn Ewers (traded to Jacksonville)",
+   "note": "Backup QB, minimal fantasy relevance unless Willis is hurt",
+   "source": "https://sports.yahoo.com/articles/dolphins-qb-depth-chart-miami-181124064.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "No. 2 QB (backup) behind starter Malik Willis",
+   "note": "Acquired via trade from GB; described as 'always one snap away' as Dolphins backup QB entering the season opener. No newer role change found. [news 2026-09-02]",
+   "source": "https://sports.yahoo.com/articles/dolphins-qb-kyle-mccord-quickly-195900896.html"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/dolphins-qb-kyle-mccord-quickly-195900896.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

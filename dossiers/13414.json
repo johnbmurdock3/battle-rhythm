@@ -1,0 +1,98 @@
+{
+ "player_id": "13414",
+ "name": "Kaelon Black",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "unverified"
+   },
+   {
+    "season": 2026,
+    "team": "SF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Christian McCaffrey",
+    "age": 30,
+    "status": "carries a 'Ques' tag on depth chart (unconfirmed reason)",
+    "note": "RB1",
+    "resolved_id": "4034",
+    "resolved_team": "SF",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Jordan James",
+    "age": 22,
+    "status": "also tagged 'Ques'",
+    "note": "RB2",
+    "resolved_id": "12467",
+    "resolved_team": "SF",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Listed RB3 behind McCaffrey and Jordan James. The RotoWire depth-chart extraction flagged all three top RBs as 'Ques,' which is suspicious/possibly a scraping artifact \u2014 treat with low confidence. CMC's availability is the swing factor for any Black value."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable, groin injury; per NFL Network's Ian Rapoport he was 'ready to go' for Week 2 and HC Kyle Shanahan called it 'minor' [news 2026-09-20]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/san-francisco-49ers-depth-chart-sf",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://lastwordonsports.com/nfl/2026/09/20/kaelon-black-injury-49ers/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/san-francisco-49ers-depth-chart-sf"
+  },
+  {
+   "date": "2026-08-28",
+   "touches": 4,
+   "role": "Rookie RB (pick 90) reported to be 'largely running away with the RB2 role' behind Christian McCaffrey as of 8/28/26 (SF Chronicle via Draft Sharks); ran as lead back 8/19/26 when McCaffrey was out with tightness. Preseason finale vs Raiders: 4 carries for 28 yards (incl. a 14-yard run), ahead of competitor Jordan James (8 car/35 yds).",
+   "note": "Emerging as CMC's clear backup/handcuff; high fantasy-relevance if McCaffrey misses time",
+   "source": "https://www.draftsharks.com/fantasy-football-news/82376/kaelon-black-pulling-away-in-49ers-rb2-race-boosting-handcuff-appeal"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 43.8,
+   "route_pct": 30.6,
+   "touches": 15,
+   "injury": "",
+   "role": "Cutting into Christian McCaffrey's touches as 49ers rookie RB2",
+   "note": "[news 2026-09-13] Week 1: 43.8% of snaps, 14 of 24 team backfield carries, 30.6% route rate; top Week 2 waiver target",
+   "source": "https://www.rotostreetjournal.com/2026/09/13/fantasy-football-week-2-waiver-wire-kaelon-black-caleb-douglas-vele/"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 14,
+   "injury": "Questionable, groin injury; per NFL Network's Ian Rapoport he was 'ready to go' for Week 2 and HC Kyle Shanahan called it 'minor' [news 2026-09-20]",
+   "role": "RB2 on 49ers depth chart (Sleeper order 2) behind starter; expected to play through minor groin issue.",
+   "note": "Week 1: 14 carries for 65 yds. Week 2 (vs Dolphins, played 2026-09-20/21) status was trending toward playing per reports, but actual Week 2 box score/snap count not confirmed in this pass.",
+   "source": "https://lastwordonsports.com/nfl/2026/09/20/kaelon-black-injury-49ers/"
+  }
+ ]
+}

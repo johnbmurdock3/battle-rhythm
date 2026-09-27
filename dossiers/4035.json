@@ -1,0 +1,126 @@
+{
+ "player_id": "4035",
+ "name": "Alvin Kamara",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NO"
+   },
+   {
+    "season": 2026,
+    "team": "NO"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NO",
+    "games": 11,
+    "carries": 131,
+    "targets": null,
+    "rec": 33,
+    "yards": 657,
+    "td": 1,
+    "note": "471 rush yds/1 TD on 131 carries + 33 rec/186 rec yds = 657 total. Missed final 6 games of 2025 with an MCL sprain suffered Week 12 vs Atlanta."
+   }
+  ],
+  "contract": {
+   "years": 2,
+   "signed": "2024-10-22",
+   "note": "2-year, $24.5M extension signed 2024-10-22; presumably covers through 2026, not independently re-verified for 2026."
+  },
+  "scheme": {
+   "oc": "Doug Nussmeier",
+   "note": "HC Kellen Moore entering 2nd season. Whether Nussmeier is a new hire for 2026 unverified."
+  },
+  "competition": [
+   {
+    "name": "Travis Etienne Jr.",
+    "age": 27,
+    "status": "RB1 depth chart (new signing, ahead of Kamara)",
+    "note": "Signed 4-year, $52M free-agent deal with NO on 2026-03-13, ex-Jacksonville. This is the single most decision-relevant fact for Kamara: he has been passed on the depth chart by a big free-agent addition.",
+    "resolved_id": "7543",
+    "resolved_team": "NO",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Devin Neal",
+    "age": 22,
+    "status": "RB3 depth chart",
+    "note": "2025 6th-round pick, behind Kamara.",
+    "resolved_id": "12476",
+    "resolved_team": "NO",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Ourlads NO depth chart order: Travis Etienne Jr. (1), Alvin Kamara (2), Devin Neal (3), Kendre Miller (4)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "CONFLICTING: Sleeper API currently shows injury_status = 'Out' as of this run, but he returned from a Week 1 absence to play and lead Saints RBs in touches in Week 2 [news 2026-09-20]. Could not confirm what the current 'Out' tag refers to (possibly a fresh Week 3 designation or stale data) -- verify before Week 3 lineup decisions.",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Alvin_Kamara",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NO",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Travis_Etienne",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_New_Orleans_Saints_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/kamara-leads-saints-rbs-with-14-touches-in-return",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Alvin_Kamara"
+  },
+  {
+   "date": "2026-08-19",
+   "injury": "Knee (MCL) - Questionable for Week 1 at Detroit",
+   "note": "2025: missed final 6 games with MCL sprain suffered Wk 12; finished with 131 car/471 yds/1 TD, 33 rec/186 yds in 11 games",
+   "source": "https://www.cbssports.com/nfl/teams/NO/new-orleans-saints/injuries/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 0,
+   "injury": "MCL sprain from mid-August joint practice; completed full practice late Week 1 but was held out",
+   "role": "Kendre Miller and Devin Neal handled backfield work in his absence",
+   "note": "[news 2026-09-13] Did not play Week 1 vs DET despite full practice; return likely on a snap-count basis",
+   "source": "https://www.si.com/betting/alvin-kamara-injury-update-betting-impact-for-saints-vs-lions-in-nfl-week-1-2026"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 14,
+   "injury": "CONFLICTING: Sleeper API currently shows injury_status = 'Out' as of this run, but he returned from a Week 1 absence to play and lead Saints RBs in touches in Week 2 [news 2026-09-20]. Could not confirm what the current 'Out' tag refers to (possibly a fresh Week 3 designation or stale data) -- verify before Week 3 lineup decisions.",
+   "role": "RB1 role on the field (14 of Saints' RB touches) despite Sleeper listing him as RB order 2 on depth chart; missed Week 1 with injury, returned Week 2 ahead of schedule per team reports.",
+   "note": "[news 2026-09-20] Week 2 vs Ravens: 9 carries/15 yds, 5 rec on 6 targets/7 yds, 14 total touches, in a Saints win. NOLA.com reported he 'beat his projected timeline' on the injury that kept him out Week 1.",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/kamara-leads-saints-rbs-with-14-touches-in-return"
+  }
+ ]
+}

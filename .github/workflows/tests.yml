@@ -1,0 +1,57 @@
+# The regression gate. Every push and pull request runs the offline suite
+# and the selftests HANDOFF.md lists as "the gate", plus a secret scan over
+# the full history. Nothing here touches the network except checkout and
+# the scanner download: test_all.py is offline by design (CLAUDE.md), and
+# the engine check (`truth --selftest`) pins the two hand-scored Hybrid
+# lines against the real scoring engine.
+#
+# Two runners on purpose: Ubuntu matches the desktop VM the scheduled
+# refresh runs in (Python 3.10), Windows matches John's PC, where the
+# Tuesday fetch and every PowerShell command run. Path bugs have shipped
+# on this repo before (the 9/2 package move, CRLF on 9/12); one OS would
+# not have caught both.
+
+name: tests
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  suite:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest
+            python: "3.10"
+          - os: windows-latest
+            python: "3.12"
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: offline suite
+        run: python br.py test
+      - name: paths selftest
+        run: python -m battle_rhythm.paths --selftest
+      - name: engine check selftest
+        run: python -m battle_rhythm.truth --selftest
+      - name: ledger selftest
+        run: python -m battle_rhythm.ledger --selftest
+      - name: release tooling selftest
+        run: python -m battle_rhythm.release --selftest
+
+  secrets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # the whole history, not just HEAD -- a key
+                                  # removed in a later commit is still a leak
+      - uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

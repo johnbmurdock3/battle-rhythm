@@ -1,0 +1,78 @@
+{
+ "player_id": "827",
+ "name": "Tyrod Taylor",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "GB"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jordan Love",
+    "age": 27,
+    "status": "starter",
+    "note": "entrenched QB1 ahead of Taylor",
+    "resolved_id": "6804",
+    "resolved_team": "GB",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Packers depth chart (ESPN, confirmed): 1. Jordan Love, 2. Tyrod Taylor, 3. Kyle McCord, 4. Kyron Drones. Taylor (age 37) is the clear QB2 \u2014 a veteran, low-upside superflex handcuff on a good offense."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "not checked this pass"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.espn.com/nfl/team/depth/_/name/gb",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/827",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.espn.com/nfl/team/depth/_/name/gb"
+  },
+  {
+   "date": "2026-09-02",
+   "role": "QB2 behind Jordan Love on initial 53-man roster; Packers added Kedon Slovis to practice squad as QB3 on Sept 2",
+   "note": "No trade/injury; Taylor solidified as clear backup QB in GB with McCord traded to Miami",
+   "source": "https://www.msn.com/en-us/sports/football/packers-add-practice-squad-quarterback-behind-jordan-love-tyrod-taylor/ar-AA2bm4oi"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper depth_chart_position QB order 2 (backup)",
+   "note": "Not on GB injury report as of 2026-09-21; no notable news found this session",
+   "source": "https://api.sleeper.app/players/nfl/827"
+  }
+ ]
+}

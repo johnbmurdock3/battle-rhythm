@@ -1,0 +1,56 @@
+{
+ "player_id": "13408",
+ "name": "Tanner Koziol",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "JAX"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "rookie deal, 5th round pick #164 overall, 2026 draft"
+  },
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "Rookie TE out of Houston, drafted #164 overall by Jacksonville in 2026 draft; no team change (first NFL season)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Working extra with QB Trevor Lawrence after practice 8/6/26 to build rapport"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.jaguars.com/team/players-roster/tanner-koziol/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/jaguars/onsi/jacksonville-rookie-progress-report-checking-in-on-josh-cameron-2026-class-after-day-7",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.jaguars.com/team/players-roster/tanner-koziol/"
+  }
+ ]
+}

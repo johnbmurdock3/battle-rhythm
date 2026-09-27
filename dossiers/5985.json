@@ -1,0 +1,70 @@
+{
+ "player_id": "5985",
+ "name": "Foster Moreau",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NO"
+   },
+   {
+    "season": 2026,
+    "team": "HOU"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "note": "placed on season-ending IR with an ankle injury in Week 16"
+   }
+  ],
+  "contract": {
+   "2026": "2-year, $7M with Houston, signed 2026-03-16"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Dalton Schultz",
+    "age": 30,
+    "status": "starter",
+    "note": "TE1, ahead of Moreau",
+    "resolved_id": "5001",
+    "resolved_team": "HOU",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: New Orleans (2025) -> Houston, signed 2026-03-16; now TE2 behind Dalton Schultz; has history of Hodgkin's lymphoma (diagnosed March 2023, remission announced July 2023) and a 2025 season-ending ankle injury - both currently resolved per depth chart with no active injury tag."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Foster_Moreau",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/houston-texans-depth-chart-hou",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Foster_Moreau"
+  }
+ ]
+}

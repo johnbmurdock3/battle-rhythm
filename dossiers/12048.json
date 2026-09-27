@@ -1,0 +1,143 @@
+{
+ "player_id": "12048",
+ "name": "George Holani",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SEA"
+   },
+   {
+    "season": 2026,
+    "team": "SEA"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "SEA",
+    "games": 11,
+    "targets": 2,
+    "rec": 2,
+    "yards": 15,
+    "td": 0,
+    "note": "Rushing: 22 carries, 73 yards, 1 rushing TD (separate from the receiving line above)."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Brian Fleury (HC Mike Macdonald)",
+   "note": "Macdonald has been HC since Jan 31, 2024 \u2014 not a 2026 change. Fleury listed as OC on team site; whether this is a new 2026 hire could not be confirmed in this pass."
+  },
+  "competition": [
+   {
+    "name": "Jadarian Price",
+    "age": 22,
+    "status": "Splitting first-team reps with Holani",
+    "note": "Born Oct 9, 2003; Seahawks 1st-round rookie (32nd overall) out of Notre Dame. A July 27, 2026 report says Price and Holani have 'split first-team reps during the early days of training camp,' with coaches emphasizing Price's development as a pass-catcher. Holani could be the Week 1 3rd-down favorite unless Price improves rapidly.",
+    "resolved_id": "13286",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Zach Charbonnet",
+    "age": 25,
+    "status": "On PUP, ACL recovery",
+    "note": "Born Jan 8, 2001. Suffered a torn ACL Jan 17-19, 2026 in the divisional-round playoff win over SF; surgery Feb 2026. Placed on PUP list before camp (reported July 22-24, 2026). HC Macdonald: 'not going to miss the whole year,' but a Week 1 return looks unlikely; PUP players can begin practicing after Week 2 of the regular season under 2026 rules.",
+    "resolved_id": "9753",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Emanuel Wilson",
+    "age": 27,
+    "status": "Depth",
+    "note": "Age unverified.",
+    "resolved_id": "11435",
+    "resolved_team": "SEA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Kenny McIntosh",
+    "age": 26,
+    "status": "Depth",
+    "note": "Age unverified.",
+    "resolved_id": "10216",
+    "resolved_team": null,
+    "resolved_pos": "RB",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "Kenneth Walker III left Seattle in 2026 free agency, reportedly signing with the Chiefs, removing him from the RB competition entirely.",
+   "An earlier April 24, 2026 depth-chart snapshot listed Price as outright starter and Holani as 'immediate backup/workload share' \u2014 the more recent July 27, 2026 report describing an actual reps split during camp is treated as the current status per the later-report-wins rule."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy, active in camp",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Holani and rookie first-round pick Jadarian Price have split first-team reps during the early days of training camp.",
+    "who": "CBS Sports",
+    "date": "2026-07-27"
+   },
+   {
+    "quote": "Once Charbonnet is cleared to return, Seattle could end up deploying all three to some extent.",
+    "who": "CBS Sports",
+    "date": "2026-07-27"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/seahawks-george-holani-alternating-with-first-team/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/seattle-seahawks/zach-charbonnet-injury-update/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/seahawks/onsi/updated-seahawks-rb-depth-chart-after-selecting-jadarian-price",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/H/HolaGe00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jadarian_Price",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Zach_Charbonnet",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.seahawks.com/team/coaches-roster/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy, active in camp",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/fantasy/football/news/seahawks-george-holani-alternating-with-first-team/"
+  }
+ ]
+}

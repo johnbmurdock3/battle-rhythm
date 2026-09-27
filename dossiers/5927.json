@@ -1,0 +1,139 @@
+{
+ "player_id": "5927",
+ "name": "Terry McLaurin",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "WAS"
+   },
+   {
+    "season": 2026,
+    "team": "WAS"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "WAS",
+    "games": 10,
+    "carries": 0,
+    "targets": 60,
+    "rec": 38,
+    "yards": 582,
+    "td": 3,
+    "note": "First time since his 2019 rookie year he failed to reach 1,000 yards, due to a quad strain and ankle sprain (Commanders.com, 2026-08-05)."
+   }
+  ],
+  "contract": {
+   "years": 3,
+   "signed": "2025 offseason",
+   "note": "Signed a 3-year, $97M deal after his Pro Bowl/All-Pro 2024 season (per Commanders.com, 2026-08-05). Note: an earlier CBS Sports article from 2025-07-27 described him in the 'final year' of a prior 3-year, $68.3M deal during a camp holdout that preceded this new extension."
+  },
+  "scheme": {
+   "oc": "David Blough",
+   "note": "First year as OC in 2026 (entering 3rd season with org, 1st calling plays); Commanders have two new coordinators for 2026, neither of whom had called plays at the pro level before this season (SI, 2026-07-28)."
+  },
+  "competition": [
+   {
+    "name": "Stefon Diggs",
+    "age": 32,
+    "status": "WR2 (signed with WAS for 2026)",
+    "note": "Listed atop the 'WR2' grouping on the Commanders' first unofficial 2026 depth chart (2026-08-10), ahead of Treylon Burks and Antonio Williams.",
+    "resolved_id": "2449",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Dyami Brown",
+    "age": 26,
+    "status": "Listed WR1-group depth behind McLaurin",
+    "note": "",
+    "resolved_id": "7587",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "McLaurin remains the clear WR1 on the Commanders' 2026 unofficial depth chart (2026-08-10)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Active, per Sleeper API",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "My body feels great. I'm clocking 22 mph, not missing any days.",
+    "who": "Terry McLaurin",
+    "date": "2026-08-05"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/terry-mclaurin-issues-clear-message-004858983.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.commanders.com/news/washington-commanders-report-training-camp-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://roundtable.io/sports/nfl/commanders/news/washington-commanders-release-first-unofficial-2026-depth-chart",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.statmuse.com/nfl/ask/terry-mclaurin-2025-stats",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.commanders.com/team/coaches-roster/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/news/terry-mclaurin-reports-to-commanders-training-camp-after-holdout-placed-on-pup-with-ankle-injury",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/players/terry-mclaurin/stats/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy, no missed days",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/terry-mclaurin-issues-clear-message-004858983.html"
+  },
+  {
+   "date": "2026-09-01",
+   "note": "Not listed on Commanders injury report as of Sep 1, 2026; appears healthy for Week 1. Sleeper API oddly returns injury_status 'Active' (no actual injury description found).",
+   "source": "https://www.cbssports.com/nfl/teams/WAS/washington-commanders/injuries/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 2,
+   "injury": "",
+   "role": "OC David Blough had promised ~10 targets/gm; Week 1 fell short, prompting scheme-adjustment talk",
+   "note": "Week 1 vs PHI: 4 targets, 2 rec, 14 yds",
+   "source": "https://www.si.com/nfl/commanders/onsi/terry-mclaurin-targets-david-blough-commanders-cowboys-week-2"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 2,
+   "injury": "Active, per Sleeper API",
+   "role": "LWR1 on Washington depth chart per Sleeper; not on Commanders injury report (healthy)",
+   "note": "Week 2 vs Cowboys (loss 20-37): 2 rec, 50 yds, 0 TD. Week 1 vs Eagles: 2 rec, 14 yds, 0 TD. Target counts not shown on available page; receptions light both weeks.",
+   "source": "https://www.nfl.com/players/terry-mclaurin/stats/"
+  }
+ ]
+}

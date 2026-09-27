@@ -1,0 +1,75 @@
+{
+ "player_id": "5086",
+ "name": "Marquez Valdes-Scantling",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "DAL"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": ""
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: signed with Dallas for 2026 ('Cowboys Sign ... Marquez Valdes-Scantling'); Dallas team article calls it his 'seventh team' \u2014 2025 team specifically not confirmed this pass (was cut by Buffalo in 2024)"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.bloggingtheboys.com/dallas-cowboys-roster/207782/2026-roster-review-wide-receiver-marquez-valdes-scantling",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/dallas-cowboys/sign-wide-receiver-marquez-valdes-scantling/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/marquez-valdes-scantling.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.bloggingtheboys.com/dallas-cowboys-roster/207782/2026-roster-review-wide-receiver-marquez-valdes-scantling"
+  },
+  {
+   "date": "2026-08-31",
+   "note": "ESPN confirms current team as Dallas Cowboys; not on Cowboys injury report as of Aug 31, 2026.",
+   "source": "https://www.cbssports.com/nfl/teams/DAL/dallas-cowboys/injuries/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "",
+   "note": "No player-specific news found; FantasyPros player-news URL returned generic league news feed with no MVS items - no notable news found",
+   "source": "https://www.fantasypros.com/nfl/news/marquez-valdes-scantling.php"
+  }
+ ]
+}

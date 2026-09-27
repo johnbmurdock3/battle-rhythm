@@ -1,0 +1,82 @@
+{
+ "player_id": "13419",
+ "name": "Jaydn Ott",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "KC"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "signed as undrafted free agent after 2026 draft"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Kenneth Walker III",
+    "age": 25,
+    "status": "starter",
+    "note": "ahead of Ott",
+    "resolved_id": "8151",
+    "resolved_team": "KC",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Emari Demercado",
+    "age": 27,
+    "status": "roster",
+    "note": "ahead of Ott",
+    "resolved_id": "11199",
+    "resolved_team": "KC",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Emmett Johnson",
+    "age": 22,
+    "status": "roster",
+    "note": "ahead of Ott",
+    "resolved_id": "13337",
+    "resolved_team": "KC",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Undrafted rookie (transferred Cal to Oklahoma in college); long-shot for 90-man to 53-man cut in crowded, overhauled Chiefs backfield",
+   "New Chiefs RB coach DeMarco Murray (from Oklahoma) may give him familiarity edge"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://arrowheadaddict.com/chiefs-rookie-jaydn-ott-has-one-key-advantage-crowded-backfield-battle",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://arrowheadaddict.com/chiefs-rookie-jaydn-ott-has-one-key-advantage-crowded-backfield-battle"
+  }
+ ]
+}

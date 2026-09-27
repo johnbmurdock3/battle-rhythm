@@ -1,0 +1,140 @@
+{
+ "player_id": "12518",
+ "name": "Tyler Warren",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "IND"
+   },
+   {
+    "season": 2026,
+    "team": "IND"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "IND",
+    "games": 17,
+    "targets": 112,
+    "rec": 76,
+    "yards": 817,
+    "td": 4,
+    "note": "Started all 17 games as a rookie. Franchise record for receiving yards by a rookie TE. Also had 6 carries/8 yards/1 rushing TD (5 total TDs). Played 899 of 1,075 offensive snaps (~84%); lined up at TE for 466 snaps (51.8% of his snaps), plus fullback (64 snaps), wide receiver (384 receiving snaps total), and even 3 wildcat QB snaps."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2025 (after being drafted)",
+   "note": "4-year rookie contract reported in the ~$20.9-21M range (multiple outlets cited slightly different totals: Bleacher Report ~$21M, Sportskeeda ~$20.9M); exact figure not independently reconciled in this pass."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "HC Shane Steichen returning for 2026. QB Daniel Jones is the starting QB referenced in camp coverage (Jones quote: 'Certainly expect him to be a big part of the offense again, and he's making a jump on what was a really, really good rookie season.'). Specific offensive coordinator name not confirmed in this research pass."
+  },
+  "competition": [
+   {
+    "name": "Michael Pittman Jr.",
+    "age": 28,
+    "status": "traded away from Colts",
+    "note": "Pittman previously drew 111 targets; his departure is cited as freeing up target share for Warren in 2026.",
+    "resolved_id": "6819",
+    "resolved_team": "PIT",
+    "resolved_pos": "WR",
+    "same_team": false
+   },
+   {
+    "name": "Alec Pierce",
+    "age": 26,
+    "status": "injured, not practicing",
+    "note": "Ankle injury, had offseason surgery; has not practiced in 2026 training camp as of 2026-08-09 with no return timetable.",
+    "resolved_id": "8142",
+    "resolved_team": "IND",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Josh Downs",
+    "age": 24,
+    "status": "injured",
+    "note": "Groin injury; missed practice on 2026-08-09 (Saturday); no recovery timeline given.",
+    "resolved_id": "9500",
+    "resolved_team": "IND",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Ashton Dulin / Nick Westbrook-Ikhine",
+    "age": 29,
+    "status": "depth WRs",
+    "note": "Receiving increased camp opportunities due to Pierce/Downs injuries.",
+    "resolved_id": "7496",
+    "resolved_team": "IND",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Drafted 14th overall in 2025 by Indianapolis out of Penn State.",
+   "Projected to be first or second overall receiving option for the Colts in 2026 if Pierce remains sidelined (Heavy.com, 2026-06-21)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury reported for Warren himself; entering 2026 healthy per camp coverage.",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Tight end Tyler Warren impressed during Colts mandatory minicamp, demonstrating strong performance ahead of formal training camp. Entering his second season healthy and ready for expanded role.",
+    "who": "Heavy.com / Fox59's Mike Chappell",
+    "date": "2026-06-21"
+   },
+   {
+    "quote": "Certainly expect him to be a big part of the offense again, and he's making a jump on what was a really, really good rookie season.",
+    "who": "Daniel Jones (QB)",
+    "date": "2026-06-21"
+   },
+   {
+    "quote": "Alec Pierce (ankle, offseason surgery) has not practiced during training camp with no return timetable; Josh Downs (groin) missed Saturday practice.",
+    "who": "Heavy.com",
+    "date": "2026-08-09"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.colts.com/news/2025-colts-rookie-review-tyler-warren-tight-end-offense-versatility-growth",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/daniel-jones-expects-tyler-warren-to-be-big-part-of-colts-offense-as-te-makes-jump-from-rookie-year",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/indianapolis-colts/colts-tyler-warren-shines-before-camp/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/indianapolis-colts/colts-receiver-josh-downs-alec-pierce-injury/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://bleacherreport.com/articles/25194387-tyler-warren-colts-reportedly-agree-21m-rookie-contract-after-2025-nfl-draft",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury reported for Warren himself; entering 2026 healthy per camp coverage.",
+   "note": "baseline from initial research pass",
+   "source": "https://www.colts.com/news/2025-colts-rookie-review-tyler-warren-tight-end-offense-versatility-growth"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "player_id": "6865",
+ "name": "Colby Parkinson",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LAR"
+   },
+   {
+    "season": 2026,
+    "team": "LAR"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tyler Higbee",
+    "age": 33,
+    "status": "backup",
+    "note": "veteran, still on roster",
+    "resolved_id": "3271",
+    "resolved_team": "LAR",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Terrance Ferguson",
+    "age": 23,
+    "status": "backup",
+    "note": "",
+    "resolved_id": "12487",
+    "resolved_team": "LAR",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Max Klare",
+    "age": 23,
+    "status": "backup",
+    "note": "",
+    "resolved_id": "13278",
+    "resolved_team": "LAR",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Parkinson is the Rams' clear starting/primary inline TE (Y-TE) entering 2026, per Turf Show Times and RotoWire."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/player/colby-parkinson-14463",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/rams/onsi/rams-depth-chart-entering-camp-starters-battles-and-bubble-players",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/player/colby-parkinson-14463"
+  }
+ ]
+}

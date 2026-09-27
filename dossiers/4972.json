@@ -1,0 +1,79 @@
+{
+ "player_id": "4972",
+ "name": "Mason Rudolph",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "PIT"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Aaron Rodgers",
+    "age": 42,
+    "status": "starter",
+    "note": "QB1 ahead of Rudolph; age 42 is the key risk factor raising Rudolph's superflex handcuff value",
+    "resolved_id": "96",
+    "resolved_team": "PIT",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Steelers depth chart (ourlads, confirmed): 1. Aaron Rodgers, 2. Mason Rudolph, 3. Will Howard, 4. Drew Allar. Rudolph is QB2 behind a 42-year-old starter \u2014 meaningfully higher superflex value than a typical backup given Rodgers' age/injury risk."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "not checked this pass"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/PIT",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/mason-rudolph.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-07-30",
+   "injury": "None reported",
+   "role": "Began training camp on the second-team offense, competing with Will Howard and Drew Allar for backup reps",
+   "note": "Backup QB status as of camp (~5 weeks before 2026-09-03); source did not clearly state who is QB1 for 2026, so starter is unconfirmed in this search.",
+   "source": "https://www.fantasypros.com/nfl/news/mason-rudolph.php"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/PIT"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper depth chart lists him QB2 in Pittsburgh (behind the starter)",
+   "note": "No fresh Week 2/3 news; most recent FantasyPros item is training-camp reps from ~5 weeks ago - no notable news found",
+   "source": "https://www.fantasypros.com/nfl/news/mason-rudolph.php"
+  }
+ ]
+}

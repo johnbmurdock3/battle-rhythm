@@ -1,0 +1,149 @@
+{
+ "player_id": "13298",
+ "name": "KC Concepcion",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "CLE",
+    "note": "Drafted Round 1, Pick 24 in 2026 NFL Draft out of Texas A&M (transferred from NC State)."
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Texas A&M (college)",
+    "games": null,
+    "receptions": 61,
+    "rec_yards": 919,
+    "rec_td": 9,
+    "note": "61 catches, 919 yards, ~9 receiving TD (12 total TD counting other play types per some sources), 15.1 YPR, 440 YAC; top-10 SEC in receptions, top-5 in yardage; SEC All-Conference and All-American (all-purpose incl. punt return). 2023 (NC State, sophomore): 71 rec, 839 yards, 10 TD."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract terms not verified this search."
+  },
+  "scheme": {
+   "oc": "Todd Monken",
+   "note": "Monken (Browns OC) previously coached with Baltimore; brought over WR Tylan Wallace from Ravens system. No 2026 OC change \u2014 Monken continuity, per clevelandbrowns.com position preview (2026-06-24)."
+  },
+  "competition": [
+   {
+    "name": "Jerry Jeudy",
+    "age": 27,
+    "status": "Veteran, coming off down 2025 (50 catches, 602 yards, 2 TD)",
+    "note": "Browns.com (2026-06-24): Jeudy 'comes in every day prepared' after a disappointing 2025; still projected in starting mix alongside Concepcion.",
+    "resolved_id": "6783",
+    "resolved_team": "CLE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Denzel Boston",
+    "age": 22,
+    "status": "Fellow 2026 rookie WR",
+    "note": "Drafted for contested-catch ability/blocking; also drawing camp buzz alongside Concepcion (athlonsports.com).",
+    "resolved_id": "13346",
+    "resolved_team": "CLE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Cedric Tillman",
+    "age": 26,
+    "status": "Veteran depth WR",
+    "note": "Listed among Browns WR corps, no ages/contract verified.",
+    "resolved_id": "10444",
+    "resolved_team": "CLE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Tylan Wallace",
+    "age": 27,
+    "status": "Veteran addition from Ravens (Monken connection)",
+    "note": "Signed after 5 seasons in Baltimore under Monken.",
+    "resolved_id": "7595",
+    "resolved_team": "CLE",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "si.com/browns (2026-07-14): 'The speed was real. The inside-outside ability looked real. And the Browns used Concepcion in motion several times' \u2014 first Round 1 WR investment for Browns since Corey Coleman (2015); teams passed on him for Omar Cooper Jr. and Denzel Boston at other spots.",
+   "Expected to see time at slot receiver despite 6-foot outside-WR usage in college, per athlonsports.com camp coverage."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Recovered, back to full practice",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Everything is great right now. I never really had an AC injury before. So it was kind of weird for a little bit. But I'm good now.",
+    "who": "KC Concepcion",
+    "date": "2026-08-07"
+   },
+   {
+    "quote": "[Concepcion has] seen him make some elite catches and his ability to elevate.",
+    "who": "HC Todd Monken (paraphrase/quote, on hands/catch improvement)",
+    "date": ""
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://athlonsports.com/nfl/cleveland-browns/nfl-trending-kc-concepcion-healthy-shoulder-browns-qb-battle",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/browns/onsi/why-the-browns-are-so-excited-about-rookie-receiver-kc-concepcion-01kxgqfvpaka",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.clevelandbrowns.com/news/breaking-down-the-browns-receiving-corps-heading-into-the-2026-season-position-preview",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://247sports.com/article/texas-am-2025-season-in-review-kc-concepcion-helps-to-remake-the-outside-wr-position-in-aggieland-268139340/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/kc-concepcion-draft-profile-nfl-125600569.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/seven-touches-22-yards-for-concepcion",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Recovered, back to full practice",
+   "note": "baseline from initial research pass",
+   "source": "https://athlonsports.com/nfl/cleveland-browns/nfl-trending-kc-concepcion-healthy-shoulder-browns-qb-battle"
+  },
+  {
+   "date": "2026-08-21",
+   "role": "First-round rookie expected to see heavy usage in Todd Monken's offense as a receiver/rusher plus punt returner; Sleeper lists him Active on Cleveland's roster",
+   "note": "Preseason flashes included a 31-yard punt return and 14-yard rushing TD; HC Monken said 'We want to get him the ball as much as we can'",
+   "source": "https://dawgpounddaily.com/kc-concepcion-is-creating-a-roster-problem-the-browns-are-happy-to-have"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 7,
+   "injury": "",
+   "role": "SWR1 on Sleeper depth chart, first-round rookie (No. 24 overall). Week 2 vs Buccaneers (Sept 20, 2026): 6 catches on 6 targets for 28 rec yards, 1 rush for -6 yards, 7 total touches/22 total yards; led team in targets.",
+   "note": "Volume is real (led team in targets Week 2) but efficiency/aDOT reportedly low so far",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/seven-touches-22-yards-for-concepcion"
+  }
+ ]
+}

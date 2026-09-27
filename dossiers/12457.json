@@ -1,0 +1,132 @@
+{
+ "player_id": "12457",
+ "name": "Jaydon Blue",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DAL"
+   },
+   {
+    "season": 2026,
+    "team": "DAL"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "DAL",
+    "games": 5,
+    "carries": 38,
+    "targets": 1,
+    "rec": 1,
+    "yards": 129,
+    "td": 1,
+    "note": "Rookie season limited to only 5 games played (reason not confirmed this pass, possibly injury/inactive). 38 car/129 rush yds/1 rush TD, 1 target/1 rec/5 rec yds. His only start (Week 18) produced 64 yds and a TD on 16 carries as injury fill-in for Javonte Williams and Malik Davis."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract, not researched this pass."
+  },
+  "scheme": {
+   "oc": "Klayton Adams",
+   "note": "HC Brian Schottenheimer and OC Klayton Adams; not confirmed as new hires for 2026 vs. holdovers."
+  },
+  "competition": [
+   {
+    "name": "Javonte Williams",
+    "age": 26,
+    "status": "healthy, RB1/starter",
+    "note": "",
+    "resolved_id": "7588",
+    "resolved_team": "DAL",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Malik Davis",
+    "age": 27,
+    "status": "healthy, RB2",
+    "note": "",
+    "resolved_id": "8800",
+    "resolved_team": "DAL",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Phil Mafah",
+    "age": 23,
+    "status": "RB4",
+    "note": "",
+    "resolved_id": "12738",
+    "resolved_team": "DAL",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "ESPN depth chart lists Blue as RB3, behind Javonte Williams and Malik Davis.",
+   "Blue only played 5 games as a rookie in 2025 despite being drafted for his receiving/explosiveness skill set; his lone extended look (Week 18) was productive."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "unverified",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.espn.com/nfl/team/depth/_/name/dal/dallas-cowboys",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/dal/dallas-cowboys",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/players/jaydon-blue.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/stats/jaydon-blue.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.dallascowboys.com/team/coaches-roster/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/jaydon-blue-cut-loose-by-cowboys",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://www.espn.com/nfl/team/depth/_/name/dal/dallas-cowboys"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "Waived by Dallas on 8/31/2026; went unclaimed on waivers and signed to the Philadelphia Eagles practice squad. Cowboys RB room is now Javonte Williams (RB1), Emari Demercado, Malik Davis",
+   "note": "TEAM CHANGE: released by the Cowboys, now on the Eagles practice squad; Sleeper's team field (DAL) appears stale",
+   "source": "https://bleacherreport.com/articles/25494673-cowboys-waive-jaydon-blue-new-nfl-rumors-updated-rb-depth-chart-and-fantasy-football-outlook"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "waived by Dallas, now on Philadelphia Eagles practice squad",
+   "note": "Waived by Cowboys Aug 30, 2026 (Malik Davis claimed the No. 2 RB role behind starter Javonte Williams) [news 2026-08-30]; signed to Eagles practice squad Sept 1, 2026 [news 2026-09-01]. Sleeper confirms current team PHI.",
+   "source": "https://www.cbssports.com/fantasy/football/news/jaydon-blue-cut-loose-by-cowboys"
+  }
+ ]
+}

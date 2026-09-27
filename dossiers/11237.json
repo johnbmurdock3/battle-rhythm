@@ -1,0 +1,48 @@
+{
+ "player_id": "11237",
+ "name": "Jacob Saylors",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-03",
+   "note": "Identity resolved via Sleeper API only; no news search performed for this ID (not in original news-search list) beyond identity confirmation.",
+   "source": "https://api.sleeper.app/players/nfl/11237"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 0,
+   "injury": "",
+   "role": "RB2/RB3 behind Jahmyr Gibbs with Isiah Pacheco on IR",
+   "note": "[news 2026-09-14] No touches in Week 1 vs NO; buried on depth chart",
+   "source": "https://www.fantasypros.com/nfl/depth-chart/detroit-lions.php"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "RB2 in a committee with Sione Vaki and Jabari Small; Isiah Pacheco on IR (back)",
+   "note": "Coach Dan Campbell 'comfortable' with Saylors as RB2, called it 'by committee' with Vaki also getting reps; Saylors led Lions RBs in preseason (62.3 rush yds/gm) [news 2026-09-07]. No Week 2 regular-season stat line found",
+   "source": "https://sports.yahoo.com/articles/jacob-saylors-lions-rb2-not-180429315.html"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/jacob-saylors-lions-rb2-not-180429315.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

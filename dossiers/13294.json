@@ -1,0 +1,169 @@
+{
+ "player_id": "13294",
+ "name": "Makai Lemon",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "PHI",
+    "note": "Drafted No. 20 overall by Eagles in 2026 NFL Draft; college: USC"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "USC (college)",
+    "games": null,
+    "targets": null,
+    "rec": null,
+    "yards": 1156,
+    "td": 11,
+    "note": "Led Power Four in receiving yards (1,156), 6.6 rec/gm, 11 receiving TD + 2 rush TD + 1 passing TD; 5 games of 100+ receiving yards; PFF's highest-graded college WR (90.4 overall). Named 2025 Polynesian College Football Player of the Year (2025-12-16) and won the 2025 Biletnikoff Award. Career USC totals: 137 rec, 2,008 yds, 14 TD."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2026-04",
+   "note": "Signed a rookie deal reported at ~$20.8M, the first of all 32 first-round picks to sign in 2026, just 5 days after the draft."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Eagles offense 'in transition' following the A.J. Brown trade to the Patriots (agreed ~2026, per ESPN/Eagles.com); HC is Nick Sirianni."
+  },
+  "competition": [
+   {
+    "name": "DeVonta Smith",
+    "age": 27,
+    "status": "starting WR1 ('No. 1 wideout')",
+    "note": "Signed 3-yr/$75M extension with Eagles (April 2024, historical); remains WR1 as of Aug 2026 camp reports.",
+    "resolved_id": "7525",
+    "resolved_team": "PHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Dontayvion Wicks",
+    "age": 25,
+    "status": "WR2 (early camp edge over Lemon)",
+    "note": "Acquired via trade from Green Bay (agreed 2026-04-13) for Day 3 picks; signed to a 1-yr, $12.5M extension with PHI. As of 2026-08-10, reported to have an 'early edge' at the No. 2 WR spot ahead of Lemon.",
+    "resolved_id": "9486",
+    "resolved_team": "PHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Dallas Goedert",
+    "age": 31,
+    "status": "starting TE",
+    "note": "Named as secondary target option in Eagles passing game per Footballguys draft-day reaction (2026-04-24).",
+    "resolved_id": "5022",
+    "resolved_team": "PHI",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Darius Cooper",
+    "age": 24,
+    "status": "camp WR performing well",
+    "note": "Per Yardbarker (2026-08-10), Cooper has 'performed better in camp' than Lemon, further clouding Lemon's path to playing time.",
+    "resolved_id": "13150",
+    "resolved_team": "PHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Marquise Brown",
+    "age": 29,
+    "status": "depth WR",
+    "note": "Listed as part of WR competition in Footballguys draft reaction (pre-A.J. Brown-trade dynamics).",
+    "resolved_id": "5848",
+    "resolved_team": "PHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Elijah Moore",
+    "age": 26,
+    "status": "depth WR",
+    "note": "Listed as part of WR competition in Footballguys draft reaction.",
+    "resolved_id": "7596",
+    "resolved_team": "PHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Many scouts/evaluators view Lemon primarily as a slot receiver; the Eagles' offense will require him to prove he can win outside routes per Footballguys.",
+   "Footballguys (2026-04-24, before A.J. Brown trade was reflected) projected 80% snap share and Week 1 starter status \u2014 since superseded by hamstring-driven camp reports in Aug 2026 (see volatile.injury)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Out of practice / not practicing (hamstring)",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Lemon missed half the spring and so far half of training camp, and on the days he did practice he didn't do a whole lot.",
+    "who": "Brandon Lee Gowton, Bleeding Green Nation (via Yardbarker)",
+    "date": "2026-08-10"
+   },
+   {
+    "quote": "Lemon still has time to get healthy and make a case for earning a sizable role Week 1.",
+    "who": "CBS Sports fantasy news",
+    "date": "2026-08-10"
+   },
+   {
+    "quote": "The rookie continues to work his way back to full health.",
+    "who": "FantasyPros injury report",
+    "date": "2026-08-10"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.footballguys.com/article/2026-makai-lemon-philadelphia-eagles-instant-reactions",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.yardbarker.com/nfl/articles/reporter_makes_concerning_prediction_regarding_eagles_rookie_wr_makai_lemon/s1_13132_44159143",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/601591/makai-lemon-hamstring-still-not-practicing-monday.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/eagles-makai-lemon-unlikely-to-break-camp-as-starter/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://usctrojans.com/news/2025/12/16/uscs-makai-lemon-named-2025-polynesian-college-football-player-of-the-year",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.yardbarker.com/general_sports/articles/lemon_signs_208m_eagles_deal_5_days_after_draft_as_first_of_all_32_first_rounders/s1_17755_43819801",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/story/_/id/48937845/sources-eagles-agree-trade-aj-brown-patriots-2-picks",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/nfl/breaking-news/article/packers-trade-wr-dontayvion-wicks-to-eagles-for-draft-picks-203826455.html",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Out of practice / not practicing (hamstring)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.footballguys.com/article/2026-makai-lemon-philadelphia-eagles-instant-reactions"
+  }
+ ]
+}

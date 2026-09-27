@@ -1,0 +1,116 @@
+{
+ "player_id": "13336",
+ "name": "Dane Key",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "DEN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Courtland Sutton",
+    "age": 30,
+    "status": "WR1",
+    "note": "",
+    "resolved_id": "5045",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jaylen Waddle",
+    "age": 27,
+    "status": "WR2 (questionable)",
+    "note": "",
+    "resolved_id": "7526",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Troy Franklin",
+    "age": 23,
+    "status": "WR3",
+    "note": "",
+    "resolved_id": "11627",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Pat Bryant",
+    "age": 23,
+    "status": "WR4",
+    "note": "",
+    "resolved_id": "12492",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Marvin Mims",
+    "age": 24,
+    "status": "WR5 (questionable)",
+    "note": "",
+    "resolved_id": "9494",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "2025 team unverified this pass; confirmed on 2026 Broncos roster but buried at 9th on RotoWire's WR depth chart -- deep camp roster longshot."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "unverified",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/denver-broncos-depth-chart-den",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/denver-broncos-waived-wide-receiver-231007902.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/denver-broncos-depth-chart-den"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "Did not make Broncos 53-man roster (preseason: 3 catches, 52 yards); signed to Broncos practice squad 8/31/26. Brother Devon Key is a Broncos safety/special teamer.",
+   "note": "Practice squad WR, not on active 53-man roster as of 8/31/26",
+   "source": "https://huskercorner.com/nebraska-football-dane-key-denver-broncos-practice-squad"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Waived by Denver; roster status unclear/possibly practice squad or off roster",
+   "note": "Broncos waived Key during final roster cuts [news 2026-08-30]; Sleeper API still lists him as DEN which may be stale \u2014 could not confirm current team/practice-squad status",
+   "source": "https://sports.yahoo.com/articles/denver-broncos-waived-wide-receiver-231007902.html"
+  }
+ ]
+}

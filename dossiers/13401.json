@@ -1,0 +1,76 @@
+{
+ "player_id": "13401",
+ "name": "Michael Trigg",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "DAL"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": ""
+   }
+  ],
+  "notes": [
+   "Signed by Cowboys as a UDFA in 2026 ('massively hyped UDFA could land immediate role as rookie'); 2025 team unverified \u2014 appears to be his rookie entry to the NFL"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/cowboys/onsi/dallas-cowboys-massively-hyped-udfa-could-land-immediate-role-rookie",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.bloggingtheboys.com/dallas-cowboys-roster/209527/2026-roster-review-tight-end-michael-trigg",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.dallascowboysloverfan.com/michael-trigg-cowboys-preseason-debut-te2-battle/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/cowboys/onsi/dallas-cowboys-massively-hyped-udfa-could-land-immediate-role-rookie"
+  },
+  {
+   "date": "2026-08-30",
+   "role": "Waived by Cowboys 8/30/26 (Calvin Watkins/Dallas Morning News), failed to make 53-man roster despite 4/5 targets for 30 yards vs Seattle in preseason. Cowboys reportedly wanted to re-sign him to practice squad if he cleared waivers unclaimed; his post-waiver landing spot (Dallas PS vs. elsewhere) not confirmed in sources checked.",
+   "note": "Waived by Cowboys; practice-squad return possible but unconfirmed as of latest source found",
+   "source": "https://www.rotowire.com/football/headlines/michael-trigg-news-let-go-by-dallas-635405"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Undrafted rookie competing for Cowboys TE2 job behind starter Jake Ferguson, against Brevyn Spann-Ford and Luke Schoonmaker; Sleeper depth chart currently lists him TE order 2.",
+   "note": "Preseason debut vs Seattle (2026-08-17): team-high 4 rec for 30 yds; signed $280K guaranteed, well above typical UDFA. No regular-season Week 1-2 snap/target data found.",
+   "source": "https://www.dallascowboysloverfan.com/michael-trigg-cowboys-preseason-debut-te2-battle/"
+  }
+ ]
+}

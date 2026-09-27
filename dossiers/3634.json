@@ -1,0 +1,94 @@
+{
+ "player_id": "3634",
+ "name": "Kalif Raymond",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DET"
+   },
+   {
+    "season": 2026,
+    "team": "CHI"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "2026": "1-year, $5.1M, signed 2026-03-11"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Rome Odunze",
+    "age": 24,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "11620",
+    "resolved_team": "CHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Luther Burden III",
+    "age": 22,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "12519",
+    "resolved_team": "CHI",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Team change: DET -> CHI (signed 2026-03-11). Now WR3 in Chicago at age 32, likely mostly a return specialist/depth role given ages of Odunze and Burden ahead of him."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Kalif_Raymond",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/chicago-bears-depth-chart-chi",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/3634",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Kalif_Raymond"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 8,
+   "injury": "",
+   "role": "Outproduced Odunze/Burden in Week 1 despite a Sleeper depth_chart_order of 5",
+   "note": "[news 2026-09-13] 8-of-9 targets for 89 yds in the Bears 59-37 win over CAR; PFF Team of the Week",
+   "source": "https://www.bing.com/news/search?q=Kalif+Raymond+Bears+week+1+2026"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "None reported",
+   "role": "Team change: now with Bears (not Detroit). Leading Chicago's receiving corps early -- outproducing Luther Burden through 2 weeks.",
+   "note": "[news 2026-09-14/21] Week 1: 8 rec/9 tgt, 89 yds vs Panthers (Bears won 59-37). Week 2: outproduced Burden again in a loss to the Vikings.",
+   "source": "https://api.sleeper.app/players/nfl/3634"
+  }
+ ]
+}

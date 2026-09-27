@@ -1,0 +1,71 @@
+{
+ "player_id": "8489",
+ "name": "Drew Ogletree",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "IND"
+   },
+   {
+    "season": 2026,
+    "team": "IND"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tyler Warren",
+    "age": 24,
+    "status": "starter",
+    "note": "TE1, 2025 1st rd pick",
+    "resolved_id": "12518",
+    "resolved_team": "IND",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Mo Alie-Cox",
+    "age": 32,
+    "status": "TE2",
+    "note": "veteran blocker/receiver",
+    "resolved_id": "4054",
+    "resolved_team": "IND",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Third on Colts TE chart behind Tyler Warren and Mo Alie-Cox; deep-league dart only."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": ""
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.espn.com/nfl/team/depth/_/name/ind/indianapolis-colts",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.espn.com/nfl/team/depth/_/name/ind/indianapolis-colts"
+  }
+ ]
+}

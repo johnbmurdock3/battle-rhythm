@@ -1,0 +1,201 @@
+rank	player	tier	pos	best	worst	avg	sd
+1	Jahmyr Gibbs	1	RB	1	3	1.46	0.61
+2	Bijan Robinson	1	RB	1	4	2.22	0.68
+3	Ja'Marr Chase	1	WR	1	5	2.59	1.02
+4	Puka Nacua	1	WR	1	10	4.41	1.38
+5	Jaxon Smith-Njigba	1	WR	3	10	5.87	1.37
+6	Amon-Ra St. Brown	2	WR	4	11	6.53	1.15
+7	Jonathan Taylor	2	RB	3	18	8.41	3.01
+8	Christian McCaffrey	2	RB	4	22	8.52	4
+9	James Cook III	2	RB	5	20	9.98	2.89
+10	CeeDee Lamb	2	WR	7	19	10.22	2.63
+11	Justin Jefferson	2	WR	7	41	11.73	4.86
+12	Chase Brown	3	RB	8	37	14.99	5.26
+13	Saquon Barkley	3	RB	9	29	15.81	4.4
+14	A.J. Brown	3	WR	7	40	16.29	5.95
+15	Drake London	3	WR	8	31	16.76	4.94
+16	De'Von Achane	3	RB	10	42	17.74	5.75
+17	Omarion Hampton	3	RB	9	42	18.97	5.96
+18	Kenneth Walker III	3	RB	9	46	19.03	7.29
+19	Nico Collins	3	WR	9	37	19.03	4.51
+20	Brock Bowers	3	TE	10	66	19.45	7.81
+21	Derrick Henry	3	RB	11	37	20.86	5.65
+22	George Pickens	4	WR	10	40	22.66	5.49
+23	Ashton Jeanty	4	RB	5	51	23.47	7.72
+24	Chris Olave	4	WR	11	38	23.69	5.63
+25	Trey McBride	4	TE	12	61	24.23	7.42
+26	Malik Nabers	5	WR	11	47	28.25	7.91
+27	DeVonta Smith	5	WR	9	43	28.73	5.61
+28	Josh Allen	5	QB	20	46	28.9	6.22
+29	Rashee Rice	5	WR	11	74	32.53	9.21
+30	Zay Flowers	5	WR	21	49	32.85	6.45
+31	Kyren Williams	5	RB	16	55	33.55	7.72
+32	Javonte Williams	6	RB	17	55	34.84	7.3
+33	Tee Higgins	6	WR	21	50	36.49	5.98
+34	Breece Hall	6	RB	23	55	36.62	6.65
+35	Lamar Jackson	6	QB	24	73	38	11.73
+36	Jaylen Waddle	6	WR	26	61	38.09	7.6
+37	Ladd McConkey	6	WR	18	61	38.27	7.74
+38	Garrett Wilson	6	WR	21	59	38.32	6.18
+39	Tetairoa McMillan	6	WR	24	54	38.42	6.48
+40	Jeremiyah Love	6	RB	24	60	38.8	8.18
+41	Colston Loveland	6	TE	22	84	39.03	11.31
+42	Emeka Egbuka	6	WR	15	63	40.26	8.22
+43	Travis Etienne Jr.	7	RB	20	57	42.73	7.19
+44	Drake Maye	7	QB	27	87	43.61	14.22
+45	D'Andre Swift	7	RB	27	66	47.38	7.55
+46	Terry McLaurin	8	WR	34	74	49.49	7.16
+47	Davante Adams	8	WR	36	70	49.66	7.3
+48	Luther Burden III	8	WR	28	83	49.97	10.39
+49	Joe Burrow	8	QB	27	84	50.34	13.87
+50	Jameson Williams	8	WR	32	83	51.49	9.22
+51	Bucky Irving	8	RB	33	82	52.59	8.08
+52	Tyler Warren	8	TE	22	78	52.93	11
+53	Cam Skattebo	8	RB	38	77	53.41	7.39
+54	David Montgomery	8	RB	34	72	54.41	7.62
+55	DJ Moore	8	WR	21	95	55.15	12.26
+56	Quinshon Judkins	8	RB	32	83	55.18	7.78
+57	Christian Watson	8	WR	38	87	55.34	9.59
+58	Rome Odunze	9	WR	43	89	58.75	8.91
+59	Bhayshul Tuten	9	RB	37	82	59.57	8.94
+60	Jalen Hurts	9	QB	29	93	60.02	12.72
+61	Jadarian Price	9	RB	35	79	60.38	8.98
+62	Jayden Daniels	9	QB	34	100	60.45	13.01
+63	Mike Evans	9	WR	35	108	60.69	11.65
+64	Parker Washington	9	WR	41	108	62.77	13.07
+65	TreVeyon Henderson	10	RB	42	89	66.04	9.53
+66	Caleb Williams	10	QB	36	97	67.3	12.83
+67	Rhamondre Stevenson	10	RB	51	98	69.6	9.9
+68	Tucker Kraft	10	TE	34	122	70.14	13.13
+69	Jaylen Warren	11	RB	53	100	72.75	8.99
+70	Justin Herbert	11	QB	36	103	72.97	14.02
+71	Marvin Harrison Jr.	11	WR	48	114	73.17	12.16
+72	Carnell Tate	11	WR	47	120	73.9	14.16
+73	Trevor Lawrence	12	QB	51	117	77.32	12.48
+74	Dak Prescott	12	QB	36	115	78.67	12.84
+75	Tony Pollard	12	RB	60	114	79.47	9.95
+76	Brian Thomas Jr.	12	WR	50	127	80.78	13.54
+77	DK Metcalf	12	WR	51	120	80.94	11.32
+78	Harold Fannin Jr.	12	TE	54	111	80.97	11.05
+79	Chris Godwin Jr.	12	WR	53	131	81.65	13.79
+80	Rico Dowdle	12	RB	64	119	82.01	11.48
+81	Jonathon Brooks	12	RB	54	149	82.34	17.38
+82	Sam LaPorta	12	TE	54	130	83.18	13.32
+83	Kyle Pitts Sr.	12	TE	62	108	83.81	9.7
+84	Courtland Sutton	12	WR	54	121	87.84	14.45
+85	Quentin Johnston	13	WR	70	135	91.35	13.82
+86	J.K. Dobbins	13	RB	64	122	91.82	13.91
+87	Michael Pittman Jr.	13	WR	65	135	92.54	12.73
+88	MarShawn Lloyd	13	RB	52	256	93.59	39.91
+89	Michael Wilson	13	WR	61	137	94.09	15.79
+90	Blake Corum	13	RB	67	121	94.52	13.26
+91	Alec Pierce	13	WR	59	140	94.91	16.78
+92	George Kittle	13	TE	45	142	96.29	13.99
+93	Brock Purdy	13	QB	62	132	96.98	12.17
+94	Chuba Hubbard	13	RB	64	137	97.09	16.84
+95	Bo Nix	14	QB	64	137	98.31	11.92
+96	Jaxson Dart	14	QB	62	133	98.36	15.05
+97	Josh Downs	14	WR	68	135	98.97	15.35
+98	RJ Harvey	14	RB	65	140	100.23	16.33
+99	Stefon Diggs	14	WR	68	229	100.52	26.28
+100	Jacory Croskey-Merritt	14	RB	71	136	101.38	14.6
+101	Jordan Mason	14	RB	67	145	101.67	18.04
+102	Wan'Dale Robinson	14	WR	68	141	102.39	14.29
+103	Patrick Mahomes II	14	QB	69	155	103.26	14.45
+104	Travis Kelce	14	TE	66	138	104.04	14.02
+105	Jayden Reed	15	WR	68	153	105.08	17.82
+106	Jared Goff	15	QB	61	156	106.27	13.92
+107	Kenny Gainwell	15	RB	67	143	106.34	13.77
+108	Jordan Addison	15	WR	74	156	106.49	16.58
+109	Matthew Stafford	15	QB	78	157	107.87	14.76
+110	Dalton Kincaid	15	TE	76	137	109.25	12.2
+111	Makai Lemon	15	WR	75	194	110.93	21.06
+112	Kyle Monangai	15	RB	79	149	111.41	14.71
+113	Rachaad White	16	RB	72	155	112.68	14.44
+114	Jakobi Meyers	16	WR	74	164	114.86	19.69
+115	Isaiah Likely	16	TE	76	206	114.97	19.88
+116	KC Concepcion	16	WR	78	163	115.54	19.45
+117	Dallas Goedert	16	TE	81	157	117.41	15.42
+118	Kyler Murray	16	QB	95	241	117.84	19.61
+119	Aaron Jones Sr.	16	RB	88	144	117.97	12.91
+120	De'Zhaun Stribling	16	WR	71	207	120.2	29.52
+121	Jordan Love	16	QB	97	168	121.09	13.99
+122	Baker Mayfield	17	QB	95	202	123.37	14.64
+123	Jake Ferguson	17	TE	94	179	125.75	17.05
+124	Matthew Golden	17	WR	82	204	126.26	21.68
+125	Chris Rodriguez Jr.	17	RB	85	224	126.4	18.06
+126	Mark Andrews	17	TE	84	208	128.4	20.13
+127	Romeo Doubs	17	WR	87	196	128.66	18.09
+128	Xavier Worthy	17	WR	98	194	128.68	16.3
+129	Juwan Johnson	17	TE	96	180	130.51	17.86
+130	Tyler Allgeier	17	RB	92	163	130.84	13.1
+131	Tyler Shough	17	QB	99	236	130.84	18.71
+132	Woody Marks	17	RB	99	159	131.04	11.85
+133	Jalen Coker	17	WR	98	176	131.36	15.66
+134	Khalil Shakir	17	WR	87	169	133.45	15.78
+135	Malik Willis	17	QB	102	293	135.02	28.73
+136	Deebo Samuel Sr.	18	WR	79	244	139.87	30.58
+137	Tyjae Spears	18	RB	113	210	142.28	18.2
+138	Jonah Coleman	18	RB	102	204	142.83	18.94
+139	Mike Washington Jr.	19	RB	102	228	145.31	24.05
+140	Jordyn Tyson	19	WR	75	239	141.32	28.68
+141	Rashid Shaheed	19	WR	107	208	146.45	19.24
+142	Sam Darnold	19	QB	111	295	148.49	24.11
+143	Keaton Mitchell	19	RB	98	244	143.9	23.27
+144	Zach Charbonnet	19	RB	105	256	147.58	24.37
+145	Dylan Sampson	20	RB	112	219	153.73	20.18
+146	Tank Bigsby	20	RB	116	221	154.67	19.92
+147	Hunter Henry	20	TE	111	214	157.47	19.39
+148	C.J. Stroud	20	QB	111	294	153.46	23.21
+149	Brenton Strange	20	TE	111	233	155.82	21.53
+150	Daniel Jones	20	QB	123	297	156.27	26.84
+151	Chig Okonkwo	21	TE	111	225	162.73	22.8
+152	Denzel Boston	20	WR	109	316	160.87	30.91
+153	Dalton Schultz	21	TE	110	228	165.73	23.61
+154	Braelon Allen	21	RB	118	274	166.05	27.73
+155	Josh Jacobs	19	RB	37	388	139.77	61.9
+156	Tre Tucker	21	WR	116	263	164.49	26.61
+157	Cam Ward	21	QB	125	254	171.81	29.27
+158	Adonai Mitchell	21	WR	127	242	172.54	24.57
+159	Brian Robinson Jr.	21	RB	130	223	163.77	19.22
+160	Alvin Kamara	21	RB	116	301	169.83	34.46
+161	Tyrone Tracy Jr.	21	RB	117	309	170.36	40.13
+162	Emmett Johnson	22	RB	126	317	176.26	34.68
+163	Kayshon Boutte	21	WR	122	269	171.5	25.33
+164	Jalen McMillan	22	WR	129	296	178.25	27.49
+165	Ray Davis	23	RB	125	251	185.93	30.31
+166	Dontayvion Wicks	23	WR	126	280	187.06	32.92
+167	Jerry Jeudy	22	WR	122	266	177.13	26.31
+168	Tre' Harris	23	WR	129	297	185.58	28.72
+169	Jauan Jennings	22	WR	114	286	178.32	29.52
+170	Terrance Ferguson	23	TE	113	289	188.15	41.85
+171	Ryan Flournoy	23	WR	135	329	189.17	31.2
+172	Omar Cooper Jr.	23	WR	122	318	185.71	31.95
+173	Pat Bryant	23	WR	122	301	190.99	28.29
+174	Bryce Young	23	QB	139	300	187.85	32.17
+175	AJ Barner	24	TE	143	260	197.62	23.18
+176	Jalen Nailor	24	WR	129	285	194.19	32.73
+177	T.J. Hockenson	24	TE	102	255	195.17	28.91
+178	Houston Texans	20	DST	129	309	156.92	22.64
+179	Keenan Allen	24	WR	116	298	198.78	54.11
+180	Malik Washington	24	WR	93	291	195.33	34.5
+181	Isiah Pacheco	22	RB	131	296	181.31	41.54
+182	Denver Broncos	21	DST	141	313	166.43	21.25
+183	Los Angeles Rams	21	DST	125	311	166.96	21.73
+184	Kenyon Sadiq	25	TE	134	297	210.63	29.42
+185	Seattle Seahawks	21	DST	132	315	169.23	20.87
+186	Kimani Vidal	24	RB	149	398	195.56	38.07
+187	Jaylin Noel	25	WR	141	279	202.45	25.8
+188	Jacoby Brissett	25	QB	145	380	212.47	42.07
+189	Calvin Ridley	25	WR	137	300	209.11	32.3
+190	Philadelphia Eagles	22	DST	137	317	176.87	21.2
+191	Oronde Gadsden II	25	TE	119	301	206	38.73
+192	Travis Hunter	24	WR	129	350	197.27	36.46
+193	Gunnar Helm	26	TE	149	289	223.71	25.59
+194	Minnesota Vikings	23	DST	160	323	188.1	21.79
+195	New England Patriots	23	DST	163	356	188.44	25.24
+196	Brandon Aubrey	23	K	127	308	184.65	21.03
+197	Pittsburgh Steelers	23	DST	161	336	189.86	23.92
+198	Pat Freiermuth	26	TE	151	310	222.5	30
+199	Sean Tucker	25	RB	153	303	204.99	34.37
+200	Nicholas Singleton	25	RB	144	318	206.41	37.21

@@ -1,0 +1,92 @@
+{
+ "player_id": "6130",
+ "name": "Devin Singletary",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYG"
+   },
+   {
+    "season": 2026,
+    "team": "NYG"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "Giants restructured his deal to keep him for 2026 per Big Blue Interactive/AOL headline"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Cam Skattebo",
+    "age": 24,
+    "status": "RB1",
+    "note": "",
+    "resolved_id": "12481",
+    "resolved_team": "NYG",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Tyrone Tracy",
+    "age": 26,
+    "status": "RB2",
+    "note": "",
+    "resolved_id": "11655",
+    "resolved_team": "NYG",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; ranked RB3 on Giants depth chart behind Skattebo and Tracy"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": "No injury reported"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/new-york-giants-depth-chart-nyg",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/nyg/schedule?seasontype=2",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/new-york-giants-depth-chart-nyg"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 10,
+   "injury": "",
+   "role": "Cam Skattebo is the clear lead/goal-line back; Singletary is the clear RB2 ahead of a demoted Tyrone Tracy",
+   "note": "[news 2026-09-14] Week 1 vs DAL: 6 car/16 yds + 4 rec/22 yds/1 TD",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-14/reason-to-flip-cam-skattebo-scores-again-in-win"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "RB2 on NYG depth chart (Sleeper depth_chart_order 2)",
+   "note": "Giants Week 2 game vs LAR scheduled for 9/22/2026 (late/MNF window) and had not been played as of report time; no Week 2 stats available yet.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/nyg/schedule?seasontype=2"
+  }
+ ]
+}

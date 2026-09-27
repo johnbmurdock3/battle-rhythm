@@ -1,0 +1,141 @@
+{
+ "player_id": "9224",
+ "name": "Chase Brown",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2023,
+    "team": "CIN"
+   },
+   {
+    "season": 2024,
+    "team": "CIN"
+   },
+   {
+    "season": 2025,
+    "team": "CIN"
+   },
+   {
+    "season": 2026,
+    "team": "CIN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "CIN",
+    "games": null,
+    "carries": 232,
+    "targets": 86,
+    "rec": 69,
+    "yards": 1019,
+    "td": 6,
+    "note": "1,019 rush yds (crossed 1,000-yd mark); also 437 rec yds, 5 rec TD (11 total TD). Career: 505 carries across 45 games through 2025 (per atozsports.com depth-chart preview, 2026-06-23), averaging ~13.97 carries/game over last two years."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "In extension talks with Bengals as of early 2026 (profootballrumors.com headline dated Jan 2026: 'Bengals, Chase Brown In Contract Extension Talks'); no confirmed signed extension found in sources checked."
+  },
+  "scheme": {
+   "oc": "Dan Pitcher",
+   "note": "Dan Pitcher remains Bengals OC for 2026 (interviewed for Browns HC job in 2026 offseason but stayed in Cincinnati). Per Washington Post/Washington Times headline (2026-07-27), Pitcher's stated 2026 goal is 'more explosive plays and fewer turnovers.'"
+  },
+  "competition": [
+   {
+    "name": "Samaje Perine",
+    "age": 30,
+    "status": "healthy",
+    "note": "9-year NFL veteran, 9th season with Cincinnati; contract expires after 2026; averages 4.5 YPC; described as complementary power/pass-pro back. Per Bengals.com 2026 RB preview: 'figures to handle the second-most carries behind Brown.'",
+    "resolved_id": "4147",
+    "resolved_team": "CIN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Tahj Brooks",
+    "age": 24,
+    "status": "healthy",
+    "note": "6th-round 2025 draft pick; limited playing time as rookie; top developmental candidate behind Brown/Perine, also competing for special-teams role.",
+    "resolved_id": "12543",
+    "resolved_team": "CIN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Gary Brightwell",
+    "age": 28,
+    "status": "healthy",
+    "note": "Roster depth.",
+    "resolved_id": "7529",
+    "resolved_team": "CIN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Kendall Milton",
+    "age": 24,
+    "status": "healthy",
+    "note": "Roster depth.",
+    "resolved_id": "11649",
+    "resolved_team": "CIN",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Entering third season as Bengals' starting RB; expected to lead backfield again in 2026 and 'seeking his third-consecutive 1,000-yard campaign from scrimmage' per bengals.com position preview.",
+   "No 2026 injury/questionable designation found in sources checked, consistent with task framing (Chase Brown not listed as Questionable)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No current training-camp injury designation found in sources checked."
+  },
+  "camp": [
+   {
+    "quote": "Brooks doesn't have that yet, but he has the best chance out of the rest of the reserves to acquire it this year.",
+    "who": "atozsports.com depth-chart preview",
+    "date": "2026-06-23"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://atozsports.com/nfl/cincinnati-bengals-news/bengals-depth-chart-preview-running-back-chase-brown-samaje-perine/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.bengals.com/news/2026-position-preview-running-backs-chase-brown",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pff.com/nfl/players/chase-brown/77787",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.washingtontimes.com/news/2026/jul/27/bengals-oc-dan-pitcher-says-explosive-plays-fewer-turnovers-goal-2026/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.profootballrumors.com/2026/01/bengals-chase-brown-in-contract-extension-talks",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://atozsports.com/nfl/cincinnati-bengals-news/bengals-depth-chart-preview-running-back-chase-brown-samaje-perine/"
+  }
+ ]
+}

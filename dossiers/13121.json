@@ -1,0 +1,59 @@
+{
+ "player_id": "13121",
+ "name": "Ben Yurosek",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "MIN"
+   },
+   {
+    "season": 2026,
+    "team": "MIN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "note": "12 games, 1 start as rookie"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "No team change; media reports he is drawing praise from HC Kevin O'Connell in camp and is being floated as a potential T.J. Hockenson-replacement type piece, but exact TE depth chart slot not verified this pass."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Getting positive camp attention per local Vikings beat coverage, Aug 2026"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.vikings.com/team/players-roster/ben-yurosek/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.startribune.com/minnesota-vikings-training-camp-preseason-game-ben-yurosek/601449777",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.vikings.com/team/players-roster/ben-yurosek/"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "player_id": "13306",
+ "name": "Taylen Green",
+ "as_of": "2026-08-30",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NCAA (Arkansas)"
+   },
+   {
+    "season": 2026,
+    "team": "CLE"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "2026": "Rookie deal, drafted 6th round, 2026 NFL Draft"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Shedeur Sanders",
+    "age": 24,
+    "status": "starter",
+    "note": "Listed QB1 by ourlads",
+    "resolved_id": "12524",
+    "resolved_team": "CLE",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Deshaun Watson",
+    "age": 30,
+    "status": "veteran",
+    "note": "Listed QB2 by ourlads (recovering veteran)",
+    "resolved_id": "4017",
+    "resolved_team": "CLE",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Dillon Gabriel",
+    "age": 25,
+    "status": "competitor",
+    "note": "Listed QB3 by ourlads",
+    "resolved_id": "12486",
+    "resolved_team": "CLE",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Rookie entering league in 2026 (was in college in 2025). Consistently 4th-string on Browns QB depth chart across sources -- no realistic 2026 fantasy path unless multiple injuries ahead of him."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "'Hot training camp start' reported by Dawg Pound Daily, Aug 5, 2026, but still 4th on depth chart"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-30"
+ },
+ "sources": [
+  {
+   "url": "https://dawgpounddaily.com/taylen-green-may-shake-up-browns-qb-depth-chart-after-hot-training-camp-start",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/CLE",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://dawgpounddaily.com/taylen-green-may-shake-up-browns-qb-depth-chart-after-hot-training-camp-start"
+  },
+  {
+   "date": "2026-08-30",
+   "role": "Sixth-round rookie QB made the Browns' initial 53-man roster as QB4, behind Deshaun Watson (starter), Shedeur Sanders, and Dillon Gabriel",
+   "note": "Considered a developmental/practice prospect; had limited camp reps due to the Watson-Sanders QB competition; preseason line 5/7 passing 27 yds, 8 carries for 66 yds",
+   "source": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-browns-will-keep-four-qbs-taylen-green-makes-initial-53-man-roster"
+  }
+ ]
+}

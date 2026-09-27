@@ -1,0 +1,173 @@
+{
+ "player_id": "11581",
+ "name": "MarShawn Lloyd",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "GB"
+   },
+   {
+    "season": 2026,
+    "team": "GB"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "GB",
+    "games": 0,
+    "carries": 0,
+    "rec": 0,
+    "yards": 0,
+    "td": 0,
+    "note": "Missed the entire 2025 season -- recurring hamstring injury, never appeared in a regular-season game"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Still on rookie deal (2024 3rd-round pick); not confirmed in sources fetched"
+  },
+  "scheme": {
+   "oc": "Adam Stenavich",
+   "note": "HC Matt LaFleur entering 8th season; no HC/OC change for 2026"
+  },
+  "competition": [
+   {
+    "name": "Josh Jacobs",
+    "age": 28,
+    "status": "clear starter/lead back",
+    "note": "2,258 rush yds and 28 TD over the last two seasons combined per packers.com",
+    "resolved_id": "5850",
+    "resolved_team": "GB",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Chris Brooks",
+    "age": 26,
+    "status": "backup RB",
+    "note": "449 total yds in 32 career appearances",
+    "resolved_id": "11370",
+    "resolved_team": "GB",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Pierre Strong Jr.",
+    "age": 27,
+    "status": "backup RB",
+    "note": "499 career rush yds",
+    "resolved_id": "8116",
+    "resolved_team": "GB",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Damien Martinez",
+    "age": 22,
+    "status": "backup RB, 2025 7th-round pick",
+    "note": "",
+    "resolved_id": "12462",
+    "resolved_team": "GB",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Jaden Nixon",
+    "age": null,
+    "status": "UDFA RB",
+    "note": "",
+    "resolved_id": "13906",
+    "resolved_team": "GB",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Lloyd's own injury history is now suspected to trace back to a torn ACL from his 2020 freshman year at South Carolina, per a specialist he saw this offseason (Dr. John Meyer)",
+   "Packers.com (Jul 21, 2026) reports Lloyd avoided setbacks in offseason training and is drawing 'buzz' heading into camp",
+   "Even with a clean camp, Lloyd profiles as change-of-pace/backup behind clear starter Josh Jacobs, not as lead-back competition"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No current injury; team reporting describes him as 'explosive, decisive, and free of setbacks' through offseason program and training camp after missing most of 2024-2025 to hip, hamstring, ankle, groin and abdominal issues (most recently a hamstring injury that kept him on IR/out for all of the 2025 season, per an Oct 29, 2025 report).",
+   "as_of": "2026-08-31"
+  },
+  "camp": [
+   {
+    "quote": "Packers RB MarShawn Lloyd's backflip shows he's finally healthy",
+    "who": "NFL.com",
+    "date": "2026-08-07"
+   },
+   {
+    "quote": "Working with Packers staff, he avoided any setbacks during offseason training",
+    "who": "Packers.com",
+    "date": "2026-07-21"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.packers.com/news/countdown-to-camp-marshawn-lloyd-s-return-adds-intrigue-to-packers-offense-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/packers-rb-marshawn-lloyd-s-backflip-shows-he-s-finally-healthy",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://atozsports.com/nfl/green-bay-packers-news/running-back-positional-breakdown-2026/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/gb/green-bay-packers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/lloyd-loses-fumble-and-touches-in-packers-win",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy, no current setback reported",
+   "note": "baseline from initial research pass",
+   "source": "https://www.packers.com/news/countdown-to-camp-marshawn-lloyd-s-return-adds-intrigue-to-packers-offense-2026"
+  },
+  {
+   "date": "2026-08-31",
+   "injury": "No current injury; team reporting describes him as 'explosive, decisive, and free of setbacks' through offseason program and training camp after missing most of 2024-2025 to hip, hamstring, ankle, groin and abdominal issues (most recently a hamstring injury that kept him on IR/out for all of the 2025 season, per an Oct 29, 2025 report).",
+   "role": "Competing for RB2 role behind Josh Jacobs; Emanuel Wilson had been ahead of him on the depth chart during his 2025 absence.",
+   "note": "Packers reportedly used a 'controlled health plan' to build him back up gradually; durability remains an open question despite a clean summer.",
+   "source": "https://www.footballnationusa.com/post/marshawn-lloyd-is-finally-healthy-packers-and-fantasy-impact"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 14,
+   "injury": "",
+   "role": "Handling lead-back duties with Josh Jacobs on the Commissioner's Exempt List",
+   "note": "[news 2026-09-13] Week 1 vs MIN: 13 carries for 37 yds (2.8 YPC), 1 target/0 rec",
+   "source": "https://www.pro-football-reference.com/players/L/LloyMa00.htm"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 7,
+   "injury": "",
+   "role": "",
+   "note": "Week 2 vs NYJ (W in OT): 6 carries for 20 yds, 1 rec for 6 yds and a TD, but lost a fumble; touches trended down despite the win. [news 2026-09-20]",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/lloyd-loses-fumble-and-touches-in-packers-win"
+  }
+ ]
+}

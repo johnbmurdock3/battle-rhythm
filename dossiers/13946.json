@@ -1,0 +1,106 @@
+{
+ "player_id": "13946",
+ "name": "Jamal Haynes",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CIN"
+   },
+   {
+    "season": 2026,
+    "team": "CIN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Chase Brown",
+    "age": 26,
+    "status": "RB1",
+    "note": "",
+    "resolved_id": "9224",
+    "resolved_team": "CIN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Samaje Perine",
+    "age": 30,
+    "status": "RB2",
+    "note": "",
+    "resolved_id": "4147",
+    "resolved_team": "CIN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Tahj Brooks",
+    "age": 24,
+    "status": "RB3",
+    "note": "",
+    "resolved_id": "12543",
+    "resolved_team": "CIN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Gary Brightwell",
+    "age": 28,
+    "status": "RB4",
+    "note": "",
+    "resolved_id": "7529",
+    "resolved_team": "CIN",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; Haynes is RB7, buried on depth chart with essentially no path to touches."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/cincinnati-bengals-depth-chart-cin",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/13946",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/cincinnati-bengals-depth-chart-cin"
+  },
+  {
+   "date": "2026-08-29",
+   "role": "Rookie RB competing for 53-man roster spot",
+   "note": "Undrafted/rookie RB out of Georgia Tech had a notable long preseason TD run and was pushing for a Bengals 53-man roster spot as of late August 2026; could not confirm final roster status from available sources.",
+   "source": "https://sports.yahoo.com/articles/jamal-haynes-had-near-miraculous-032229819.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper's player record shows no current NFL team, position, and depth chart fields as null/blank as of 2026-09-22 -- indicates he is not currently on an active roster.",
+   "note": "No team assignment found via Sleeper API and no news coverage located; treat as off an NFL roster (practice squad status/free agency unconfirmed).",
+   "source": "https://api.sleeper.app/players/nfl/13946"
+  }
+ ]
+}

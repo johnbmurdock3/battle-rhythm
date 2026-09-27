@@ -1,0 +1,126 @@
+{
+ "player_id": "8126",
+ "name": "Wan'Dale Robinson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYG"
+   },
+   {
+    "season": 2026,
+    "team": "TEN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NYG",
+    "games": 16,
+    "carries": 0,
+    "targets": 140,
+    "rec": 92,
+    "yards": 1014,
+    "td": 4,
+    "note": "Led Giants in receiving yards in 2025."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2026-03-12",
+   "note": "4-year, $70M deal with Titans (Establish The Run) \u2014 note one AOL headline cited $78M; ETR's figure ($70M) came with more contract detail and is used here."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Not researched this pass."
+  },
+  "competition": [
+   {
+    "name": "Calvin Ridley",
+    "age": 31,
+    "status": "Incumbent WR, future with team uncertain (may be cut)",
+    "note": "Per Establish The Run (2026-03-12).",
+    "resolved_id": "4981",
+    "resolved_team": "TEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Elic Ayomanor",
+    "age": 23,
+    "status": "Day 3 2025 rookie, struggled as a rookie",
+    "note": "",
+    "resolved_id": "12499",
+    "resolved_team": "TEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Chimere Dike",
+    "age": 24,
+    "status": "Second-year, seen as a camp bright spot",
+    "note": "",
+    "resolved_id": "12540",
+    "resolved_team": "TEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Robinson is projected as an 'underneath safety blanket' for 2nd-year QB Cam Ward and expected to challenge to be Ward's most-targeted receiver in 2026 (Establish The Run, 2026-03-12)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Sleeper shows Questionable as of 2026-09-22, but he does NOT appear on the official TEN Week 3 injury report [news 2026-09-21] -- discrepancy, treat with caution",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://establishtherun.com/fantasy-fallout-wandale-robinson-signs-with-titans/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.statmuse.com/nfl/ask/wandale-robinson-2025-stats",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.tennesseetitans.com/team/players-roster/wan-dale-robinson/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/TEN/tennessee-titans/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Unverified this pass",
+   "note": "baseline from initial research pass",
+   "source": "https://establishtherun.com/fantasy-fallout-wandale-robinson-signs-with-titans/"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 82,
+   "touches": 5,
+   "injury": "August concussion eval (not believed sustained), cleared by 9/9. Sleeper still flags Questionable/Head from early Aug, but he played full Week 1 with no designation - cleared is current",
+   "role": "#2 WR on TEN behind rookie Carnell Tate (88% snaps vs his 82%); slot/possession role",
+   "note": "[news 2026-09-13] Signed 4yr/$78M with TEN. Week 1 vs NYJ: 5 rec/6 tgt/38 yds",
+   "source": "https://www.rotowire.com/football/player/wandale-robinson-15838"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Sleeper shows Questionable as of 2026-09-22, but he does NOT appear on the official TEN Week 3 injury report [news 2026-09-21] -- discrepancy, treat with caution",
+   "role": "SWR, depth order 2 per Sleeper",
+   "note": "Week 2 vs PHI box score had no individual player stats available via ESPN API. Sleeper's Questionable tag is unconfirmed by TEN's own injury report; could not verify practice status.",
+   "source": "https://www.cbssports.com/nfl/teams/TEN/tennessee-titans/injuries/"
+  }
+ ]
+}

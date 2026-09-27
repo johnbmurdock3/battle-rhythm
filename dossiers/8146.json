@@ -1,0 +1,151 @@
+{
+ "player_id": "8146",
+ "name": "Garrett Wilson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYJ"
+   },
+   {
+    "season": 2024,
+    "team": "NYJ"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NYJ",
+    "games": 7,
+    "carries": 0,
+    "targets": 59,
+    "rec": 36,
+    "yards": 395,
+    "td": 4,
+    "note": "Season cut short by knee injury; missed time, returned Week 10 vs. Cleveland, re-aggravated the knee that game, placed on IR in November, shut down for final 3 games (per FoxSports/jetsxfactor, Dec 19 2025)."
+   },
+   {
+    "season": 2024,
+    "team": "NYJ",
+    "games": 17,
+    "carries": 0,
+    "targets": 154,
+    "rec": 101,
+    "yards": 1104,
+    "td": 7,
+    "note": "Full healthy season, career-high volume."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "No 2026 contract/extension details found in sources checked."
+  },
+  "scheme": {
+   "oc": "Frank Reich",
+   "note": "Jets hired Frank Reich as offensive coordinator (Feb 2026, jetsxfactor.com). Multiple July 2026 articles (jetsxfactor.com Jul 22 and Jul 31, 2026) question whether Reich's pass-game approach is inefficient/'stuck in the past,' suggesting some beat-writer skepticism about scheme fit entering the season."
+  },
+  "competition": [
+   {
+    "name": "Adonai Mitchell",
+    "age": 23,
+    "status": "WR2 on July 25, 2026 depth chart",
+    "note": "Per Yahoo Sports Jets camp depth chart (Jul 25, 2026): starters listed as Wilson, Mitchell, Omar Cooper Jr.",
+    "resolved_id": "11625",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Omar Cooper Jr.",
+    "age": 22,
+    "status": "WR3 on July 25, 2026 depth chart",
+    "note": "Backups listed: Isaiah Williams, Arian Smith.",
+    "resolved_id": "13276",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Wilson is unambiguously the Jets' No. 1 receiver entering 2026; no team change.",
+   "QB Geno Smith connected on all 5 targets to Wilson in an Aug 7, 2026 practice period (newyorkjets.com practice report).",
+   "OC Frank Reich (Aug 7, 2026 presser): 'I feel like we can create the explosive plays that we need, right?' and 'I feel like we've got the guys up front to give us protection, create that in the run game.'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "Garrett's feeling good. He looks good...he's chomping at the bit, especially with Frank",
+    "who": "HC Aaron Glenn",
+    "date": "2026-07-29"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.newyorkjets.com/news/jets-training-camp-practice-report-geno-smith-garrett-wilson-connection-08-07-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nysportsday.com/2026/07/29/garrett-wilson-jets-2026-healthy-training-camp/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/aaron-glenn-says-garrett-wilson-190940522.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.foxsports.com/articles/nfl/jets-shut-down-star-wide-receiver-garrett-wilson-for-final-3-games-of-season-with-knee-injury",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/W/WilsGa00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/jets-depth-chart-entering-training-210003943.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://jetsxfactor.com/2026/07/31/ny-jets-frank-reich-scheme-stuck-past/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872936",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Fully cleared, healthy, full camp participation",
+   "note": "baseline from initial research pass",
+   "source": "https://www.newyorkjets.com/news/jets-training-camp-practice-report-geno-smith-garrett-wilson-connection-08-07-2026"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 75,
+   "touches": 6,
+   "injury": "",
+   "role": "#1 WR on NYJ; fully recovered from 2025 knee sprain",
+   "note": "[news 2026-09-13] Week 1 vs TEN: 7 tgt/6 rec/79 yds, led team in targets, catches and yards",
+   "source": "https://www.rotowire.com/football/player/garrett-wilson-15829"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "None reported",
+   "role": "LWR1, depth_chart_order 1",
+   "note": "Week2 (GB@NYJ, NYJ won 23-22): 6 receptions, 79 yards, 0 TD. Healthy, no injury report listing.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872936"
+  }
+ ]
+}

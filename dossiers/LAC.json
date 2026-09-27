@@ -1,0 +1,44 @@
+{
+ "player_id": "LAC",
+ "name": "Los Angeles Chargers",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22",
+  "injury": {
+   "status": "Derwin James (FS) finger, Questionable for Wk3",
+   "as_of": "2026-09-22"
+  }
+ },
+ "timeline": [
+  {
+   "date": "2026-09-01",
+   "injury": "",
+   "note": "Unit personnel: MLB Denzel Perryman placed on IR (Sep 1, expected back Week 5); DT Scott Matlock (Aug 31) and LB Kyle Kennard (Aug 31) also on IR || Losing veteran run-stuffing MLB Perryman for the start of the season thins the linebacker corps for Week 1.",
+   "source": "https://www.cbssports.com/nfl/teams/LAC/los-angeles-chargers/injuries/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Derwin James (FS) finger, Questionable for Wk3",
+   "role": "",
+   "note": "Wk2 pts allowed unresolved (source unavailable), hosted LV; star S Derwin James questionable for Wk3 with finger injury; MLB Denzel Perryman still on IR [news 2026-09-21]; Wk3 opponent BUF (away)",
+   "source": "https://www.cbssports.com/nfl/teams/LAC/los-angeles-chargers/injuries/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/teams/LAC/los-angeles-chargers/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

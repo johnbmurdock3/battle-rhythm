@@ -1,0 +1,79 @@
+{
+ "player_id": "11439",
+ "name": "Jaleel McLaughlin",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "DEN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "J.K. Dobbins",
+    "age": 27,
+    "status": "starter",
+    "note": "RB1",
+    "resolved_id": "6806",
+    "resolved_team": "DEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "RJ Harvey",
+    "age": 25,
+    "status": "starter",
+    "note": "RB2",
+    "resolved_id": "12489",
+    "resolved_team": "DEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Jonah Coleman",
+    "age": 22,
+    "status": "backup",
+    "note": "RB3, ahead of McLaughlin",
+    "resolved_id": "13345",
+    "resolved_team": "DEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "2025 team not independently verified this pass; currently RB4 on Broncos depth chart, ahead of Tyler Badie but behind Dobbins/Harvey/Coleman - deep committee, limited touch path."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/denver-broncos-depth-chart-den",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/denver-broncos-depth-chart-den"
+  }
+ ]
+}

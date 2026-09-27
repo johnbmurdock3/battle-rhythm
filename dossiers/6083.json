@@ -1,0 +1,42 @@
+{
+ "player_id": "6083",
+ "name": "Matt Gay",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Raiders active placekicker, signed 1-year/$1.6M March 2026",
+   "note": "No notable injury or role news found",
+   "source": "https://en.wikipedia.org/wiki/Matt_Gay"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "K1 on LV depth chart (Sleeper depth_chart_order 1)",
+   "note": "Raiders played @ LAC on 9/20/2026; individual kicking stat line could not be retrieved from available box score data.",
+   "source": "https://api.sleeper.app/players/nfl/6083"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://api.sleeper.app/players/nfl/6083",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

@@ -1,0 +1,85 @@
+{
+ "player_id": "11570",
+ "name": "Rasheen Ali",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "BAL"
+   },
+   {
+    "season": 2026,
+    "team": "BAL"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Derrick Henry",
+    "age": 32,
+    "status": "RB1 starter",
+    "note": "",
+    "resolved_id": "3198",
+    "resolved_team": "BAL",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Justice Hill",
+    "age": 28,
+    "status": "RB2",
+    "note": "",
+    "resolved_id": "5995",
+    "resolved_team": "BAL",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Adam Randall",
+    "age": 22,
+    "status": "competing with Ali for RB3/4",
+    "note": "",
+    "resolved_id": "13302",
+    "resolved_team": "BAL",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; listed as 'competing' (not settled RB3) on Ravens depth chart, behind Henry and Hill; history of injuries (biceps, neck) in past seasons"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy (no current injury reported)",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Competing for roster/depth role behind Henry and Hill"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.baltimoreravens.com/news/ravens-depth-chart-post-draft-vega-ioane-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Rasheen_Ali",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy (no current injury reported)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.baltimoreravens.com/news/ravens-depth-chart-post-draft-vega-ioane-2026"
+  }
+ ]
+}

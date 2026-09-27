@@ -1,0 +1,54 @@
+{
+ "player_id": "8151",
+ "name": "Kenneth Walker III",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-03",
+   "role": "Traded from Seattle Seahawks to Kansas City Chiefs; listed as the starting RB on Chiefs depth chart",
+   "note": "Team change confirmed: now Chiefs RB1 per ESPN depth chart, was on Seahawks in 2025 (had injury history there)",
+   "source": "https://www.espn.com/nfl/team/depth/_/name/kc/kansas-city-chiefs"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 69,
+   "touches": 26,
+   "injury": "Late-August ankle swelling resolved; full practice by early September, played Week 1 without issue",
+   "role": "TEAM CHANGE: signed with KC (3yr/$43.05M) as primary back over Emmett Johnson (36% snaps)",
+   "note": "[news 2026-09-14] Week 1: 23 car/173 yds/1 TD incl 60-yd TD run + 3 rec/6 tgt/18 yds/1 TD; 69% snaps",
+   "source": "https://www.rotowire.com/football/player/kenneth-walker-15909"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 17,
+   "injury": "None reported",
+   "role": "RB1 Kansas City, depth_chart_order 1",
+   "note": "TEAM CHANGE: now Kansas City Chiefs, not Seattle (Sleeper confirmed 3x independent fetches; corroborated by KC Week2 box score listing him as leading rusher, and his absence from Seattle's Week2 rushing table entirely). Week2 (IND@KC, KC won 27-20): 14 carries/71 yds rushing + 3 rec/27 yds receiving = 17 total touches, workhorse role.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872945"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872945",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

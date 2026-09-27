@@ -1,0 +1,83 @@
+{
+ "player_id": "4943",
+ "name": "Sam Darnold",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SEA"
+   },
+   {
+    "season": 2026,
+    "team": "SEA"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "SEA",
+    "games": 17,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 4048,
+    "td": 25,
+    "note": "323/477 passing, 4,048 yards, 25 pass TD, 14 INT, 99.1 rating; made 2nd Pro Bowl and won Super Bowl (Seahawks won Super Bowl LX per multiple 2026 sources)."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Not researched this pass."
+  },
+  "scheme": {
+   "oc": "Brian Fleury",
+   "note": "Hired as Seahawks OC for 2026 (formerly 49ers assistant), replacing Klint Kubiak, who departed for the Raiders OC job (~Feb 2026). Darnold quoted saying he sees 'little transition' with Fleury's offense."
+  },
+  "competition": [],
+  "notes": [
+   "Played through an oblique injury down the stretch of the 2025 season/playoffs (NFC Championship vs. Rams) but was cleared/off injury report by that game per NFL.com; no bearing on 2026 status found."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No current injury found",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.statmuse.com/nfl/ask/sam-darnold-2025-stats",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/seattle-seahawks/seahawks-brian-fleury-mike-macdonald-oc-interview/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.aol.com/articles/seattle-seahawks-hiring-brian-fleury-041547846.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/story/_/id/48961312/seahawks-sam-darnold-sees-little-transition-brian-fleury-offense",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/seahawks-qb-sam-darnold-oblique-nfc-championship-game-rams",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No current injury found",
+   "note": "baseline from initial research pass",
+   "source": "https://www.statmuse.com/nfl/ask/sam-darnold-2025-stats"
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "player_id": "13285",
+ "name": "Malachi Fields",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "Notre Dame (NCAA)"
+   },
+   {
+    "season": 2026,
+    "team": "NYG"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NCAA",
+    "games": 0,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 0,
+    "td": 0,
+    "note": "No 2025 NFL workload; rookie drafted 2026 (3rd round, No. 74 overall) out of Notre Dame. Career college totals across 5 seasons (Virginia + Notre Dame): 165 rec, 2,479 yds, 16 TD."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract, terms not researched this pass."
+  },
+  "scheme": {
+   "oc": "Matt Nagy (new OC for 2026, first year with NYG, prior 4 seasons with KC)",
+   "note": "New HC John Harbaugh hired Jan 20, 2026 (ex-Ravens)."
+  },
+  "competition": [
+   {
+    "name": "Malik Nabers",
+    "age": 22,
+    "status": "recovering from Week 4 2025 season-ending ACL tear",
+    "note": "presumptive WR1 once healthy",
+    "resolved_id": "11632",
+    "resolved_team": "NYG",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Darius Slayton",
+    "age": 29,
+    "status": "recovering from core-muscle surgery, sidelined in camp",
+    "note": "",
+    "resolved_id": "6149",
+    "resolved_team": "NYG",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Darnell Mooney",
+    "age": 28,
+    "status": "healthy, veteran FA addition",
+    "note": "",
+    "resolved_id": "7090",
+    "resolved_team": "NYG",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Calvin Austin III",
+    "age": 27,
+    "status": "",
+    "note": "",
+    "resolved_id": "8125",
+    "resolved_team": "NYG",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "As of June 14, 2026 minicamp report, Fields was taking first-team reps and positioned as a potential No. 3 WR because Nabers and Slayton were both out.",
+   "As of May 13, 2026 report, Fields was seen as challenging Slayton/Mooney for a starting WR role given the injuries ahead of him."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "not injured (healthy)",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "rookie WR Malachi Fields is taking first-team reps",
+    "who": "empiresportsmedia.com",
+    "date": "2026-06-14"
+   },
+   {
+    "quote": "positioned to challenge veterans Darius Slayton and Darnell Mooney for starting wide receiver roles",
+    "who": "gmenhq.com",
+    "date": "2026-05-13"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://empiresportsmedia.com/new-york-giants/malachi-fields-giants-first-team-reps-2026/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://gmenhq.com/new-york-giants-rookie-is-already-position-to-climb-depth-chart-this-summer-malachi-fields",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.giants.com/team/players-roster/malachi-fields/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/nyg/new-york-giants",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.giants.com/team/coaches-roster/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasynerds.com/news/story/2026/09/05/malachi-fields-poised-for-significant-role-as-giants-wr2-1615668",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "not injured (healthy)",
+   "note": "baseline from initial research pass",
+   "source": "https://empiresportsmedia.com/new-york-giants/malachi-fields-giants-first-team-reps-2026/"
+  },
+  {
+   "date": "2026-09-02",
+   "role": "Made the Giants' initial 53-man roster (No. 88); third-round rookie in a deep WR room with Malik Nabers, Darius Slayton, Odell Beckham Jr., JuJu Smith-Schuster, Darnell Mooney and Calvin Austin III, both of whom appear healthy and active for Week 1 vs Dallas per the Sept 2 team report.",
+   "note": "Took first-team reps during minicamp while Nabers/Slayton were hurt; by Week 1 both are back on the healthy 53-man roster, so his role going forward is TBD but he made the team",
+   "source": "https://www.giants.com/news/latest-news-notes-roster-moves-john-harbaugh-malik-nabers-jaxson-dart-odell-beckham-jr-dallas-cowboys-season-opener"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 72.5,
+   "touches": 2,
+   "injury": "",
+   "role": "Rookie WR2 behind Malik Nabers",
+   "note": "[news 2026-09-14] Debut: 2 of 4 targets for 25 yards on 50 of 69 snaps (~72%) in the 28-20 win over DAL",
+   "source": "https://www.rotowire.com/football/headlines/malachi-fields-news-two-catches-in-regular-season-debut-637413"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Projected as Giants' WR2 behind fellow rookie Malik Nabers (matches Sleeper RWR order 2). Preseason: 3 catches incl. a TD vs Vikings, which earned him increased first-team reps [news 2026-09-05].",
+   "note": "Trending toward a real early-season role as Giants' clear No. 2 WR",
+   "source": "https://www.fantasynerds.com/news/story/2026/09/05/malachi-fields-poised-for-significant-role-as-giants-wr2-1615668"
+  }
+ ]
+}

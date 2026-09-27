@@ -1,0 +1,44 @@
+{
+ "player_id": "PIT",
+ "name": "Pittsburgh Steelers",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22",
+  "injury": {
+   "status": "DeShon Elliott (SAF) undisclosed, IR (exp. return Wk5); Joey Porter Jr (CB) back, Questionable",
+   "as_of": "2026-09-22"
+  }
+ },
+ "timeline": [
+  {
+   "date": "2026-08-28",
+   "injury": "",
+   "note": "Unit personnel: Star CB Jalen Ramsey (knee) and CB Brandin Echols (ankle) questionable for Week 1 vs. Atlanta (Aug 28); S Jaquan Brisker also questionable (Aug 28); S DeShon Elliott on IR expected back Week 5 (Aug 31); CB Donte Kent on PUP (Aug 31); CB Daequan Hardy and DT Logan Lee on IR (earlier) || Ramsey's questionable status is the headline risk for a secondary already missing Elliott to open the season, a real downgrade to the Week 1 outlook if he sits.",
+   "source": "https://www.cbssports.com/nfl/teams/PIT/pittsburgh-steelers/injuries/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "DeShon Elliott (SAF) undisclosed, IR (exp. return Wk5); Joey Porter Jr (CB) back, Questionable",
+   "role": "",
+   "note": "Allowed 20 pts in Wk2 loss at NE (3-20, final); S DeShon Elliott remains on IR, CB Joey Porter Jr questionable with back injury [news 2026-09-21]; Wk3 opponent CIN (home)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

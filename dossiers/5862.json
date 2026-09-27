@@ -1,0 +1,45 @@
+{
+ "player_id": "5862",
+ "name": "Brian Burns",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Active, per Sleeper API",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Part of Giants edge rotation with Abdul Carter",
+   "note": "[news 2026-09-13] Week 1 vs DAL: 2 tackles, 0 sacks after a 16.5-sack 2025",
+   "source": "https://www.nfl.com/players/brian-burns/stats/logs/2026/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Active, per Sleeper API",
+   "role": "LOLB1 on NYG depth chart per Sleeper; not on Giants injury report",
+   "note": "No notable news found.",
+   "source": "https://api.sleeper.app/players/nfl/5862"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://api.sleeper.app/players/nfl/5862",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

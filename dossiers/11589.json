@@ -1,0 +1,133 @@
+{
+ "player_id": "11589",
+ "name": "Trey Benson",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "ARI"
+   },
+   {
+    "season": 2026,
+    "team": "ARI"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "ARI",
+    "games": 4,
+    "carries": 29,
+    "targets": 16,
+    "rec": 13,
+    "yards": 224,
+    "td": 0,
+    "note": "160 rush yds/29 car + 64 rec yds/13 rec; season ended after Week 4 knee injury, arthroscopic surgery, IR for remainder of 2025 (confirmed out for year by HC Jonathan Gannon Dec 10, 2025)"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Nathaniel Hackett",
+   "note": "New Cardinals HC Mike LaFleur (first season, replacing fired Jonathan Gannon) and new OC Nathaniel Hackett (replacing Drew Petzing, who left to become Lions OC) for 2026"
+  },
+  "competition": [
+   {
+    "name": "Tyler Allgeier",
+    "age": 26,
+    "status": "RB1 on Aug 2, 2026 preseason depth chart",
+    "note": "listed atop RB depth chart per Yahoo Sports Aug 2, 2026",
+    "resolved_id": "8132",
+    "resolved_team": "ARI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Jeremiyah Love",
+    "age": 21,
+    "status": "RB2, rookie",
+    "note": "Notre Dame RB, drafted 3rd overall Apr 23, 2026, signed 4-yr/$53M deal May 8, 2026; azcardinals.com says he's expected to 'jump to top of depth chart'",
+    "resolved_id": "13287",
+    "resolved_team": "ARI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "James Conner",
+    "age": 31,
+    "status": "RB3",
+    "note": "was ARI's starter to open 2025 before Week 3 foot injury/surgery ended his season",
+    "resolved_id": "4137",
+    "resolved_team": "ARI",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Benson listed 4th on Cardinals' Aug 2, 2026 preseason RB depth chart (behind Allgeier, Love, Conner), per Yahoo Sports."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Left knee soreness/flare-up in surgically repaired knee; day-to-day",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Benson had a 'flare up' with his knee",
+    "who": "HC Mike LaFleur",
+    "date": "2026-08-03"
+   },
+   {
+    "quote": "Benson returned to practice Tuesday after sitting out Monday",
+    "who": "beat reporting (theundroppables/azcardinals)",
+    "date": "2026-08-04"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/arizona-cardinals-release-first-preseason-180401066.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-03/lafleur-benson-had-flare-up-with-knee",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/player/trey-benson-17767",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.azcardinals.com/news/cardinals-select-jeremiyah-love-in-first-round-of-2026-draft",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jeremiyah_Love",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/James_Conner_(American_football)",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Arizona_Cardinals_season",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Left knee soreness/flare-up in surgically repaired knee; day-to-day",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/arizona-cardinals-release-first-preseason-180401066.html"
+  }
+ ]
+}

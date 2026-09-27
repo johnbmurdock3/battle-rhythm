@@ -1,0 +1,104 @@
+{
+ "player_id": "13405",
+ "name": "Kaytron Allen",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NCAA (Penn State)"
+   },
+   {
+    "season": 2026,
+    "team": "WAS"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "N/A",
+    "games": 0,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 0,
+    "td": 0,
+    "note": "Rookie; 2025 was his final college season at Penn State, not NFL."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract, not researched this pass."
+  },
+  "scheme": {
+   "oc": "David Blough",
+   "note": "First year as Commanders OC in 2026 (see Terry McLaurin dossier for detail)."
+  },
+  "competition": [
+   {
+    "name": "Jacory Croskey-Merritt",
+    "age": 25,
+    "status": "RB1, incumbent starter",
+    "note": "Born 2001-04-12.",
+    "resolved_id": "12533",
+    "resolved_team": "WAS",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Rachaad White",
+    "age": 27,
+    "status": "RB2, free-agent signee",
+    "note": "Born 1999-01-12; signed a 1-year, $2M deal with Washington on 2026-03-13.",
+    "resolved_id": "8136",
+    "resolved_team": "WAS",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Commanders 2026 unofficial depth chart (roundtable.io, 2026-08-10): 1. Croskey-Merritt, 2. White, 3. McNichols/Allen (tied), 4. Ford/Henry. Allen is RB3, projected for short-yardage/red-zone work given his 'punishing running style' (Bleacher Report via RiggosRag, 2026-07-19), with upside to 'eventually claim a larger share.' Austin Ekeler and Chris Rodriguez are NOT on the current depth chart (Rodriguez departed to Jacksonville)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury reported",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://riggosrag.com/commanders-rookie-building-momentum-bulldoze-up-depth-chart",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://roundtable.io/sports/nfl/commanders/news/washington-commanders-release-first-unofficial-2026-depth-chart",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jacory_Croskey-Merritt",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Rachaad_White",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.commanders.com/team/coaches-roster/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury reported",
+   "note": "baseline from initial research pass",
+   "source": "https://riggosrag.com/commanders-rookie-building-momentum-bulldoze-up-depth-chart"
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "player_id": "11635",
+ "name": "Ladd McConkey",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LAC"
+   },
+   {
+    "season": 2024,
+    "team": "LAC"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "LAC",
+    "games": 16,
+    "carries": 0,
+    "targets": 106,
+    "rec": 66,
+    "yards": 789,
+    "td": 6,
+    "note": "Down year vs. rookie season: only two 95+-yard receiving games in 2025 vs. four such games as a rookie in 2024."
+   },
+   {
+    "season": 2024,
+    "team": "LAC",
+    "games": null,
+    "carries": 0,
+    "targets": null,
+    "rec": null,
+    "yards": null,
+    "td": null,
+    "note": "Rookie season described as having four 95+-receiving-yard games (more explosive than 2025); exact full stat line not captured in sources searched."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "2026",
+   "note": "Chargers exercised McConkey's fifth-year option for 2026 (per Chargers.com camp preview)."
+  },
+  "scheme": {
+   "oc": "Mike McDaniel (new 2026 Chargers OC)",
+   "note": "McDaniel (former Dolphins HC) hired as Chargers OC for 2026, emphasizing quick throws arriving in 2.4 seconds or less; McDaniel reportedly expects receivers to exceed career highs in this scheme. McConkey quote on the new scheme: 'Just watching practice, watching the scheme, I'm like, \"I can't wait to get out there.\"'"
+  },
+  "competition": [
+   {
+    "name": "Quentin Johnston",
+    "age": 24,
+    "status": "WR2/3, 2023 1st-round pick",
+    "note": "Part of a three-man 'elite receiver' group with McConkey per Chargers.com camp preview.",
+    "resolved_id": "9754",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Tre' Harris",
+    "age": 24,
+    "status": "WR, 2025 2nd-round pick",
+    "note": "Second-year receiver, part of the same WR competition group.",
+    "resolved_id": "12509",
+    "resolved_team": "LAC",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "McConkey quote on 2026 goals: 'Catch it and get vertical. Get forward... Let's turn an 11 yards-per-catch average into 15 or 16,' referencing 2025's 11.9 yards/catch (789 yds / 66 rec) as something to improve on.",
+   "SI Chargers piece frames McConkey as 'the most obvious bounce-back season candidate' for 2026 after a down 2025."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Full go for training camp after offseason hamstring strain",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "I feel really good.",
+    "who": "Ladd McConkey",
+    "date": "2026-07-28"
+   },
+   {
+    "quote": "Just watching practice, watching the scheme, I'm like, 'I can't wait to get out there.'",
+    "who": "Ladd McConkey",
+    "date": "2026-07-29"
+   },
+   {
+    "quote": "Catch it and get vertical. Get forward...Let's turn an 11 yards-per-catch average into 15 or 16.",
+    "who": "Ladd McConkey",
+    "date": ""
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://heavy.com/sports/nfl/los-angeles-chargers/chargers-ladd-mcconkey-reveals-crucial-injury-update-ahead-of-training-camp/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.chargers.com/news/2026-training-camp-preview-ladd-mcconkey",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.statmuse.com/nfl/ask/ladd-mcconkey-2025-season-stats",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/chargers/onsi/chargers-roster-spotlights-ladd-mcconkey-the-most-obvious-bounce-back-season-candidate",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Full go for training camp after offseason hamstring strain",
+   "note": "baseline from initial research pass",
+   "source": "https://heavy.com/sports/nfl/los-angeles-chargers/chargers-ladd-mcconkey-reveals-crucial-injury-update-ahead-of-training-camp/"
+  }
+ ]
+}

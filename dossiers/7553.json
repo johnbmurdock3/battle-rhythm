@@ -1,0 +1,137 @@
+{
+ "player_id": "7553",
+ "name": "Kyle Pitts",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "ATL"
+   },
+   {
+    "season": 2026,
+    "team": "ATL"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "ATL",
+    "games": 17,
+    "carries": 0,
+    "targets": 118,
+    "rec": 88,
+    "yards": 928,
+    "td": 5,
+    "note": "Career-high 88 catches; AP second-team All-Pro; finished strong with 39 rec/469 yds/4 TD over final 6 games (PFR + AJC)"
+   }
+  ],
+  "contract": {
+   "years": 3,
+   "signed": "2026-06 (late June)",
+   "note": "3-year, $54M extension signed late June 2026 (AJC)"
+  },
+  "scheme": {
+   "oc": "Tommy Rees",
+   "note": "New HC Kevin Stefanski + OC Tommy Rees (both ex-Browns, hired Jan 17 2026) are known for heavy TE usage - had two TEs with 11%+ target share in Cleveland, only 4 NFL teams did that in 2025. Stefanski (May 2026): 'I've been impressed with what we're asking him to do, a couple new things for him.' Offense expected to lean on quick game/bootlegs/flat routes that funnel to TEs"
+  },
+  "competition": [
+   {
+    "name": "Drake London",
+    "age": 25,
+    "status": "WR1",
+    "note": "Still Falcons' top target target-competitor, same age as Pitts",
+    "resolved_id": "8112",
+    "resolved_team": "ATL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Austin Hooper",
+    "age": 31,
+    "status": "TE2",
+    "note": "Backup TE, 6 years older than Pitts",
+    "resolved_id": "3202",
+    "resolved_team": "ATL",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Pitts is TE1 on 2026 depth chart, no competition at his own position; new coaching staff's scheme is the single biggest tailwind for his target share"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-03"
+  },
+  "camp": [
+   {
+    "quote": "The physical skillset is obvious when Kyle's on the field, with how big he is and how he moves. But I've been impressed with what we're asking him to do, a couple new things for him.",
+    "who": "Kevin Stefanski",
+    "date": "2026-05"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ajc.com/sports/2026/07/falcons-new-coaches-bring-love-for-tight-ends-and-kyle-pitts-should-benefit/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/P/PittKy00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.atlantafalcons.com/news/atlanta-falcons-2026-coaching-staff",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/ATL/atlanta-falcons/roster/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/atlanta-falcons-depth-chart-atl",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872933",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ajc.com/sports/2026/07/falcons-new-coaches-bring-love-for-tight-ends-and-kyle-pitts-should-benefit/"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported",
+   "role": "Starting TE on Falcons depth chart, ahead of Charlie Woerner and Austin Hooper",
+   "note": "No trade or role-change news found; listed as TE1",
+   "source": "https://www.cbssports.com/nfl/teams/ATL/atlanta-falcons/depth-chart/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 0,
+   "injury": "",
+   "role": "Backup QB Cooper Rush (Tua oblique, Penix knee both out) fed Bijan Robinson 10 of 22 targets",
+   "note": "[news 2026-09-14] Week 1 vs PIT: 1 target, 0 catches, 0 fantasy pts",
+   "source": "https://heavy.com/sports/nfl/atlanta-falcons/should-i-drop-kyle-pitts-fantasy/"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 1,
+   "injury": "",
+   "role": "TE1 depth chart, Atlanta. Not on Falcons injury report as of 2026-09-21.",
+   "note": "Week 2 vs Carolina: 3 targets, 1 reception, 15 receiving yards \u2014 modest usage. [news 2026-09-20]",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872933"
+  }
+ ]
+}

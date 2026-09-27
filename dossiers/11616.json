@@ -1,0 +1,59 @@
+{
+ "player_id": "11616",
+ "name": "Jacob Cowing",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SF"
+   },
+   {
+    "season": 2026,
+    "team": "SF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jordan Watkins",
+    "age": 24,
+    "status": "2nd year",
+    "note": "4th-round 2025 pick, similar size concerns noted for fit with Purdy relative to Cowing's 5'8\" frame",
+    "resolved_id": "12634",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change, but on the roster bubble as WR5/6; not guaranteed to make final 53."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/49ers/news/49ers-wide-receiver-jacob-cowing-roster-bubble",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/49ers/news/49ers-wide-receiver-jacob-cowing-roster-bubble"
+  }
+ ]
+}

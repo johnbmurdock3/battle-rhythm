@@ -1,0 +1,142 @@
+{
+ "player_id": "1166",
+ "name": "Kirk Cousins",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "ATL"
+   },
+   {
+    "season": 2026,
+    "team": "LV"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "ATL",
+    "games": 10,
+    "pass_yards": 1721,
+    "pass_td": 10,
+    "int": 5,
+    "note": "166/269 passing, 84.8 rating, per StatMuse; started for Falcons before losing job to Michael Penix Jr. per contemporaneous reporting"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "2026-04",
+   "note": "Signed with Raiders as free agent in April 2026 per Pro Football Rumors ('Raiders Sign QB Kirk Cousins', 2026-04); exact years/value not verified in this pass"
+  },
+  "scheme": {
+   "oc": "Andrew Janocko",
+   "note": "HC Klint Kubiak; per Raiders.com (2026-07-29)"
+  },
+  "competition": [
+   {
+    "name": "Fernando Mendoza",
+    "age": 22,
+    "status": "Rookie, No.1 overall pick in 2026 NFL Draft (DOB 2003-10-01), 'pushing' Cousins per HC Kubiak but named QB2/developmental behind Cousins entering camp",
+    "note": "",
+    "resolved_id": "13269",
+    "resolved_team": "LV",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Aidan O'Connell",
+    "age": 27,
+    "status": "Incumbent Raiders QB from prior seasons, also competing/pushing per Kubiak quote; age not verified this pass",
+    "note": "Kubiak: 'Kirk Cousins is the starting quarterback... Fernando Mendoza and Aidan O'Connell should push him'",
+    "resolved_id": "10866",
+    "resolved_team": "LV",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Raiders released/moved on from Geno Smith and signed Cousins to replace him as presumed starter (headline: 'Raiders WR Reacts to Vegas Replacing Geno Smith With Kirk Cousins').",
+   "Team is Las Vegas Raiders (LV), matching the player sheet."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None per Sleeper",
+   "as_of": "2026-09-02"
+  },
+  "camp": [
+   {
+    "quote": "When we get out to practice tomorrow, Kirk Cousins is the starting quarterback. He's the guy and he's going to get a ton of reps.",
+    "who": "HC Klint Kubiak",
+    "date": "2026-07-29"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.raiders.com/news/kirk-cousins-2026-raiders-training-camp-qb1-klint-kubiak-fernando-mendoza",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.profootballrumors.com/2026/07/kirk-cousins-opens-camp-as-raiders-starting-qb",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.statmuse.com/nfl/ask/kirk-cousins-2025-stats",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www2.ljworld.com/sports/professional-sports/2026/aug/08/raiders-suspend-cousins-crosby-from-drills-after-fight/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-returns-to-raiders-practice-on-monday",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Fernando_Mendoza",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/story/_/id/48151647/dolphins-release-tua-tagovailoa-take-record-cap-hit",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/kirk-cousins-tosses-three-tds-034805782.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury; briefly held out of practice for disciplinary reasons (not injury)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.raiders.com/news/kirk-cousins-2026-raiders-training-camp-qb1-klint-kubiak-fernando-mendoza"
+  },
+  {
+   "date": "2026-09-02",
+   "injury": "None per Sleeper",
+   "role": "Officially named the Raiders' Week 1 starting quarterback on 2026-09-02, beating out rookie/No. 1 pick Fernando Mendoza, who is the backup.",
+   "note": "Confirmed Week 1 starter for Las Vegas.",
+   "source": "https://www.nfl.com/news/raiders-name-kirk-cousins-starting-fernando-mendoza-officially-backup"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "TEAM CHANGE: signed with Las Vegas for 2026; entrenched as Raiders starting QB",
+   "note": "[news 2026-09-13] Week 1 vs MIA: 21/30, 160 yds, 3 TD, 2 INT",
+   "source": "https://www.pro-football-reference.com/players/C/CousKi00.htm"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Named Raiders' starting QB1 over top pick Fernando Mendoza to begin 2026 season [news pre-season]",
+   "note": "Threw 3 TDs in Week 2 win over Chargers, Raiders improved to 2-0 (first 2-0 start in 5 years); ESPN called his play 'phenomenal'. No injury reported.",
+   "source": "https://sports.yahoo.com/articles/kirk-cousins-tosses-three-tds-034805782.html"
+  }
+ ]
+}

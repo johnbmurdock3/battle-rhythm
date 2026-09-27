@@ -1,0 +1,81 @@
+{
+ "player_id": "9506",
+ "name": "Sean Tucker",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TB"
+   },
+   {
+    "season": 2026,
+    "team": "TB"
+   }
+  ],
+  "workload": [
+   {
+    "2024 and 2025": "surpassed 300 rush yards in a reserve role each season"
+   }
+  ],
+  "contract": {
+   "note": "restricted free agent; re-signed via qualifying offer on 2026-04-21"
+  },
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "No team change; re-signed as an RFA (2026-04-21). Historically a reserve-role back behind Bucky Irving/Rachaad White; exact 2026 pecking order not confirmed within budget."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Sleeper lists Questionable (2026-09-22) but Tucker is NOT on CBS's Sept 21 TB injury report - no formal injury designation found",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.buccaneers.com/news/bucs-re-sign-rb-sean-tucker-2026-free-agency",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872935",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.buccaneers.com/news/bucs-re-sign-rb-sean-tucker-2026-free-agency"
+  },
+  {
+   "date": "2026-08-31",
+   "injury": "Questionable (per Sleeper API, no further detail found)",
+   "role": "Projected as the third RB in Tampa Bay's backfield rotation",
+   "note": "Signed a one-year, fully guaranteed $2.5M contract with the Buccaneers",
+   "source": "https://www.fantasypros.com/nfl/players/sean-tucker.php"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 0,
+   "injury": "Hamstring; limited in practice 9/10, inactive for Week 1 vs CIN. Sleeper still shows Questionable as of 9/15",
+   "role": "RB3 in Tampa Bay depth chart",
+   "note": "[news 2026-09-13] Ruled out Week 1; targeting return the following week vs CLE",
+   "source": "https://www.rotowire.com/football/headlines/sean-tucker-injury-inactive-sunday-637019"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 0,
+   "injury": "Sleeper lists Questionable (2026-09-22) but Tucker is NOT on CBS's Sept 21 TB injury report - no formal injury designation found",
+   "role": "RB depth order 3 per Sleeper, buried behind Irving/Gainwell",
+   "note": "RESOLVED (partially) - not injury-related: Week 2 vs CLE box score shows zero stats for Tucker; carries went to Bucky Irving (15 car/80 yds + 4 rec), Kenny Gainwell (2 car/10 yds), Chris Godwin (1 car/12 yds), Baker Mayfield scrambles (3/26). Appears to be a healthy inactive/buried on depth chart rather than hurt.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872935"
+  }
+ ]
+}

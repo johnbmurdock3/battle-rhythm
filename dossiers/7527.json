@@ -1,0 +1,109 @@
+{
+ "player_id": "7527",
+ "name": "Mac Jones",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SF"
+   },
+   {
+    "season": 2026,
+    "team": "SF"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "SF",
+    "games": 11,
+    "targets": null,
+    "rec": null,
+    "yards": 2151,
+    "td": 13,
+    "note": "QB: 2,151 pass yds, 13 TD, 6 INT, 69.6% comp, 97.4 rating; started significant time in place of an injured Brock Purdy"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Klay Kubiak",
+   "note": "Referenced as SF OC in camp coverage"
+  },
+  "competition": [
+   {
+    "name": "Brock Purdy",
+    "age": 26,
+    "status": "Confirmed starter/QB1 for 2026, Jones is backup",
+    "note": "Born 1999-12-27. 49ers.com Morning Report (6/26/26): 'Brock Purdy is the 49ers' starting quarterback entering the 2026 season, with Mac Jones in a backup role.' Confirms the 'backup' listing is accurate.",
+    "resolved_id": "8183",
+    "resolved_team": "SF",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Rotowire SF depth chart (fetched 8/11/26) confirms QB order: Purdy, Jones, Kurtis Rourke, Adrian Martinez"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury designation",
+   "as_of": "2026-09-03"
+  },
+  "camp": [
+   {
+    "quote": "It's time to stack some good years here",
+    "who": "Mac Jones, on Year 2 with 49ers",
+    "date": "2026-06-01"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.49ers.com/news/morning-reports/morning-report-mac-jones-entering-2026-season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/san-francisco-49ers-depth-chart-sf",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/stats/mac-jones.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/7527",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.49ers.com/news/morning-reports/morning-report-mac-jones-entering-2026-season"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "No injury designation",
+   "role": "Backup QB behind Brock Purdy",
+   "note": "Listed as backup on 49ers depth chart; had a quick appearance in the preseason finale",
+   "source": "https://www.cbssports.com/nfl/teams/SF/san-francisco-49ers/roster/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "TEAM CHANGE: now on San Francisco 49ers (SF), depth chart QB2 (backup, presumably behind Brock Purdy).",
+   "note": "Not listed on 49ers injury report as of 2026-09-21. No notable news found for Week 2/3.",
+   "source": "https://api.sleeper.app/players/nfl/7527"
+  }
+ ]
+}

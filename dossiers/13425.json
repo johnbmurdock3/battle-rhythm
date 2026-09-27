@@ -1,0 +1,41 @@
+{
+ "player_id": "13425",
+ "name": "Jalon Daniels",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-30",
+   "role": "Won backup QB (QB2) job behind Baker Mayfield",
+   "note": "Undrafted rookie beat out Jake Browning and Connor Bazelak (both released on cutdown day Aug 30, 2026); preseason 27/44, 239 yds, 1 TD, 0 INT across 3 games",
+   "source": "https://www.nfl.com/news/undrafted-rookie-jalon-daniels-earns-bucs-qb2-gig-behind-baker-mayfield"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Undrafted rookie who won the Buccaneers' QB2 job behind starter Baker Mayfield. Sleeper depth chart shows QB order 3.",
+   "note": "ROLE: confirmed backup QB (QB2) to Baker Mayfield per team-site coverage; QB3 per Sleeper's numeric depth order (order discrepancy noted, but QB2-behind-Mayfield role is the more specific/recent claim). No in-game snaps reported.",
+   "source": "https://www.nfl.com/players/jalon-daniels/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.nfl.com/players/jalon-daniels/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

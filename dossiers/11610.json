@@ -1,0 +1,95 @@
+{
+ "player_id": "11610",
+ "name": "Malik Washington",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "MIA"
+   },
+   {
+    "season": 2026,
+    "team": "MIA"
+   }
+  ],
+  "workload": [
+   {
+    "2024 rookie season": "26 catches on 36 targets, 223 yards"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jalen Tolbert",
+    "age": 27,
+    "status": "veteran addition",
+    "note": "WR2 per Rotowire",
+    "resolved_id": "8117",
+    "resolved_team": "MIA",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change, but MASSIVE role change: with Tyreek Hill released (2026-02-16, post-injury) and Jaylen Waddle traded to Denver (2026-03-18), Washington is now Rotowire's WR1 on Miami's depth chart \u2014 a huge target-share upgrade from a WR3-competition role previously."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "top target in camp per 4for4"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/miami-dolphins-depth-chart-mia",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.4for4.com/news/dolphins-beat-malik-washington-top-target-camp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/washington-leads-dolphins-receivers-in-targets",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-06",
+   "injury": "None reported.",
+   "role": "Positioning for an expanded role beyond gadget/returner duties; described as 'the best wide receiver so far in practices' with praised route running, amid uncertainty around other Dolphins WRs (e.g., Chris Bell).",
+   "note": "No numeric snap/target/route stats given in source; career drop rate cited as very low (3 drops on 101 targets, per Pro Football Reference).",
+   "source": "https://www.si.com/nfl/dolphins/onsi/how-malik-washington-is-playing-himself-into-a-bigger-role-01kz78v67h10"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/miami-dolphins-depth-chart-mia"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Starting slot WR for Miami",
+   "note": "No fresh Week 1 2026 stat data found; prior cited stat line was 2025 and discarded as stale",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/MIA"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 4,
+   "injury": "",
+   "role": "Led all Dolphins receivers in targets in Week 2",
+   "note": "Week 2 vs SF (loss): 5 targets, 4 catches for 43 yds, 0 TD. [news 2026-09-21]",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/washington-leads-dolphins-receivers-in-targets"
+  }
+ ]
+}

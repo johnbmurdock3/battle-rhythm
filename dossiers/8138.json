@@ -1,0 +1,164 @@
+{
+ "player_id": "8138",
+ "name": "James Cook",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "BUF"
+   },
+   {
+    "season": 2024,
+    "team": "BUF"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "BUF",
+    "games": 17,
+    "carries": 309,
+    "targets": 40,
+    "rec": 33,
+    "yards": 1621,
+    "td": 12,
+    "note": "Led NFL in rushing yards (rushing title); receiving yards 291, receiving TD 2 (total yards from scrimmage ~1912, total TD 14)"
+   },
+   {
+    "season": 2024,
+    "team": "BUF",
+    "games": 16,
+    "carries": 207,
+    "targets": 38,
+    "rec": 32,
+    "yards": 1009,
+    "td": 16,
+    "note": "Rushing TDs 16 (career high); receiving yards 258, receiving TD 2"
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2025",
+   "note": "Four-year, $48M extension ($30M guaranteed, ~$12M/year); tied for largest RB deal alongside Josh Jacobs at signing, 6th-highest RB AAV. Signals Bills view him as long-term lead back through age 30."
+  },
+  "scheme": {
+   "oc": "Pete Carmichael Jr. (2026, new hire)",
+   "note": "Joe Brady (Cook's OC in 2025) was promoted to Bills head coach for 2026. Carmichael Jr. (54, ex-Saints OC 2009-2023 under Sean Payton, most recently Broncos senior offensive assistant) hired as new OC; reporting suggests 'Sean Payton influence' with more under-center play-action tied to Josh Allen."
+  },
+  "competition": [
+   {
+    "name": "Ray Davis",
+    "age": 26,
+    "status": "backup RB2",
+    "note": "Reported 'rumblings this summer' (2026) that Davis was unhappy with his workload behind Cook, per Yahoo Sports Bills camp preview; no dated quote found.",
+    "resolved_id": "11575",
+    "resolved_team": "BUF",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Ty Johnson",
+    "age": 28,
+    "status": "backup/depth RB",
+    "note": "Listed among primary reserves for 2026 camp.",
+    "resolved_id": "6039",
+    "resolved_team": "BUF",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Frank Gore Jr.",
+    "age": 24,
+    "status": "depth RB",
+    "note": "Listed on 2026 RB depth chart.",
+    "resolved_id": "11573",
+    "resolved_team": "BUF",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Cook won the 2025 NFL rushing title (1,621 yards) and earned second-team All-Pro honors.",
+   "Notable 2025 performance: 216 rushing yards and 2 TDs in Week 8 vs. Carolina Panthers.",
+   "Bills fullback Ben VanSumeren signed in 2026 free agency, returning from a torn patellar tendon (2025 IR); not direct competition but part of backfield."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported (ESPN roster data: 'Injury Status: No injuries listed') as of 2026-09-03",
+   "as_of": "2026-09-03"
+  },
+  "camp": [
+   {
+    "quote": "There's 'a new energy in the building' with Joe Brady as head coach",
+    "who": "James Cook",
+    "date": "2026"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.buffalorumblings.com/buffalo-bills-news/113435/james-cook-contract-extension-done",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.buffalobills.com/news/bills-rb-james-cook-iii-wins-2025-nfl-rushing-title",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.statmuse.com/nfl/ask/james-cook-receiving-and-rushing-stats",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/2026-buffalo-bills-training-camp-185213276.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.buffalorumblings.com/buffalo-bills-coaching-staff/128960/buffalo-bills-offensive-coordinator-will-be-pete-carmichael-jr-joe-brady-coaching-staff",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/james-cook-theres-a-new-energy-in-the-building-with-joe-brady-as-head-coach",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872932",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury issues reported entering 2026 camp",
+   "note": "baseline from initial research pass",
+   "source": "https://www.buffalorumblings.com/buffalo-bills-news/113435/james-cook-contract-extension-done"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported (ESPN roster data: 'Injury Status: No injuries listed') as of 2026-09-03",
+   "role": "Buffalo's RB1; no reported change to his role",
+   "note": "No notable news beyond confirmed healthy/active status heading into Week 1",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/buf/roster"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 16,
+   "injury": "",
+   "role": "Bills unchallenged lead back, no committee change reported",
+   "note": "[news 2026-09-13] Week 1 vs HOU: 13 carries/57 yds, 3 rec/4 tgt/12 yds; no injury designation",
+   "source": "https://www.statmuse.com/nfl/ask/james-cook-stats-week-1-2026"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 8,
+   "injury": "",
+   "role": "RB1, depth_chart_order 1",
+   "note": "Week2 (DET@BUF, DET won 41-31): 8 carries for 39 yards rushing, 1 target/0 receptions. No injury on Sleeper. [news 2026-09-21]",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872932"
+  }
+ ]
+}

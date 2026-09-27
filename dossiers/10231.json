@@ -1,0 +1,76 @@
+{
+ "player_id": "10231",
+ "name": "Elijah Higgins",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "ARI"
+   },
+   {
+    "season": 2026,
+    "team": "ARI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Trey McBride",
+    "age": 26,
+    "status": "TE1 starter (elite)",
+    "note": "",
+    "resolved_id": "8130",
+    "resolved_team": "ARI",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; ranked TE2 on Cardinals depth chart behind McBride; Tip Reiman (another TE) listed on PUP"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/arizona-cardinals-release-first-preseason-180401066.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/10231",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-07-10",
+   "role": "Third-string/secondary TE behind Trey McBride and Tip Reiman; considered a roster lock but with uncertain long-term role",
+   "note": "2025 stats: 30 catches, 301 yds, 17 games, 10 starts; contributed 250+ special teams snaps. Cap value (~$3.7M in 2026) makes his roster spot debated per this report.",
+   "source": "https://sports.yahoo.com/articles/arizona-cardinals-training-camp-roster-182248752.html"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/arizona-cardinals-release-first-preseason-180401066.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "TE2 behind Trey McBride (Sleeper depth_chart_order 2)",
+   "note": "No reliable current-week (Wk2 2026) stat line found; search results returned a stale Nov 2025 article which was discarded per instructions. No notable news found for this week",
+   "source": "https://api.sleeper.app/players/nfl/10231"
+  }
+ ]
+}

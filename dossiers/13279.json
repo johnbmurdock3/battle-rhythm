@@ -1,0 +1,150 @@
+{
+ "player_id": "13279",
+ "name": "Carnell Tate",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "TEN",
+    "note": "Drafted No. 4 overall by Titans in 2026 NFL Draft; college: Ohio State"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Ohio State (college)",
+    "games": null,
+    "targets": null,
+    "rec": null,
+    "yards": null,
+    "td": null,
+    "note": "No verified 2025 college season total found (only preseason projection was fetched, which predicted 1,000 yards/10 TD as OSU's WR2 replacing Emeka Egbuka). 2024 college: 52 rec, 733 yds, 4 TD."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2026-05-09",
+   "note": "Signed fully-guaranteed 4-year, $51.1M rookie deal with $33.6M signing bonus after being drafted No. 4 overall."
+  },
+  "scheme": {
+   "oc": "Brian Daboll",
+   "note": "Titans hired Daboll (former Giants HC) as OC for 2026; new HC is Robert Saleh (hired Jan 2026). QB is Cam Ward (2nd-year)."
+  },
+  "competition": [
+   {
+    "name": "Wan'Dale Robinson",
+    "age": 25,
+    "status": "starting slot WR",
+    "note": "Signed 4-yr/$78M with TEN Mar 12, 2026, reuniting with former Giants HC Daboll; posted first 1,000-yd season in 2025 with NYG after Malik Nabers' Week 4 ACL tear.",
+    "resolved_id": "8126",
+    "resolved_team": "TEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Calvin Ridley",
+    "age": 31,
+    "status": "starting outside WR, injury recovery",
+    "note": "Fractured fibula ended his 2025 season after 7 games (17 rec, 303 yds); Titans restructured his deal Mar 16, 2026, cutting cap hit by $11M with incentives to recoup pay.",
+    "resolved_id": "4981",
+    "resolved_team": "TEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Elic Ayomanor",
+    "age": 23,
+    "status": "2nd-year WR, backup",
+    "note": "Listed directly behind starters on Aug 8, 2026 unofficial depth chart.",
+    "resolved_id": "12499",
+    "resolved_team": "TEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Chimere Dike",
+    "age": 24,
+    "status": "depth WR",
+    "note": "Listed on Titans depth chart behind starters.",
+    "resolved_id": "12540",
+    "resolved_team": "TEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Aug 8, 2026 unofficial Titans depth chart: Tate listed as a starting WR alongside Calvin Ridley and Wan'Dale Robinson in 3-WR set (tennesseetitans.com).",
+   "Beat writer Justin Melo (SI/OnSI, undated summer 2026 piece) reported Tate and Cam Ward showed 'terrific chemistry' in offseason workouts, including 3 TD connections at the team's first open practice.",
+   "Projected as Week 1 starter / immediate impact with ~70% snap share per Footballguys draft-day analysis (April 2026, pre-camp).",
+   "At Ohio State, Tate played alongside Jeremiah Smith and Emeka Egbuka and was never the primary/No.1 receiver in college."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury reported",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Tate is listed as a starter in the Titans' 3-WR set alongside Calvin Ridley and Wan'Dale Robinson.",
+    "who": "Tennessee Titans (unofficial depth chart)",
+    "date": "2026-08-08"
+   },
+   {
+    "quote": "Tate and Ward already displayed terrific chemistry during offseason workouts, including connecting for three touchdowns at the team's first open practice.",
+    "who": "Justin Melo, SI/OnSI",
+    "date": "2026-summer (exact date not stated)"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.footballguys.com/article/2026-carnell-tate-tennessee-titans-instant-reactions",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.tennesseetitans.com/news/20-things-that-caught-my-eye-on-the-first-unofficial-depth-chart-for-the-titans-in-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/titans/onsi/titans-carnell-tate-poised-for-massive-rookie-season-in-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/carnell-tate-signs-51-million-152331298.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.landgrantholyland.com/2025/7/31/24477786/carnell-tate-1000-receiving-yards-and-10-touchdowns-this-season-ohio-state-buckeyes-football",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.tennesseetitans.com/news/titans-hire-brian-daboll-as-offensive-coordinator",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.tennesseetitans.com/news/it-s-official-titans-hire-robert-saleh-as-team-s-new-head-coach",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/nfl/breaking-news/article/wandale-robinson-signs-a-reported-4-year-78m-contract-with-titans-reunites-with-brian-daboll-180547515.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-calvin-ridleys-cap-number-drops-by-11-million-in-revised-deal",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury reported",
+   "note": "baseline from initial research pass",
+   "source": "https://www.footballguys.com/article/2026-carnell-tate-tennessee-titans-instant-reactions"
+  }
+ ]
+}

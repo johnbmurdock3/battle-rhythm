@@ -1,0 +1,52 @@
+{
+ "player_id": "12476",
+ "name": "Devin Neal",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "hamstring injury re-aggravated, season-ending",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-30",
+   "injury": "Placed on Injured Reserve at the Saints' 8/30/2026 final roster cuts (specific injury not stated in source)",
+   "role": "Did not make the 53-man active roster; placed on IR. Saints RB room is Alvin Kamara, Travis Etienne Jr., Kendre Miller, Audric Estime",
+   "note": "Did NOT make the active roster - placed on IR; contradicts Sleeper's 'Active/None' status, which appears stale",
+   "source": "https://www.neworleanssaints.com/news/new-orleans-saints-53-man-roster-cut-transactions-august-30-2026-nfl-season"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Season-ending hamstring re-aggravation",
+   "role": "WAIVED by the Saints 9/3 after being placed on IR during final cuts",
+   "note": "[news 2026-09-03] No longer has an NFL team; Sleeper null team field is confirmed accurate",
+   "source": "https://www.draftsharks.com/fantasy-football-news/82463/saints-waive-devin-neal-after-hamstring-ends-his-2026-season"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "hamstring injury re-aggravated, season-ending",
+   "role": "waived by New Orleans, off any NFL roster",
+   "note": "Waived by Saints Sept 3, 2026 after re-aggravating a hamstring injury first suffered in December of the prior year; 2026 season is over for him [news 2026-09-03]. Rookie-year workload was 20.3% carry share, 5.0% target share.",
+   "source": "https://www.draftsharks.com/fantasy-football-news/82463/saints-waive-devin-neal-after-hamstring-ends-his-2026-season"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.draftsharks.com/fantasy-football-news/82463/saints-waive-devin-neal-after-hamstring-ends-his-2026-season",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

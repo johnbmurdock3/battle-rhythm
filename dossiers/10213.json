@@ -1,0 +1,101 @@
+{
+ "player_id": "10213",
+ "name": "Tre Tucker",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LV"
+   },
+   {
+    "season": 2026,
+    "team": "LV"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jalen Nailor",
+    "age": 27,
+    "status": "WR1",
+    "note": "",
+    "resolved_id": "8180",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jack Bech",
+    "age": 23,
+    "status": "WR2",
+    "note": "",
+    "resolved_id": "12483",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Listed WR3 on Raiders' official depth chart (behind Nailor, Bech); named one of top 3 receivers in camp 8/4/26 and caught a TD from Fernando Mendoza 8/8/26."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "TD catch from Fernando Mendoza 8/8/26"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.raiders.com/news/raiders-first-unofficial-depth-chart-of-2026-season-training-camp-preseason-vs-arizona-cardinals",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://justblogbaby.com/raiders-2026-training-camp-tracker-latest-updates-news-injuries-rumors",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/tucker-erupts-for-5-119-1-in-week-2-win-over-lac",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.raiders.com/news/raiders-first-unofficial-depth-chart-of-2026-season-training-camp-preseason-vs-arizona-cardinals"
+  },
+  {
+   "date": "2026-09-03",
+   "role": "Listed as top/starting WR on Raiders depth chart ahead of Jalen Nailor and Jack Bech",
+   "note": "Rotowire depth chart shows Tucker as WR1 for Las Vegas; no injury designation on Sleeper (Active).",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/las-vegas-raiders-depth-chart-lv"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 2,
+   "injury": "",
+   "role": "Raiders WR1; TE Brock Bowers sidelined Week 1 was expected to boost his role but target share stayed limited",
+   "note": "[news 2026-09-14] Caught 2 of 4 targets for 27 yards in Week 1 vs MIA",
+   "source": "https://fantasyfootballcalculator.com/players/tre-tucker/news"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 5,
+   "injury": "",
+   "role": "LWR1 (depth_chart_order 1)",
+   "note": "5 rec/7 tgt/119 yds/1 TD in Week 2 win over LAC [news 2026-09-20]",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/tucker-erupts-for-5-119-1-in-week-2-win-over-lac"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "player_id": "13345",
+ "name": "Jonah Coleman",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "DEN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Washington (college)",
+    "games": 12,
+    "carries": null,
+    "targets": null,
+    "rec": 31,
+    "yards": 354,
+    "td": 2,
+    "note": "College (Washington Huskies) 2025: 758 rushing yards, 15 rushing TDs, 4.9 YPC across 12 games, plus 31 receptions for 354 yards and 2 TD."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "2026",
+   "note": "Rookie contract; no specific terms found. Drafted Round 4, Pick 108 overall in 2026 NFL Draft by Denver."
+  },
+  "scheme": {
+   "oc": "Davis Webb (2026, new play-caller)",
+   "note": "Aug 8, 2026 report: Webb has assumed play-calling duties from HC Sean Payton, a significant shift in offensive approach for Denver in 2026. Team publicly stated goal of building a 'three-headed monster in the run game' with Dobbins, Harvey, and Coleman."
+  },
+  "competition": [
+   {
+    "name": "J.K. Dobbins",
+    "age": 27,
+    "status": "RB1, minor camp injury but expected fine",
+    "note": "Left Aug 10, 2026 practice with a 'soft-tissue injury'; HC Sean Payton said he is 'expected to be fine,' though it may affect his participation ahead of the preseason opener vs. Atlanta. Remains listed as lead back as of Aug 8, 2026 despite Coleman's and Harvey's presence.",
+    "resolved_id": "6806",
+    "resolved_team": "DEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "RJ Harvey",
+    "age": 25,
+    "status": "RB2, favorite for that role",
+    "note": "2025 second-round draft pick; described as 'the favorite to serve as RB2' ahead of Coleman.",
+    "resolved_id": "12489",
+    "resolved_team": "DEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Tyler Badie",
+    "age": 26,
+    "status": "RB4 depth",
+    "note": "Listed below Coleman on projected depth chart (Apr 28, 2026 projection).",
+    "resolved_id": "8208",
+    "resolved_team": "DEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Projected Broncos RB depth chart (Apr 28, 2026, unofficial): 1. J.K. Dobbins, 2. RJ Harvey, 3. Jonah Coleman, 4. Tyler Badie, then Jaleel McLaughlin/Cody Schrader/Deuce Vaughn.",
+   "Coleman quote at draft time: 'Just playing my role and doing what I do. The leadership that I bring to the locker room, the culture, how I can ultimately add to that culture.'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury reported for Coleman specifically",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/broncos-updated-running-back-depth-123047590.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.denverbroncos.com/news/broncos-select-rb-jonah-coleman-with-108th-overall-pick-in-2026-nfl-draft",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/what-we-learned-broncos-training-camp-offense-finally-catching-up-to-defense",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-10/payton-dobbins-exited-with-soft-tissue-injury",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/broncos-j-k-dobbins-soft-tissue-injury-expected-to-be-be-fine/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury reported for Coleman specifically",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/broncos-updated-running-back-depth-123047590.html"
+  }
+ ]
+}

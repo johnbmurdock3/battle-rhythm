@@ -1,0 +1,77 @@
+{
+ "player_id": "12544",
+ "name": "LeQuint Allen",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "JAX"
+   },
+   {
+    "season": 2026,
+    "team": "JAX"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": "Yahoo: 'Jaguars roster: LeQuint Allen ready to compete in rebuilt backfield' \u2014 competitor names not confirmed this pass"
+   }
+  ],
+  "notes": [
+   "No team change; Jaguars backfield described as 'rebuilt' for 2026, Allen in the mix but exact depth-chart slot unconfirmed"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable per current Sleeper status; was questionable with hip injury for Week1 vs CLE after missing ~3 weeks of practice, returned as limited participant [news 2026-09-11]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/jaguars-roster-lequint-allen-ready-181907721.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.jaguars.com/team/players-roster/lequint-allen/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/jaguars-lequint-allen-questionable-for-sundays-game/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/jaguars-roster-lequint-allen-ready-181907721.html"
+  },
+  {
+   "date": "2026-09-02",
+   "injury": "Soft tissue injury from training camp; HC Liam Coen said Sept 2 he'd 'be pleasantly surprised' if Allen is ready for Week 1 vs Cleveland",
+   "role": "Made 53-man roster as one of three RBs (with Chris Rodriguez Jr. and Bhayshul Tuten) despite injury; valued mainly as pass-protector; Ameer Abdullah and Tuten positioned to absorb his passing-down role if he sits Week 1",
+   "note": "Questionable/uncertain for Week 1 opener vs Browns due to soft tissue injury first reported Aug 18; made roster Aug 30",
+   "source": "https://blackandteal.com/lequint-allen-s-injury-update-doesn-t-sound-as-reassuring-as-jaguars-fans-hoped-ameer-abdullah"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Questionable per current Sleeper status; was questionable with hip injury for Week1 vs CLE after missing ~3 weeks of practice, returned as limited participant [news 2026-09-11]",
+   "role": "RB3; Ameer Abdullah is the passing-down backup if Allen is unavailable",
+   "note": "No Week2/Week3 usage data found beyond the Week1 injury designation",
+   "source": "https://www.cbssports.com/fantasy/football/news/jaguars-lequint-allen-questionable-for-sundays-game/"
+  }
+ ]
+}

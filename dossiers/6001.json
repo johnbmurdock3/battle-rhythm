@@ -1,0 +1,80 @@
+{
+ "player_id": "6001",
+ "name": "Drew Sample",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CIN"
+   },
+   {
+    "season": 2026,
+    "team": "CIN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Mike Gesicki",
+    "age": 30,
+    "status": "co-starter",
+    "note": "primary receiving TE, 65 rec/665 yds/2 TD in 2024",
+    "resolved_id": "4993",
+    "resolved_team": "CIN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Erick All Jr.",
+    "age": 25,
+    "status": "backup",
+    "note": "missed all 2025 with torn ACL",
+    "resolved_id": "11592",
+    "resolved_team": "CIN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Tanner Hudson",
+    "age": 31,
+    "status": "backup",
+    "note": "with team since 2023",
+    "resolved_id": "5409",
+    "resolved_team": "CIN",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Longest-tenured Bengal on roster (since 2019); functions as blocking TE1 with Gesicki as receiving TE1",
+   "Low receiving fantasy value historically"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/bengals-depth-chart-preview-drew-150000812.html",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/bengals-depth-chart-preview-drew-150000812.html"
+  }
+ ]
+}

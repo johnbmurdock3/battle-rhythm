@@ -1,0 +1,126 @@
+{
+ "player_id": "2216",
+ "name": "Mike Evans",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TB"
+   },
+   {
+    "season": 2026,
+    "team": "SF"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "TB",
+    "games": 8,
+    "carries": 0,
+    "targets": 62,
+    "rec": 30,
+    "yards": 368,
+    "td": 3,
+    "note": "limited to 8 games by hamstring injury and, later, a broken clavicle (per NFL.com headlines); Emeka Egbuka (rookie) moved into the WR1 role in TB during his absence"
+   }
+  ],
+  "contract": {
+   "years": 3,
+   "signed": "2026 free agency (March, per multiple TB/49ers sources; exact date not confirmed this pass)",
+   "note": "Signed a 3-year deal with San Francisco ending a 12-year Buccaneers tenure; agent statement: he 'felt a desire to challenge himself with a new chapter in the final stage of his career'"
+  },
+  "scheme": {
+   "oc": "",
+   "note": "49ers HC Kyle Shanahan returns for 10th season (2026); dedicated OC not identified this pass -- Shanahan has historically called plays himself. Note: SF made several DEFENSIVE staff changes for 2026 (new DC Raheem Morris) but no offensive coordinator change found."
+  },
+  "competition": [
+   {
+    "name": "Ricky Pearsall",
+    "age": 25,
+    "status": "WR room-mate, injury history",
+    "note": "born Sept 9, 2000; per NFL.com, described as 'injured' in the WR room context around Evans' signing; suffered a PCL injury in 2025",
+    "resolved_id": "11638",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Demarcus Robinson",
+    "age": 31,
+    "status": "slot WR",
+    "note": "ages not confirmed this pass",
+    "resolved_id": "3286",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "49ers frame Evans as a big-body (6'5\") deep-route weapon in Kyle Shanahan's system, paired with Pearsall and Robinson."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable per Sleeper as of 2026-09-22 (specific injury/body part not found)",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.nfl.com/news/mike-evans-to-sign-with-49ers-ending-12-year-tenure-with-buccaneers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/E/EvanMi00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ricky_Pearsall",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Emeka_Egbuka",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/2216",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.nfl.com/news/mike-evans-to-sign-with-49ers-ending-12-year-tenure-with-buccaneers"
+  },
+  {
+   "date": "2026-09-02",
+   "injury": "Adductor injury; returned to practice 2026-09-02",
+   "role": "Expected starting/primary WR",
+   "note": "Signed a 3-year, $60.4M deal with the 49ers in March 2026 after 12 seasons with Tampa Bay. Returned to practice Sept 2, 2026 ahead of the team's trip to Australia for the Week 1 game vs. the Rams, earlier than GM John Lynch had suggested.",
+   "source": "https://www.49erswebzone.com/articles/202922-49ers-evans-returns-practice-australia/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 6,
+   "injury": "Minor quad issue (DNP 8/8) resolved; no current designation",
+   "role": "WR1 in SF after 3yr/$60.4M FA deal",
+   "note": "[news 2026-09-11] TEAM CHANGE: left Tampa Bay in free agency. Week 1 vs LAR: 6 rec/7 tgt, 49 yds, 1 TD",
+   "source": "https://www.fanduel.com/research/nfl/player-news/game-recaps/mike-evans-has-6-catches-td-in-win-over-rams-2026"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Questionable per Sleeper as of 2026-09-22 (specific injury/body part not found)",
+   "role": "Sleeper lists him as SF LWR, depth_chart_order 1 (WR1). 49ers WR room is thin: Ricky Pearsall had knee surgery and targets a ~9-month recovery (out for season) [news 2026-08-13]; TE George Kittle was recovering from a torn Achilles eyeing a Week 1 return [news 2026-08-16/08-17]; rookie WR De'Zhaun Stribling has emerged as a depth piece [news 2026-08-15/08-17].",
+   "note": "Evans is the clear WR1 in a depleted SF passing-game corps, raising his target-share ceiling, but he currently carries a Questionable tag with no further detail located (search budget exhausted this session) -- worth confirming before Week 3 lineup decisions.",
+   "source": "https://api.sleeper.app/players/nfl/2216"
+  }
+ ]
+}

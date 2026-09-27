@@ -1,0 +1,111 @@
+{
+ "player_id": "2133",
+ "name": "Davante Adams",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LAR"
+   },
+   {
+    "season": 2026,
+    "team": "LAR"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "LAR",
+    "games": 14,
+    "targets": 114,
+    "rec": 60,
+    "yards": 789,
+    "td": 14,
+    "note": "14 TD led NFL red zone scoring (11 inside the 10); 9 drops tied for most in NFL; 13.2 YPR"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Article notes Rams 'moving forward in 2026' but no specific years/AAV found"
+  },
+  "scheme": {
+   "oc": "Nathan Scheelhaase",
+   "note": "Promoted to OC Feb 20, 2026 replacing Mike LaFleur, who left to become Cardinals HC. Unclear if McVay retains play-calling."
+  },
+  "competition": [
+   {
+    "name": "Puka Nacua",
+    "age": 25,
+    "status": "WR1 ahead of Adams on team depth chart",
+    "note": "Born 2001-05-29. Rotowire LAR depth chart (fetched 2026-08-11) lists Nacua WR1, Adams WR2 with no special role note",
+    "resolved_id": "9493",
+    "resolved_team": "LAR",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jordan Whittington",
+    "age": 25,
+    "status": "WR3",
+    "note": "Depth WR behind Adams",
+    "resolved_id": "11623",
+    "resolved_team": "LAR",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Age 33 entering 2026; SI (5/11/26) flags hamstring durability and age-related decline as concern; 750 yds/8 TD cited as a 'successful' 2026 outcome bar, well below 2025 TD pace"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No current injury designation found as of 2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Adams giving Puka Nacua confidence boost in OTAs, already making 'positive impact' on offense",
+    "who": "CBS Sports",
+    "date": "2026-06-01"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/rams/onsi/davante-adams-rams-roster-preview-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/los-angeles-rams-depth-chart-lar",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/stats/davante-adams.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Los_Angeles_Rams_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Puka_Nacua",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/rams/onsi/davante-adams-rams-roster-preview-2026"
+  }
+ ]
+}

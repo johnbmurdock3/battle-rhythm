@@ -1,0 +1,76 @@
+{
+ "player_id": "3271",
+ "name": "Tyler Higbee",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LAR"
+   },
+   {
+    "season": 2026,
+    "team": "LAR"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": "RotoBaller headline says Higbee is 'slipping on the depth chart' for 2026; rival TE not confirmed this pass"
+   }
+  ],
+  "notes": [
+   "Age 33, coming off surgery per CBS Sports headline ('Rams' Tyler Higbee: Undergoes surgery') \u2014 exact date/body part not confirmed this pass, worth a closer look before draft"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotoballer.com/player-news/tyler-higbee-2026-fantasy-football-outlook-slipping-on-the-depth-chart/1902988",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/rams-tyler-higbee-undergoes-surgery",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/3271",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unclear",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotoballer.com/player-news/tyler-higbee-2026-fantasy-football-outlook-slipping-on-the-depth-chart/1902988"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "Rams starting TE",
+   "note": "Signed 2yr/$8M extension with LAR Mar 5, 2026; recovered from a 2025 ankle injury (IR, activated Jan 3, 2026); not on Aug 31, 2026 injury report",
+   "source": "https://www.cbssports.com/nfl/teams/LAR/los-angeles-rams/injuries/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "None reported",
+   "role": "Role diminished -- Sleeper lists him TE3 on Rams depth chart. Fantasy coverage today (Week 3, vs Giants) noted he got no early snaps, frustrating fantasy managers. Rams carrying 5 TEs on roster.",
+   "note": "[news 2026-09-22] 'Is Tyler Higbee playing today vs Giants? Fantasy managers fume as Rams TE gets no early snaps.'",
+   "source": "https://api.sleeper.app/players/nfl/3271"
+  }
+ ]
+}

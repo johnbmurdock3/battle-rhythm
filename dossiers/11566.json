@@ -1,0 +1,52 @@
+{
+ "player_id": "11566",
+ "name": "Jayden Daniels",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Dislocated left elbow (stepped on by teammate vs Cowboys); no timetable for return [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-22",
+   "injury": "Recovering from 2025 knee, hamstring and elbow injuries; per GM Adam Peters (May 2026) he 'looks great, feels great, is healthy.'",
+   "role": "Starting QB; Adam Schefter reported (Aug 22, 2026) Daniels is expected to play in the preseason game vs. Detroit Lions.",
+   "note": "No Week 1 availability doubts found as of late August 2026; team held him out of some preseason reps as standard veteran management.",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-22/schefter-daniels-expected-to-play-vs-lions"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Remains Washington starting QB; no injury",
+   "note": "[news 2026-09-13] Sleeper Out flag is a STALE carryover from a Dec 2025 elbow re-injury and does not apply. Week 1: 18/34, 164 yds, 2 pass TD, 5 car/31 yds",
+   "source": "https://www.rotowire.com/football/headlines/jayden-daniels-news-emerges-in-second-half-of-week-1-loss-637199"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Dislocated left elbow (stepped on by teammate vs Cowboys); no timetable for return [news 2026-09-21]",
+   "role": "Marcus Mariota to start at QB for Washington in Week 3 vs Seahawks [news 2026-09-21]",
+   "note": "Major injury; Mariota takes over as starter, uncertain how long Daniels is out.",
+   "source": "https://www.cbssports.com/nfl/news/jayden-daniels-injury-commanders-qb-examining-options/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/news/jayden-daniels-injury-commanders-qb-examining-options/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

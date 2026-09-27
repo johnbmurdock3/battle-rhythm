@@ -1,0 +1,132 @@
+{
+ "player_id": "7543",
+ "name": "Travis Etienne",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "JAX"
+   },
+   {
+    "season": 2026,
+    "team": "NO"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "JAX",
+    "games": 17,
+    "carries": 260,
+    "targets": 52,
+    "rec": 36,
+    "yards": 1107,
+    "td": 13,
+    "note": "1,107 rushing yards, 7 rushing TD + 6 receiving TD = 13 total TD; 292 receiving yards (yards field above is rushing yards only, per StatMuse)."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "2026-03-11",
+   "note": "Signed with Saints in free agency (not a trade) on 2026-03-11; specific years/value not retrieved this pass."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "New HC for 2026: Kellen Moore (former Eagles OC, hired after Super Bowl win), replacing prior regime. Klint Kubiak (Saints OC in 2025) departed to become Raiders OC (~2026-02-09). Moore's specific 2026 OC hire not confirmed this pass."
+  },
+  "competition": [
+   {
+    "name": "Alvin Kamara",
+    "age": 31,
+    "status": "RB2, diminished role",
+    "note": "Per Yahoo Sports (RB depth chart piece): Kamara 'entering his age-31 season,' coming off a career-low 471 rushing yards in 2025; Etienne now listed as RB1 ahead of him.",
+    "resolved_id": "4035",
+    "resolved_team": "NO",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Kendre Miller",
+    "age": 24,
+    "status": "RB3/depth",
+    "note": "4th-year player, 497 career rushing yards across 21 games, 3 TD.",
+    "resolved_id": "9757",
+    "resolved_team": "NO",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Saints RB depth chart per Yahoo Sports (2026): 1. Etienne, 2. Kamara, 3. Miller, plus Devin Neal and Audric Estime as reserves."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury listed for Etienne",
+   "as_of": "2026-09-03"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.neworleanssaints.com/news/travis-etienne-jr-running-back-nfl-free-agency-2026-saints-roster-moves",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.statmuse.com/nfl/ask/travis-etienne-2025-stats",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/saints-rb-depth-chart-travis-184306296.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.louisianasports.net/2026/02/09/30528/latest-stories/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.neworleanssaints.com/video/travis-etienne-jr-saints-training-camp-2026-interview-7-31-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872938",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury reported",
+   "note": "baseline from initial research pass",
+   "source": "https://www.neworleanssaints.com/news/travis-etienne-jr-running-back-nfl-free-agency-2026-saints-roster-moves"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "No injury listed for Etienne",
+   "role": "RB on Saints roster alongside Alvin Kamara (Questionable, knee/MCL, Week 1) and Devin Neal (Questionable, hamstring, Week 1)",
+   "note": "Now with New Orleans (team change from Jacksonville); two other Saints backs are questionable for Week 1 vs Detroit, which could raise Etienne's workload",
+   "source": "https://www.cbssports.com/nfl/teams/NO/new-orleans-saints/roster/"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 53,
+   "touches": 16,
+   "injury": "",
+   "role": "TEAM CHANGE to NO. Three-way committee; led passing-game work; snap share expected to rise with Kamara out",
+   "note": "[news 2026-09-14] Week 1 vs DET: 9 car/46 yds, 7 rec/9 tgt/32 yds, 53% snaps",
+   "source": "https://www.si.com/onsi/fantasy/nfl/can-fantasy-football-owners-trust-travis-etienne-jr-in-week-2"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 10,
+   "injury": "",
+   "role": "RB1 depth chart, New Orleans. SPECIAL ATTENTION: Alvin Kamara played and reclaimed passing-game work in Week 2 \u2014 Etienne no longer clearly leading passing-down role.",
+   "note": "Week 2 vs Baltimore: Etienne 8 carries/25 yds, 2 tgt/2 rec/6 yds. Kamara (same game) 9 carries/15 yds but 6 targets/5 rec/7 yds \u2014 Kamara out-targeted Etienne 6-2, suggesting Kamara has reclaimed passing-down/receiving work now that he's back/healthy. [news 2026-09-20]",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872938"
+  }
+ ]
+}

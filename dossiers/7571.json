@@ -1,0 +1,81 @@
+{
+ "player_id": "7571",
+ "name": "Rashod Bateman",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "BAL"
+   },
+   {
+    "season": 2026,
+    "team": "BAL"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Zay Flowers",
+    "age": 25,
+    "status": "starter",
+    "note": "slot WR1, likely top target earner",
+    "resolved_id": "9997",
+    "resolved_team": "BAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Devontez Walker",
+    "age": 25,
+    "status": "starter",
+    "note": "right WR1",
+    "resolved_id": "11629",
+    "resolved_team": "BAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Bateman is listed as the starting left WR, but Baltimore's passing offense is spread across a 3-man rotation with Flowers (slot) and Walker; Flowers likely commands the largest target share."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/BAL",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872938",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/BAL"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 7,
+   "injury": "",
+   "role": "LWR2 depth chart, Baltimore. Not on Ravens injury report as of 2026-09-21.",
+   "note": "Week 2 vs New Orleans: 9 targets, 7 receptions, 88 receiving yards, 1 TD \u2014 strong volume game. [news 2026-09-20]",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872938"
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+# Local only: `dbt build --profiles-dir .` from analytics/.
+battle_rhythm:
+  target: local
+  outputs:
+    local:
+      type: duckdb
+      path: target/br.duckdb
+      threads: 2

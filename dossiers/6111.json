@@ -1,0 +1,78 @@
+{
+ "player_id": "6111",
+ "name": "Jake Browning",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "TB"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Baker Mayfield",
+    "age": 31,
+    "status": "starter",
+    "note": "entrenched QB1 ahead of Browning",
+    "resolved_id": "4892",
+    "resolved_team": "TB",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Buccaneers depth chart (ourlads, confirmed): 1. Baker Mayfield, 2. Jake Browning, 3. Connor Bazelak, 4. Jalon Daniels. Browning listed with TB \u2014 could not independently confirm his 2025 team this pass; if he was elsewhere in 2025 this would be a team change worth flagging (unverified)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "not checked this pass"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/TB",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872935",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/TB"
+  },
+  {
+   "date": "2026-09-02",
+   "role": "On Buccaneers active roster (#5, QB) but not among the top two on team depth chart page",
+   "note": "Buccaneers QB depth chart lists Baker Mayfield as starter and Jalon Daniels as QB2; Browning is on roster but appears third string.",
+   "source": "https://www.cbssports.com/nfl/teams/TB/tampa-bay-buccaneers/depth-chart/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "QB2 on Tampa Bay depth chart (Sleeper) - team change, now behind Baker Mayfield",
+   "note": "Did not appear in Week 2 boxscore; Baker Mayfield started and played for TB in 19-23 loss to CLE on 9/20. Confirms Browning is now a TB backup, not on Cincinnati.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872935"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "player_id": "13307",
+ "name": "Marlin Klein",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": null
+   },
+   {
+    "season": 2026,
+    "team": "HOU"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Dalton Schultz",
+    "age": 30,
+    "status": "starter",
+    "note": "clear TE1",
+    "resolved_id": "5001",
+    "resolved_team": "HOU",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "2026 rookie, drafted by Texans - no 2025 NFL team. Coach DeMeco Ryans praised him as a receiving mismatch threat, but he's TE2 behind established starter Dalton Schultz, capping immediate target share."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "recovered",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/texans/onsi/texans-believe-rookie-te-marlin-klein-will-shine-in-one-key-area",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/texans/onsi/texans-week-1-snap-counts-vs-bills-7-things-that-stood-out",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "role": "Rookie TE listed fifth of six tight ends on Houston's unofficial depth chart, behind Foster Moreau (TE2) and others",
+   "note": "Flashed some big plays in practice but 'still got work to do' to climb the depth chart per beat reporting",
+   "source": "https://sports.yahoo.com/articles/stands-texans-first-unofficial-depth-160647841.html"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 1,
+   "injury": "",
+   "role": "Backup TE behind starter",
+   "note": "Week 1: 9 offensive snaps, 1 target, 1 catch [news 2026-09-13]; no Week 2 usage data found",
+   "source": "https://www.si.com/nfl/texans/onsi/texans-week-1-snap-counts-vs-bills-7-things-that-stood-out"
+  }
+ ]
+}

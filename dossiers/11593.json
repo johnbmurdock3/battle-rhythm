@@ -1,0 +1,67 @@
+{
+ "player_id": "11593",
+ "name": "Brevyn Spann-Ford",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DAL"
+   },
+   {
+    "season": 2026,
+    "team": "DAL"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "note": "18 receptions, 178 yards, 1 TD; first 5 career starts"
+   }
+  ],
+  "contract": {
+   "2026_cap_hit": "$1.075M"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jake Ferguson",
+    "age": 27,
+    "status": "starter",
+    "note": "TE1, Pro Bowler",
+    "resolved_id": "8110",
+    "resolved_team": "DAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Backup to Jake Ferguson; called 'most intriguing' TE option by The Athletic's Jon Machota",
+   "Played all 34 consecutive regular-season games past 2 seasons"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://heavy.com/sports/nfl/dallas-cowboys/brevynn-spann-ford-bigger-role/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://heavy.com/sports/nfl/dallas-cowboys/brevynn-spann-ford-bigger-role/"
+  }
+ ]
+}

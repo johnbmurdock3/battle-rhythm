@@ -1,0 +1,137 @@
+{
+ "player_id": "13288",
+ "name": "Nicholas Singleton",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "TEN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Penn State (college)",
+    "games": null,
+    "carries": null,
+    "targets": null,
+    "rec": null,
+    "yards": 584,
+    "td": null,
+    "note": "College 2025 season: 584 rushing yards at 3.4 YPC, a decline from 2024 (1,088 rush yds, 5.3 YPC). Career Penn State totals: 5,586 all-purpose yards (program record), 3,451 rushing yards, 45 rushing TD, 102 receptions for 987 yards and 9 TD, 1,138 kick-return yards."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "2026",
+   "note": "Rookie contract; drafted by Tennessee in Round 5 of the 2026 NFL Draft. Pick number conflicts between sources: Titans' own site (tennesseetitans.com, Apr 25, 2026) states pick No. 165 overall; nashvillepost.com states pick No. 155 overall. Treating team site as more authoritative but flagging the discrepancy."
+  },
+  "scheme": {
+   "oc": "Brian Daboll (2026, new hire)",
+   "note": "Titans hired Brian Daboll as offensive coordinator for 2026 under new HC Robert Saleh -- a full coaching-staff change ('Titans New Era: Saleh, Daboll'). Represents a significant scheme shift entering Singleton's rookie year."
+  },
+  "competition": [
+   {
+    "name": "Tony Pollard",
+    "age": 29,
+    "status": "RB1, entering final year of contract",
+    "note": "HC Robert Saleh designated Pollard a team 'bell cow' at RB (per July 13, 2026 Titans.com camp preview). One source (PlayerProfiler, ~June 22, 2026) notes Pollard will be 30 in 2027, heading into the final year of his deal with Tennessee in 2026.",
+    "resolved_id": "5967",
+    "resolved_team": "TEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Tyjae Spears",
+    "age": 25,
+    "status": "RB2, also called 'bell cow', extension uncertain",
+    "note": "Also designated a 'bell cow' by HC Saleh; positioned for a larger role as both runner and pass-catcher in Brian Daboll's 2026 offense. Approaching a pivotal/uncertain contract year with his Titans future undecided after 2026 (PlayerProfiler). Suffered a high ankle sprain in the 2025 preseason opener (Aug 9, 2025) and started the 2025 season on IR -- that specific injury is from the 2025 preseason, not current; per July 13, 2026 report he 'impressed again' in 2026 offseason work, implying full health entering 2026 camp.",
+    "resolved_id": "9508",
+    "resolved_team": "TEN",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Titans training camp RB roster (July 13, 2026): Michael Carter, Julius Chestnut, Kalel Mullings, Tony Pollard, Nick Singleton, Tyjae Spears -- 6 RBs in camp.",
+   "Team expected to keep 4 RBs on the 53-man roster; Pollard, Spears, and Singleton viewed as 'likely locks' with the 4th spot competitive.",
+   "Singleton described as recovering from a 'college injury' (unspecified) as of the July 13, 2026 report; was initially limited in OTAs but 'showed improvement and comfort' in later sessions.",
+   "Draft-day quote from Singleton: 'I feel like I am a really physical back, a speed back, too...a complete back, too, can run the ball, catch the ball out of the backfield and be able to go block.'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Recovering from an unspecified 'college injury,' limited early in OTAs but improving",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.nashvillepost.com/sports/which-version-of-rookie-nick-singleton-will-titans-see-in-2026/article_bb959045-c270-44ca-908d-162ddf5630aa.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.tennesseetitans.com/news/titans-select-penn-state-rb-nick-singleton-in-the-fifth-round-of-saturday-s-nfl-draft",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.tennesseetitans.com/news/titans-2026-training-camp-preview-a-look-at-the-running-backs",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.playerprofiler.com/news/pollard-and-spears-heading-into-final-year-in-tennessee/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/news/tyjae-spears-injury-titans-rb-to-miss-the-rest-of-preseason-due-to-high-ankle-sprain",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.tennesseetitans.com/news/titans-hire-brian-daboll-as-offensive-coordinator",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.tennesseetitans.com/news/titans-finalize-coaching-staff-under-robert-saleh",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/titans-nicholas-singleton-four-carries-in-regular-season-debut/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Recovering from an unspecified 'college injury,' limited early in OTAs but improving",
+   "note": "baseline from initial research pass",
+   "source": "https://www.nashvillepost.com/sports/which-version-of-rookie-nick-singleton-will-titans-see-in-2026/article_bb959045-c270-44ca-908d-162ddf5630aa.html"
+  },
+  {
+   "date": "2026-08-29",
+   "role": "Fifth-round rookie RB, currently third on the depth chart behind Tony Pollard (clear RB1) and pass-catching back Tyjae Spears",
+   "note": "Not expected to see meaningful early-season work; possible midseason stash if Titans fall out of contention and develop younger talent",
+   "source": "https://www.profootballnetwork.com/fantasy-football/nick-singleton-fantasy-outlook-updated-2026/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "3rd string RB behind Tony Pollard/Kalel Mullings and Tyjae Spears/Michael Carter",
+   "note": "[news 2026-08-02] No Week 1 usage stats found; depth chart source last updated 8/2 so may be stale",
+   "source": "https://www.paulkuharsky.com/news/titans-depth-chart"
+  },
+  {
+   "date": "2026-09-22",
+   "snap_pct": 11.3,
+   "touches": 4,
+   "injury": "",
+   "role": "RB4 on Titans depth chart behind Tony Pollard, Tyjae Spears, Julius Chestnut (matches Sleeper RB order 4). Coaching staff reportedly doesn't trust him with a real role. Healthy scratch Week 1; Week 2 (Sept 21, 2026) regular-season debut: 4 carries for 10 yards on 6 of 53 offensive snaps, plus 6 special-teams snaps, well behind Pollard (29 snaps) and Spears (19 snaps).",
+   "note": "Buried on depth chart; Week 2 debut was token usage (6 offensive snaps)",
+   "source": "https://www.cbssports.com/fantasy/football/news/titans-nicholas-singleton-four-carries-in-regular-season-debut/"
+  }
+ ]
+}

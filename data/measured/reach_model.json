@@ -1,0 +1,146 @@
+{
+ "9000000000000000009": {
+  "league": "LG01",
+  "season": "2026",
+  "overall": {
+   "n": 241,
+   "shift_picks": 0.4,
+   "sigma_add": 26.7,
+   "shift_log": 0.006,
+   "sigma_mul": 0.205,
+   "loglik_add": -1135.4,
+   "loglik_mul": -1053.6,
+   "winner": "multiplicative"
+  },
+  "by_position": {
+   "QB": {
+    "n": 31,
+    "shift_picks": -4.3,
+    "sigma_add": 32.2,
+    "shift_log": -0.031,
+    "sigma_mul": 0.266,
+    "loglik_add": -151.6,
+    "loglik_mul": -144.8,
+    "winner": "multiplicative"
+   },
+   "RB": {
+    "n": 76,
+    "shift_picks": -5.3,
+    "sigma_add": 21.5,
+    "shift_log": -0.06,
+    "sigma_mul": 0.185,
+    "loglik_add": -342.4,
+    "loglik_mul": -314.8,
+    "winner": "multiplicative"
+   },
+   "WR": {
+    "n": 99,
+    "shift_picks": 4.2,
+    "sigma_add": 26.5,
+    "shift_log": 0.052,
+    "sigma_mul": 0.18,
+    "loglik_add": -465.2,
+    "loglik_mul": -422.2,
+    "winner": "multiplicative"
+   },
+   "TE": {
+    "n": 35,
+    "shift_picks": 3.0,
+    "sigma_add": 28.4,
+    "shift_log": 0.025,
+    "sigma_mul": 0.188,
+    "loglik_add": -167.0,
+    "loglik_mul": -157.0,
+    "winner": "multiplicative"
+   }
+  },
+  "shared_with_target": 3,
+  "target": "LG02"
+ },
+ "9000000000000000013": {
+  "league": "LG03",
+  "season": "2026",
+  "overall": {
+   "n": 119,
+   "shift_picks": -47.3,
+   "sigma_add": 39.8,
+   "shift_log": -0.674,
+   "sigma_mul": 0.522,
+   "loglik_add": -610.1,
+   "loglik_mul": -548.0,
+   "winner": "multiplicative"
+  },
+  "by_position": {
+   "QB": {
+    "n": 21,
+    "shift_picks": -46.1,
+    "sigma_add": 56.3,
+    "shift_log": -0.908,
+    "sigma_mul": 0.37,
+    "loglik_add": -116.8,
+    "loglik_mul": -86.1,
+    "winner": "multiplicative"
+   },
+   "RB": {
+    "n": 36,
+    "shift_picks": -48.4,
+    "sigma_add": 34.9,
+    "shift_log": -0.67,
+    "sigma_mul": 0.526,
+    "loglik_add": -180.0,
+    "loglik_mul": -166.8,
+    "winner": "multiplicative"
+   },
+   "WR": {
+    "n": 47,
+    "shift_picks": -47.2,
+    "sigma_add": 35.0,
+    "shift_log": -0.638,
+    "sigma_mul": 0.583,
+    "loglik_add": -234.6,
+    "loglik_mul": -219.3,
+    "winner": "multiplicative"
+   }
+  },
+  "shared_with_target": 1,
+  "target": "LG02"
+ },
+ "9000000000000000019": {
+  "league": "LG03-LG05 \ud83e\uddb8\ud83d\udcaa ",
+  "season": "2026",
+  "overall": {
+   "n": 65,
+   "shift_picks": -193.4,
+   "sigma_add": 53.3,
+   "shift_log": -2.056,
+   "sigma_mul": 0.89,
+   "loglik_add": -350.8,
+   "loglik_mul": -296.0,
+   "winner": "multiplicative"
+  },
+  "by_position": {
+   "RB": {
+    "n": 22,
+    "shift_picks": -202.1,
+    "sigma_add": 56.6,
+    "shift_log": -2.198,
+    "sigma_mul": 0.933,
+    "loglik_add": -120.5,
+    "loglik_mul": -98.3,
+    "winner": "multiplicative"
+   },
+   "WR": {
+    "n": 24,
+    "shift_picks": -205.3,
+    "sigma_add": 40.4,
+    "shift_log": -2.139,
+    "sigma_mul": 0.681,
+    "loglik_add": -122.9,
+    "loglik_mul": -103.5,
+    "winner": "multiplicative"
+   }
+  },
+  "shared_with_target": 1,
+  "target": "LG02"
+ }
+}

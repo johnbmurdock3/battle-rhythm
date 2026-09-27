@@ -1,0 +1,128 @@
+{
+ "player_id": "7523",
+ "name": "Trevor Lawrence",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "JAX"
+   },
+   {
+    "season": 2024,
+    "team": "JAX"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "JAX",
+    "games": 17,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 4007,
+    "td": 29,
+    "note": "17/17 starts, 341/560 passing, 4,007 pass yards, 29 TD, 12 INT. Full bounce-back season after injury-shortened 2024."
+   },
+   {
+    "season": 2024,
+    "team": "JAX",
+    "games": 10,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 2045,
+    "td": 11,
+    "note": "Season cut short: 10/10 starts, 172/284 passing, 2,045 yards, 11 TD, 7 INT. Missed 2 games with a non-throwing (left) shoulder injury, then suffered a concussion (struck by forearm to helmet by Texans LB Azeez Al-Shaair) on 2024-12-01, placed on IR 2024-12-04, ending his season."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "No 2026 contract change found; presumed under existing extension signed prior seasons -- not verified in this search."
+  },
+  "scheme": {
+   "oc": "Grant Udinski (2026 OC, under HC Liam Coen)",
+   "note": "Liam Coen enters his 2nd year as Jaguars HC in 2026; Grant Udinski is offensive coordinator."
+  },
+  "competition": [],
+  "notes": [
+   "2024 season derailed by two separate injuries: non-throwing shoulder injury (missed 2 games) followed by a season-ending concussion (Dec 1, 2024 hit, IR Dec 4, 2024).",
+   "2025 was a full, healthy 17-game starting season with career-best 29 TD passes and 4,007 yards, suggesting recovery from 2024 injuries was complete entering 2025."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury listed; active starter",
+   "as_of": "2026-09-03"
+  },
+  "camp": [
+   {
+    "quote": "We're getting better every day.",
+    "who": "Trevor Lawrence",
+    "date": "2026-08-09"
+   },
+   {
+    "quote": "It has been up and down; there are plays I want back, but I do know we're getting better every day.",
+    "who": "Trevor Lawrence",
+    "date": "2026-08-09"
+   },
+   {
+    "quote": "It's encouraging to see.",
+    "who": "Grant Udinski (OC)",
+    "date": "2026-08-09"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.jaguars.com/news/camp-wrap-day-10-lawrence-offense-better-every-day",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.jaguars.com/news/k000030-jaguars-qb-trevor-lawrence-placed-on-injured-reserve",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/L/LawrTr00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872940",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Not on injury report as of camp; wearing a sleeve on throwing-adjacent (right) arm early in camp due to increased throwing volume, described as 'minor soreness,' not sidelined",
+   "note": "baseline from initial research pass",
+   "source": "https://www.jaguars.com/news/camp-wrap-day-10-lawrence-offense-better-every-day"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "No injury listed; active starter",
+   "role": "Starting QB",
+   "note": "No injury notes on Jaguars roster; remains starter",
+   "source": "https://www.cbssports.com/nfl/teams/JAC/jacksonville-jaguars/roster/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Healthy starting QB, no injury concerns for 2026 (2024 IR/concussion story in search results is stale)",
+   "note": "[news 2026-09-13] Strong 2026 debut vs CLE, multiple TD passes in a blowout win",
+   "source": "https://www.wruf.com/headlines/2026/09/14/trevor-lawrence-shines-in-2026-jaguars-season-debut/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Starting QB1, Jacksonville. Not listed on Jaguars injury report as of 2026-09-21.",
+   "note": "Week 2 vs Denver: 18/23 passing, 245 yards, 4 TD, 0 INT. Strong, healthy performance. [news 2026-09-20]",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872940"
+  }
+ ]
+}

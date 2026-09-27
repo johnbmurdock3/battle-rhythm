@@ -1,0 +1,132 @@
+{
+ "player_id": "9487",
+ "name": "Parker Washington",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "JAX"
+   },
+   {
+    "season": 2026,
+    "team": "JAX"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "JAX",
+    "games": 16,
+    "carries": 0,
+    "targets": 95,
+    "rec": 58,
+    "yards": 847,
+    "td": 5,
+    "note": "Per StatMuse; headline elsewhere cited 7 TD but detailed table showed 5 - noting discrepancy"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Unverified this pass"
+  },
+  "scheme": {
+   "oc": "Grant Udinski (per Aug 2025 SI article, unverified for 2026)",
+   "note": "HC Liam Coen per same source; needs 2026 reconfirmation"
+  },
+  "competition": [
+   {
+    "name": "Brian Thomas Jr.",
+    "age": 23,
+    "status": "WR1",
+    "note": "Ahead of Washington on 2026 Rotowire depth chart",
+    "resolved_id": "11631",
+    "resolved_team": "JAX",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jakobi Meyers",
+    "age": 29,
+    "status": "WR3",
+    "note": "New addition, listed behind Washington",
+    "resolved_id": "5947",
+    "resolved_team": "JAX",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Travis Hunter",
+    "age": 23,
+    "status": "Listed WR4 on offense-only depth chart",
+    "note": "Two-way CB/WR; unusual to be behind Washington in this listing - flagging as uncertain/possibly stale or defense-weighted depth chart",
+    "resolved_id": "12530",
+    "resolved_team": "JAX",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "2026 Rotowire depth chart (fetched 2026-08-11, undated) lists: 1. Brian Thomas Jr, 2. Parker Washington, 3. Jakobi Meyers, 4. Travis Hunter - Washington's WR2 slot should be treated with some caution given Hunter's profile"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Undisclosed injury, participated in Tuesday practice, appears to be nearing full recovery",
+   "as_of": "2026-08-27"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.statmuse.com/nfl/ask/parker-washington-2025-stats",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/jacksonville-jaguars-depth-chart-jax",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/jaguars/parker-washington-jacksonville-training-camp-brian-thomas-trevor-lawrence",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872940",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.statmuse.com/nfl/ask/parker-washington-2025-stats"
+  },
+  {
+   "date": "2026-08-27",
+   "injury": "Undisclosed injury, participated in Tuesday practice, appears to be nearing full recovery",
+   "note": "On track for Week 1 play per practice participation report",
+   "source": "https://www.fantasypros.com/nfl/players/parker-washington.php"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 6,
+   "injury": "",
+   "role": "First-string WR; also punt returner",
+   "note": "[news 2026-09-13] Week 1: 6 targets, 5 rec, 83 yds, 1 TD in a 34-10 win over CLE",
+   "source": "https://www.pro-football-reference.com/teams/jax/2026.htm"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 5,
+   "injury": "",
+   "role": "Slot WR1 (SWR depth order 1 per Sleeper)",
+   "note": "Week 2 vs DEN: 5 rec/83 yds/1 TD [news 2026-09-21]. No injury listed.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872940"
+  }
+ ]
+}

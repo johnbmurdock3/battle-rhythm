@@ -1,0 +1,128 @@
+{
+ "player_id": "13303",
+ "name": "Cade Klubnik",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "Clemson (college)"
+   },
+   {
+    "season": 2026,
+    "team": "NYJ"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "",
+    "games": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 0,
+    "td": 0,
+    "note": "College player in 2025 (Clemson); no NFL stats. Drafted by Jets in Round 4 (110th overall) of the 2026 NFL Draft."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "2026-05-07",
+   "note": "Signed rookie contract with Jets; specific years/dollar terms not stated in source."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Jets OC for 2026 not verified in sources checked. HC is Aaron Glenn (since 2025)."
+  },
+  "competition": [
+   {
+    "name": "Geno Smith",
+    "age": 35,
+    "status": "QB1",
+    "note": "Born 1990-10-10; traded to Jets from Las Vegas on 2026-03-11 (per Wikipedia). Listed atop Jets' Aug 10, 2026 unofficial depth chart.",
+    "resolved_id": "1373",
+    "resolved_team": "NYJ",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Bailey Zappe",
+    "age": 27,
+    "status": "QB3",
+    "note": "Listed with Brady Cook on Jets' Aug 10, 2026 unofficial depth chart, below Klubnik.",
+    "resolved_id": "8157",
+    "resolved_team": "NYJ",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Brady Cook",
+    "age": 24,
+    "status": "QB3/4",
+    "note": "Listed alongside Zappe below Klubnik on Aug 10, 2026 depth chart.",
+    "resolved_id": "12538",
+    "resolved_team": "NYJ",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Drafted by Jets, Round 4, Pick 110 overall, 2026 NFL Draft, out of Clemson.",
+   "Aug 10, 2026 Jets unofficial depth chart (newyorkjets.com) lists Klubnik as QB2, 'Geno Smith's primary backup.'",
+   "Camp report (jetsxfactor.com, 2026-08-08) noted a deep TD throw by Klubnik in camp."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-10",
+   "note": "No injury designation found; listed active as QB2 on Aug 10, 2026 depth chart."
+  },
+  "camp": [
+   {
+    "quote": "Fourth-round pick Klubnik is listed as Geno Smith's primary backup.",
+    "who": "newyorkjets.com depth chart",
+    "date": "2026-08-10"
+   },
+   {
+    "quote": "Klubnik delivers a gorgeous deep TD in camp.",
+    "who": "jetsxfactor.com",
+    "date": "2026-08-08"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.newyorkjets.com/news/2026-jets-unofficial-depth-chart",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://jetsxfactor.com/2026/08/10/ny-jets-unofficial-depth-chart-three-pick-2nd-team/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Geno_Smith",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Cade_Klubnik",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.newyorkjets.com/news/cade-klubnik-signs-rookie-contract-jets-05-07-2026",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.newyorkjets.com/news/2026-jets-unofficial-depth-chart"
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "player_id": "11651",
+ "name": "Isaac Guerendo",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SF"
+   },
+   {
+    "season": 2026,
+    "team": "SF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Christian McCaffrey",
+    "age": 30,
+    "status": "RB1, questionable",
+    "note": "",
+    "resolved_id": "4034",
+    "resolved_team": "SF",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Jordan James",
+    "age": 22,
+    "status": "RB2, questionable",
+    "note": "",
+    "resolved_id": "12467",
+    "resolved_team": "SF",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Kaelon Black",
+    "age": 24,
+    "status": "RB3, questionable",
+    "note": "",
+    "resolved_id": "13414",
+    "resolved_team": "SF",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; Guerendo is RB4 and on the PUP list, so opportunity depends on McCaffrey/James/Black injury statuses clearing up."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Torn/severe pectoral muscle injury suffered in offseason workout; placed on Reserve/PUP to start the season, expected to miss at least the first four weeks [news 2026-08-30]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/san-francisco-49ers-depth-chart-sf",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/headlines/isaac-guerendo-injury-placed-on-pup-list-631880",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "PUP-P (physically unable to perform, preseason)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/san-francisco-49ers-depth-chart-sf"
+  },
+  {
+   "date": "2026-08-30",
+   "injury": "Torn pectoral suffered in an offseason lifting session; placed on active/PUP in July 2026, then moved to reserve/PUP on 2026-08-30 to begin the regular season. Not eligible to return to the 53-man roster until at least Week 5.",
+   "role": "Was competing for the 4th RB job behind Christian McCaffrey, Jordan James, and rookie Kaelon Black before the injury.",
+   "note": "OUT for Week 1 (reserve/PUP) despite Sleeper's API still showing 'Questionable' as of 2026-09-03 - reserve/PUP is the more current and severe designation.",
+   "source": "https://sports.yahoo.com/articles/49ers-place-former-4th-round-212007671.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Torn/severe pectoral muscle injury suffered in offseason workout; placed on Reserve/PUP to start the season, expected to miss at least the first four weeks [news 2026-08-30]",
+   "role": "",
+   "note": "Still on Reserve/PUP as of Sleeper API check today; not eligible to return before roughly Week 4-5",
+   "source": "https://www.rotowire.com/football/headlines/isaac-guerendo-injury-placed-on-pup-list-631880"
+  }
+ ]
+}

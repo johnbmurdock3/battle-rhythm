@@ -1,0 +1,134 @@
+{
+ "player_id": "5022",
+ "name": "Dallas Goedert",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "PHI"
+   },
+   {
+    "season": 2026,
+    "team": "PHI"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "PHI",
+    "games": 15,
+    "targets": 82,
+    "rec": 60,
+    "yards": 591,
+    "td": 11,
+    "note": "Career-high 11 TD (all starts in 15 games played)"
+   }
+  ],
+  "contract": {
+   "years": 1,
+   "signed": "2026 offseason",
+   "note": "One-year, $7M deal with Philadelphia per Wikipedia"
+  },
+  "scheme": {
+   "oc": "Sean Mannion (new OC for 2026, hired 2026-01-29, replacing Kevin Patullo)",
+   "note": "HC Nick Sirianni entering 6th season; PHI's 5th straight year with a new OC"
+  },
+  "competition": [
+   {
+    "name": "Zach Ertz",
+    "age": 35,
+    "status": "free agent, recently cleared from ACL injury",
+    "note": "PhillyVoice (Aug 5, 2026) reported Ertz cleared for all football activities and 'expected to be ready to sign in mid-August' -- would compete for TE snaps/targets if signed; age not found in sources fetched",
+    "resolved_id": "1339",
+    "resolved_team": null,
+    "resolved_pos": "TE",
+    "same_team": false
+   },
+   {
+    "name": "Grant Calcaterra",
+    "age": 27,
+    "status": "roster TE",
+    "note": "",
+    "resolved_id": "8177",
+    "resolved_team": "PHI",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "A.J. Brown",
+    "age": 29,
+    "status": "TRADED AWAY",
+    "note": "Traded to New England Patriots in 2026 offseason -- removes a major target competitor, positive for Goedert's target share",
+    "resolved_id": "5859",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "With A.J. Brown gone, PhillyVoice reports Goedert is one of two pass-catchers (with DeVonta Smith) Jalen Hurts 'definitively trusts,' and Goedert is expected to see an uptick in targets in 2026"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Not listed on the Eagles Week 1 injury report",
+   "as_of": "2026-09-15"
+  },
+  "camp": [
+   {
+    "quote": "Goedert had a good day with three completions in limited first-team reps",
+    "who": "PhillyVoice",
+    "date": "2026-08-05"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.phillyvoice.com/eagles-2026-training-camp-practice-notes-day-6-dallas-goedert-comes-alive/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Philadelphia_Eagles_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/G/GoedDa00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/phi/philadelphia-eagles",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/dallas-goedert.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "active, no injury designation",
+   "note": "baseline from initial research pass",
+   "source": "https://www.phillyvoice.com/eagles-2026-training-camp-practice-notes-day-6-dallas-goedert-comes-alive/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 4,
+   "injury": "Not listed on the Eagles Week 1 injury report",
+   "role": "Starting TE",
+   "note": "[news 2026-09-13] Week 1: 5 targets, 4 rec, 77 yds, 2 TD vs WAS",
+   "source": "https://www.pro-football-reference.com/teams/phi/2026.htm"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "",
+   "note": "No fresh Week 2/3 news; most recent items relate to offseason re-signing with Eagles and a preseason knee limitation - no notable current news found",
+   "source": "https://www.fantasypros.com/nfl/news/dallas-goedert.php"
+  }
+ ]
+}

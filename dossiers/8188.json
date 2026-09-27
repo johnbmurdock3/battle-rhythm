@@ -1,0 +1,80 @@
+{
+ "player_id": "8188",
+ "name": "Tyquan Thornton",
+ "as_of": "2026-09-03",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "KC"
+   },
+   {
+    "season": 2026,
+    "team": "KC"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "note": "19 rec, 438 yds, 3 TD in 14 games (4 starts) before season-ending IR (concussion) 12/24/25"
+   }
+  ],
+  "contract": {
+   "terms": "re-signed 2yr/$11M on 2026-03-13"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jimmy Holiday",
+    "age": 24,
+    "status": "LWR2 backup",
+    "note": "",
+    "resolved_id": "13173",
+    "resolved_team": "KC",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; re-signed with Chiefs 2yr/$11M, now entering 3rd KC season as LWR1 starter on depth chart -- emerging role, good value signal."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-03"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Tyquan_Thornton",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/KC",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.chiefs.com/team/players-roster/tyquan-thornton/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Tyquan_Thornton"
+  },
+  {
+   "date": "2026-09-03",
+   "role": "Listed as starter at WR3 on Chiefs depth chart; also third-string punt/kick returner",
+   "note": "Team change confirmed: now with Kansas City Chiefs (alongside Kenneth Walker III)",
+   "source": "https://www.espn.com/nfl/team/depth/_/name/kc/kansas-city-chiefs"
+  }
+ ]
+}

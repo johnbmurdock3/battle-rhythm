@@ -1,0 +1,146 @@
+{
+ "player_id": "7526",
+ "name": "Jaylen Waddle",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "DEN",
+    "note": "Acquired via trade from Miami on Mar 18, 2026."
+   },
+   {
+    "season": 2025,
+    "team": "MIA"
+   },
+   {
+    "season": 2024,
+    "team": "MIA"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "MIA",
+    "games": 16,
+    "carries": 2,
+    "targets": 100,
+    "rec": 64,
+    "yards": 910,
+    "td": 6,
+    "note": "Last season with Miami before the trade; 56.9 yards/game, 14.2 yards/reception. Also 28 rushing yards on 2 carries."
+   }
+  ],
+  "contract": {
+   "years": 2,
+   "signed": "2026-03 (post-trade)",
+   "note": "Two-year, $41.2M deal with a potential third-year option/vesting element (Spotrac via X, and Yahoo Sports Mar 17, 2026). Cap hits: $4.9M (2026), $27.1M (2027), $30.5M (2028, void year per Spotrac thread), $6.1M (2029, void). Guaranteed $17M in 2026 and $15.2M in 2027, with another $8.2M set to vest next March (2027). Yahoo Sports (Mar 17, 2026) frames the team-friendly 2026 cap hit as Denver keeping flexibility while adding a 'long-term receiving weapon.'"
+  },
+  "scheme": {
+   "oc": "",
+   "note": "New team/scheme entirely -- Waddle now catching passes from Bo Nix under HC Sean Payton's system, a full scheme change from Miami's offense. No specific Broncos OC name confirmed in sources checked."
+  },
+  "competition": [
+   {
+    "name": "Courtland Sutton",
+    "age": 30,
+    "status": "WR1, incumbent",
+    "note": "Per predominantlyorange.com/Yahoo (Mar 17, 2026 depth-chart piece): 'Courtland Sutton is obviously safe as the WR1, and Waddle immediately slots in as the new WR2.' This directly confirms the prompt's framing that Waddle sits behind Sutton on the depth chart.",
+    "resolved_id": "5045",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Marvin Mims",
+    "age": 24,
+    "status": "WR3 in the post-trade competition",
+    "note": "Competing with Pat Bryant and Troy Franklin for the 3rd/4th receiver spots; per the Mar 17, 2026 article, HC Sean Payton is unlikely to consistently feed five receivers, implying roster/role adjustments were expected before camp.",
+    "resolved_id": "9494",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Pat Bryant",
+    "age": 23,
+    "status": "Competing for WR3/4",
+    "note": "",
+    "resolved_id": "12492",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Troy Franklin",
+    "age": 23,
+    "status": "Competing for WR3/4",
+    "note": "",
+    "resolved_id": "11627",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Trade details (denverbroncos.com, nfl.com, Mar 18, 2026): Broncos sent a 2026 1st-round pick (No. 30), 3rd-round pick (No. 94), and 4th-round pick (No. 130) to Miami; Broncos received Waddle plus a 2026 4th-round pick (No. 111).",
+   "Waddle quote (Mar 18, 2026, on the trade): 'It's definitely new beginnings. I just look at it as a new opportunity to go out there with a new team in a great place.'",
+   "This is the single most important fact for Waddle: a full team change (MIA to DEN) via trade, new QB (Bo Nix) and new offensive scheme (Sean Payton), and he is presently the WR2 behind Courtland Sutton rather than the clear WR1 role he had in Miami."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Out of practice with a strain as of Aug 6, 2026; walking around camp in good spirits, expected back in 4-5 days",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Waddle has a strain and expects him to be back in the next 4-5 days.",
+    "who": "HC Sean Payton",
+    "date": "2026-08-06"
+   },
+   {
+    "quote": "It's definitely new beginnings. I just look at it as a new opportunity to go out there with a new team in a great place.",
+    "who": "Jaylen Waddle",
+    "date": "2026-03-18"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.denverbroncos.com/news/broncos-acquire-wr-jaylen-waddle-in-trade-with-dolphins",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/broncos-updated-wide-receiver-depth-173524929.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/jaylen-waddle-contract-broncos-updated-164727507.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://predominantlyorange.com/sean-payton-provides-positive-update-on-broncos-jaylen-waddle-s-injury-01kzc70e4jhz",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.statmuse.com/nfl/ask/jaylen-waddle-2025-stats",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://x.com/spotrac/status/9000000000000000025",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Out of practice with a strain as of Aug 6, 2026; walking around camp in good spirits, expected back in 4-5 days",
+   "note": "baseline from initial research pass",
+   "source": "https://www.denverbroncos.com/news/broncos-acquire-wr-jaylen-waddle-in-trade-with-dolphins"
+  }
+ ]
+}

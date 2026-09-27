@@ -1,0 +1,82 @@
+{
+ "player_id": "9502",
+ "name": "Tank Dell",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "HOU"
+   },
+   {
+    "season": 2026,
+    "team": "HOU"
+   }
+  ],
+  "workload": [
+   {
+    "2025": "missed entire season recovering from Dec 2024 knee injury"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "No team change. Missed all of 2025 recovering from a dislocated knee with multiple torn ligaments (Dec 2024). Not yet fully cleared for contact/full practice; Week 1 2026 availability not confirmed by team. High risk, high tail-upside stash."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "IR - knee (ACL + MCL), expected return Week 5 [as of 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   "back in Texans drills as of 2026-08-07, workouts drawing praise pre-camp"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/sports/2026/08/07/tank-dell-back-in-texans-drills-after-a-gruesome-knee-injury",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://lastwordonsports.com/nfl/2026/07/25/tank-dell-workouts-texans-camp/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/HOU/houston-texans/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "limited/not fully cleared",
+   "note": "baseline from initial research pass",
+   "source": "https://spectrumlocalnews.com/tx/south-texas-el-paso/sports/2026/08/07/tank-dell-back-in-texans-drills-after-a-gruesome-knee-injury"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "Questionable (per Sleeper API, no further detail found)",
+   "note": "Not listed in FantasyPros' Sept 1-2 injury news roundup; no specific news article located despite multiple source attempts",
+   "source": "https://api.sleeper.app/players/nfl/9502"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "IR - knee (ACL/MCL/LCL/meniscus from Dec 2024)",
+   "role": "On IR to start 2026, designated for return, minimum 4 games out",
+   "note": "[news 2026-08-30] Progressed through camp but was not activated for Week 1; actual return timeline still TBD",
+   "source": "https://sports.yahoo.com/articles/texans-wr-tank-dell-start-214726605.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "IR - knee (ACL + MCL), expected return Week 5 [as of 2026-09-21]",
+   "role": "SWR depth order 6 (buried/IR)",
+   "note": "On IR, out for the foreseeable future; not a Week 3 add.",
+   "source": "https://www.cbssports.com/nfl/teams/HOU/houston-texans/injuries/"
+  }
+ ]
+}

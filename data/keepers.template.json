@@ -1,0 +1,9 @@
+{
+  "_instructions": "Rename to keepers.json. One entry per league that has keepers. 'rules' is free text shown on the dashboard; 'candidates' lists players you're considering keeping and what each costs. cost_round: the draft round you'd forfeit (use 0 if keeping is free). Once rules are in, the dashboard shows each candidate's projection under that league's scoring next to the cost so keep-vs-draft is a number, not a feeling.",
+  "9000000000000000013": {
+    "rules": "EXAMPLE — LG03-LG05: keep 1, costs the round he was drafted last year minus one",
+    "candidates": [
+      {"name": "Player Name", "cost_round": 3}
+    ]
+  }
+}

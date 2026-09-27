@@ -1,0 +1,54 @@
+{
+ "player_id": "7547",
+ "name": "Amon-Ra St. Brown",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury or status notes listed",
+   "as_of": "2026-09-03"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-03",
+   "injury": "No injury or status notes listed",
+   "role": "WR1 on Lions roster",
+   "note": "No injury concerns reported on current roster listing",
+   "source": "https://www.cbssports.com/nfl/teams/DET/detroit-lions/roster/"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 90,
+   "touches": 10,
+   "injury": "",
+   "role": "Clear #1 WR on DET, leads WR snaps ahead of Jameson Williams (84%)",
+   "note": "[news 2026-09-13] Week 1 vs NO: 10 rec/14 tgt/67 yds/2 TD including OT game-winner",
+   "source": "https://www.rotowire.com/football/player/amon-ra-st-brown-15332"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "SWR1 (WR1) depth chart, Detroit. Not on Lions injury report as of 2026-09-21.",
+   "note": "Week 2 at Buffalo (Thu 9/17): ESPN box score data for this game was incomplete/unreliable (only showed Jared Goff at 1/1 passing, implausible for a full game) \u2014 discarded rather than reported. No verified target/snap numbers obtained; no injury flag found.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872932"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872932",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

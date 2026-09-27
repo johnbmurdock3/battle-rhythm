@@ -1,0 +1,55 @@
+{
+ "player_id": "12487",
+ "name": "Terrance Ferguson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Active (Sleeper, no tag)",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-03",
+   "injury": "Sleeper lists him Questionable as of today; no specific current-2026 injury report was found - his prior hamstring issue was resolved by 1/17/2026 (last season)",
+   "role": "Last-known (Jan 2026) reporting had him as the Rams' TE3 in route participation behind Tyler Higbee and Colby Parkinson",
+   "note": "Could not verify the current reason for the Questionable tag; the most recent hamstring issue found was resolved last season",
+   "source": "https://www.draftsharks.com/fantasy/points-outlook/terrance-ferguson/35364"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 0,
+   "injury": "Questionable (undisclosed) per Sleeper as of 9/15; did not practice 8/25",
+   "role": "",
+   "note": "[news 2026-09-13] 0 catches on 1 target in Week 1 loss to SF",
+   "source": "https://www.bing.com/news/search?q=Terrance+Ferguson+Rams+injury+week+2+2026"
+  },
+  {
+   "date": "2026-09-22",
+   "target_share": 29.0,
+   "touches": 6,
+   "injury": "Active (Sleeper, no tag)",
+   "role": "Passed Colby Parkinson for lead TE role - led Rams TEs with 23 receiving snaps and 9 targets in Week 2",
+   "note": "Wk2: 9 tgt (29.0% share), 6 rec, 54 yds, 23 receiving snaps (most among Rams TEs), surpassed Parkinson in usage after fewer routes than him in Wk1. [news 2026-09-22]",
+   "source": "https://www.draftsharks.com/fantasy-football-news/82819/terrance-ferguson-leaps-colby-parkinson-and-flashes-te1-potential"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.draftsharks.com/fantasy-football-news/82819/terrance-ferguson-leaps-colby-parkinson-and-flashes-te1-potential",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

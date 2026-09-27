@@ -1,0 +1,170 @@
+{
+ "player_id": "8112",
+ "name": "Drake London",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "ATL"
+   },
+   {
+    "season": 2026,
+    "team": "ATL"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "ATL",
+    "games": 12,
+    "targets": null,
+    "rec": 68,
+    "yards": 919,
+    "td": 7,
+    "note": "Missed time late in season due to PCL knee injury suffered vs. Carolina (Sunday game reported 2025-11-17); ruled week-to-week, missed at least Week 12 vs. New Orleans."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2026-06-08",
+   "note": "Signed 4-year, $141M extension (up to $150M with incentives), $100M guaranteed, through the 2030 season."
+  },
+  "scheme": {
+   "oc": "Tommy Rees",
+   "note": "New HC Kevin Stefanski hired for 2026 (per multiple Falcons.com/SI sources); Stefanski confirmed Tommy Rees will call offensive plays. Falcons' offense also features RB Bijan Robinson (19.8% target share) and TE Kyle Pitts (22.7% target share) as central pieces per AJC (2026-07-21), which could cap London's target ceiling somewhat."
+  },
+  "competition": [
+   {
+    "name": "Jahan Dotson",
+    "age": 26,
+    "status": "WR2/depth",
+    "note": "On Falcons roster per AJC (2026-07-21).",
+    "resolved_id": "8119",
+    "resolved_team": "ATL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Olamide Zaccheaus",
+    "age": 29,
+    "status": "depth WR",
+    "note": "On Falcons roster.",
+    "resolved_id": "6271",
+    "resolved_team": "ATL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Zachariah Branch",
+    "age": 22,
+    "status": "rookie WR (3rd round, Georgia)",
+    "note": "Drew praise: 'He's a dog. He's a great human being and a great player as well' \u2014 Branch on London; Tua Tagovailoa (context: minicamp) called Branch 'Dude's fast. Dude can play. Very shifty.'",
+    "resolved_id": "13320",
+    "resolved_team": "ATL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Dylan Drummond",
+    "age": 26,
+    "status": "depth WR",
+    "note": "On Falcons roster.",
+    "resolved_id": "11474",
+    "resolved_team": "ATL",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "GM Ian Cunningham on London (extension announcement): 'Drake London represents exactly what we're building here. His work ethic, competitive drive, and team-first mindset is refreshing to witness.'",
+   "Bijan Robinson on London's extension: 'He's an incredible football player and another guy that's just going to keep getting better' / 'I was so happy for him. He deserves it. He deserves everything that he gets.'",
+   "London quote on re-signing: 'I couldn't be happier to be here in Atlanta and staying here, even though it's been different coaches, different teammates.'",
+   "Falcons WR room has been 'rebuilt' around London per AJC headline (2026-07-21)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Not on ATL Week 3 injury report [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "You never know, Drake could come back tomorrow and feel a lot better, but we'll get a feel for how that goes and he'll be a week-to-week guy.",
+    "who": "Raheem Morris, then-Falcons HC",
+    "date": "2025-11-17"
+   },
+   {
+    "quote": "Ultra cautious approach to London's condition; London could have participated but was held out as precaution.",
+    "who": "Kevin Stefanski, Falcons HC (paraphrased by NBC Sports PFT)",
+    "date": "2026-06-17"
+   },
+   {
+    "quote": "I want to live on for as long as I can so that shows that I am taking the right steps, the right direction.",
+    "who": "Drake London",
+    "date": "2026-06-08 (extension signing)"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ajc.com/sports/2026/07/falcons-rebuilt-wr-room-behind-dog-drake-london-who-steps-up/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ultra-cautious-falcons-hold-drake-london-out-of-minicamp-practice",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.atlantafalcons.com/news/falcons-sign-drake-london-contract-extension",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.atlantafalcons.com/news/report-drake-london-expected-to-miss-week",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-says-tommy-rees-will-call-offensive-plays-for-falcons",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872933",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Held out of minicamp as precaution ('ultra cautious'); no injury reported in later training-camp coverage",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ajc.com/sports/2026/07/falcons-rebuilt-wr-room-behind-dog-drake-london-who-steps-up/"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None reported (Sleeper injury_status: null, status: Active) as of 2026-09-03",
+   "role": "Listed atop the primary WR slot on official Falcons depth chart, ahead of Chris Blair and Antwane Wells Jr.",
+   "note": "Atlanta's clear WR1 entering Week 1",
+   "source": "https://www.atlantafalcons.com/team/depth-chart/"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 98,
+   "touches": 3,
+   "injury": "",
+   "role": "#1 WR for ATL (98% snaps) but backup QB Cooper Rush spread targets to Bijan Robinson",
+   "note": "[news 2026-09-14] Week 1 vs PIT: 2 rec/4 tgt/29 yds + 1 car/6 yds; low usage tied to Tua (oblique) and Penix (knee) both out",
+   "source": "https://www.rotowire.com/football/player/drake-london-15868"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 4,
+   "injury": "Not on ATL Week 3 injury report [news 2026-09-21]",
+   "role": "WR1 (LWR), depth order 1 per Sleeper",
+   "note": "Week 2 @ CAR: 4 rec/5 tgt/51 yds. ATL QB Tua Tagovailoa is Questionable for Week 3 (oblique) [news 2026-09-21], worth monitoring for downstream effect on London's target volume.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872933"
+  }
+ ]
+}

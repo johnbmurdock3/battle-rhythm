@@ -1,0 +1,74 @@
+{
+ "player_id": "7083",
+ "name": "Tyler Huntley",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "BAL"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Lamar Jackson",
+    "age": 29,
+    "status": "starter",
+    "note": "presumed starter ahead of Huntley based on team context; not independently source-confirmed this pass",
+    "resolved_id": "4881",
+    "resolved_team": "BAL",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Source access failed repeatedly this pass (proxy rate-limited on every retry for BAL depth chart pages) \u2014 could not independently verify 2026 depth-chart slot. Team tag BAL is from the provided roster data only, not confirmed by a fetched source this pass."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "not checked this pass \u2014 source fetch failures"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://api.sleeper.app/players/nfl/7083",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": ""
+  },
+  {
+   "date": "2026-09-01",
+   "role": "Backup QB behind starter Lamar Jackson",
+   "note": "Active roster (#5); not on Ravens injury report dated 9/1/26 (an earlier league-wide report snippet had mistakenly suggested IR, but team-specific report and roster page both confirm active/no injury).",
+   "source": "https://www.cbssports.com/nfl/teams/BAL/baltimore-ravens/injuries/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Backup QB, depth chart QB2 behind Lamar Jackson on Baltimore.",
+   "note": "No injury listed on Sleeper or Ravens CBS injury report (checked 2026-09-21/22); no notable news found for Week 3.",
+   "source": "https://api.sleeper.app/players/nfl/7083"
+  }
+ ]
+}

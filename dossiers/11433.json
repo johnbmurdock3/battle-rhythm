@@ -1,0 +1,98 @@
+{
+ "player_id": "11433",
+ "name": "Nate Adkins",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "DEN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Adam Trautman",
+    "age": 29,
+    "status": "starter",
+    "note": "TE1 ahead of Adkins",
+    "resolved_id": "6869",
+    "resolved_team": "DEN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Evan Engram",
+    "age": 31,
+    "status": "starter",
+    "note": "TE2 ahead of Adkins",
+    "resolved_id": "4066",
+    "resolved_team": "DEN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Justin Joly",
+    "age": 22,
+    "status": "backup",
+    "note": "TE3 ahead of Adkins",
+    "resolved_id": "13400",
+    "resolved_team": "DEN",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TE4 on a deep Broncos TE room; minimal fantasy relevance; 2025 team history and injury status not verified this session."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "unknown",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/DEN",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/broncos-snap-count-analysis-biggest-210005118.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-03-10",
+   "snap_pct": 30,
+   "role": "Depth/backup TE and core special-teamer for Broncos, re-signed to 1-year deal",
+   "note": "Per team announcement: played at least 30% of Broncos offensive snaps in games he appeared in over the past two seasons; career-high 59% special-teams snap share in 2024. Career with Denver: 36 games, 17 starts, 24 rec/185 yds/4 TD.",
+   "source": "https://www.denverbroncos.com/news/broncos-re-sign-te-nate-adkins-to-1-year-contract"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "unknown",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/DEN"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 3,
+   "injury": "",
+   "role": "TE3/depth TE-FB but had standout usage Week 2 (Sleeper depth_chart_order 3)",
+   "note": "23 snaps, 3 catches on 3 targets for 32 yds and 1 TD from Bo Nix in Week 2 vs JAX, one of his most productive games [news 2026-09-21]",
+   "source": "https://sports.yahoo.com/articles/broncos-snap-count-analysis-biggest-210005118.html"
+  }
+ ]
+}

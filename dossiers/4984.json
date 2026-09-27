@@ -1,0 +1,42 @@
+{
+ "player_id": "4984",
+ "name": "Josh Allen",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Unquestioned BUF starting QB",
+   "note": "[news 2026-09-13] Week 1 vs HOU: 20/29, 334 yds, 2 pass TD, 0 INT, 6 car/23 yds/2 rush TD",
+   "source": "https://www.pro-football-reference.com/players/A/AlleJo02.htm"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "",
+   "note": "Not listed on CBS Sports injury report; no notable Week 2/3 news found",
+   "source": "https://www.cbssports.com/nfl/injuries/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

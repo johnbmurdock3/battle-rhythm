@@ -1,0 +1,87 @@
+{
+ "player_id": "12541",
+ "name": "Dont'e Thornton",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "LV"
+   },
+   {
+    "season": 2026,
+    "team": "LV"
+   }
+  ],
+  "workload": [
+   "2025 rookie season: 10 rec, 135 yds"
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tre Tucker",
+    "age": 25,
+    "status": "",
+    "note": "WR1",
+    "resolved_id": "10213",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jalen Nailor",
+    "age": 27,
+    "status": "",
+    "note": "WR2",
+    "resolved_id": "8180",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jack Bech",
+    "age": 23,
+    "status": "second-year, healthy",
+    "note": "WR3, directly competing with Thornton",
+    "resolved_id": "12483",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change, but WR4 on current depth chart and struggling to separate in 1-on-1 drills; a beat report from Aug 5, 2026 says he is 'at risk of not making the team.'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "questionable designation on depth chart (reason unspecified)",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Struggling to create separation vs DBs; roster-bubble risk per Aug 5, 2026 report"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.yardbarker.com/nfl/articles/former_tennessee_vols_wr_donte_thornton_could_be_in_trouble_after_latest_raiders_camp_intel/s1_17313_44139790",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/las-vegas-raiders-depth-chart-lv",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "questionable designation on depth chart (reason unspecified)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.yardbarker.com/nfl/articles/former_tennessee_vols_wr_donte_thornton_could_be_in_trouble_after_latest_raiders_camp_intel/s1_17313_44139790"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "player_id": "12469",
+ "name": "Dylan Sampson",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "knee injury, placed on IR Sept 15, 2026, minimum 4 weeks out",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-05",
+   "role": "Part of the Browns RB rotation behind starter Quinshon Judkins, who has been described as opening the season on a snap-count/'pitch count'",
+   "note": "No current-2026 injury reported (Sleeper lists him healthy/active); the most detailed rotational-role reporting found dates to the 2025 season and may not reflect 2026 Week 1 plans",
+   "source": "https://www.ourlads.com/nfldepthcharts/player/54273/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Out - knee, sustained Week 1 vs JAX, expected to miss significant time",
+   "role": "Raheim Sanders has taken over the pass-catching role and is expected to see more work; Browns could elevate Jaleel McLaughlin",
+   "note": "[news 2026-09-14] Left the Week 1 game in the 1st quarter after only 2 snaps; return timeline not specified",
+   "source": "https://www.profootballrumors.com/2026/09/browns-rb-dylan-sampson-to-miss-time-with-knee-injury"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "knee injury, placed on IR Sept 15, 2026, minimum 4 weeks out",
+   "role": "placed on IR; Raheim Sanders taking over his pass-catching/third-down role, Jaleel McLaughlin signed as backup depth",
+   "note": "Injured knee on a kick return in Week 1 loss to Jacksonville [news 2026-09-14/15]; placed on IR Sept 15, must miss at least 4 games. Was Browns' third-down/pass-catching back.",
+   "source": "https://www.profootballrumors.com/2026/09/browns-rb-dylan-sampson-to-miss-time-with-knee-injury"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.profootballrumors.com/2026/09/browns-rb-dylan-sampson-to-miss-time-with-knee-injury",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

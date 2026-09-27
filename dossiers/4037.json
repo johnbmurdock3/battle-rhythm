@@ -1,0 +1,46 @@
+{
+ "player_id": "4037",
+ "name": "Chris Godwin",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Active, not on TB injury report [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "touches": 5,
+   "injury": "None currently flagged",
+   "role": "Mike Evans departure created larger target share, but Week 1 usage still modest",
+   "note": "[news 2026-09-13] Week 1 vs CIN: 4 catches/4 targets, 40 yds, 1 rush for 3 yds",
+   "source": "https://www.rotowire.com/football/headlines/chris-godwin-news-catches-four-passes-in-week-1-loss-637215"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Active, not on TB injury report [news 2026-09-21]",
+   "role": "SWR, depth_chart_order 2",
+   "note": "Season total through Wk2: 7 targets, 7 rec, 86 yds (2 games) per FantasyPros; weekly split not available",
+   "source": "https://www.fantasypros.com/nfl/stats/chris-godwin.php"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.fantasypros.com/nfl/stats/chris-godwin.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

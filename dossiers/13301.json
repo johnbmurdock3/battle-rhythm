@@ -1,0 +1,161 @@
+{
+ "player_id": "13301",
+ "name": "Antonio Williams",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "Clemson (college)"
+   },
+   {
+    "season": 2026,
+    "team": "WAS"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Clemson (college)",
+    "games": 10,
+    "targets": null,
+    "rec": 55,
+    "yards": 604,
+    "td": 4,
+    "note": "College production only (rookie); also 13 rush att for 78 yds, 1 rush TD"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie draft pick; specific round/pick not confirmed in sources fetched"
+  },
+  "scheme": {
+   "oc": "David Blough (promoted to OC for 2026, replacing fired Kliff Kingsbury)",
+   "note": "HC Dan Quinn entering 3rd season"
+  },
+  "competition": [
+   {
+    "name": "Terry McLaurin",
+    "age": 30,
+    "status": "WR1, aging",
+    "note": "Article framed Williams as a possible complement given McLaurin's age",
+    "resolved_id": "5927",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Luke McCaffrey",
+    "age": 25,
+    "status": "roster WR",
+    "note": "",
+    "resolved_id": "11650",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Dyami Brown",
+    "age": 26,
+    "status": "roster WR",
+    "note": "",
+    "resolved_id": "7587",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Treylon Burks",
+    "age": 26,
+    "status": "roster WR",
+    "note": "",
+    "resolved_id": "8135",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jaylin Lane",
+    "age": 24,
+    "status": "roster WR",
+    "note": "",
+    "resolved_id": "12641",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Van Jefferson",
+    "age": 29,
+    "status": "roster WR",
+    "note": "",
+    "resolved_id": "6853",
+    "resolved_team": "WAS",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Named one of 'five rookies to watch' at Commanders camp (Hogs Haven, undated 2026 camp piece)"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "no injury reported",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Williams could take on a prominent role in the Commanders' aerial attack",
+    "who": "Heavy.com",
+    "date": "2026-05-29"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://heavy.com/sports/nfl/washington-commanders/good-news-wide-receiver-antonio-williams/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.hogshaven.com/washington-commanders-roster/425980/training-camp-rookies-antonio-williams-drew-stevens-kaytron-allen-joshua-josephs-jaden-bradley",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Antonio_Williams_(wide_receiver)",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/wsh",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/commanders/onsi/antonio-williams-wins-nfl-rookie-of-the-week-commanders-week-1",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "no injury reported",
+   "note": "baseline from initial research pass",
+   "source": "https://heavy.com/sports/nfl/washington-commanders/good-news-wide-receiver-antonio-williams/"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 4,
+   "injury": "",
+   "role": "SWR3 on Sleeper depth chart. Week 1 vs Eagles (Sept 13, 2026): 4 catches on 4 targets for 64 yards (16.0 ypc, led team) and 1 TD on 10 routes run; won NFL Rookie of the Week for Week 1 with 3rd-highest PFF WR grade that week.",
+   "note": "Efficient, high-value debut on low volume; fewer targets than Stefon Diggs so far",
+   "source": "https://www.si.com/nfl/commanders/onsi/antonio-williams-wins-nfl-rookie-of-the-week-commanders-week-1"
+  }
+ ]
+}

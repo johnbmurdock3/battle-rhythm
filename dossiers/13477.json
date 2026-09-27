@@ -1,0 +1,74 @@
+{
+ "player_id": "13477",
+ "name": "Colbie Young",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CIN"
+   },
+   {
+    "season": 2026,
+    "team": "CIN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": ""
+   }
+  ],
+  "notes": [
+   "No team change indicated; specific depth-chart slot and injury status not confirmed this pass"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "Not confirmed this pass"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.bengals.com/team/players-roster/colbie-young/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/13477",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.bengals.com/team/players-roster/colbie-young/"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "WR4 on depth chart, in a WR3 battle with Andrei Iosivas",
+   "note": "Rookie 4th-round pick made Bengals' initial 53-man roster Aug 31, 2026; already scored a preseason TD",
+   "source": "https://sports.yahoo.com/articles/colbie-young-selected-bengals-53-233100329.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper lists him LWR, depth order 5 on CIN roster as of 2026-09-22; no injury flag.",
+   "note": "Camp buzz only: stood out in practice during Higgins/Chase absences [news 2026-08-17], but depth chart order 5 suggests he has not cracked the active WR rotation; no September update found.",
+   "source": "https://api.sleeper.app/players/nfl/13477"
+  }
+ ]
+}

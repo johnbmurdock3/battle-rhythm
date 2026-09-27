@@ -1,0 +1,88 @@
+{
+ "player_id": "10859",
+ "name": "Sam LaPorta",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DET"
+   },
+   {
+    "season": 2026,
+    "team": "DET"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "DET",
+    "games": 9,
+    "carries": 0,
+    "targets": 0,
+    "rec": 40,
+    "yards": 489,
+    "td": 3,
+    "note": "season ended in Nov 2025 after herniated spinal disc required back surgery; played 9 games before injury"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Drew Petzing",
+   "note": "Lions hired Drew Petzing as OC for 2026 (Petzing was Arizona Cardinals' OC in 2025, left after Cardinals hired new HC Mike LaFleur); HC Dan Campbell returns for 6th season"
+  },
+  "competition": [
+   {
+    "name": "Brock Wright",
+    "age": 27,
+    "status": "TE2/depth",
+    "note": "born Nov 27, 1998; 2025: 11 games/8 starts, 14 rec, 108 yds, 2 TD before Dec 2025 IR (neck injury)",
+    "resolved_id": "7891",
+    "resolved_team": "DET",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Fully cleared after back surgery, expected available Week 1",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://sicscore.com/news/sam-laporta-injury-update-lions-te-fully-cleared-after-back-surgery-ready-for-2026-season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.profootballrumors.com/2026/07/lions-te-sam-laporta-cleared-for-training-camp",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Brock_Wright",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Arizona_Cardinals_season",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Fully cleared after back surgery, expected available Week 1",
+   "note": "baseline from initial research pass",
+   "source": "https://sicscore.com/news/sam-laporta-injury-update-lions-te-fully-cleared-after-back-surgery-ready-for-2026-season"
+  }
+ ]
+}

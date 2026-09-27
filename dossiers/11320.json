@@ -1,0 +1,79 @@
+{
+ "player_id": "11320",
+ "name": "Nikko Remigio",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "KC"
+   },
+   {
+    "season": 2026,
+    "team": "KC"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Rashee Rice",
+    "age": 26,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "10229",
+    "resolved_team": "KC",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Xavier Worthy",
+    "age": 23,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "11624",
+    "resolved_team": "KC",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jalen Royals",
+    "age": 23,
+    "status": "backup",
+    "note": "ahead of Remigio in WR rotation",
+    "resolved_id": "12505",
+    "resolved_team": "KC",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Remigio is 2nd-string WR (6th overall on depth chart) but is the starting punt and kick returner, which gives him a real special-teams role even without a clear receiving path."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.espn.com/nfl/team/depth/_/name/kc/kansas-city-chiefs",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.espn.com/nfl/team/depth/_/name/kc/kansas-city-chiefs"
+  }
+ ]
+}

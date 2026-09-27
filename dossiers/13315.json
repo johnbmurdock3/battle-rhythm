@@ -1,0 +1,65 @@
+{
+ "player_id": "13315",
+ "name": "Dean Connors",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": null
+   },
+   {
+    "season": 2026,
+    "team": "LAR"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "2026 undrafted free agent RB with the Rams, no 2025 NFL team. Called 'a dynamic playmaker' worth watching among UDFAs, but no clear path to touches on the depth chart."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/rams/onsi/rams-depth-chart-entering-camp-starters-battles-and-bubble-players",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/rams-sign-preseason-standout-dean-184403240.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/rams/onsi/rams-depth-chart-entering-camp-starters-battles-and-bubble-players"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "Undrafted rookie RB (Houston) waived by the Rams during final roster cuts, cleared waivers, and was re-signed to the Rams' 17-player practice squad on Aug 31, 2026 -- not on the 53-man active roster despite Sleeper showing team=LAR/status=Active.",
+   "note": "Scored 3 receiving TDs in the preseason and flashed in the run game; Rams plan to keep developing him on the practice squad",
+   "source": "https://www.si.com/nfl/rams/onsi/rams-announce-17-player-practice-squad-dean-connors"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Practice squad, not on 53-man active roster",
+   "note": "Signed to Rams practice squad after final cuts [news 2026-08-31]; not active for games",
+   "source": "https://sports.yahoo.com/articles/rams-sign-preseason-standout-dean-184403240.html"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "player_id": "11608",
+ "name": "Isaiah Williams",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYJ"
+   },
+   {
+    "season": 2026,
+    "team": "NYJ"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Garrett Wilson",
+    "age": 26,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "8146",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Omar Cooper Jr.",
+    "age": 22,
+    "status": "starter",
+    "note": "ahead of Williams",
+    "resolved_id": "13276",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Adonai Mitchell",
+    "age": 23,
+    "status": "starter",
+    "note": "ahead of Williams",
+    "resolved_id": "11625",
+    "resolved_team": "NYJ",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Undrafted WR/returner; was released and re-signed to Jets practice squad in 2025",
+   "Roster spot for Week 1 still undetermined as of Aug 10, 2026"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "36-yard TD catch from Geno Smith in Aug 8, 2026 scrimmage",
+   "Coach Aaron Glenn said 'room for him in our offense' (Aug 10, 2026)"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://athlonsports.com/nfl/new-york-jets/isaiah-williams-jets-training-camp",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://athlonsports.com/nfl/new-york-jets/isaiah-williams-jets-training-camp"
+  }
+ ]
+}

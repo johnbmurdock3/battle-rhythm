@@ -1,0 +1,134 @@
+{
+ "player_id": "12501",
+ "name": "Matthew Golden",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "GB"
+   },
+   {
+    "season": 2026,
+    "team": "GB"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "GB",
+    "games": 14,
+    "targets": 44,
+    "rec": 29,
+    "yards": 361,
+    "td": 0,
+    "note": "Rookie season (2025 1st-round pick); 12.4 YPR, long of 46"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Adam Stenavich",
+   "note": "Retained; HC Matt LaFleur also retained (8th season) - no coaching change for GB offense in 2026"
+  },
+  "competition": [
+   {
+    "name": "Christian Watson",
+    "age": 27,
+    "status": "WR1 on GB depth chart",
+    "note": "Rotowire GB depth chart (fetched 2026-08-11) lists Watson ahead of Golden; birthdate lookup failed",
+    "resolved_id": "8167",
+    "resolved_team": "GB",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jayden Reed",
+    "age": 26,
+    "status": "WR2 on GB depth chart, also Questionable",
+    "note": "Born 2000-04-28. Golden listed WR3 behind both Watson and Reed",
+    "resolved_id": "10222",
+    "resolved_team": "GB",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "packerstalk.com (8/7/26) flags Golden + Edgerrin Cooper injuries as a 'massive 2026 concern' for Packers depth"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable - not practicing",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Working through toe issue",
+    "who": "CBS Sports",
+    "date": "2026-08-09"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.fantasypros.com/nfl/news/601593/matthew-golden-toe-not-expected-to-practice-monday.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/green-bay-packers-depth-chart-gb",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/stats/matthew-golden.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://packerstalk.com/2026/08/07/why-packers-depth-is-suddenly-a-massive-2026-concern/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/golden-leads-packers-in-receiving-yards-targets",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Questionable - not practicing",
+   "note": "baseline from initial research pass",
+   "source": "https://www.fantasypros.com/nfl/news/601593/matthew-golden-toe-not-expected-to-practice-monday.php"
+  },
+  {
+   "date": "2026-08-20",
+   "note": "Only played a handful of snaps in preseason blowout win over Denver (1 target for 19 yds), but OC Adam Stenavich praised his route-running; Christian Watson still expected as WR1",
+   "source": "https://dairylandexpress.com/violent-matthew-golden-draws-two-word-rave-review-from-packers-coach-01m0t9tcecbc"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 6,
+   "injury": "",
+   "role": "Expanded Year-2 role, ran the bulk of routes from outside",
+   "note": "[news 2026-09-13] Led Packers with 12 targets, caught 6 for 97 yds in Week 1 loss to MIN",
+   "source": "https://www.bing.com/news/search?q=Matthew+Golden+Packers+week+1+2026+targets"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 4,
+   "injury": "",
+   "role": "Leading Packers WR in targets and yards through Week 2",
+   "note": "Wk2 vs NYJ: 6 tgt, 4 rec, 58 yds, led Packers in both receiving yards and targets in the win. [news 2026-09-20]",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/golden-leads-packers-in-receiving-yards-targets"
+  }
+ ]
+}

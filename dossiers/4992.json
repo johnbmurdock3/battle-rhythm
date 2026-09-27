@@ -1,0 +1,86 @@
+{
+ "player_id": "4992",
+ "name": "Dante Pettis",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "BUF"
+   },
+   {
+    "season": 2026,
+    "team": "BUF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "DJ Moore",
+    "age": 29,
+    "status": "WR1",
+    "note": "",
+    "resolved_id": "4983",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Khalil Shakir",
+    "age": 26,
+    "status": "WR2",
+    "note": "",
+    "resolved_id": "8134",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; Pettis is WR9 on the Bills depth chart, camp roster filler with minimal fantasy relevance."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/buffalo-bills-depth-chart-buf",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/4992",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/buffalo-bills-depth-chart-buf"
+  },
+  {
+   "date": "2026-09-03",
+   "role": "Not currently on an NFL roster per Sleeper API (team field null) as of 2026-09-03",
+   "note": "Last confirmed NFL activity found: signed to Saints active roster Dec 3, 2025, with 9 receptions for 127 yards over 8 games that season. No source found confirming a 2026 team; appears to be a free agent/off rosters.",
+   "source": "https://api.sleeper.app/players/nfl/4992"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "",
+   "note": "Sleeper API lists no current team (team field null). Cached FantasyPros news items are all stale (2023 Chicago Bears tenure) - appears not on an active NFL roster currently; no current-season news found",
+   "source": "https://api.sleeper.app/players/nfl/4992"
+  }
+ ]
+}

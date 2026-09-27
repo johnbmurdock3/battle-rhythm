@@ -1,0 +1,79 @@
+{
+ "player_id": "8527",
+ "name": "Dareke Young",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "SEA"
+   },
+   {
+    "season": 2026,
+    "team": "LV"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tre Tucker",
+    "age": 25,
+    "status": "starter",
+    "note": "LWR1",
+    "resolved_id": "10213",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jalen Nailor",
+    "age": 27,
+    "status": "starter",
+    "note": "RWR1",
+    "resolved_id": "8180",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jack Bech",
+    "age": 23,
+    "status": "starter",
+    "note": "slot WR1, ahead of Young",
+    "resolved_id": "12483",
+    "resolved_team": "LV",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: left Seattle (2025) for Las Vegas (2026), tagged 'U/Sea' (free agent signing from Seahawks) on Raiders depth chart. Listed 3rd-string slot WR."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/LV",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/LV"
+  }
+ ]
+}

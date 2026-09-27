@@ -1,0 +1,126 @@
+{
+ "player_id": "6819",
+ "name": "Michael Pittman",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "IND"
+   },
+   {
+    "season": 2026,
+    "team": "PIT"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "IND",
+    "games": null,
+    "carries": 0,
+    "targets": null,
+    "rec": null,
+    "yards": null,
+    "td": null,
+    "note": "Not retrieved this pass (fetch of his stat page failed to return content); recommend re-check."
+   }
+  ],
+  "contract": {
+   "years": 2,
+   "signed": "2026-03 (~one week after trade, trade dated 2026-03-13)",
+   "note": "Extension through 2028; $35M new money, $59M total through 2028 per Steelers Depot. $22.7M signing bonus; base salaries $16M (2027), $14M (2028); $2.5M roster bonuses each year. 2026 base salary $1.3M, fully guaranteed."
+  },
+  "scheme": {
+   "oc": "Brian Angelichio",
+   "note": "Hired 2026-02-04, replacing Arthur Smith (who left for Ohio State OC job, ~Feb 2026). Angelichio was Vikings passing-game coordinator/TE coach; prior connection to HC Mike McCarthy from Packers TE coach days (2016-2018)."
+  },
+  "competition": [
+   {
+    "name": "DK Metcalf",
+    "age": 28,
+    "status": "WR1 ahead of Pittman",
+    "note": "Born 1997-12-14. Per Steelers.com initial 2026 depth chart: 1. Metcalf, 2. Pittman, 3. Roman Wilson.",
+    "resolved_id": "5846",
+    "resolved_team": "PIT",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Roman Wilson",
+    "age": 25,
+    "status": "WR3, behind Pittman",
+    "note": "Born 2001-06-19.",
+    "resolved_id": "11630",
+    "resolved_team": "PIT",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Traded from Colts to Steelers 2026-03-13 (Steelers sent a 2026 6th-round pick, received Pittman + a 2026 7th-round pick); Pittman said he picked Pittsburgh as his destination ('I actually got to pick where it was, and I picked here.' - Steelers Depot, 2026-08-08)."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Leg injury, removed from practice / exited early; not deemed serious per report",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Trainers examining WR Michael Pittman Jr.'s right leg; doesn't seem that serious.",
+    "who": "Steelers Depot",
+    "date": "2026-08-08"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.steelers.com/news/steelers-acquire-pittman-jr-in-trade",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://steelersdepot.com/2026/08/michael-pittman-jr-reveals-he-chose-steelers-as-trade-destination/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://steelersdepot.com/2026/08/pittsburgh-steelers-2026-training-camp-injury-report-august-8/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-09/michael-pittman-leg-leaves-early-on-saturday",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.steelers.com/news/steelers-release-initial-2026-depth-chart",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://steelersdepot.com/2026/03/new-contract-details-for-steelers-wr-michael-pittman-jr-revealed/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://bolavip.com/en/amp/nfl/steelers-confirm-vikings-coach-is-new-offensive-coordinator-for-2026-to-possibly-work-with-aaron-rodgers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/DK_Metcalf",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Roman_Wilson",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Leg injury, removed from practice / exited early; not deemed serious per report",
+   "note": "baseline from initial research pass",
+   "source": "https://www.steelers.com/news/steelers-acquire-pittman-jr-in-trade"
+  }
+ ]
+}

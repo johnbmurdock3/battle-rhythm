@@ -1,0 +1,130 @@
+{
+ "player_id": "6797",
+ "name": "Justin Herbert",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2020,
+    "team": "LAC"
+   },
+   {
+    "season": 2021,
+    "team": "LAC"
+   },
+   {
+    "season": 2022,
+    "team": "LAC"
+   },
+   {
+    "season": 2023,
+    "team": "LAC"
+   },
+   {
+    "season": 2024,
+    "team": "LAC"
+   },
+   {
+    "season": 2025,
+    "team": "LAC"
+   },
+   {
+    "season": 2026,
+    "team": "LAC"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "LAC",
+    "games": 16,
+    "targets": null,
+    "rec": null,
+    "yards": 3727,
+    "td": 26,
+    "note": "340/512 passing, 3,727 pass yds, 26 pass TD, 13 INT, plus 498 rush yds and 2 rush TD (per Pro-Football-Reference)."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "2023-07-25",
+   "note": "Signed multi-year extension with Chargers on 2023-07-25 (per Chargers.com); publicly reported historically as 5-year, $262.5M. No 2026 restructure/new extension found."
+  },
+  "scheme": {
+   "oc": "Mike McDaniel",
+   "note": "Chargers hired Mike McDaniel (former Dolphins HC) as offensive coordinator for 2026, working under HC Jim Harbaugh. McDaniel is implementing a new scheme emphasizing anticipatory throws, expedited decision-making, and improved shotgun footwork."
+  },
+  "competition": [],
+  "notes": [
+   "Herbert has played his entire career (2020-2026) with the Chargers; no team change.",
+   "Herbert trained in the offseason with his brother Patrick Herbert (Jaguars TE) to refine mechanics ahead of the 2026 McDaniel scheme install.",
+   "LT Rashawn Slater (2x Pro Bowler) is returning from a torn patellar tendon suffered 2025-08-03 that cost him the entire 2025 season; his camp reps are being monitored as an OL-health factor around Herbert.",
+   "Named pass-catchers seen working with Herbert in camp (2026-07-30 Chargers.com report): Ladd McConkey, Quentin Johnston, Tre' Harris, Keaton Mitchell, Brenen Thompson."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy / no injury reported in camp",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "He spoke to me through the tape",
+    "who": "Mike McDaniel (OC), on watching Herbert's practice film",
+    "date": "2026-07-31"
+   },
+   {
+    "quote": "That's where you grow",
+    "who": "Mike McDaniel (OC)",
+    "date": "2026-07-31"
+   },
+   {
+    "quote": "I'm treating it as if I'm playing on Monday...I think they were very hopeful for that.",
+    "who": "Justin Herbert (re: 2025 hand injury)",
+    "date": "2025-12-01"
+   },
+   {
+    "quote": "It looks that way.",
+    "who": "Jim Harbaugh (HC), on Slater/Joe Alt being ready for camp",
+    "date": "2026-05-27"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.chargers.com/news/training-camp-report-justin-herbert-day-2",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.chargers.com/news/mike-mcdaniel-justin-herbert-training-camp-day-3-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.chargers.com/news/justin-herbert-chargers-agree-to-terms-multi-year-extension",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.chargers.com/news/justin-herbert-hand-surgery-injury-fantasy-2025",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/chargers/onsi/justin-herbert-update-return-jim-harbaugh-injury-update-chargers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/H/HerbJu00.htm",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy / no injury reported in camp",
+   "note": "baseline from initial research pass",
+   "source": "https://www.chargers.com/news/training-camp-report-justin-herbert-day-2"
+  }
+ ]
+}

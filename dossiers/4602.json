@@ -1,0 +1,87 @@
+{
+ "player_id": "4602",
+ "name": "Robert Tonyan",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "PIT"
+   },
+   {
+    "season": 2026,
+    "team": "PIT"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Pat Freiermuth",
+    "age": 27,
+    "status": "TE1",
+    "note": "",
+    "resolved_id": "7600",
+    "resolved_team": "PIT",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Darnell Washington",
+    "age": 24,
+    "status": "TE2",
+    "note": "",
+    "resolved_id": "9479",
+    "resolved_team": "PIT",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change; Tonyan is TE3 behind Freiermuth/Washington, depth/insurance role at age 32."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Active, not on PIT injury report [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/pittsburgh-steelers-depth-chart-pit",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/PIT/pittsburgh-steelers/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-06-04",
+   "injury": "None reported",
+   "role": "Competing for a reserve/depth TE role in Pittsburgh's TE room",
+   "note": "Signed a one-year deal with the Steelers on June 4, 2026 (per Wikipedia) after a minicamp tryout (~13 weeks before 2026-09-03 per FantasyPros). No source found confirming whether he made the final 53-man roster.",
+   "source": "https://www.fantasypros.com/nfl/news/robert-tonyan.php"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/pittsburgh-steelers-depth-chart-pit"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Active, not on PIT injury report [news 2026-09-21]",
+   "role": "TE, depth_chart_order 3",
+   "note": "No notable news found; healthy, TE3 on Pittsburgh depth chart",
+   "source": "https://www.cbssports.com/nfl/teams/PIT/pittsburgh-steelers/injuries/"
+  }
+ ]
+}

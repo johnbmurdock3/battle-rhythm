@@ -1,0 +1,98 @@
+{
+ "player_id": "13421",
+ "name": "Eli Raridon",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "Notre Dame (college)"
+   },
+   {
+    "season": 2026,
+    "team": "NE"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "3rd-round 2026 draft pick"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Hunter Henry",
+    "age": 31,
+    "status": "healthy, starter",
+    "note": "TE1",
+    "resolved_id": "3214",
+    "resolved_team": "NE",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Julian Hill",
+    "age": 26,
+    "status": "season-ending injury (OTAs)",
+    "note": "was expected TE2 competition, now out for year, boosting Raridon",
+    "resolved_id": "11371",
+    "resolved_team": "NE",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Primary TE2 competition (Julian Hill) suffered a season-ending injury in OTAs, clearing a path for Raridon behind Hunter Henry.",
+   "Caught a TD from Drake Maye in camp red-zone drills; coach Vrabel praised improved speed/confidence."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Left Week 2 game vs. Pittsburgh and did not return; thigh injury. No timetable announced by Patriots as of the report. [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   "Positive camp buzz as of July 30, 2026"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.boston.com/sports/new-england-patriots/2026/07/30/eli-raridon-new-england-patriots-nfl-football-training-camp-rookie/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-10/pats-rookie-te-eli-raridon-scores-first-td-of-2026",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.boston.com/sports/new-england-patriots/2026/07/30/eli-raridon-new-england-patriots-nfl-football-training-camp-rookie/"
+  },
+  {
+   "date": "2026-08-20",
+   "role": "Positioned as No.2 TE behind Hunter Henry, filling role vacated by Austin Hooper",
+   "note": "Earning first-team offense reps in camp as of mid-Aug 2026; HC Vrabel praised his development; had a called-back 24-yd catch-and-run in preseason",
+   "source": "https://www.nbcsportsboston.com/nfl/new-england-patriots/eli-raridon-tight-end-hunter-henry-stats-patriots/799612/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Rookie TE catching passes from Drake Maye behind Hunter Henry",
+   "note": "[news 2026-09-10] Caught the NFL's first touchdown of the 2026 season in Week 1",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-10/pats-rookie-te-eli-raridon-scores-first-td-of-2026"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Left Week 2 game vs. Pittsburgh and did not return; thigh injury. No timetable announced by Patriots as of the report. [news 2026-09-21]",
+   "role": "Rookie 3rd-round TE, Sleeper order 2 on depth chart; had just caught a 30-yd pass immediately before exiting with the thigh injury. Patriots reportedly worked out veteran TE free agents following the injury news, signaling a possible role opening behind him if he misses time.",
+   "note": "Through 2 games: 2 catches, 32 yds, 1 TD (scored Patriots' first offensive TD of 2026 season on 2026-09-10). INJURY WATCH for Week 3 \u2014 thigh, undefined timetable as of 2026-09-21.",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-10/pats-rookie-te-eli-raridon-scores-first-td-of-2026"
+  }
+ ]
+}

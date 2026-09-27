@@ -1,0 +1,35 @@
+{
+ "player_id": "13379",
+ "name": "Josiah Trotter",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Starting/heavily-used LB (LILB depth_chart_order 1 per Sleeper); standout rookie defender",
+   "note": "NFL debut Week 1 (Sept 15) vs Bengals: 38-yard pick-six interception, a sack, and 10 tackles \u2014 one of only two players in past decade with INT+sack+5 tackles in a debut; no Week 2 stat line found",
+   "source": "https://www.buccaneers.com/news/josiah-trotter-sparks-defense-historic-debut-week-1-bengals"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.buccaneers.com/news/josiah-trotter-sparks-defense-historic-debut-week-1-bengals",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

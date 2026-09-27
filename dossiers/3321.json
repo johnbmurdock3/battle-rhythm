@@ -1,0 +1,52 @@
+{
+ "player_id": "3321",
+ "name": "Tyreek Hill",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Recovering from a dislocated knee/torn ACL and other ligaments suffered late in the 2025 season; as of the most recent report he may not be cleared to play at all in 2026.",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-03",
+   "injury": "Out",
+   "role": "Free agent, not on any NFL roster",
+   "note": "Suffered season-ending dislocated knee/multi-ligament (incl. ACL) injury Sep 29, 2025 vs Jets; released by Miami Feb 16, 2026; Sleeper marks him injury_status=Out with no team",
+   "source": "https://en.wikipedia.org/wiki/Tyreek_Hill"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Recovering from a multi-ligament knee injury (ACL/LCL) from 2025; said in late July he still has no power in his left leg",
+   "role": "Released by Miami; currently a FREE AGENT. Per agent Drew Rosenhaus (~9/1), not expected to sign before the season began",
+   "note": "[news 2026-09-01] Unrosterable in most formats until he signs and clears recovery",
+   "source": "https://www.fantasypros.com/nfl/news/tyreek-hill.php"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Recovering from a dislocated knee/torn ACL and other ligaments suffered late in the 2025 season; as of the most recent report he may not be cleared to play at all in 2026.",
+   "role": "Unsigned free agent -- released by Miami; Sleeper shows no current team. Not expected to sign anywhere in 2026 unless health allows.",
+   "note": "[news 2026-07-07] 'If he is even close to healthy, he will get signed by someone next season' -- implies no 2026 return expected.",
+   "source": "https://www.si.com/onsi/fantasy/nfl/tyreek-hill-s-fantasy-football-future-uncertain-after-disappointing-injury-report"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.si.com/onsi/fantasy/nfl/tyreek-hill-s-fantasy-football-future-uncertain-after-disappointing-injury-report",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

@@ -1,0 +1,112 @@
+{
+ "player_id": "12542",
+ "name": "Efton Chism",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NE"
+   },
+   {
+    "season": 2026,
+    "team": "NE"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "A.J. Brown",
+    "age": 29,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "5859",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Romeo Doubs",
+    "age": 26,
+    "status": "starter",
+    "note": "offseason acquisition",
+    "resolved_id": "8121",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Kayshon Boutte",
+    "age": 24,
+    "status": "starter",
+    "note": "top camp performer",
+    "resolved_id": "9504",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "DeMario Douglas",
+    "age": 25,
+    "status": "starter",
+    "note": "slot role, ahead of Chism",
+    "resolved_id": "9501",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Mack Hollins",
+    "age": 32,
+    "status": "veteran",
+    "note": "special teams value",
+    "resolved_id": "4177",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Kyle Williams",
+    "age": 23,
+    "status": "rookie",
+    "note": "battling Chism for depth spot",
+    "resolved_id": "12547",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Undrafted rookie in 2025, back-and-forth with Kyle Williams for roster spot",
+   "Could land on practice squad if cut rather than risk waivers"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Winning a fair number of camp reps vs. Kyle Williams as of July 31, 2026"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.boston.com/sports/new-england-patriots/2026/07/31/nfl-patriots-receiver-room-highlights-efton-chism-kyle-williams-romeo-doubs/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.boston.com/sports/new-england-patriots/2026/07/31/nfl-patriots-receiver-room-highlights-efton-chism-kyle-williams-romeo-doubs/"
+  }
+ ]
+}

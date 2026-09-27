@@ -1,0 +1,132 @@
+{
+ "player_id": "13347",
+ "name": "Demond Claiborne",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "Wake Forest (NCAA)"
+   },
+   {
+    "season": 2026,
+    "team": "MIN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NCAA",
+    "games": 0,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 907,
+    "td": 10,
+    "note": "No 2025 NFL workload; rookie drafted 2026 (6th round, No. 198 overall) out of Wake Forest. Senior college season: 907 rush yds, 10 TD. 4-year college career: 2,599 rush yds, 26 TD, 55 receptions."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract, not researched this pass."
+  },
+  "scheme": {
+   "oc": "",
+   "note": "HC Kevin O'Connell remains in place for MIN (referenced in current camp coverage); no OC change surfaced this pass."
+  },
+  "competition": [
+   {
+    "name": "Aaron Jones",
+    "age": 31,
+    "status": "re-signed on a reworked 1-year, ~$5.5M deal around June 2026; durability flagged as a concern -- 'missed significant time in two of the last three seasons' with declining efficiency",
+    "note": "Vikings depth chart (RotoWire) lists him RB1; expected to retain a lead-ish role similar to the past two seasons per FantasyPros",
+    "resolved_id": "4199",
+    "resolved_team": "MIN",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Jordan Mason",
+    "age": 27,
+    "status": "healthy; having a 'productive training camp' per an Aug 9, 2026 report, showing 'added burst' in his second year in Kevin O'Connell's offense",
+    "note": "Primarily early-down runner with some pass-blocking limitations; had 758 rush yds/6 TD on 159 carries in 2025. Note: ESPN's roster page lists his age as 26, but his birthdate (5/24/1999) computes to 27 as of Aug 2026.",
+    "resolved_id": "8408",
+    "resolved_team": "MIN",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Vikings' RB room is Jones-Mason atop the chart, with Claiborne clearly RB3 as a rookie.",
+   "Claiborne is projected as a developmental receiving-specialist piece; one outlook projected only ~27.6 rushing attempts and 3.3 receptions for him in 2026, i.e. very limited early-season workload expected.",
+   "Neither Jones (durability concerns, 31) nor Mason (pass-block limitations) is a lock for a full workload, which is Claiborne's most realistic path to relevance, but that path is not imminent per current reporting."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "no injury reported for Claiborne himself",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "putting together a productive training camp... showing some added burst in his second year in Kevin O'Connell's offensive system",
+    "who": "RotoWire re: Jordan Mason",
+    "date": "2026-08-09"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://thevikingage.com/minnesota-vikings-demond-claiborne-path-playing-time-2026-obvious",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/minnesota-vikings-depth-chart-min",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/players/demond-claiborne.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/players/2967536/jordan-mason/fantasy/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/players/aaron-jones.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jordan_Mason",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/min/minnesota-vikings",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/vikings/onsi/demond-claiborne-deserves-bigger-role-vikings-despite-quiet-week-2-01m30bheh01b",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "no injury reported for Claiborne himself",
+   "note": "baseline from initial research pass",
+   "source": "https://thevikingage.com/minnesota-vikings-demond-claiborne-path-playing-time-2026-obvious"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 1,
+   "injury": "",
+   "role": "Buried on depth chart behind Aaron Jones Sr.; passing-down role only",
+   "note": "Week 2 (Sept 20): 0 carries, 1 target, 2 yards receiving, minimal snaps; Jordan Mason (thumb) went to IR before Week 2 but Aaron Jones Sr. took over workload (23/28 team carries, 82.1%) rather than Claiborne; DeeJay Dallas also ahead (2 carries)",
+   "source": "https://www.si.com/nfl/vikings/onsi/demond-claiborne-deserves-bigger-role-vikings-despite-quiet-week-2-01m30bheh01b"
+  }
+ ]
+}

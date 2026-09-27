@@ -1,0 +1,77 @@
+{
+ "player_id": "4950",
+ "name": "Christian Kirk",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "SF"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": ""
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: ESPN/49ers.com confirm Kirk signed a one-year deal with San Francisco for 2026 ('49ers reach 1-year deal with WR Christian Kirk'); specific 2025 team not independently confirmed this pass"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "On Injured Reserve with a calf injury, placed 2026-08-31; was not practicing in the days before that per FantasyPros",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.espn.com/nfl/story/_/id/48225762/source-49ers-reach-one-year-deal-wr-christian-kirk",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.49ers.com/news/49ers-sign-wr-christian-kirk-p-corliss-waitman-to-one-year-deals-re-sign-dl-sam-okuayinonu",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/christian-kirk.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.espn.com/nfl/story/_/id/48225762/source-49ers-reach-one-year-deal-wr-christian-kirk"
+  },
+  {
+   "date": "2026-08-31",
+   "injury": "Placed on Injured Reserve Aug 31, 2026 with a calf injury; expected to miss at least the first 4 games of the season",
+   "role": "Was competing for a WR depth role with 49ers before landing on IR",
+   "note": "Calf issue lingered through camp (limited/missed practice reports ~5 weeks before 2026-09-03); signed a one-year, $6M deal with SF in spring 2026. Roster-order detail from the same source (naming other WRs ahead of him) looked internally inconsistent and was not included.",
+   "source": "https://www.fantasypros.com/nfl/news/christian-kirk.php"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "On Injured Reserve with a calf injury, placed 2026-08-31; was not practicing in the days before that per FantasyPros",
+   "role": "Out long-term on IR",
+   "note": "Sleeper API confirms IR status (depth_chart SWR/6). Placed on IR (calf) Aug 31, 2026 [news 2026-08-31]",
+   "source": "https://www.fantasypros.com/nfl/news/christian-kirk.php"
+  }
+ ]
+}

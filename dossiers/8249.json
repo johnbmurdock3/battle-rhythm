@@ -1,0 +1,93 @@
+{
+ "player_id": "8249",
+ "name": "Lucas Krull",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DEN"
+   },
+   {
+    "season": 2026,
+    "team": "DEN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Adam Trautman",
+    "age": 29,
+    "status": "starter",
+    "note": "TE1 ahead of Krull",
+    "resolved_id": "6869",
+    "resolved_team": "DEN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Evan Engram",
+    "age": 31,
+    "status": "starter",
+    "note": "TE2, receiving-TE, ahead of Krull",
+    "resolved_id": "4066",
+    "resolved_team": "DEN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Justin Joly",
+    "age": 22,
+    "status": "backup",
+    "note": "TE3 ahead of Krull",
+    "resolved_id": "13400",
+    "resolved_team": "DEN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Nate Adkins",
+    "age": 27,
+    "status": "backup",
+    "note": "TE4 ahead of Krull",
+    "resolved_id": "11433",
+    "resolved_team": "DEN",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Buried at TE5 on a crowded Broncos TE depth chart (Trautman, Engram, Joly, Adkins all ahead) - minimal fantasy relevance."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "recovered (historical)",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Lucas_Krull",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/DEN",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "recovered (historical)",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Lucas_Krull"
+  }
+ ]
+}

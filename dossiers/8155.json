@@ -1,0 +1,154 @@
+{
+ "player_id": "8155",
+ "name": "Breece Hall",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NYJ"
+   },
+   {
+    "season": 2024,
+    "team": "NYJ"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NYJ",
+    "games": 16,
+    "carries": null,
+    "targets": null,
+    "rec": null,
+    "yards": 1065,
+    "td": 4,
+    "note": "1,065 rushing yards, first Jet to reach 1,000 rushing yards since Chris Ivory (2015). Full receiving-stat breakdown not confirmed in sources checked; rushing TD count (4) is for rushing only, per Yahoo Sports player page."
+   },
+   {
+    "season": 2024,
+    "team": "NYJ",
+    "games": null,
+    "carries": null,
+    "targets": null,
+    "rec": null,
+    "yards": null,
+    "td": null,
+    "note": "Not independently verified in sources checked this session; career scrimmage yards noted at 5,000+ since his 2022 entry (newyorkjets.com camp preview)."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "2026-05-11",
+   "note": "Signed a multi-year extension on May 11, 2026 after being placed on the non-exclusive franchise tag on Mar 3, 2026 (newyorkjets.com). Signals the Jets committed long-term to Hall as workhorse RB1."
+  },
+  "scheme": {
+   "oc": "Frank Reich",
+   "note": "Same Jets offensive coordinator change as Garrett Wilson (Reich hired Feb 2026); some beat-writer skepticism (jetsxfactor.com, Jul 2026) about Reich's scheme efficiency."
+  },
+  "competition": [
+   {
+    "name": "Isaiah Davis",
+    "age": 24,
+    "status": "RB2/complementary back",
+    "note": "Averaged 5.5 yards per carry in 2025 per newyorkjets.com camp preview.",
+    "resolved_id": "11571",
+    "resolved_team": "NYJ",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Braelon Allen",
+    "age": 22,
+    "status": "RB2/complementary back, recently recovered from injury",
+    "note": "Recovered from an MCL sprain suffered in Week 4 of 2025; HC Aaron Glenn praised his agility/versatility in the passing game.",
+    "resolved_id": "11576",
+    "resolved_team": "NYJ",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Kene Nwangwu",
+    "age": 28,
+    "status": "RB4/depth",
+    "note": "Listed as backup on Jul 25, 2026 Yahoo Sports Jets depth chart, behind Hall, Allen, and Davis.",
+    "resolved_id": "7720",
+    "resolved_team": "NYJ",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Jul 25, 2026 Yahoo Sports Jets camp depth chart: Starter Breece Hall; backups Braelon Allen, Isaiah Davis, Kene Nwangwu.",
+   "Hall quote (spring 2026, newyorkjets.com): 'I feel like I can play with a lot more of like accelerated vision now.'",
+   "Hall quote (May 2026): 'this could be my best season, for sure.'",
+   "SI headline framing (si.com onsi, 2026 position breakdown) poses the open question of whether Hall will 'live up to his new contract,' implying some outside skepticism despite the extension.",
+   "One SI/onsi camp preview headline describes the Jets RB room as potentially 'by-committee,' which is in some tension with Hall being the clear starter -- flagged as an open question, not confirmed as fact."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Groin - Questionable, expected to be ready for Jets Week 1 game vs Titans",
+   "as_of": "2026-09-03"
+  },
+  "camp": [
+   {
+    "quote": "this could be my best season, for sure",
+    "who": "Breece Hall",
+    "date": "2026-05-01"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.newyorkjets.com/news/jets-camp-position-preview-2026-running-back-breece-hall-isaiah-davis",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/jets-depth-chart-entering-training-210003943.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/jets-2026-position-breakdown-breece-160715075.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/nfl/players/33991/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/jets/onsi/jets-training-camp-preview-by-position-a-by-committee-rb-room-01kwwrmb5zn4",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872936",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy, actively participating in training camp",
+   "note": "baseline from initial research pass",
+   "source": "https://www.newyorkjets.com/news/jets-camp-position-preview-2026-running-back-breece-hall-isaiah-davis"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "Groin - Questionable, expected to be ready for Jets Week 1 game vs Titans",
+   "role": "Lead RB for Jets; signed 3-year, $45.75M extension in March 2026 after franchise tag",
+   "note": "Sleeper lists Questionable; NFL.com reports groin injury with Hall expected ready for Week 1 vs Titans",
+   "source": "https://www.nfl.com/injuries/"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 22,
+   "injury": "",
+   "role": "RB1, depth_chart_order 1",
+   "note": "Week2 (GB@NYJ, NYJ won 23-22): 22 carries, 102 yards, 1 TD rushing (receptions not broken out in fetched table). Healthy, no injury listing.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872936"
+  }
+ ]
+}

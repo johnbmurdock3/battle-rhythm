@@ -1,0 +1,48 @@
+{
+ "player_id": "7496",
+ "name": "Nick Westbrook-Ikhine",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "MIA"
+   },
+   {
+    "season": 2026,
+    "team": "IND"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": [
+   "Signed with Colts as free agent, announced 2026-03-18; career path Titans (2020-24) -> Dolphins (2025) -> Colts (2026)"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.colts.com/news/colts-free-agent-wide-receiver-nick-westbrook-ikhine-titans-dolphins-indiana-hoosiers",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.colts.com/news/colts-free-agent-wide-receiver-nick-westbrook-ikhine-titans-dolphins-indiana-hoosiers"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "player_id": "13273",
+ "name": "Josh Cuevas",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "college (Alabama)"
+   },
+   {
+    "season": 2026,
+    "team": "BAL"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "drafted round 5, pick 173, 2026 NFL Draft"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Mark Andrews",
+    "age": 30,
+    "status": "TE1 starter",
+    "note": "",
+    "resolved_id": "5012",
+    "resolved_team": "BAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Durham Smythe",
+    "age": 31,
+    "status": "TE2",
+    "note": "",
+    "resolved_id": "5008",
+    "resolved_team": "BAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Matt Hibner",
+    "age": 24,
+    "status": "TE3",
+    "note": "",
+    "resolved_id": "13324",
+    "resolved_team": "BAL",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Rookie; listed TE4 (last) on Ravens depth chart behind Andrews, Smythe, and Hibner"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": "No injury reported"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.baltimoreravens.com/news/ravens-depth-chart-post-draft-vega-ioane-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Josh_Cuevas",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.baltimoreravens.com/news/ravens-depth-chart-post-draft-vega-ioane-2026"
+  }
+ ]
+}

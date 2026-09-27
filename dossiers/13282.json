@@ -1,0 +1,107 @@
+{
+ "player_id": "13282",
+ "name": "Jack Endries",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "college (Texas)"
+   },
+   {
+    "season": 2026,
+    "team": "CIN"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "drafted round 7, pick 221, 2026 NFL Draft"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Drew Sample",
+    "age": 30,
+    "status": "TE1",
+    "note": "",
+    "resolved_id": "6001",
+    "resolved_team": "CIN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Mike Gesicki",
+    "age": 30,
+    "status": "TE2",
+    "note": "",
+    "resolved_id": "4993",
+    "resolved_team": "CIN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Erick All Jr.",
+    "age": 25,
+    "status": "TE3",
+    "note": "",
+    "resolved_id": "11592",
+    "resolved_team": "CIN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Tanner Hudson",
+    "age": 31,
+    "status": "TE4",
+    "note": "",
+    "resolved_id": "5409",
+    "resolved_team": "CIN",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Cam Grandy",
+    "age": 26,
+    "status": "TE5",
+    "note": "",
+    "resolved_id": "12062",
+    "resolved_team": "CIN",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Rookie, deep on Bengals TE depth chart at #6 of 7; minimal 2026 relevance expected"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": "No injury reported"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://atozsports.com/nfl/cincinnati-bengals-news/bengals-depth-chart-preview-drew-sample-mike-gesicki/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jack_Endries",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://atozsports.com/nfl/cincinnati-bengals-news/bengals-depth-chart-preview-drew-sample-mike-gesicki/"
+  }
+ ]
+}

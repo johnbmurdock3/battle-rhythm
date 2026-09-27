@@ -1,0 +1,127 @@
+{
+ "player_id": "3214",
+ "name": "Hunter Henry",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NE"
+   },
+   {
+    "season": 2026,
+    "team": "NE"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NE",
+    "games": 17,
+    "targets": 87,
+    "rec": 60,
+    "yards": 768,
+    "td": 7,
+    "note": "Per Pro-Football-Reference. A separate PatsFans.com article (Aug 10, 2026) cited 85 catches/1,013 yards/4 TD for 2025, which conflicts with PFR \u2014 flagging the discrepancy rather than resolving it; PFR figures used above as the more standard box-score source."
+   }
+  ],
+  "contract": {
+   "years": 2,
+   "signed": "2026-08-10",
+   "note": "2-year extension worth up to $20M ($16M base), $14.5M guaranteed, $4.2M signing bonus."
+  },
+  "scheme": {
+   "oc": "Josh McDaniels (HC Mike Vrabel)",
+   "note": "Vrabel hired 2025, McDaniels OC \u2014 not a 2026 change."
+  },
+  "competition": [
+   {
+    "name": "C.J. Dippre",
+    "age": 24,
+    "status": "TE2",
+    "note": "Age unverified.",
+    "resolved_id": "12984",
+    "resolved_team": "NE",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Marshall Lang",
+    "age": 24,
+    "status": "TE3",
+    "note": "Age unverified.",
+    "resolved_id": "13032",
+    "resolved_team": "MIN",
+    "resolved_pos": "TE",
+    "same_team": false
+   }
+  ],
+  "notes": [
+   "Second-most-targeted Patriots player on third down in 2025 (20 rec on 30 targets, 13 first downs) per PatsFans.com.",
+   "Described as anchoring the TE room following Austin Hooper's departure."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Dealt with an injury scare in the second half of Week 1 vs Seahawks [news ~2026-09-12], but played through it and led Patriots pass-catchers in targets in Week 2.",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "Second in team receiving yards in 2025; primary tight end and key target for Drake Maye.",
+    "who": "PatsFans.com",
+    "date": "2026-08-10"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.patsfans.com/patriots/blog/2026/08/10/patriots-extend-henry-veteran-te-agrees-to-2-year-deal/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/H/HenrHu00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.patspulpit.com/new-england-patriots-depth-chart/122534/updated-roster-practice-squad-2026-nfl-season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/3214",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.patsfans.com/patriots/blog/2026/08/10/patriots-extend-henry-veteran-te-agrees-to-2-year-deal/"
+  },
+  {
+   "date": "2026-09-03",
+   "role": "Starting TE; not listed on Patriots Sep 1-2, 2026 injury report, so healthy entering Week 1",
+   "note": "2025: 60 rec/768 yds/7 TD; appeared in Feb 8, 2026 Super Bowl (loss to Seattle); no 2026 injury designation",
+   "source": "https://www.cbssports.com/nfl/teams/NE/new-england-patriots/injuries/"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 3,
+   "injury": "None reported",
+   "role": "Target competition up with A.J. Brown and Romeo Doubs added; Week 1 TD went to rookie TE Eli Raridon",
+   "note": "[news 2026-09-09] Week 1 vs SEA: 3/3 targets, 26 yds, no score",
+   "source": "https://fantasyfootballcalculator.com/players/hunter-henry/news"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Dealt with an injury scare in the second half of Week 1 vs Seahawks [news ~2026-09-12], but played through it and led Patriots pass-catchers in targets in Week 2.",
+   "role": "TE1, no depth-chart change. Also publicly backing struggling WR Romeo Doubs [news 2026-09-19].",
+   "note": "[news 2026-09-20] Week 2 vs Steelers: 3 receptions on 5 targets for 40 yards, led all Patriots pass-catchers in targets.",
+   "source": "https://api.sleeper.app/players/nfl/3214"
+  }
+ ]
+}

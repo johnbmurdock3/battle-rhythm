@@ -1,0 +1,27 @@
+# Battle Rhythm analytics: the engine-check fact table as a dbt model.
+#
+# Reads out/truth/player_weeks.csv, which `python br.py truth compare`
+# rebuilds from the tracked snapshots in data/truth/ (one row per league x
+# season x week x rostered player: our engine's points vs Sleeper's own).
+# DuckDB, so there is no server: `dbt build` from this folder is the whole
+# pipeline. Tableau can read target/br.duckdb or the CSV directly.
+name: battle_rhythm
+version: "1.0.0"
+config-version: 2
+profile: battle_rhythm
+
+model-paths: ["models"]
+test-paths: ["tests"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages", "logs"]
+
+vars:
+  # relative to this folder; override with --vars '{truth_csv: ...}'
+  truth_csv: "../out/truth/player_weeks.csv"
+
+models:
+  battle_rhythm:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table

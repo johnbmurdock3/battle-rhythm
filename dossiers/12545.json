@@ -1,0 +1,48 @@
+{
+ "player_id": "12545",
+ "name": "Tyler Shough",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-01",
+   "role": "Entrenched as Saints starting QB entering 2026 after starting final 9 games of 2025 (5-4 record); team 'expecting him to build on what he showed after Week 9'",
+   "note": "Expected Week 1 starter; Saints open season at Detroit Sept 13",
+   "source": "https://heavy.com/sports/nfl/new-orleans-saints/tyler-shough-instagram-post-week-1/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Saints starting QB, no health concerns for Week 2 vs BAL",
+   "note": "Week 1: career-high 410 yards in a near-comeback at DET, but 3 turnovers and 5 sacks",
+   "source": "https://www.wafb.com/2026/09/15/saints-enter-week-2-emboldened-by-their-dramatic-near-comeback-detroit/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Entrenched starting QB (6-5 as a starter); no competition noted",
+   "note": "Week2 vs BAL win: 27/34 (79.4%), 252 yds, 1 pass TD (21-yd to Chris Olave), 1 rush TD; 662 pass yds through 2 games, most for a Saints QB since Drew Brees in 2009 [news 2026-09-21]",
+   "source": "https://www.neworleanssaints.com/news/2026-nfl-week-2-baltimore-ravens-vs-new-orleans-saints-game-notes"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.neworleanssaints.com/news/2026-nfl-week-2-baltimore-ravens-vs-new-orleans-saints-game-notes",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

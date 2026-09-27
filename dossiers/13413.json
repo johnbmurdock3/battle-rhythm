@@ -1,0 +1,78 @@
+{
+ "player_id": "13413",
+ "name": "Cyrus Allen",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": null
+   },
+   {
+    "season": 2026,
+    "team": "KC"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Rashee Rice",
+    "age": 26,
+    "status": "starter",
+    "note": "returning from injury, remains ahead of Allen",
+    "resolved_id": "10229",
+    "resolved_team": "KC",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "2026 rookie, drafted by Chiefs (5th round, #176) - no 2025 NFL team. Generating significant camp buzz, could earn slot reps, but exact depth chart slot unclear."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Described as 'more than preseason hype', earning Mahomes' trust"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-2026-draft-pick-cyrus-allen-drawing-buzz-2026-nfl-training-camp-st-joe/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/story/_/id/49500558/2026-kansas-city-chiefs-training-camp-cyrus-allen-patrick-mahomes",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-2026-draft-pick-cyrus-allen-drawing-buzz-2026-nfl-training-camp-st-joe/"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "5th-round rookie WR (pick 176, Cincinnati); confirmed on Chiefs 53-man roster as of 8/31/26, listed with Nikko Remigio, Rashee Rice, Jalen Royals, Tyquan Thornton, Xavier Worthy.",
+   "note": "Made 53-man roster as rookie WR",
+   "source": "https://www.kshb.com/sports/football/chiefs/kansas-city-chiefs-announce-53-man-roster-heading-into-2026-27-regular-season"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Rookie WR called an \"early star of Chiefs training camp\" by ESPN; Sleeper depth chart shows SWR order 5.",
+   "note": "Only camp-hype coverage found (ESPN training-camp piece); no verified regular-season Week 1-2 snap/target/touch numbers located in this pass.",
+   "source": "https://www.espn.com/nfl/story/_/id/49500558/2026-kansas-city-chiefs-training-camp-cyrus-allen-patrick-mahomes"
+  }
+ ]
+}

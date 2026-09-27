@@ -1,0 +1,79 @@
+{
+ "player_id": "9504",
+ "name": "Kayshon Boutte",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NE"
+   },
+   {
+    "season": 2026,
+    "team": "NE"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "A.J. Brown",
+    "age": 29,
+    "status": "starter",
+    "note": "WR1, acquired via blockbuster trade from Eagles in 2026 offseason",
+    "resolved_id": "5859",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Romeo Doubs",
+    "age": 26,
+    "status": "starter",
+    "note": "WR2, signed 4-yr/$68M deal",
+    "resolved_id": "8121",
+    "resolved_team": "NE",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change, but Patriots made a major roster upgrade at WR (traded for A.J. Brown, signed Romeo Doubs, released Stefon Diggs), pushing Boutte down to WR3. Boutte reportedly outperforming Doubs in camp and could push for the No. 2 role despite Doubs' bigger contract."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy per most recent camp report",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "strong camp per 2026-07-27 report"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.nbcsportsboston.com/nfl/new-england-patriots/kayshon-boutte-kyle-williams-wide-receiver-depth-chart/797059/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.patriots.com/news/patriots-acquire-wr-a-j-brown-in-a-trade-with-the-philadelphia-eagles",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://985thesportshub.com/2026/07/27/kayshon-boutte-mike-vrabel-patriots-training-camp/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy per most recent camp report",
+   "note": "baseline from initial research pass",
+   "source": "https://www.nbcsportsboston.com/nfl/new-england-patriots/kayshon-boutte-kyle-williams-wide-receiver-depth-chart/797059/"
+  }
+ ]
+}

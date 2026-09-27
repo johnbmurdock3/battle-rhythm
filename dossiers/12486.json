@@ -1,0 +1,87 @@
+{
+ "player_id": "12486",
+ "name": "Dillon Gabriel",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CLE"
+   },
+   {
+    "season": 2026,
+    "team": "CLE"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Shedeur Sanders",
+    "age": 24,
+    "status": "starter",
+    "note": "listed QB1 on ourlads Browns depth chart, ahead of Gabriel",
+    "resolved_id": "12524",
+    "resolved_team": "CLE",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Deshaun Watson",
+    "age": 30,
+    "status": "backup",
+    "note": "listed QB2, ahead of Gabriel; recovering from prior Achilles injuries in past seasons -- health status not verified this pass",
+    "resolved_id": "4017",
+    "resolved_team": "CLE",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Ourlads lists rookie-year 2025 5th-rounder Shedeur Sanders as QB1 and Deshaun Watson (trade acquisition) as QB2, with Gabriel (2025 3rd-rounder) as QB3 -- an unusual ordering that should be double-checked against beat-writer reporting before trusting it fully. If accurate, Gabriel has fallen to third string, reducing his superflex stash value."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "back injury, placed on IR Aug 30, 2026, out first 4 games minimum",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/CLE",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-put-dillon-gabriel-on-ir-as-they-set-initial-53-man-roster",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/CLE"
+  },
+  {
+   "date": "2026-08-30",
+   "injury": "On IR with a back injury from the preseason finale vs. New England; designated for return, eligible to return as early as Week 5",
+   "role": "Browns QB depth chart is now Deshaun Watson (starter), Shedeur Sanders (backup), Taylen Green (3rd)",
+   "note": "Confirms Sleeper's IR/Inactive status; back injury, could return Week 5 at the earliest",
+   "source": "https://sports.yahoo.com/articles/dillon-gabriel-heads-ir-back-210144894.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "back injury, placed on IR Aug 30, 2026, out first 4 games minimum",
+   "role": "Deshaun Watson has been starting QB for Browns in his absence; rookie Taylen Green is No. 3 QB",
+   "note": "Browns placed Gabriel on IR with a back injury as they set their initial 53-man roster [news 2026-08-30]; Sleeper confirms CLE QB, status IR, depth_chart_order 4. Would be eligible to return roughly Week 5.",
+   "source": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-put-dillon-gabriel-on-ir-as-they-set-initial-53-man-roster"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "player_id": "SF",
+ "name": "San Francisco 49ers",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Nate Hobbs (CB) groin, IR (exp. return Wk5); Mykel Williams (DE) knee-ACL, PUP",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-22",
+   "injury": "Nate Hobbs (CB) groin, IR (exp. return Wk5); Mykel Williams (DE) knee-ACL, PUP",
+   "role": "",
+   "note": "Wk2 pts allowed unresolved (source unavailable); CB Nate Hobbs on IR with groin injury, rookie DE Mykel Williams on PUP with ACL [news 2026-09-21]; Wk3 opponent unresolved - schedule source returned invalid preseason data, discarded",
+   "source": "https://www.cbssports.com/nfl/teams/SF/san-francisco-49ers/injuries/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/teams/SF/san-francisco-49ers/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

@@ -1,0 +1,41 @@
+{
+ "player_id": "12015",
+ "name": "Harrison Mevis",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-30",
+   "role": "Entrenched as Rams' starting kicker on the initial 2026 53-man roster",
+   "note": "Made the Rams' 53-man roster as the team's kicker after joining mid-season in 2025",
+   "source": "https://www.therams.com/news/rams-announce-initial-53-man-roster-for-2026-season"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "promoted to Rams' starting kicker after Joshua Karty was waived",
+   "note": "Rams waived Joshua Karty and Mevis took over as starter; made 13 straight XP and 2/2 FG in a recent stretch [news ~2025 fall per article, but Sleeper confirms Mevis currently LAR K, depth_chart_order 1 as of 2026-09-22].",
+   "source": "https://www.cbsnews.com/amp/losangeles/news/rams-waive-kicker-joshua-karty-after-replacement-harrison-mevis-strong-start"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbsnews.com/amp/losangeles/news/rams-waive-kicker-joshua-karty-after-replacement-harrison-mevis-strong-start",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

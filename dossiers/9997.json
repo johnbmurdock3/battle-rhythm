@@ -1,0 +1,140 @@
+{
+ "player_id": "9997",
+ "name": "Zay Flowers",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2023,
+    "team": "BAL"
+   },
+   {
+    "season": 2024,
+    "team": "BAL"
+   },
+   {
+    "season": 2025,
+    "team": "BAL"
+   },
+   {
+    "season": 2026,
+    "team": "BAL"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2023,
+    "team": "BAL",
+    "games": 16,
+    "carries": 0,
+    "targets": 108,
+    "rec": 77,
+    "yards": 858,
+    "td": 5,
+    "note": "Rookie season."
+   },
+   {
+    "season": 2024,
+    "team": "BAL",
+    "games": 17,
+    "carries": 0,
+    "targets": 116,
+    "rec": 74,
+    "yards": 1059,
+    "td": 4,
+    "note": "Pro Bowl."
+   },
+   {
+    "season": 2025,
+    "team": "BAL",
+    "games": 17,
+    "carries": 0,
+    "targets": 118,
+    "rec": 86,
+    "yards": 1211,
+    "td": 5,
+    "note": "Career highs in receptions and yards; Pro Bowl; led team with 38 more catches than 2nd-leading pass catcher."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2026 (reported as 'Tuesday', prior to 2026-08 camp)",
+   "note": "4-year, $140M extension with $108M guaranteed, ties him as 4th-highest-paid WR at $35M AAV (matching Justin Jefferson). Deal replaces his 2027 fifth-year rookie option (which Baltimore had exercised in April). Signals Ravens see him as standalone WR1 / Lamar Jackson's primary target going forward."
+  },
+  "scheme": {
+   "oc": "Declan Doyle",
+   "note": "Major offensive coaching turnover for 2026: Ravens fired HC John Harbaugh after missing playoffs; hired Jesse Minter (ex-Chargers DC) as new HC. Prior OC Todd Monken left to become Cleveland Browns HC (hired 2026-01-28). New Ravens OC for 2026 is Declan Doyle (previously with Bears in 2025), per Baltimore Beatdown coaching tracker. New WR coach: Keary Colbert (previously Broncos 2023-2025)."
+  },
+  "competition": [
+   {
+    "name": "Rashod Bateman",
+    "age": 26,
+    "status": "",
+    "note": "Other Ravens WR; not independently verified in this pass (WebSearch budget exhausted before this could be confirmed) \u2014 noted from task context only, treat as unverified.",
+    "resolved_id": "7571",
+    "resolved_team": "BAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Set career highs across the board in 2025 (86 rec, 1,211 yds) under since-departed OC Todd Monken; new OC Declan Doyle and new HC Jesse Minter represent an unproven scheme change for 2026.",
+   "Entire Ravens offensive coaching staff turned over for 2026 (HC, OC, RB coach, OL coach, WR coach, TE coach, passing-game coordinator, QB coach, senior offensive assistant) per Baltimore Beatdown tracker \u2014 meaningful scheme uncertainty even though Flowers' personal role (locked-in, extended WR1) is secure."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Day-to-day (minor)",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "I think he'll be about day-to-day...hopefully for the best",
+    "who": "HC Jesse Minter",
+    "date": "2026-08-08"
+   },
+   {
+    "quote": "There's stuff that happens...thankfully I think he'll be okay in the long run",
+    "who": "HC Jesse Minter",
+    "date": "2026-08-08"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/ravens/onsi/everything-we-know-about-zay-flowers-avoiding-major-injury-at-ravens-camp-01kzh61q614w",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/ravens-wr-zay-flowers-agrees-to-four-year-140m-extension",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/F/FlowZa00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.baltimorebeatdown.com/baltimore-ravens-coaching-staff/80158/baltimore-ravens-2026-coaching-staff-tracker",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.baltimoreravens.com/news/todd-monken-hired-browns-head-coach-ravens-staff",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/jesse-minter-ravens-hire-head-coach-chargers-dc",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Day-to-day (minor)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/ravens/onsi/everything-we-know-about-zay-flowers-avoiding-major-injury-at-ravens-camp-01kzh61q614w"
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "player_id": "13434",
+ "name": "Will Kacmarek",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "college (Houston)"
+   },
+   {
+    "season": 2026,
+    "team": "MIA"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "college",
+    "games": null,
+    "targets": null,
+    "rec": null,
+    "yards": null,
+    "td": null,
+    "note": "Rookie; no 2025 NFL stats. Drafted in 3rd round 2026 primarily for blocking ability"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie 3rd-round draft pick"
+  },
+  "scheme": {
+   "oc": "Bobby Slowik",
+   "note": "NEW HEAD COACH Jeff Hafley for 2026 (hired 2026-01-19), replacing Mike McDaniel who was fired after 4 seasons. Slowik was previously Houston Texans OC."
+  },
+  "competition": [
+   {
+    "name": "Greg Dulcich",
+    "age": 26,
+    "status": "TE1/starter",
+    "note": "Pushed as a 'breakout candidate' by national media; 2025: 26 rec / 335 yds in 10 games",
+    "resolved_id": "8172",
+    "resolved_team": "MIA",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Seydou Traore",
+    "age": 23,
+    "status": "rookie TE, 5th-round pick",
+    "note": "2025 college (Mississippi State): 35 rec, 369 yds, 5 TD",
+    "resolved_id": "13429",
+    "resolved_team": "MIA",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Cole Turner",
+    "age": 26,
+    "status": "roster TE",
+    "note": "",
+    "resolved_id": "8214",
+    "resolved_team": "MIA",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Ben Sims",
+    "age": 26,
+    "status": "roster TE",
+    "note": "",
+    "resolved_id": "11082",
+    "resolved_team": "MIA",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Kacmarek projected 3rd on the TE depth chart per SI.com (Jul 20-23, 2026), selected mainly for blocking to support the run game -- limits receiving-role upside",
+   "Dolphins declined to tender/extend RFA Julian Hill and let veteran Darren Waller walk in free agency, thinning the room above Dulcich/Traore",
+   "phinphanatic.com separately called Kacmarek a 'rookie sleeper... quickly climbing the depth chart' -- some conflict with the SI.com '3rd on depth chart' framing; not resolved in sources fetched"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No specific current injury report found for Kacmarek in sources fetched"
+  },
+  "camp": [
+   {
+    "quote": "Projected as third on depth chart; selected in third round for blocking ability to support run game",
+    "who": "SI.com Dolphins camp TE preview",
+    "date": "2026-07-20"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/dolphins/onsi/dolphins-2026-camp-te-preview-new-group-untested-but-intriguing-01ky08rb3mpw",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://phinphanatic.com/dolphins-rookie-sleeper-quickly-climbing-depth-chart-tight-end",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Dolphins_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/mia",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/players/will-kacmarek/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/dolphins/onsi/dolphins-2026-camp-te-preview-new-group-untested-but-intriguing-01ky08rb3mpw"
+  },
+  {
+   "date": "2026-08-19",
+   "role": "Projected TE2 alongside Greg Dulcich in multiple-TE (12 personnel) sets",
+   "note": "Rookie 3rd-round pick (No.87); analysts flagged him as an AFC rookie sleeper after a strong preseason opener; expected as run-blocking piece with some pass-game usage",
+   "source": "https://phinphanatic.com/miami-dolphins-will-kacmarek-draft-gamble-already-paid-off-in-preseason-opener-01m05brb29zm"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "3rd-round rookie TE (87 overall via trade), Sleeper depth chart shows TE order 2 (TE2) on Dolphins.",
+   "note": "Only bio-level info found (college Ohio State, combine 4.74s 40); no injury report or Week 1-2 snap/target data located in this pass.",
+   "source": "https://www.nfl.com/players/will-kacmarek/"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "player_id": "5857",
+ "name": "Noah Fant",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CIN"
+   },
+   {
+    "season": 2026,
+    "team": "NO"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "two-year, $8.75M",
+   "date": "2026-03-11"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Juwan Johnson",
+    "age": 29,
+    "status": "TE1 starter",
+    "note": "",
+    "resolved_id": "7002",
+    "resolved_team": "NO",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Oscar Delp",
+    "age": 23,
+    "status": "rookie TE, part of room",
+    "note": "",
+    "resolved_id": "13319",
+    "resolved_team": "NO",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: signed with Saints Mar 11 2026 after 2025 one-year deal with Bengals (had been released by Seahawks July 2025 first); exact depth chart slot behind Johnson not fully specified"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": "No injury reported"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/saints/onsi/the-saints-tight-end-room-upgrades-in-the-offseason-01kz6enw8mh9",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Noah_Fant",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/saints/onsi/the-saints-tight-end-room-upgrades-in-the-offseason-01kz6enw8mh9"
+  }
+ ]
+}

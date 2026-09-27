@@ -1,0 +1,38 @@
+{
+ "player_id": "GB",
+ "name": "Green Bay Packers",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "Micah Parsons (LB) knee-ACL, PUP (exp. return Wk5); Javon Hargrave (NT) concussion, Out",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-22",
+   "injury": "Micah Parsons (LB) knee-ACL, PUP (exp. return Wk5); Javon Hargrave (NT) concussion, Out",
+   "role": "",
+   "note": "Wk2 pts allowed unresolved (source unavailable); star EDGE Micah Parsons remains on PUP with ACL injury [news 2026-09-21]; Wk3 opponent ATL (home)",
+   "source": "https://www.cbssports.com/nfl/teams/GB/green-bay-packers/injuries/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/teams/GB/green-bay-packers/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

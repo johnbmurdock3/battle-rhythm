@@ -1,0 +1,109 @@
+{
+ "player_id": "3257",
+ "name": "Jacoby Brissett",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "ARI"
+   },
+   {
+    "season": 2026,
+    "team": "ARI"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "Re-signed with Arizona in 2026"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Gardner Minshew",
+    "age": 30,
+    "status": "",
+    "note": "QB2",
+    "resolved_id": "6011",
+    "resolved_team": "ARI",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Carson Beck",
+    "age": 23,
+    "status": "",
+    "note": "QB3",
+    "resolved_id": "13272",
+    "resolved_team": "ARI",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Kedon Slovis",
+    "age": 25,
+    "status": "",
+    "note": "QB4",
+    "resolved_id": "11648",
+    "resolved_team": "ARI",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change for Brissett, but the context is major: Kyler Murray was released by Arizona on March 11, 2026 and signed with Minnesota, opening the door for Brissett as the projected 2026 starter."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/arizona-cardinals-release-first-preseason-180401066.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Kyler_Murray",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/3257",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/arizona-cardinals-release-first-preseason-180401066.html"
+  },
+  {
+   "date": "2026-09-03",
+   "role": "Likely QB1 for Arizona: Kyler Murray was released by the Cardinals on March 11, 2026 and Brissett is not listed on the Sep 1, 2026 injury report",
+   "note": "Signed 2yr/$12.5M with ARI Mar 14, 2025; started for ARI in 2025 after Murray injury; Murray now gone for 2026",
+   "source": "https://en.wikipedia.org/wiki/2026_Arizona_Cardinals_season"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Cardinals starting QB after Arizona released Kyler Murray; Carson Beck developing behind him",
+   "note": "[news 2026-03-03] Role change: Brissett is QB1 in Arizona now",
+   "source": "https://burncitysports.com/2026/03/03/arizona-cardinals-kyler-malik-qb-nfl"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "None reported",
+   "role": "Cardinals QB1 following Kyler Murray's release. Some trade speculation exists given Arizona's rebuild, but coaching staff has publicly reaffirmed him as starter.",
+   "note": "[news ~2026-09-15/20] Beat Chargers Week 1 (earned $285k win bonus per contract clause), then Cardinals lost 31-7 to Seahawks in Week 2 with Brissett's performance widely criticized.",
+   "source": "https://api.sleeper.app/players/nfl/3257"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "player_id": "13317",
+ "name": "Ted Hurst",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "TB"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "",
+    "games": null,
+    "carries": null,
+    "targets": null,
+    "rec": null,
+    "yards": null,
+    "td": null,
+    "note": "College player (Georgia State) in 2025; no NFL stats."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract, drafted round 3, pick 84 overall, 2026 NFL Draft, out of Georgia State."
+  },
+  "scheme": {
+   "oc": "Zac Robinson",
+   "note": "New Bucs OC for 2026. Mike Evans (longtime WR1) left TB for SF in free agency, opening target share for younger WRs including Hurst."
+  },
+  "competition": [
+   {
+    "name": "Emeka Egbuka",
+    "age": 23,
+    "status": "WR1 (left side) depth chart",
+    "note": "2025 1st-round pick; ourlads TB depth chart. Age not verified.",
+    "resolved_id": "12514",
+    "resolved_team": "TB",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Dennis Houston",
+    "age": 27,
+    "status": "WR3 (left side) depth chart",
+    "note": "Ourlads TB depth chart; age not verified.",
+    "resolved_id": "8801",
+    "resolved_team": "TB",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Ourlads TB depth chart (2026) lists left-side WR order: Emeka Egbuka (1), Ted Hurst III (2), Dennis Houston (3). Right side: McMillan/Tez Johnson. Slot: Chris Godwin Jr./Kameron Johnson."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No injury reported for Hurst; rookie, presumed active in camp."
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Ted_Hurst",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Tampa_Bay_Buccaneers_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/TB",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Ted_Hurst"
+  }
+ ]
+}

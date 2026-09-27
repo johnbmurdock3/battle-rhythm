@@ -1,0 +1,123 @@
+{
+ "player_id": "11627",
+ "name": "Troy Franklin",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DEN"
+   },
+   {
+    "season": 2026,
+    "team": "DEN"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "DEN",
+    "games": null,
+    "targets": 104,
+    "rec": 65,
+    "yards": 709,
+    "td": 6,
+    "note": "2nd NFL season; 65/104 for 709 yds, 6 TD"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Still on rookie deal (2024 draft pick); not confirmed in sources fetched"
+  },
+  "scheme": {
+   "oc": "Davis Webb (new OC for 2026, named by HC Sean Payton)",
+   "note": "HC Sean Payton entering 4th season"
+  },
+  "competition": [
+   {
+    "name": "Courtland Sutton",
+    "age": 30,
+    "status": "X-receiver starter",
+    "note": "",
+    "resolved_id": "5045",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jaylen Waddle",
+    "age": 27,
+    "status": "Z-receiver starter, acquired via trade in 2026",
+    "note": "Major new addition to the WR room, direct target competition",
+    "resolved_id": "7526",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Marvin Mims Jr.",
+    "age": 24,
+    "status": "backs up Franklin in slot",
+    "note": "",
+    "resolved_id": "9494",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Pat Bryant",
+    "age": 23,
+    "status": "backup WR",
+    "note": "",
+    "resolved_id": "12492",
+    "resolved_team": "DEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Franklin listed as the presumptive slot-receiver starter per SI.com Broncos depth chart (2026 camp)",
+   "Devaughn Vele was traded away in summer 2025",
+   "SI.com 'Top Broncos of 2026' piece (Jun 4, 2026) title explicitly frames Franklin as 'Facing New Competition' due to the Waddle trade"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "No current injury/practice report found for Franklin in sources fetched"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.si.com/nfl/broncos/onsi/top-broncos-of-2026-24-troy-franklin-facing-new-competition",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/broncos/onsi/broncos-depth-chart-entering-camp-starters-battles-and-bubble-players",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Denver_Broncos_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/den",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.si.com/nfl/broncos/onsi/top-broncos-of-2026-24-troy-franklin-facing-new-competition"
+  }
+ ]
+}

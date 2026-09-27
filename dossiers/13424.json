@@ -1,0 +1,84 @@
+{
+ "player_id": "13424",
+ "name": "Seth McGowan",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "unverified"
+   },
+   {
+    "season": 2026,
+    "team": "IND"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jonathan Taylor",
+    "age": 27,
+    "status": "healthy, RB1",
+    "note": "clear lead back",
+    "resolved_id": "6813",
+    "resolved_team": "IND",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Listed RB2 behind Jonathan Taylor on Colts depth chart, ahead of DJ Giddens (RB3, listed questionable). Pure backup/handcuff value, no standalone role."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury reported; Active",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/indianapolis-colts-depth-chart-ind",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.colts.com/team/players-roster/seth-mcgowan/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-05",
+   "role": "Rookie 7th-round pick in RB2 competition behind starter Jonathan Taylor, vs DJ Giddens",
+   "note": "Held slight edge over Giddens as of Aug 5, 2026 camp reports; got extra 1st-team reps when Giddens missed a practice; competition still open, hinges on pass-pro/receiving",
+   "source": "https://www.si.com/nfl/colts/onsi/colts-seth-mcgowan-making-early-impression-in-rb2-competition"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/indianapolis-colts-depth-chart-ind"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "2026 7th-round rookie, RB2 behind Jonathan Taylor with DJ Giddens RB3",
+   "note": "No notable news found",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/IND"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 2,
+   "injury": "No injury reported; Active",
+   "role": "7th-round rookie RB (237 overall via trade from Steelers), Sleeper depth chart shows RB order 3 (RB3). Cited as mentored by Jonathan Taylor in camp.",
+   "note": "Through Colts' Week 1 (L vs Ravens) and Week 2 (L at Chiefs): 2 carries for 0 yds, 1 reception for 0 yds combined \u2014 minimal early-down/passing-game usage as RB3.",
+   "source": "https://www.colts.com/team/players-roster/seth-mcgowan/"
+  }
+ ]
+}

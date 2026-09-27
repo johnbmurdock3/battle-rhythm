@@ -1,0 +1,88 @@
+{
+ "player_id": "9999",
+ "name": "Will Levis",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "TEN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Cam Ward",
+    "age": 24,
+    "status": "starter",
+    "note": "QB1, 2025 rookie starter ahead of both Levis and Trubisky",
+    "resolved_id": "12522",
+    "resolved_team": "TEN",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Mitchell Trubisky",
+    "age": 31,
+    "status": "backup",
+    "note": "listed QB2, ahead of Levis on Titans depth chart",
+    "resolved_id": "3976",
+    "resolved_team": "TEN",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Titans depth chart (ESPN, confirmed): 1. Cam Ward, 2. Mitchell Trubisky, 3. Will Levis, 4. Hendon Hooker. Levis has slipped to QB3, behind veteran free-agent addition Trubisky \u2014 NOT the primary backup. Significant for superflex value: he is no longer one injury from starting."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "2026-08-11",
+   "note": "not checked this pass"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.espn.com/nfl/team/depth/_/name/ten/tennessee-titans",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872939",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-06",
+   "role": "Competing with Mitch Trubisky for the Titans' backup QB job behind the starter",
+   "note": "GM said roster decisions will be based on best 53 players overall; no injury reported",
+   "source": "https://www.fantasypros.com/nfl/players/will-levis.php"
+  },
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.espn.com/nfl/team/depth/_/name/ten/tennessee-titans"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Backup QB, depth order 2 per Sleeper",
+   "note": "TEN's Week 2 starter/QB1 appears to be Mitchell Trubisky (listed Questionable, biceps, for Week 3 per injury report) - Levis is the backup; watch Trubisky's biceps injury for a possible role change.",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401872939"
+  }
+ ]
+}

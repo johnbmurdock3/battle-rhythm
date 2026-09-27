@@ -1,0 +1,98 @@
+{
+ "player_id": "8408",
+ "name": "Jordan Mason",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "MIN"
+   },
+   {
+    "season": 2026,
+    "team": "MIN"
+   }
+  ],
+  "workload": [
+   {
+    "2025": "Became lead back when Aaron Jones went to IR (hamstring) on 2025-09-17, out 4+ weeks"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Aaron Jones",
+    "age": 31,
+    "status": "RB1 on current depth chart",
+    "note": "Ahead of Mason per most current depth-chart listing; missed multiple weeks in 2025 to a hamstring injury (IR, placed 2025-09-17), but no August 2026 injury/health concern found in camp coverage as of 2026-08-09",
+    "resolved_id": "4199",
+    "resolved_team": "MIN",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. PRIORITY: depth charts are split \u2014 Rotowire/vikingsterritory (minicamp) list Aaron Jones as RB1 ahead of Mason (RB2); an earlier ESPN projection (dated for the 2025 season, now stale) had projected Mason as the lead-carry back. As of the 2026-08-09 Vikings training-camp tracker, neither Jones nor Mason has any reported injury; Jones has significant recent hamstring injury history (2025) that is worth monitoring in camp for recurrence, but he is not currently listed as hurt."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Thumb, Injured Reserve, expected return Week 7 [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   "Mason scored on a juke-move TD in 7/29 team drills"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://vikingsterritory.com/2026/news/top_news/vikings-depth-chart-minicamp-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://thevikingage.com/minnesota-vikings-2026-training-camp-tracker-latest-updates-news-injuries-rumors",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/news/aaron-jones-injury-update-vikings-rb-heading-to-injured-reserve-out-at-least-four-weeks-per-reports",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/MIN/minnesota-vikings/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy (both Jones and Mason)",
+   "note": "baseline from initial research pass",
+   "source": "https://vikingsterritory.com/2026/news/top_news/vikings-depth-chart-minicamp-2026"
+  },
+  {
+   "date": "2026-09-03",
+   "role": "Listed as co-starting RB with Aaron Jones on Vikings' unofficial depth chart after cut-down day",
+   "note": "4.8 YPC, 6 TD in first Vikings season (2025); reportedly outperforming Jones in camp, positioned for meaningful Week 1 role",
+   "source": "https://www.cbssports.com/fantasy/football/news/vikings-jordan-mason-co-starting-rb-with-jones/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Nursing a sore thumb, being evaluated per HC Kevin O'Connell (9/14)",
+   "role": "Backup RB in Minnesota backfield",
+   "note": "[news 2026-09-14] No numeric snap/touch data found for Week 1; monitor thumb evaluation",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-14/koc-jordan-mason-nursing-sore-thumb"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 0,
+   "injury": "Thumb, Injured Reserve, expected return Week 7 [news 2026-09-21]",
+   "role": "Did not appear in Week 2 box score (inactive/IR); Aaron Jones is clear lead back: 23 carries/105 yds/0 targets in Week 2 vs CHI",
+   "note": "CONFIRMS prior report: Mason on IR with thumb injury, ~Week 7 return, Aaron Jones is the clear bell-cow starter in MIN backfield",
+   "source": "https://www.cbssports.com/nfl/teams/MIN/minnesota-vikings/injuries/"
+  }
+ ]
+}

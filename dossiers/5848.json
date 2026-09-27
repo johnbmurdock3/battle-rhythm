@@ -1,0 +1,83 @@
+{
+ "player_id": "5848",
+ "name": "Marquise Brown",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "KC"
+   },
+   {
+    "season": 2026,
+    "team": "PHI"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "one-year, $6.5M",
+   "date": "2026-03-17"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": "specific WRs ahead of him on Eagles depth chart not confirmed in sources checked"
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: signed with Eagles Mar 17 2026 after finishing 2025 with Chiefs (49 rec/587 yds/5 TD); one headline notes he is 'sliding down' the Eagles WR depth chart following the 2026 draft"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": "Not confirmed in sources checked"
+  },
+  "camp": [
+   "Reported to be sliding down Eagles depth chart post-draft per RotoBaller headline"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Marquise_Brown",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotoballer.com/player-news/marquise-brown-sliding-down-eagles-depth-chart-following-2026-draft/1851713",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/5848",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Marquise_Brown"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "WR on Eagles roster alongside DeVonta Smith; likely elevated role after A.J. Brown was traded to New England in June 2026",
+   "note": "Not on Eagles injury report as of Aug 31, 2026; healthy. Confirmed on active Eagles roster (jersey #0).",
+   "source": "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/roster/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Slot WR, depth_chart_order 6 on PHI per Sleeper; not on Eagles injury report (healthy)",
+   "note": "No target/snap data located this pass. No notable news found.",
+   "source": "https://api.sleeper.app/players/nfl/5848"
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "player_id": "4866",
+ "name": "Saquon Barkley",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2022,
+    "team": "NYG"
+   },
+   {
+    "season": 2023,
+    "team": "NYG"
+   },
+   {
+    "season": 2024,
+    "team": "PHI"
+   },
+   {
+    "season": 2025,
+    "team": "PHI"
+   },
+   {
+    "season": 2026,
+    "team": "PHI"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2022,
+    "team": "NYG",
+    "games": 16,
+    "carries": 295,
+    "targets": 76,
+    "rec": 57,
+    "yards": 1312,
+    "td": 10,
+    "note": "Rushing yards only; total TD combines rush+rec."
+   },
+   {
+    "season": 2023,
+    "team": "NYG",
+    "games": 14,
+    "carries": 247,
+    "targets": 60,
+    "rec": 41,
+    "yards": 962,
+    "td": 10,
+    "note": ""
+   },
+   {
+    "season": 2024,
+    "team": "PHI",
+    "games": 16,
+    "carries": 345,
+    "targets": 43,
+    "rec": 33,
+    "yards": 2005,
+    "td": 15,
+    "note": "2,005 rush yds; NFL rushing leader; AP Offensive Player of the Year, First-team All-Pro; career-high 345 carries."
+   },
+   {
+    "season": 2025,
+    "team": "PHI",
+    "games": 16,
+    "carries": 280,
+    "targets": 50,
+    "rec": 37,
+    "yards": 1140,
+    "td": 9,
+    "note": "Rush yards led NFL per Eagles RB preview (philadelphiaeagles.com, 2026-07-07); carry count down ~65 from 2024 peak."
+   }
+  ],
+  "contract": {
+   "years": 2,
+   "signed": "2025-03",
+   "note": "2-year, $41.2M extension signed March 2025 (through 2028), $36M guaranteed at signing plus up to $15M more in incentives; $20.6M AAV made him first $20M+/yr RB in NFL history. Prior deal was 3-yr/$37.75M ($12.6M APY) signed 2024 offseason."
+  },
+  "scheme": {
+   "oc": "Sean Mannion",
+   "note": "Eagles fired OC Kevin Patullo 2026-01-13 (HC Nick Sirianni: 'Ultimately, when we fall short of our goals that responsibility lies on my shoulders'); offense had finished 24th overall / 19th in points in 2025. Hired Sean Mannion (age 33, ex-Packers QB coach 2025, offensive assistant 2024) as new OC, 2026-01-30 \u2014 first-time NFL playcaller. Barkley on new system (2026-07-31): 'I think it's pretty cool that you start from scratch, learn a new language, get familiar with a new system' and on running-style tweak: 'The thing that changes for me, you coach it a little bit different...getting more of a one-cut mentality.'"
+  },
+  "competition": [
+   {
+    "name": "Tank Bigsby",
+    "age": 23,
+    "status": "healthy",
+    "note": "Acquired via trade from Jacksonville (2025); returns as primary backup/change-of-pace RB2 for 2026.",
+    "resolved_id": "9225",
+    "resolved_team": "PHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Will Shipley",
+    "age": 23,
+    "status": "healthy",
+    "note": "2024 4th-round pick; available for change-of-pace duties.",
+    "resolved_id": "11577",
+    "resolved_team": "PHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Dameon Pierce",
+    "age": 26,
+    "status": "healthy",
+    "note": "Free-agent signing, competing for roster spot.",
+    "resolved_id": "8129",
+    "resolved_team": "PHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Elijah Mitchell",
+    "age": 28,
+    "status": "healthy",
+    "note": "Recently signed, competing for roster spot.",
+    "resolved_id": "7561",
+    "resolved_team": "PHI",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Career carries context: PFR shows a running career-attempts figure around 1,826 through 2024 (per one summary source); 2025 added 280 more carries.",
+   "Enters 2026 as clear-cut lead back / 'primary running back' per Eagles' own training-camp position preview (2026-07-07), no committee signaled in team materials.",
+   "No specific 2026 workload-management/load-management plan was found stated by the team as of the sources checked; 2025 carries (280) already down from the 345-carry 2024 workload."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Stinger scare during Week 2 game; left briefly, was questionable to return, then returned. No injury tag on Sleeper API as of check (injury_status: null).",
+   "as_of": "2026-09-22"
+  },
+  "camp": [
+   {
+    "quote": "I think it's pretty cool that you start from scratch, learn a new language, get familiar with a new system.",
+    "who": "Saquon Barkley",
+    "date": "2026-07-31"
+   },
+   {
+    "quote": "The thing that changes for me, you coach it a little bit different...getting more of a one-cut mentality.",
+    "who": "Saquon Barkley",
+    "date": "2026-07-31"
+   },
+   {
+    "quote": "I'm always going to have the mindset of putting the work in, whether it's physically or mentally, whether it's strength, whether it's speed, mobility...",
+    "who": "Saquon Barkley",
+    "date": "2026-07-07"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.pro-football-reference.com/players/B/BarkSa00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/eagles-saquon-barkley-sign-rb-two-year-contract-extension-41-million",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.philadelphiaeagles.com/news/eagles-make-change-at-offensive-coordinator-kevin-patullo",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://patch.com/pennsylvania/philadelphia/philadelphia-eagles-hire-sean-mannion-new-offensive-coordinator-replace",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.philadelphiaeagles.com/news/eagles-2026-training-camp-position-preview-running-back",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.philadelphiaeagles.com/news/for-saquon-the-learning-and-improvement-never-ends",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/saquon-barkley.php",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.pro-football-reference.com/players/B/BarkSa00.htm"
+  },
+  {
+   "date": "2026-09-03",
+   "injury": "None per Sleeper as of 2026-09-03; no lingering issues reported heading into 2026",
+   "role": "Lead/workhorse RB for Eagles",
+   "note": "2025 season: 280 carries, 1,140 rush yds, 7 TD; no current injury concerns reported for 2026 per FantasyPros outlook.",
+   "source": "https://www.fantasypros.com/nfl/news/saquon-barkley.php"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "None reported",
+   "role": "Still Eagles workhorse under new OC Sean Mannion; no role threat",
+   "note": "[news 2026-09-14] Played and impressed in Week 1 vs WAS; exact box score not found",
+   "source": "https://sports.yahoo.com/articles/saquon-barkley-efficient-eagles-season-220034626.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Stinger scare during Week 2 game; left briefly, was questionable to return, then returned. No injury tag on Sleeper API as of check (injury_status: null).",
+   "role": "",
+   "note": "Held to 9 yards then had a stinger scare Sun Sep 20 before returning to the game [news 2026-09-20/2026-09-21]",
+   "source": "https://www.fantasypros.com/nfl/news/saquon-barkley.php"
+  }
+ ]
+}

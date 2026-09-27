@@ -1,0 +1,93 @@
+{
+ "player_id": "4033",
+ "name": "David Njoku",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CLE"
+   },
+   {
+    "season": 2026,
+    "team": "LAC"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "One-year, $8M deal signed May 2026"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Oronde Gadsden",
+    "age": 23,
+    "status": "second-year pro",
+    "note": "other Chargers TE",
+    "resolved_id": "12493",
+    "resolved_team": "LAC",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Charlie Kolar",
+    "age": 27,
+    "status": "",
+    "note": "free-agent TE addition",
+    "resolved_id": "8127",
+    "resolved_team": "LAC",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: left Cleveland, signed with the Chargers in free agency (May 2026), fitting Mike McDaniel's TE-friendly scheme.",
+   "Explicit depth-chart ranking (TE1 vs Gadsden) not confirmed in this pass, but reporting frames him as the expected top option."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Knee injury -- carted off during Week 2 game [news ~2026-09-20], placed on injured reserve along with fellow TE Charlie Kolar [news ~2026-09-21].",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.chargers.com/news/agree-to-terms-pro-bowl-tight-end-david-njoku-2026",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.chargers.com/news/david-njoku-mike-mcdaniel-tight-end-fantasy",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://api.sleeper.app/players/nfl/4033",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.chargers.com/news/agree-to-terms-pro-bowl-tight-end-david-njoku-2026"
+  },
+  {
+   "date": "2026-08-31",
+   "role": "Signed with Chargers as free agent",
+   "note": "Announced Feb 9, 2026 he would not return to Cleveland; signed 1-year deal with LAC May 11, 2026 after 9 seasons with Browns; not on Chargers Aug 31, 2026 injury report",
+   "source": "https://en.wikipedia.org/wiki/David_Njoku"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Knee injury -- carted off during Week 2 game [news ~2026-09-20], placed on injured reserve along with fellow TE Charlie Kolar [news ~2026-09-21].",
+   "role": "Team change: now with Chargers (not Cleveland). Was TE1 for LAC prior to injury; now out indefinitely on IR. Chargers reportedly exploring emergency TE free agent/trade options.",
+   "note": "[news 2026-09-21] Not a Week 3 option; IR stint likely multi-week minimum.",
+   "source": "https://api.sleeper.app/players/nfl/4033"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "player_id": "11579",
+ "name": "Audric Estime",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NO"
+   },
+   {
+    "season": 2026,
+    "team": "NO"
+   }
+  ],
+  "workload": [
+   {
+    "note": "2025: 14 carries, 94 yards, 1 TD in a breakout game vs Tennessee; 13 games with Broncos in 2024 (310 yards, 2 TDs)"
+   }
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Alvin Kamara",
+    "age": 31,
+    "status": "starter but injury-prone",
+    "note": "lingering knee/ankle issues, missed 5 straight games in 2025",
+    "resolved_id": "4035",
+    "resolved_team": "NO",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Devin Neal",
+    "age": 22,
+    "status": "rookie",
+    "note": "also in mix",
+    "resolved_id": "12476",
+    "resolved_team": "NO",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Journeyman path in 2025: waived by Broncos Aug 25 2025, Eagles practice squad, then Saints (promoted Nov 5, 2025); emerged as primary/lead-change back late in 2025 due to Kamara's injuries and Kendre Miller's season-ending knee injury - real 2026 workhorse upside if Kamara sits."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Audric_Estim%C3%A9",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/saints-marching-audric-estim-just-010003639.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nola.com/sports/saints/saints-sign-rb-audric-estime-to-active-roster/article_c8772a67-def5-4c47-8254-bc39490bd63e.html",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Audric_Estim%C3%A9"
+  }
+ ]
+}

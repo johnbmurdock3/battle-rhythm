@@ -1,0 +1,71 @@
+{
+ "player_id": "13322",
+ "name": "Sam Roush",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "Stanford (college)"
+   },
+   {
+    "season": 2026,
+    "team": "CHI"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "note": "2026 rookie draft pick (Day 2), rookie deal signed"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Cole Kmet",
+    "age": 27,
+    "status": "veteran, healthy",
+    "note": "TE1",
+    "resolved_id": "6826",
+    "resolved_team": "CHI",
+    "resolved_pos": "TE",
+    "same_team": true
+   },
+   {
+    "name": "Colston Loveland",
+    "age": 22,
+    "status": "second-year pro",
+    "note": "TE2",
+    "resolved_id": "12517",
+    "resolved_team": "CHI",
+    "resolved_pos": "TE",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Rookie TE3 behind Kmet and Loveland; expected complementary run-block/pass-catch role, not immediate volume."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://247sports.com/nfl/chicago-bears/article/chicago-bears-2026-rookie-expectations-will-tight-end-sam-roush-play-a-bigger-role-than-expected--288149424/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://247sports.com/nfl/chicago-bears/article/chicago-bears-2026-rookie-expectations-will-tight-end-sam-roush-play-a-bigger-role-than-expected--288149424/"
+  }
+ ]
+}

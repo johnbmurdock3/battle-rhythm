@@ -1,0 +1,83 @@
+{
+ "player_id": "12505",
+ "name": "Jalen Royals",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "KC"
+   },
+   {
+    "season": 2026,
+    "team": "KC"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Xavier Worthy",
+    "age": 23,
+    "status": "RWR1",
+    "note": "ahead of Royals",
+    "resolved_id": "11624",
+    "resolved_team": "KC",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. RWR2 behind Xavier Worthy per current Ourlads Chiefs depth chart. Had knee tendinitis as a 2025 rookie that threatened an IR stint that year (dated 8/26/25) -- 2026 knee status not independently confirmed this pass."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Knee tendinitis; per HC Andy Reid he is 'a bit farther out from returning' than other injured Chiefs; sat out the preseason finale",
+   "as_of": "2026-08-26"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/KC",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://arrowheadaddict.com/jalen-royals-injury-threatens-key-chance-to-rise-in-chiefs-wr-depth-chart-01k3kprx1rdx",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-week-2-colts-snap-count-observations-tyquan-thornton-jalen-royals-do-more-with-less/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified for 2026 (stale: knee tendinitis in 2025 rookie season)",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/KC"
+  },
+  {
+   "date": "2026-08-26",
+   "injury": "Knee tendinitis; per HC Andy Reid he is 'a bit farther out from returning' than other injured Chiefs; sat out the preseason finale",
+   "role": "May start the 2026 season on injured reserve; the injury costs him a key camp/early-season window to earn snaps (relevant given Rashee Rice suspension implications); Xavier Worthy, Hollywood Brown, JuJu Smith-Schuster, Tyquan Thornton fill out the WR room in the meantime",
+   "note": "Rookie 4th-rounder; knee tendinitis threatens Week 1 availability, possible IR stint",
+   "source": "https://arrowheadaddict.com/jalen-royals-injury-threatens-key-chance-to-rise-in-chiefs-wr-depth-chart-01k3kprx1rdx"
+  },
+  {
+   "date": "2026-09-22",
+   "snap_pct": 15.0,
+   "touches": 1,
+   "injury": "",
+   "role": "Scored first career TD in Week 2 on limited snaps",
+   "note": "Wk2 vs IND: 12 offensive snaps (15%), 1 tgt, 1 rec for 5 yds and a TD (first-down/TD reception). [news 2026-09-21]",
+   "source": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-week-2-colts-snap-count-observations-tyquan-thornton-jalen-royals-do-more-with-less/"
+  }
+ ]
+}

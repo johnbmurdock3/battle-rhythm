@@ -1,0 +1,73 @@
+{
+ "player_id": "4981",
+ "name": "Calvin Ridley",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TEN"
+   },
+   {
+    "season": 2026,
+    "team": "TEN"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Carnell Tate",
+    "age": 21,
+    "status": "rookie starter",
+    "note": "Rookie WR1, Ridley now mentoring him per Athlon",
+    "resolved_id": "13279",
+    "resolved_team": "TEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Wan'Dale Robinson",
+    "age": 25,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "8126",
+    "resolved_team": "TEN",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Rotowire/depth chart has Ridley at WR3 behind rookie Carnell Tate and Wan'Dale Robinson, with Chimere Dike and Elic Ayomanor pushing from behind -- reduced target-share outlook at age 31."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "unverified",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/tennessee-titans-depth-chart-ten",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://athlonsports.com/nfl/tennessee-titans/calvin-ridley-titans-veteran-wr-mentor-carnell-tate",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unverified",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/nfl-depth-charts/tennessee-titans-depth-chart-ten"
+  }
+ ]
+}

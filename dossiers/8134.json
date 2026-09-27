@@ -1,0 +1,148 @@
+{
+ "player_id": "8134",
+ "name": "Khalil Shakir",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "BUF"
+   },
+   {
+    "season": 2026,
+    "team": "BUF"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "BUF",
+    "games": 16,
+    "targets": 95,
+    "rec": 72,
+    "yards": 719,
+    "td": 4,
+    "note": ""
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2025-02-25",
+   "note": "4-year extension worth up to $60.2M, $32M signing bonus, through 2029 (signed in 2025, still in effect)."
+  },
+  "scheme": {
+   "oc": "Pete Carmichael (HC Joe Brady)",
+   "note": "Joe Brady is Bills HEAD COACH for 2026 (elevated from OC) \u2014 material coaching change; Pete Carmichael new OC."
+  },
+  "competition": [
+   {
+    "name": "DJ Moore",
+    "age": 29,
+    "status": "WR1, ahead of Shakir",
+    "note": "Born April 14, 1997; traded to Buffalo March 11, 2026.",
+    "resolved_id": "4983",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Joshua Palmer",
+    "age": 26,
+    "status": "Competing for 3rd WR spot",
+    "note": "Age unverified.",
+    "resolved_id": "7670",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Keon Coleman",
+    "age": 23,
+    "status": "Competing for 3rd WR spot",
+    "note": "Age unverified.",
+    "resolved_id": "11637",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Skyler Bell",
+    "age": 24,
+    "status": "Rookie 4th-rounder, competing",
+    "note": "Age unverified.",
+    "resolved_id": "13402",
+    "resolved_team": "BUF",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Shakir remains #2 WR behind newly acquired DJ Moore per June 24, 2026 report; described as 'set for key role again' entering 5th season.",
+   "Tyrell Shavers currently on PUP-P list per same report."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Not on BUF Week 3 injury report himself [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/player/khalil-shakir-15892",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/college/boise-state/broncos-in-the-pros/former-boise-state-receiver-khalil-shakir-agrees-to-contract-extension-with-buffalo-bills-01jmz8sjjy53",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.buffalobills.com/team/coaches-roster/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/bills/onsi/rumors-bills-training-camp-depth-chart-whos-starting-whos-fighting-for-job-keon-coleman",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/BUF/buffalo-bills/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.rotowire.com/football/player/khalil-shakir-15892"
+  },
+  {
+   "date": "2026-09-02",
+   "injury": "Questionable, undisclosed injury type, per ESPN injury report dated 2026-09-02 20:34 UTC; report states 'there's currently optimism' he will be available for Week 1",
+   "role": "No role change reported; remains on Buffalo's WR corps",
+   "note": "Questionable tag as of Sept 2, 2026 report but team expressed optimism for Week 1 availability",
+   "source": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/athletes/4373678/injuries/636029"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 54,
+   "touches": 4,
+   "injury": "Sidelined from practice 8/20 undisclosed; Sleeper still shows Questionable from that period, but he was cleared and NOT on the Week 1 injury report - that is current",
+   "role": "#2 WR on BUF behind newly-acquired DJ Moore (75% snaps vs Shakir 54%); Moore expected to cap his target ceiling",
+   "note": "[news 2026-09-13] Week 1: 4 rec/6 tgt/50 yds, third on team in yards",
+   "source": "https://www.rotowire.com/football/player/khalil-shakir-15892"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 2,
+   "injury": "Not on BUF Week 3 injury report himself [news 2026-09-21]",
+   "role": "SWR, depth order 2 per Sleeper, behind DJ Moore",
+   "note": "Week 2 vs DET: 2 rec/3 tgt/22 yds. DJ Moore (shoulder, AC joint) was limited that same game (0 rec/1 tgt) and is now listed Questionable for Week 3 [news 2026-09-21] -- if Moore is out or limited Week 3, Shakir is the clearest beneficiary for added targets.",
+   "source": "https://www.cbssports.com/nfl/teams/BUF/buffalo-bills/injuries/"
+  }
+ ]
+}

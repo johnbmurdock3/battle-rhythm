@@ -1,0 +1,81 @@
+{
+ "player_id": "6960",
+ "name": "Tyler Johnson",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DAL"
+   },
+   {
+    "season": 2026,
+    "team": "DAL"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "George Pickens",
+    "age": 25,
+    "status": "starter",
+    "note": "WR1",
+    "resolved_id": "8137",
+    "resolved_team": "DAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "CeeDee Lamb",
+    "age": 27,
+    "status": "starter",
+    "note": "WR2",
+    "resolved_id": "6786",
+    "resolved_team": "DAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Ryan Flournoy",
+    "age": 26,
+    "status": "SWR1",
+    "note": "",
+    "resolved_id": "11783",
+    "resolved_team": "DAL",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Fourth on Cowboys WR chart behind Pickens/Lamb/Flournoy; touchdown-dependent deep flier."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "",
+   "body_part": "",
+   "as_of": "",
+   "note": ""
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/DAL",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/DAL"
+  }
+ ]
+}

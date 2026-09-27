@@ -1,0 +1,100 @@
+{
+ "player_id": "12471",
+ "name": "DJ Giddens",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "IND"
+   },
+   {
+    "season": 2026,
+    "team": "IND"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "IND",
+    "games": 9,
+    "carries": 26,
+    "rush_yards": 96,
+    "rush_td": 0,
+    "receptions": 0,
+    "rec_yards": 0,
+    "rec_td": 0,
+    "note": "0 GS, rookie season (5th-round pick, 2025 draft), reserve role behind Jonathan Taylor. Per Pro-Football-Reference."
+   }
+  ],
+  "contract": {
+   "years": 4,
+   "signed": "2025-05-09",
+   "note": "4-year rookie contract signed 2025-05-09 per Wikipedia"
+  },
+  "scheme": {
+   "oc": "Jim Bob Cooter",
+   "note": "HC Shane Steichen (since Feb 2023, unchanged); Colts offense ranked top-10 in multiple categories in 2025. Per Colts.com."
+  },
+  "competition": [
+   {
+    "name": "Jonathan Taylor",
+    "age": 27,
+    "status": "Listed RB1 on Colts depth chart ahead of Giddens (born 1999-01-19), entrenched starter",
+    "note": "Per RotoWire/Wikipedia",
+    "resolved_id": "6813",
+    "resolved_team": "IND",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Giddens listed RB2 on Indianapolis's RotoWire depth chart as of 2026-08-11, clearly behind entrenched starter Jonathan Taylor.",
+   "No team or HC/OC change."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Hamstring injury, missed practice",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/DJ_Giddens",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/G/GiddDJ00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/indianapolis-colts-depth-chart-ind",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/dj-giddens.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.colts.com/team/coaches-roster/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jonathan_Taylor",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Hamstring injury, missed practice",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/DJ_Giddens"
+  }
+ ]
+}

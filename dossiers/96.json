@@ -1,0 +1,59 @@
+{
+ "player_id": "96",
+ "name": "Aaron Rodgers",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "PIT"
+   },
+   {
+    "season": 2026,
+    "team": "PIT"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Mason Rudolph",
+    "age": 31,
+    "status": "",
+    "note": "QB2 backup",
+    "resolved_id": "4972",
+    "resolved_team": "PIT",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Rodgers is the entrenched QB1. Rodgers has stated he will retire after the 2026 season, making this his final year \u2014 relevant for dynasty but not redraft."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-steelers-qb-retiring-after-2026-season/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/nfl/news/aaron-rodgers-steelers-qb-retiring-after-2026-season/"
+  }
+ ]
+}

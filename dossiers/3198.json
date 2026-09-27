@@ -1,0 +1,54 @@
+{
+ "player_id": "3198",
+ "name": "Derrick Henry",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {
+   "status": "None reported",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-08-29",
+   "touches": 0,
+   "role": "Starting RB, rested for preseason finale",
+   "note": "Did not play in Ravens' 41-3 preseason finale win over Washington on 2026-08-29 as part of standard veteran-rest strategy; no injury reported in that report. An earlier headline referenced an 'injury scare' at OTAs but details/severity could not be confirmed from available sources.",
+   "source": "https://sports.yahoo.com/articles/ravens-injury-updates-41-3-033326916.html"
+  },
+  {
+   "date": "2026-09-15",
+   "touches": 24,
+   "injury": "None reported",
+   "role": "Unquestioned Ravens lead back",
+   "note": "[news 2026-09-13] Week 1 vs IND: 24 carries, 144 yds, 3 TD",
+   "source": "https://baltimoresportsandlife.com/ravens-week-2-new-orleans-comes-to-baltimore/"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 16,
+   "injury": "None reported",
+   "role": "Workhorse RB1, no change. Lamar Jackson has been dealing with a back issue in recent weeks, increasing run-game reliance at times.",
+   "note": "[news 2026-09-20] Week 2 vs Saints: 16 carries, 68 rush yards, 1 TD (1-yard direct-snap score) in a Ravens loss/upset. Discard any stat line showing 36 carries/216 yds/4 TD vs Packers -- that was mis-served stale content from a Dec 2025 (2025-season) article, not Week 2 2026.",
+   "source": "https://athlonsports.com/nfl/trending/ravens-rb-derrick-henry-reaches-major-milestone-against-new-orleans-saints"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://athlonsports.com/nfl/trending/ravens-rb-derrick-henry-reaches-major-milestone-against-new-orleans-saints",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

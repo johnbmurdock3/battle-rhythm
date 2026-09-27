@@ -1,0 +1,151 @@
+{
+ "player_id": "13346",
+ "name": "Denzel Boston",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2026,
+    "team": "CLE"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "Washington (college)",
+    "games": 0,
+    "carries": 0,
+    "targets": 0,
+    "rec": 62,
+    "yards": 881,
+    "td": 0,
+    "note": "Final college season at University of Washington: 62 receptions, 881 yards; scored 14 of his 20 career TDs in the red zone per Browns team site; also punt returner, 8.5 yds/return with a 78-yard TD return in 2025"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie contract; drafted No. 39 overall (2nd round) in the 2026 NFL Draft by Cleveland"
+  },
+  "scheme": {
+   "oc": "",
+   "note": "No 2026 Browns OC change specifically identified in sources found; QB competition ongoing behind him (Deshaun Watson, Shedeur Sanders, Dillon Gabriel, Taylen Green per rotowire.com depth chart)"
+  },
+  "competition": [
+   {
+    "name": "Jerry Jeudy",
+    "age": 27,
+    "status": "Listed WR1 on Browns depth chart per rotowire.com (current, fetched Aug 2026)",
+    "note": "Established veteran incumbent",
+    "resolved_id": "6783",
+    "resolved_team": "CLE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "KC Concepcion",
+    "age": 21,
+    "status": "Listed WR2 ahead of Boston on the rotowire.com depth chart snapshot",
+    "note": "Rookie/newer addition; yahoo/dawgsbynature headline frames Concepcion and Boston as complementary pieces",
+    "resolved_id": "13298",
+    "resolved_team": "CLE",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Cedric Tillman",
+    "age": 26,
+    "status": "Listed WR4 on rotowire.com depth chart, behind Boston",
+    "note": "",
+    "resolved_id": "10444",
+    "resolved_team": "CLE",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "twsn.net (Aug 8-9, 2026) reports Boston 'is the clear new No. 1 receiver' in terms of trajectory/spring standout performance, even though he is not yet officially WR1 on paper -- article frames him as emerging as the top receiver 'once games begin'",
+   "Beat writer Zac Jackson (The Athletic), quoted Aug 8, 2026 via twsn.net: 'Boston was probably the standout offensive player of the spring... consistently used his size to position himself to make contested catches'",
+   "clutchpoints.com headline: 'Denzel Boston's huge Browns training camp confirmed by first-team promotion' and fantasypros.com: 'Denzel Boston to practice with first-team offense' -- both indicate he has been elevated to work with the first-team offense in camp, ahead of a nominal WR3 depth-chart listing",
+   "The task's stated '3rd on depth chart' listing is consistent with the rotowire.com formal depth chart (WR3 behind Jeudy and Concepcion), but multiple Aug 2026 camp reports suggest that listing understates his actual trajectory/role, since he has been getting first-team reps and being called the standout of camp"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "No injury reported",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Boston was probably the standout offensive player of the spring... consistently used his size to position himself to make contested catches",
+    "who": "Zac Jackson, The Athletic (via twsn.net)",
+    "date": "2026-08-08"
+   },
+   {
+    "quote": "Denzel Boston to practice with first-team offense",
+    "who": "FantasyPros news brief",
+    "date": ""
+   },
+   {
+    "quote": "Denzel Boston's huge Browns training camp confirmed by first-team promotion",
+    "who": "ClutchPoints headline",
+    "date": ""
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://twsn.net/2026/08/08/denzel-boston-is-the-clear-new-no-1-receiver-for-the-cleveland-browns",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/cleveland-browns-depth-chart-cle",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.clevelandbrowns.com/news/5-things-to-know-about-wr-denzel-boston-browns-no-39-pick-in-the-2026-nfl-draft",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/browns-updated-wr-depth-chart-234537084.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.fantasypros.com/nfl/news/601611/denzel-boston-to-practice-with-first-team.php",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://clutchpoints.com/nfl/cleveland-browns/browns-news-denzel-bostons-huge-training-camp-first-team-promotion",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/denzel-boston-scores-another-td-in-week-2",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "No injury reported",
+   "note": "baseline from initial research pass",
+   "source": "https://twsn.net/2026/08/08/denzel-boston-is-the-clear-new-no-1-receiver-for-the-cleveland-browns"
+  },
+  {
+   "date": "2026-08-25",
+   "role": "2026 2nd-round rookie; described as starting X receiver, impressing HC Todd Monken in camp reps against CB Denzel Ward.",
+   "note": "Rookie 2nd-rounder positioned as a major part of Browns receiving corps",
+   "source": "https://atozsports.com/nfl/cleveland-browns-news/denzel-boston-practice-update-todd-monken-pro-bowler-patriots-preseason/"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 5,
+   "injury": "",
+   "role": "Featured/rising WR target, scored TD 2nd straight week",
+   "note": "Week 2 (Sept 20) vs Buccaneers win: 7 targets, 5 catches, 95 yards, 1 TD; widely flagged as top waiver add after back-to-back TD weeks",
+   "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/denzel-boston-scores-another-td-in-week-2"
+  }
+ ]
+}

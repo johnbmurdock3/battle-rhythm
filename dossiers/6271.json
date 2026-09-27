@@ -1,0 +1,81 @@
+{
+ "player_id": "6271",
+ "name": "Olamide Zaccheaus",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "CHI"
+   },
+   {
+    "season": 2026,
+    "team": "ATL"
+   }
+  ],
+  "workload": [],
+  "contract": {
+   "terms": "2yr/$4.5M signed 2026-03-17"
+  },
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Zachariah Branch",
+    "age": 22,
+    "status": "backup slot WR",
+    "note": "behind Zaccheaus in slot",
+    "resolved_id": "13320",
+    "resolved_team": "ATL",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jahan Dotson",
+    "age": 26,
+    "status": "RWR1",
+    "note": "ahead of Zaccheaus overall in WR pecking order",
+    "resolved_id": "8119",
+    "resolved_team": "ATL",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: Bears (2025, 1yr deal) to Falcons (2026, 2yr/$4.5M signed 3/17/26), returning to team where career began; slated as slot WR1 (SWR) on Falcons depth chart per Ourlads."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Signed by ATL 3/17/26"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.atlantafalcons.com/news/atlanta-falcons-sign-wr-olamide-zaccheaus",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/ATL",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Olamide_Zaccheaus",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.atlantafalcons.com/news/atlanta-falcons-sign-wr-olamide-zaccheaus"
+  }
+ ]
+}

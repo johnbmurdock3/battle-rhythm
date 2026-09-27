@@ -1,0 +1,82 @@
+{
+ "player_id": "13296",
+ "name": "Caleb Douglas",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": ""
+   },
+   {
+    "season": 2026,
+    "team": "MIA"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": ""
+   }
+  ],
+  "notes": [
+   "Rookie WR, drafted by Miami in 2026 \u2014 2025 was college; part of Dolphins' 2026 WR depth-chart battle per The Phinsider 90-in-90 preview"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Ankle injury suffered Week 2 vs 49ers (Sept 21, 2026) with ~8 min left in Q4; wore a walking boot postgame, no official severity update from HC, reporter flagged it could mirror A.J. Brown's high-ankle-sprain/IR path [news 2026-09-21]",
+   "as_of": "2026-09-22"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.thephinsider.com/miami-dolphins-roster/120922/miami-dolphins-wide-receiver-depth-chart-position-battles-2026-training-camp-caleb-douglas-rookie-preview",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/dolphins-bleak-injury-caleb-douglas-134923521.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.thephinsider.com/miami-dolphins-roster/120922/miami-dolphins-wide-receiver-depth-chart-position-battles-2026-training-camp-caleb-douglas-rookie-preview"
+  },
+  {
+   "date": "2026-08-12",
+   "role": "Third-round rookie listed among Miami's top three WRs (with Malik Washington and Jalen Tolbert) on the Dolphins' first depth chart of camp; described by HC Jeff Hafley as one of the team's most consistent receivers",
+   "note": "Praised in camp as a starting-caliber rookie WR; no snap/target numbers reported yet",
+   "source": "https://www.nfl.com/news/rookie-wr-caleb-douglas-turning-heads-in-dolphins-training-camp"
+  },
+  {
+   "date": "2026-09-15",
+   "snap_pct": 86.5,
+   "route_pct": 86.5,
+   "injury": "",
+   "role": "Rookie WR, Week 1 starter opposite the Dolphins top receiver",
+   "note": "[news 2026-09-13] Week 1 debut: 7 targets, 86.5% route participation, 14.4 PPR pts",
+   "source": "https://www.rotostreetjournal.com/2026/09/13/fantasy-football-week-2-waiver-wire-kaelon-black-caleb-douglas-vele/"
+  },
+  {
+   "date": "2026-09-22",
+   "touches": 2,
+   "injury": "Ankle injury suffered Week 2 vs 49ers (Sept 21, 2026) with ~8 min left in Q4; wore a walking boot postgame, no official severity update from HC, reporter flagged it could mirror A.J. Brown's high-ankle-sprain/IR path [news 2026-09-21]",
+   "role": "Was Dolphins' leading receiver through 1.5 games (94 rec yards Week 1; 2 catches/19 yards Week 2 before injury). Matches Sleeper Questionable tag.",
+   "note": "Breakout rookie role now clouded by ankle injury; timeline uncertain, IR possible",
+   "source": "https://sports.yahoo.com/articles/dolphins-bleak-injury-caleb-douglas-134923521.html"
+  }
+ ]
+}

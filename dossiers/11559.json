@@ -1,0 +1,163 @@
+{
+ "player_id": "11559",
+ "name": "Michael Penix",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2024,
+    "team": "ATL"
+   },
+   {
+    "season": 2025,
+    "team": "ATL"
+   },
+   {
+    "season": 2026,
+    "team": "ATL"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "ATL",
+    "games": 9,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 1982,
+    "td": 9,
+    "note": "9 starts (146/276 comp implied, 166 completions, 3 INT) before season-ending Week 11 ACL injury vs Carolina; 70 rush yards, 1 rush TD"
+   },
+   {
+    "season": 2024,
+    "team": "ATL",
+    "games": 5,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 775,
+    "td": 3,
+    "note": "3 starts as rookie (61/105 comp, 3 INT); 11 rush yards, 1 rush TD"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "2026 base salary reported ~$7.3M (rookie deal, 2024 1st-round pick); no extension reported as of Aug 2026"
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Falcons fired HC Raheem Morris after 2025 season; hired Kevin Stefanski (formerly Browns HC) as new head coach, announced/introduced late Jan 2026 (ajc.com, Jan 27 2026; bleacherreport). No separate OC name confirmed in sources found."
+  },
+  "competition": [
+   {
+    "name": "Tua Tagovailoa",
+    "age": 28,
+    "status": "signed by Falcons in free agency (one-year deal) after being released/moving on from Miami Dolphins, per thefalcoholic.com Mar 9 2026",
+    "note": "As of July 29, 2026 camp reports (heavy.com; si.com/onsi), Tagovailoa is LISTED AS QB1 on the Falcons depth chart, with Penix QB2, because Tagovailoa has taken the bulk of spring/OTA first-team reps while Penix was not medically cleared. This is a real, current competition, not a stale listing -- Stefanski quote July 29, 2026 (92.9 The Game): 'When Mike is cleared by the medical team, we'll get to that point.'",
+    "resolved_id": "6768",
+    "resolved_team": "ATL",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Kirk Cousins",
+    "age": 36,
+    "status": "released/moved on per aol.com article (Cousins reportedly still owed $22.5M in 2026, $12.5M in 2027 as dead money despite release around March 11, 2026 start of league year)",
+    "note": "No longer on Falcons roster as competition per March 2026 reporting; earlier 2025-season articles calling him 'still the backup' predate the coaching change and Tua signing and are superseded",
+    "resolved_id": "1166",
+    "resolved_team": "LV",
+    "resolved_pos": "QB",
+    "same_team": false
+   },
+   {
+    "name": "Jack Strand",
+    "age": 22,
+    "status": "QB3 on Falcons depth chart per heavy.com July 29 2026",
+    "note": "",
+    "resolved_id": "13602",
+    "resolved_team": "ATL",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Penix suffered a partially torn left ACL in Week 11 2025 (loss to Carolina), had reconstructive surgery (report dated Nov 19, 2025 said surgery pending/needed; ajc.com Aug 6 2026 describes injury as occurring ~8 months earlier, i.e. Dec 2025 surgery)",
+   "Standard recovery timeline cited as 9-12 months, which puts full clearance around Aug-Nov 2026, creating real Week 1 2026 doubt (game 1 vs Pittsburgh Steelers per si.com/onsi Jul 29 2026)",
+   "As of Aug 6, 2026 (ajc.com) Penix was doing only 7-on-7 drills, not cleared for 11-on-11/contact"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Not fully cleared for team/contact drills; limited to individual and 7-on-7 work",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "When Mike is cleared by the medical team, we'll get to that point.",
+    "who": "HC Kevin Stefanski",
+    "date": "2026-07-29"
+   },
+   {
+    "quote": "We don't know exactly when that will happen... He's hitting every single checkpoint. I'm very confident in him.",
+    "who": "HC Kevin Stefanski",
+    "date": "2026-07-29"
+   },
+   {
+    "quote": "I'm not really chasing a timeline. I'm just chasing trying to be better every day.",
+    "who": "Michael Penix",
+    "date": "2026-08-06"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.ajc.com/sports/2026/08/falcons-michael-penix-jr-not-chasing-a-timeline-as-health-keeps-improving/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/falcons-michael-penix-needs-procedure-to-repair-acl",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://heavy.com/sports/nfl/atlanta-falcons/michael-penix-jr-news-training-camp/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.si.com/nfl/falcons/onsi/atlanta-falcons-get-official-word-on-michael-penix-injury-status",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/falcons-qb-depth-chart-tua-205040418.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.aol.com/articles/nfl-team-faces-bemusing-quarterback-212547814.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/nfl/live/2026-nfl-coaching-news-falcons-fire-raheem-morris-after-2-seasons-234646710.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.ajc.com/sports/2026/01/a-new-era-falcons-announce-kevin-stefanski-as-head-coach/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.pro-football-reference.com/players/P/PeniMi00.htm",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Not fully cleared for team/contact drills; limited to individual and 7-on-7 work",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ajc.com/sports/2026/08/falcons-michael-penix-jr-not-chasing-a-timeline-as-health-keeps-improving/"
+  }
+ ]
+}

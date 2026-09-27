@@ -1,0 +1,42 @@
+{
+ "player_id": "5854",
+ "name": "Drew Lock",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "ROLE CHANGE: starter Sam Darnold suffered a right hip injury on the first possession of Week 1; Lock relieved him and finished as the winning QB (13-10 over NE). Darnold reported doubtful for Week 2",
+   "note": "QB2 per depth chart but currently the active starter",
+   "source": "https://www.bing.com/news/search?q=Drew+Lock+Seahawks+2026+Sam+Darnold"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "QB2 on Seattle depth chart per Sleeper; starter Sam Darnold listed Out (Glute injury) on current NFL.com Seahawks injury report",
+   "note": "Darnold Out with glute injury per NFL.com injury report (checked 2026-09-22) \u2014 Lock is next man up on depth chart if Darnold sits, but no explicit 'Lock starting' confirmation found.",
+   "source": "https://www.nfl.com/injuries/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.nfl.com/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

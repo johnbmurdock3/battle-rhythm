@@ -1,0 +1,42 @@
+{
+ "player_id": "12578",
+ "name": "Carson Schwesinger",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Browns LB1 per Sleeper depth chart, no injury designation",
+   "note": "No notable news found beyond continuing as Cleveland starting linebacker",
+   "source": "https://api.sleeper.app/players/nfl/12578"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Full-time starting MLB",
+   "note": "Week1 (2026-09-14): 10 tackles (3 solo), 1 TFL; reigning 2025 Defensive Rookie of the Year (156 tackles, 2.5 sacks, 3 PBU incl. 2 INT) [news 2026-09-14]",
+   "source": "https://www.rotowire.com/football/headlines/carson-schwesinger-news-records-10-tackles-637483"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.rotowire.com/football/headlines/carson-schwesinger-news-records-10-tackles-637483",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

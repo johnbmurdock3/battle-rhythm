@@ -1,0 +1,87 @@
+{
+ "player_id": "9486",
+ "name": "Dontayvion Wicks",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "GB"
+   },
+   {
+    "season": 2026,
+    "team": "PHI"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "",
+    "age": null,
+    "status": "",
+    "note": "Eagles WR room includes rookie Makai Lemon per profootballnetwork depth-chart piece"
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: traded from Green Bay to Philadelphia in April 2026 ('Eagles agree to acquire WR Dontayvion Wicks from Packers'); reportedly got a contract extension as part of/after the deal, wants to 'show what I'm worth'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.philadelphiaeagles.com/news/eagles-agree-to-acquire-dontayvion-wicks-from-packers",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://dynastyleaguefootball.com/2026/04/12/dontayvion-wicks-traded-to-philadelphia-the-dynasty-fantasy-football-impact/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.nfl.com/news/new-eagles-wr-dontayvion-wicks-wants-to-show-what-i-m-worth-after-trade-extension",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.philadelphiaeagles.com/news/eagles-agree-to-acquire-dontayvion-wicks-from-packers"
+  },
+  {
+   "date": "2026-08-13",
+   "role": "Trending toward opening the season as the Eagles' No. 2 WR; impressed in camp while rival rookie Makai Lemon dealt with a hamstring injury",
+   "note": "Now with Philadelphia (not Green Bay); no injury reported, positioned for a bigger role",
+   "source": "https://www.fantasypros.com/nfl/players/dontayvion-wicks.php"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "TEAM CHANGE: traded Green Bay to Philadelphia April 2026; emerged as Eagles No. 2 WR behind DeVonta Smith after A.J. Brown was traded away",
+   "note": "[news 2026-09-14] Threatened deep and in the red zone in the Week 1 win over WAS; no injury concerns",
+   "source": "https://www.inquirer.com/eagles/live/eagles-news-injuries-score-highlights-next-game-20260914.html"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper depth_chart_position RWR order 2",
+   "note": "Not on PHI injury report as of 2026-09-21; Sleeper injury_status field showed non-standard value \"Active\" (i.e. no injury designation); no Week 2 stat line or notable news found this session",
+   "source": "https://www.cbssports.com/nfl/teams/PHI/philadelphia-eagles/injuries/"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "player_id": "8117",
+ "name": "Jalen Tolbert",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "DAL"
+   },
+   {
+    "season": 2026,
+    "team": "MIA"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Tutu Atwell",
+    "age": 26,
+    "status": "",
+    "note": "",
+    "resolved_id": "7562",
+    "resolved_team": "MIA",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Malik Washington",
+    "age": 25,
+    "status": "",
+    "note": "",
+    "resolved_id": "11610",
+    "resolved_team": "MIA",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Caleb Douglas",
+    "age": 22,
+    "status": "rookie, 3rd-round pick",
+    "note": "",
+    "resolved_id": "13296",
+    "resolved_team": "MIA",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: left Dallas for Miami in free agency. Reported as the Dolphins' early WR1 / competing for that role as of July 22, 2026."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://athlonsports.com/nfl/miami-dolphins/jalen-tolbert-dolphins-no-1-receiver-2026",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://athlonsports.com/nfl/miami-dolphins/jalen-tolbert-dolphins-no-1-receiver-2026"
+  }
+ ]
+}

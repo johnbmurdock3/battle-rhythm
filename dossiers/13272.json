@@ -1,0 +1,132 @@
+{
+ "player_id": "13272",
+ "name": "Carson Beck",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NCAA (college)"
+   },
+   {
+    "season": 2026,
+    "team": "ARI"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "NCAA (college)",
+    "games": 0,
+    "carries": 0,
+    "targets": 0,
+    "rec": 0,
+    "yards": 0,
+    "td": 0,
+    "note": "Rookie - no 2025 NFL statistics; drafted by Arizona, signed rookie contract per CBS Sports"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Signed rookie contract (CBS Sports headline), terms unverified this pass"
+  },
+  "scheme": {
+   "oc": "",
+   "note": "Unverified this pass; notable roster context - Kyler Murray left Arizona, signing a 1-yr $1.3M deal with the Vikings this offseason"
+  },
+  "competition": [
+   {
+    "name": "Jacoby Brissett",
+    "age": 33,
+    "status": "QB1",
+    "note": "Named starter for 2026 season opener (Sept 13 vs LAC) per CBS Sports Aug 9 2026 report; signed 1-yr/$15.5M deal",
+    "resolved_id": "3257",
+    "resolved_team": "ARI",
+    "resolved_pos": "QB",
+    "same_team": true
+   },
+   {
+    "name": "Gardner Minshew",
+    "age": 30,
+    "status": "QB2",
+    "note": "Ahead of Beck on depth chart",
+    "resolved_id": "6011",
+    "resolved_team": "ARI",
+    "resolved_pos": "QB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Beck started the Aug 2026 Hall of Fame preseason game vs Carolina and impressed (pre-snap protection recognition vs Carolina backups), fueling 'name him starter' media chatter, but as of Aug 9, 2026 Brissett is confirmed Week 1 starter and Beck is QB3 on the real depth chart",
+   "Kyler Murray is no longer on the Cardinals roster for 2026 - departed to Minnesota Vikings"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Rib injury in preseason ended his exhibition slate; no current practice-report status found",
+   "as_of": "2026-09-15"
+  },
+  "camp": [
+   {
+    "quote": "isn't taking Jacoby Brissett's job yet, but the Cardinals like what they're seeing",
+    "who": "CBS Sports (paraphrase, headline)",
+    "date": "2026-08-09"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/news/carson-beck-isnt-taking-jacoby-brissetts-job-yet-but-the-cardinals-like-what-theyre-seeing/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.prizepicks.com/playbook-article/2026-hall-of-fame-game-carson-beck-starting-cardinals-rookie",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/arizona-cardinals-depth-chart-ari",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/ari/arizona-cardinals",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://sports.yahoo.com/articles/cardinals-qb-depth-chart-carson-020040367.html",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/nfl/news/carson-beck-isnt-taking-jacoby-brissetts-job-yet-but-the-cardinals-like-what-theyre-seeing/"
+  },
+  {
+   "date": "2026-09-02",
+   "injury": "Preseason rib injury cut short his camp evaluation window (recovered, on active roster per Sleeper)",
+   "role": "3rd-string QB behind Jacoby Brissett (recently re-signed at starter-level salary, $15.5M guaranteed) and Gardner Minshew II; kept on 53-man roster. Speculative media suggestion he could start midseason vs weaker opponents, but no team plan announced",
+   "note": "No path to Week 1 start; Brissett entrenched as starter",
+   "source": "https://raisingzona.com/carson-beck-midseason-start-win-win-rebuilding-cardinals"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "Rib injury in preseason ended his exhibition slate; no current practice-report status found",
+   "role": "QB3 behind starter Jacoby Brissett and backup Gardner Minshew",
+   "note": "[news 2026-09-11] Not in the regular-season QB mix currently",
+   "source": "https://burncitysports.com/2026/09/11/cardinals-developing-carson-beck"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Third-string QB behind Jacoby Brissett (QB1) and Gardner Minshew (QB2), matches Sleeper depth chart (QB order 3). Unlikely to start early in season; path to snaps would come only if Cardinals are out of contention around Weeks 11-12, or if Brissett holds out.",
+   "note": "No path to playing time in the near term; buried on Cardinals QB depth chart",
+   "source": "https://sports.yahoo.com/articles/cardinals-qb-depth-chart-carson-020040367.html"
+  }
+ ]
+}

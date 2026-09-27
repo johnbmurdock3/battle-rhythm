@@ -1,0 +1,48 @@
+{
+ "player_id": "2020",
+ "name": "Cairo Santos",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "injury": {},
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22"
+ },
+ "timeline": [
+  {
+   "date": "2026-07-10",
+   "role": "Primary placekicker, no current competition for the job",
+   "note": "Bears' No. 1 kicker for 2026 with no viable competition as of July 2026; went 25/30 FG and 39/39 XP in 2025.",
+   "source": "https://www.cbssports.com/fantasy/football/news/bears-cairo-santos-looks-to-be-no-1-kicker-for-2026/"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "Active K1 for Chicago",
+   "note": "No notable news found",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/CHI"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "",
+   "role": "Sleeper lists him as CHI's #1 kicker (depth_chart_order 1) as of 2026-09-22.",
+   "note": "No notable news found in ESPN CHI news feed for kicker/special teams.",
+   "source": "https://api.sleeper.app/players/nfl/2020"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://api.sleeper.app/players/nfl/2020",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

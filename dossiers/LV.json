@@ -1,0 +1,44 @@
+{
+ "player_id": "LV",
+ "name": "Las Vegas Raiders",
+ "as_of": "2026-09-22",
+ "stable": {
+  "team_history": [],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [],
+  "notes": []
+ },
+ "volatile": {
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-09-22",
+  "injury": {
+   "status": "Treydan Stukes (SAF) concussion, Questionable for Wk3",
+   "as_of": "2026-09-22"
+  }
+ },
+ "timeline": [
+  {
+   "date": "2026-08-30",
+   "injury": "",
+   "note": "Unit personnel: DE Keyron Crawford (ankle, Aug 30), DB Chigozie Anusiem (knee, Aug 22), and LB Brennan Jackson (undisclosed, Aug 15) all on IR || IR losses appear to be depth/rotational pieces; no major starter injury or coordinator change identified for Week 1.",
+   "source": "https://www.cbssports.com/nfl/teams/LV/las-vegas-raiders/injuries/"
+  },
+  {
+   "date": "2026-09-22",
+   "injury": "Treydan Stukes (SAF) concussion, Questionable for Wk3",
+   "role": "",
+   "note": "Wk2 pts allowed unresolved (source unavailable), played at LAC; S Treydan Stukes in concussion protocol for Wk3; CB Darien Porter and DB Chigozie Anusiem also inactive/IR [news 2026-09-21]; Wk3 opponent NO (away)",
+   "source": "https://www.cbssports.com/nfl/teams/LV/las-vegas-raiders/injuries/"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/nfl/teams/LV/las-vegas-raiders/injuries/",
+   "as_of": "2026-09-22"
+  }
+ ],
+ "confidence": "low"
+}

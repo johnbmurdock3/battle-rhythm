@@ -1,0 +1,63 @@
+{
+ "player_id": "8136",
+ "name": "Rachaad White",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "TB"
+   },
+   {
+    "season": 2026,
+    "team": "WAS"
+   }
+  ],
+  "workload": [
+   "2025 w/ TB: 132 carries, 572 yds, 4 TD; 40 rec, 218 yds over 17 games"
+  ],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Jacory Croskey-Merritt",
+    "age": 25,
+    "status": "healthy",
+    "note": "second-year pro, has edge as RB1 per camp reports",
+    "resolved_id": "12533",
+    "resolved_team": "WAS",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "TEAM CHANGE: signed with Washington in free agency after 2025 with Tampa Bay. Penciled in as clear No. 2 RB behind Croskey-Merritt as of Aug 10, 2026."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Coach Dan Quinn praised White as a standout from OTAs/minicamp, but depth chart still has Croskey-Merritt ahead"
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/commanders-rachaad-white-penciled-in-as-no-2-rb-at-camp/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.cbssports.com/fantasy/football/news/commanders-rachaad-white-penciled-in-as-no-2-rb-at-camp/"
+  }
+ ]
+}

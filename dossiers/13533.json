@@ -1,0 +1,78 @@
+{
+ "player_id": "13533",
+ "name": "Barion Brown",
+ "as_of": "2026-09-15",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "NO"
+   },
+   {
+    "season": 2026,
+    "team": "NO"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Devaughn Vele",
+    "age": 28,
+    "status": "SWR1",
+    "note": "ahead of Brown at slot WR",
+    "resolved_id": "11834",
+    "resolved_team": "NO",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "No team change. Listed SWR2 behind Devaughn Vele on Ourlads Saints depth chart, but multiple camp reports (8/5/26) say he's 'turning heads' and could be the 'unsung hero' of the WR room."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   "Standout performer per 8/5/26 training camp Day 6 report"
+  ],
+  "projected_share": null,
+  "as_of": "2026-09-15"
+ },
+ "sources": [
+  {
+   "url": "https://www.ourlads.com/nfldepthcharts/depthchart/NO",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.louisianasports.net/2026/08/05/saints-training-camp-day-6-barion-brown-continues-to-light-up-camp/top-stories/",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy",
+   "note": "baseline from initial research pass",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/NO"
+  },
+  {
+   "date": "2026-08-30",
+   "role": "Made Saints 53-man roster (WR room: Olave, Vele, Lance, Brown, Austin Jr.)",
+   "note": "Rookie WR (LSU) drafted by Saints; camp coverage (Canal Street Chronicles) framed him as a potential 'unsung hero' of the WR room; confirmed on 53-man roster as of Aug 30, 2026",
+   "source": "https://www.canalstreetchronicles.com/new-orleans-saints-roster/113914/saints-official-53-man-roster"
+  },
+  {
+   "date": "2026-09-15",
+   "injury": "",
+   "role": "2026 6th-round rookie now listed as the Saints starting left WR opposite Chris Olave; role opened after Rashid Shaheed departed",
+   "note": "Notable role emergence for a Day 3 rookie; no Week 1 snap/target numbers confirmed",
+   "source": "https://www.ourlads.com/nfldepthcharts/depthchart/NO"
+  }
+ ]
+}

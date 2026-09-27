@@ -1,0 +1,122 @@
+{
+ "player_id": "12495",
+ "name": "Ollie Gordon",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "MIA"
+   },
+   {
+    "season": 2026,
+    "team": "MIA"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "MIA",
+    "games": 17,
+    "carries": 70,
+    "targets": 9,
+    "rec": 7,
+    "yards": 199,
+    "td": 3,
+    "note": "1 start. Rushing: 70 car/199 yds/3 TD (2.8 ypc). Receiving: 9 tgt/7 rec/32 yds/1 TD. 2025 6th-round pick (179th overall) out of Oklahoma State."
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": ""
+  },
+  "scheme": {
+   "oc": "Bobby Slowik",
+   "note": "MAJOR MIA COACHING CHANGE: Mike McDaniel fired Jan 8, 2026 after 4 seasons; Jeff Hafley (ex-Packers DC) hired as new HC Jan 19, 2026, bringing in Bobby Slowik as new OC - essentially a full new offensive staff/scheme for 2026."
+  },
+  "competition": [
+   {
+    "name": "De'Von Achane",
+    "age": 24,
+    "status": "RB1",
+    "note": "Signed a contract extension in May 2026; entrenched lead back.",
+    "resolved_id": "9226",
+    "resolved_team": "MIA",
+    "resolved_pos": "RB",
+    "same_team": true
+   },
+   {
+    "name": "Jaylen Wright",
+    "age": 21,
+    "status": "RB2",
+    "note": "Ahead of Gordon on RotoWire's current depth chart (Achane > Wright > Gordon > Donovan Edwards > ...).",
+    "resolved_id": "11643",
+    "resolved_team": "MIA",
+    "resolved_pos": "RB",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "RotoWire Dolphins depth chart (undated, checked Aug 11, 2026): Gordon is RB3."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Participating in practice",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "Robert Beal stopped Ollie Gordon in the backfield.",
+    "who": "dolphinstalk.com training camp recap",
+    "date": "2026-08-07"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://www.pro-football-reference.com/players/G/GordOl00.htm",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://dolphinstalk.com/2026/08/miami-dolphins-training-camp-recap-for-friday-august-7th/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.rotowire.com/football/nfl-depth-charts/miami-dolphins-depth-chart-mia",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.profootballnetwork.com/ollie-gordon-injury-update-dolphins-ravens/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/dolphins-ollie-gordon-cleared-after-full-practice-friday",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/De%27Von_Achane",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jaylen_Wright",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Dolphins_season",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "Participating in practice",
+   "note": "baseline from initial research pass",
+   "source": "https://www.pro-football-reference.com/players/G/GordOl00.htm"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "player_id": "13417",
+ "name": "De'Zhaun Stribling",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "Ole Miss (college)"
+   },
+   {
+    "season": 2026,
+    "team": "SF"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "college",
+    "games": null,
+    "targets": null,
+    "rec": null,
+    "yards": null,
+    "td": null,
+    "note": "Rookie; no 2025 NFL stats. Drafted No. 33 overall (2026 draft) out of Ole Miss"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Rookie 2nd-round draft pick"
+  },
+  "scheme": {
+   "oc": "not confirmed in sources fetched",
+   "note": "HC Kyle Shanahan entering 10th season; no HC change for 2026"
+  },
+  "competition": [
+   {
+    "name": "Mike Evans",
+    "age": 32,
+    "status": "WR1, 2026 free-agent addition",
+    "note": "Six-time Pro Bowler, streak of 12 consecutive 1,000-yd seasons per stadiumrant",
+    "resolved_id": "2216",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Christian Kirk",
+    "age": 29,
+    "status": "slot starter, currently injured",
+    "note": "Calf strain suffered in camp (reported ~Jul 27, 2026), opening reps for Stribling",
+    "resolved_id": "4950",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Ricky Pearsall",
+    "age": 25,
+    "status": "WR2/starter",
+    "note": "",
+    "resolved_id": "11638",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Brandon Aiyuk",
+    "age": 28,
+    "status": "roster WR, away from team",
+    "note": "stadiumrant notes Aiyuk has been away from the team during 2026 camp",
+    "resolved_id": "6803",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jacob Cowing",
+    "age": 25,
+    "status": "depth WR",
+    "note": "",
+    "resolved_id": "11616",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Demarcus Robinson",
+    "age": 31,
+    "status": "depth WR",
+    "note": "",
+    "resolved_id": "3286",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jordan Watkins",
+    "age": 24,
+    "status": "depth WR",
+    "note": "",
+    "resolved_id": "12634",
+    "resolved_team": "SF",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Yahoo Sports (Jul 27, 2026) and a Papa & Silver Podcast clip suggest Stribling could realistically be the #2 WR on the depth chart despite being a rookie, aided directly by Christian Kirk's calf injury"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "healthy / back in team drills",
+   "as_of": "2026-08-11"
+  },
+  "camp": [
+   {
+    "quote": "The rookie wide receiver out of Ole Miss is already moving up the WR depth chart... helped by a calf strain to Christian Kirk",
+    "who": "Yahoo Sports",
+    "date": "2026-07-27"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://sports.yahoo.com/articles/49ers-dezhaun-stribling-takes-immediate-185007283.html",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.stadiumrant.com/49ers-depth-chart-2026/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.cbssports.com/fantasy/football/news/49ers-dezhaun-stribling-back-in-team-drills-saturday/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_San_Francisco_49ers_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/sf/san-francisco-49ers",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "medium",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "healthy / back in team drills",
+   "note": "baseline from initial research pass",
+   "source": "https://sports.yahoo.com/articles/49ers-dezhaun-stribling-takes-immediate-185007283.html"
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "player_id": "5846",
+ "name": "DK Metcalf",
+ "as_of": "2026-08-28",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "PIT"
+   },
+   {
+    "season": 2026,
+    "team": "PIT"
+   }
+  ],
+  "workload": [
+   {
+    "season": 2025,
+    "team": "PIT",
+    "games": 15,
+    "targets": 99,
+    "rec": 59,
+    "yards": 850,
+    "td": 7,
+    "note": "6 receiving TD + 1 rushing TD in first Pittsburgh season (traded from SEA prior to 2025)"
+   }
+  ],
+  "contract": {
+   "years": null,
+   "signed": "",
+   "note": "Not confirmed in sources fetched"
+  },
+  "scheme": {
+   "oc": "Brian Angelichio",
+   "note": "NEW HEAD COACH Mike McCarthy for 2026, replacing Mike Tomlin, who stepped down 2026-01-13 after a Wild Card loss and ~19 years as HC. Big scheme-relevant change."
+  },
+  "competition": [
+   {
+    "name": "Roman Wilson",
+    "age": 25,
+    "status": "WR2 competitor",
+    "note": "Camp stats through 7 practices (Aug 8, 2026): 9 rec / 19 targets",
+    "resolved_id": "11630",
+    "resolved_team": "PIT",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Brandon Smith",
+    "age": 27,
+    "status": "WR competitor",
+    "note": "Camp: 10 rec / 12 targets",
+    "resolved_id": "7865",
+    "resolved_team": "PIT",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "A.T. Perry",
+    "age": 26,
+    "status": "WR competitor",
+    "note": "Camp: 5 rec / 8 targets",
+    "resolved_id": "10863",
+    "resolved_team": null,
+    "resolved_pos": "WR",
+    "same_team": false
+   },
+   {
+    "name": "Michael Pittman Jr.",
+    "age": 28,
+    "status": "roster WR, injured in camp",
+    "note": "Absent from Aug 10 practice after injury sustained Aug 8-9",
+    "resolved_id": "6819",
+    "resolved_team": "PIT",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Metcalf led the Steelers in camp practice receptions/targets through 7 sessions: 21 rec / 29 targets (72.4% catch rate), well clear of the WR2/3 competition",
+   "Post-Gazette camp preview (Jul 28, 2026) headline framed Metcalf as having 'more help and fewer excuses in 2026'"
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "Questionable for Week 1 vs. Atlanta, undisclosed injury (updated Aug 28, 2026)",
+   "as_of": "2026-08-28"
+  },
+  "camp": [
+   {
+    "quote": "21 receptions, 29 targets, 2 TDs -- 72.4 percent catch rate, leading the team",
+    "who": "Steelers Depot",
+    "date": "2026-08-08"
+   },
+   {
+    "quote": "Not in team periods; unclear whether absence was injury or rest-related",
+    "who": "Steelers Depot",
+    "date": "2026-08-10"
+   }
+  ],
+  "projected_share": null,
+  "as_of": "2026-08-28"
+ },
+ "sources": [
+  {
+   "url": "https://steelersdepot.com/2026/08/pittsburgh-steelers-2026-training-camp-injury-report-august-10/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://steelersdepot.com/2026/08/steelers-2026-training-camp-stats-first-seven-practices/",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.post-gazette.com/sports/steelers/2026/07/28/nfl-training-camp-news-metcalf-rodgers-mike-pittman-mccarthy/stories/202607270001",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/2026_Pittsburgh_Steelers_season",
+   "fetched": "2026-08-11"
+  },
+  {
+   "url": "https://www.espn.com/nfl/team/roster/_/name/pit",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "unclear \u2014 not in team periods",
+   "note": "baseline from initial research pass",
+   "source": "https://steelersdepot.com/2026/08/pittsburgh-steelers-2026-training-camp-injury-report-august-10/"
+  },
+  {
+   "date": "2026-08-28",
+   "injury": "Questionable for Week 1 vs. Atlanta, undisclosed injury (updated Aug 28, 2026)",
+   "note": "Listed Questionable on Steelers injury report updated Aug 28, 2026; injury type undisclosed.",
+   "source": "https://www.cbssports.com/nfl/teams/PIT/pittsburgh-steelers/injuries/"
+  }
+ ]
+}

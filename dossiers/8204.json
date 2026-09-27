@@ -1,0 +1,79 @@
+{
+ "player_id": "8204",
+ "name": "Bo Melton",
+ "as_of": "2026-08-11",
+ "stable": {
+  "team_history": [
+   {
+    "season": 2025,
+    "team": "GB"
+   },
+   {
+    "season": 2026,
+    "team": "GB"
+   }
+  ],
+  "workload": [],
+  "contract": {},
+  "scheme": {},
+  "competition": [
+   {
+    "name": "Christian Watson",
+    "age": 27,
+    "status": "starter",
+    "note": "LWR1",
+    "resolved_id": "8167",
+    "resolved_team": "GB",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Matthew Golden",
+    "age": 23,
+    "status": "starter",
+    "note": "RWR1",
+    "resolved_id": "12501",
+    "resolved_team": "GB",
+    "resolved_pos": "WR",
+    "same_team": true
+   },
+   {
+    "name": "Jayden Reed",
+    "age": 26,
+    "status": "starter",
+    "note": "SWR1",
+    "resolved_id": "10222",
+    "resolved_team": "GB",
+    "resolved_pos": "WR",
+    "same_team": true
+   }
+  ],
+  "notes": [
+   "Green Bay used Melton as a hybrid CB/WR for most of 2025; moved back to WR full-time as of June 2, 2026."
+  ]
+ },
+ "volatile": {
+  "injury": {
+   "status": "recovered",
+   "as_of": "2026-08-11"
+  },
+  "camp": [],
+  "projected_share": null,
+  "as_of": "2026-08-11"
+ },
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Bo_Melton",
+   "fetched": "2026-08-11"
+  }
+ ],
+ "confidence": "high",
+ "timeline": [
+  {
+   "date": "2026-08-11",
+   "injury": "recovered",
+   "note": "baseline from initial research pass",
+   "source": "https://en.wikipedia.org/wiki/Bo_Melton"
+  }
+ ]
+}
