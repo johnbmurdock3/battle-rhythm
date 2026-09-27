@@ -1,0 +1,30 @@
+# Goes in the sandbox repo (johnbmurdock3/battle-rhythm-sandbox), not in
+# battle-rhythm. It exists to make the receiver's alerts happen on demand:
+# run it from the Actions tab with "fail" ticked to get a failure alert,
+# then without it to get the recovery alert.
+
+name: tests
+
+on:
+  push:
+  workflow_dispatch:
+    inputs:
+      fail:
+        description: "Make this run fail"
+        type: boolean
+        default: false
+      sleep:
+        description: "Seconds to wait first (to get two runs finishing out of order)"
+        default: "0"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - run: sleep ${{ inputs.sleep || 0 }}
+      - run: |
+          if [ "${{ inputs.fail }}" = "true" ]; then
+            echo "failing on purpose"
+            exit 1
+          fi
+          echo "passing"

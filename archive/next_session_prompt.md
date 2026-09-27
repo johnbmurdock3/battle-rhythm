@@ -12,7 +12,7 @@ hard-won lessons), **HANDOFF.md** (current state), **roster.md**, and
 other Hybrid and is the template for what I want here.
 
 **Task: build the same plan for LG05**, league id
-`9000000000000000019`. Nothing exists for it yet — the 447-player
+`9000000000000000020`. Nothing exists for it yet — the 447-player
 research queue and the brief were both built for the *other* Hybrid.
 
 Start by running these and reading the output, not by asking me what

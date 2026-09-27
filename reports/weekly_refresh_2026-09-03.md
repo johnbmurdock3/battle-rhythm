@@ -7,8 +7,8 @@
 >
 > | this report says | it means | which is now slug |
 > |---|---|---|
-> | `lg05` | LG03 (`9000000000000000013`) | `lg03` |
-> | `lg05-emoji` | LG05 (`9000000000000000019`) | `lg05` |
+> | `lg05` | LG03 (`9000000000000000014`) | `lg03` |
+> | `lg05-emoji` | LG05 (`9000000000000000020`) | `lg05` |
 >
 > Verified 9/3: Jayden Higgins is rostered in LG03 and
 > James Conner in LG05, so every row is about the league the

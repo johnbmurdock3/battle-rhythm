@@ -7,6 +7,7 @@ release.py -- the gate between this private repo and a public one.
     python br.py release inventory           # what a public copy would expose, and what is undecided
     python br.py release export <dest>       # a scrubbed copy of HEAD, ready to push publicly
     python br.py release verify <dest>       # prove nothing private survived the scrub
+    python br.py release update <clone>      # refresh the public clone in place; stages, never commits
     python br.py release --selftest          # offline, builds its own throwaway git repo
 
 --fetch needs the network, so it runs on the PC like `truth fetch`.
@@ -64,9 +65,11 @@ import io
 import json
 import pathlib
 import re
+import shutil
 import subprocess
 import sys
 import tarfile
+import tempfile
 import time
 from collections import Counter, defaultdict
 
@@ -75,7 +78,7 @@ from battle_rhythm import paths
 # not part of a longer number and not a decimal: "league_<id>.json" must match,
 # "0.1234567890123456789" must not
 ID_RE = re.compile(r"(?<!\d)(?<!\d\.)\d{17,20}(?!\d)(?!\.\d)")
-FAKE_BASE = 9000000000000000026
+FAKE_BASE = 9000000000000000027
 NAME_FIELDS = ("display_name", "username", "team_name", "owner_name", "manager")
 BINARY_EXT = {".gz", ".png", ".jpg", ".jpeg", ".gif", ".ico", ".pdf", ".woff", ".woff2",
               ".ttf", ".parquet", ".zip", ".tgz", ".xlsx", ".pyc"}
@@ -588,14 +591,19 @@ def _ids_path(stamp=None):
     return paths.out("release", f"ids_{stamp or 'latest'}.json")
 
 
+def _save_ids(idmap):
+    stamp = time.strftime("%Y%m%dT%H%M%S")
+    for p in (_ids_path(stamp), _ids_path()):
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_text(json.dumps(sorted(idmap)), encoding="utf-8")
+
+
 def cmd_export(dest):
     plan = load_plan()
     if not plan[0]["leagues"]:
         raise SystemExit("no league map -- run `release leagues --fetch` first")
     rewritten, binaries, idmap = export(dest, plan=plan)
-    stamp = time.strftime("%Y%m%dT%H%M%S")
-    for p in (_ids_path(stamp), _ids_path()):
-        p.write_text(json.dumps(sorted(idmap)), encoding="utf-8")
+    _save_ids(idmap)
     print(f"exported HEAD to {pathlib.Path(dest).resolve()} (without {PRIVATE_DIR}/)")
     print(f"  {len(idmap)} ids replaced, {rewritten} text files rewritten, "
           f"{len(plan[0]['leagues'])} leagues and {len(plan[1]['managers'])} managers keyed")
@@ -621,6 +629,104 @@ def cmd_verify(dest):
     for rel, tok in bad[:60]:
         print(f"  {rel}: {tok}")
     return 1
+
+
+# ------------------------------------------------------------------ update
+
+def update(dest, repo=None, plan=None):
+    """Refresh an existing public clone in place, keeping its .git.
+
+    HEAD is exported to a staging folder and verified there first; a copy
+    that fails verify never touches the clone. Then the clone's tracked files
+    are removed, the staged copy is laid over it, and `git add -A` stages the
+    difference. It never commits or pushes: John reads the diff and does both.
+    Refuses a clone with uncommitted changes, so nothing done by hand (or a
+    previous update not yet committed) is silently overwritten.
+    Returns (bad, status_lines, idmap, binaries)."""
+    repo = pathlib.Path(repo or _repo()).resolve()
+    dest = pathlib.Path(dest).resolve()
+    if not (dest / ".git").is_dir():
+        raise SystemExit(f"{dest} is not a git clone -- `release export` makes the first copy")
+    if repo in dest.parents or dest == repo:
+        raise SystemExit("update destination must be OUTSIDE the repo")
+    st = _git(["status", "--porcelain"], dest)
+    if st.returncode:
+        raise SystemExit(st.stderr.decode("utf-8", "replace"))
+    if st.stdout.strip():
+        raise SystemExit(f"{dest} has uncommitted changes -- commit or discard them first "
+                         "(`git status` there shows what)")
+    plan = plan if plan is not None else load_plan(repo)
+    tmp = pathlib.Path(tempfile.mkdtemp(prefix="br-release-"))
+    try:
+        stage = tmp / "copy"
+        _, binaries, idmap = export(stage, repo=repo, plan=plan)
+        bad = verify(stage, idmap.keys(), plan)
+        if bad:
+            return bad, [], idmap, binaries
+        tracked = _git(["ls-files", "-z"], dest).stdout.decode("utf-8").split("\0")
+        parents = set()
+        for rel in filter(None, tracked):
+            f = dest / rel
+            if f.is_file() or f.is_symlink():
+                f.unlink()
+                parents.add(f.parent)
+        # prune folders the removals emptied, deepest first; ignored files keep theirs alive
+        for d in sorted(parents, key=lambda p: -len(p.parts)):
+            while d != dest and d.is_dir() and not any(d.iterdir()):
+                d.rmdir()
+                d = d.parent
+        shutil.copytree(stage, dest, dirs_exist_ok=True)
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+    add = _git(["add", "-A"], dest)
+    if add.returncode:
+        raise SystemExit(add.stderr.decode("utf-8", "replace"))
+    lines = _git(["status", "--short"], dest).stdout.decode("utf-8", "replace").splitlines()
+    return [], lines, idmap, binaries
+
+
+def cmd_update(dest, run_tests=True):
+    plan = load_plan()
+    if not plan[0]["leagues"]:
+        raise SystemExit("no league map -- run `release leagues --fetch` first")
+    dest = pathlib.Path(dest).resolve()
+    head = _git(["log", "-1", "--format=%h %s"], _repo()).stdout.decode("utf-8", "replace").strip()
+    bad, lines, idmap, binaries = update(dest, plan=plan)
+    if bad:
+        print(f"verify FAILED on the staged copy -- {dest} was not touched. {len(bad)} survivors:")
+        for rel, tok in bad[:60]:
+            print(f"  {rel}: {tok}")
+        return 1
+    _save_ids(idmap)
+    print(f"updated {dest} from private HEAD {head}")
+    print("  verify: CLEAN (checked on the staged copy before anything was replaced)")
+    if not lines:
+        print("  nothing changed -- the public copy already matches")
+        return 0
+    kinds = Counter(l[:2].strip() or "?" for l in lines)
+    print("  staged: " + ", ".join(f"{n} {k}" for k, n in sorted(kinds.items()))
+          + "   (A added, M modified, D deleted, R renamed)")
+    for l in lines[:40]:
+        print(f"    {l}")
+    if len(lines) > 40:
+        print(f"    ... {len(lines) - 40} more (`git status` in the clone)")
+    if binaries:
+        print(f"  {len(binaries)} binary files copied unscrubbed, as with export")
+    rc = 0
+    if run_tests:
+        print("  running the offline suite inside the clone ...")
+        t = subprocess.run([sys.executable, "br.py", "test"], cwd=str(dest), capture_output=True)
+        out = (t.stdout + t.stderr).decode("utf-8", "replace").strip().splitlines()
+        print("    " + (out[-1] if out else "(no output)"))
+        rc = t.returncode
+        if rc:
+            print("  suite FAILED in the clone -- fix before committing (`git reset --hard` there undoes the update)")
+    print("\nNothing is committed. Review, then in PowerShell:")
+    print(f"  cd {dest}")
+    print("  git diff --cached --stat")
+    print(f'  git commit -m "sync: {head.split(" ", 1)[0]}"')
+    print("  git push")
+    return rc
 
 
 # --------------------------------------------------------------- selftest
@@ -653,9 +759,9 @@ def selftest():
     w("config.json", json.dumps({"username": "dirtymurdock", "k": fake_key}))
     git("add", "."); git("commit", "-q", "-m", "oops")
 
-    oak, crash, hyb_a, hyb_b = ("9000000000000000016", "9000000000000000011",
-                               "9000000000000000015", "9000000000000000018")
-    prev_a = "9000000000000000006"
+    oak, crash, hyb_a, hyb_b = ("9000000000000000017", "9000000000000000012",
+                               "9000000000000000016", "9000000000000000019")
+    prev_a = "9000000000000000007"
     index = {
         "oakwood": {"id": oak, "name": "The Oakwood Senate", "type": "redraft-keeper",
                     "teams": 12, "aliases": ["oakwood", "senate"]},
@@ -707,18 +813,18 @@ def selftest():
     ck("a past season shares its league's key", prev_a in keys[hyb_a]["ids"])
     ck("generic format aliases are not treated as identity",
        "hybrid" not in keys[hyb_a]["replace"] and "hero" not in keys[hyb_b]["replace"])
-    again = propose_leagues({**index, "new": {"id": "9000000000000000023", "name": "New League"}},
+    again = propose_leagues({**index, "new": {"id": "9000000000000000024", "name": "New League"}},
                             existing=lg)
     ck("re-running keeps every key and appends new leagues",
        {e["ids"][0]: e["key"] for e in again["leagues"]}[oak] == keys[oak]["key"]
        and any(e["key"] == "LG05" for e in again["leagues"]))
 
     # --- surrogate managers
-    users = {oak: [{"user_id": "9000000000000000001", "display_name": "dirtymurdock"},
-                   {"user_id": "9000000000000000003", "display_name": "Zorblax",
+    users = {oak: [{"user_id": "9000000000000000002", "display_name": "dirtymurdock"},
+                   {"user_id": "9000000000000000004", "display_name": "Zorblax",
                     "metadata": {"team_name": "Moon Unit"}},
-                   {"user_id": "9000000000000000004", "display_name": "Will"}],
-             crash: [{"user_id": "9000000000000000003", "display_name": "zorblax"}]}
+                   {"user_id": "9000000000000000005", "display_name": "Will"}],
+             crash: [{"user_id": "9000000000000000004", "display_name": "zorblax"}]}
     mg = propose_managers(users, self_name="dirtymurdock")
     bam = next(e for e in mg["managers"] if "Zorblax" in e["names"])
     ck("one manager across leagues keeps one key and collects both spellings",
@@ -775,6 +881,42 @@ def selftest():
     except SystemExit:
         ck("export refuses a non-empty destination", True)
 
+    # --- update: refresh a public clone in place
+    pub = tmp / "pub"
+    export(pub, repo=repo, plan=(lg, mg, redact))
+
+    def pgit(*a):
+        return subprocess.run(["git", *a], cwd=str(pub), env=env, capture_output=True,
+                              check=True).stdout.decode("utf-8", "replace")
+    pgit("init", "-q"); pgit("add", "."); pgit("commit", "-q", "-m", "first public copy")
+    (pub / ".git" / "info" / "exclude").write_text("__pycache__/\n")
+    (pub / "__pycache__").mkdir()
+    (pub / "__pycache__" / "junk.pyc").write_bytes(b"x")  # ignored-style leftovers survive
+    w("NEW.md", "Crash Pals added a note.\n")
+    (repo / "ROADMAP.md").unlink()
+    git("add", "-A"); git("commit", "-q", "-m", "more")
+    bad, st, _, _ = update(pub, repo=repo, plan=(lg, mg, redact))
+    ck("update: verify clean, the new file and the deletion are staged",
+       not bad and any(l.endswith("NEW.md") and l.startswith("A") for l in st)
+       and any(l.endswith("ROADMAP.md") and l.startswith("D") for l in st))
+    ck("update: history kept and nothing committed", pgit("rev-list", "--count", "HEAD").strip() == "1")
+    ck("update: the new file is scrubbed", "Crash Pals" not in (pub / "NEW.md").read_text(encoding="utf-8"))
+    ck("update: data/release/ still never lands", not (pub / "data" / "release").exists())
+    ck("update: ignored leftovers in the clone are left alone", (pub / "__pycache__" / "junk.pyc").exists())
+    try:
+        update(pub, repo=repo, plan=(lg, mg, redact))
+        ck("update refuses a clone with uncommitted changes", False)
+    except SystemExit:
+        ck("update refuses a clone with uncommitted changes", True)
+    pgit("commit", "-q", "-m", "sync")
+    bad, st, _, _ = update(pub, repo=repo, plan=(lg, mg, redact))
+    ck("update: a second run with no new commits changes nothing", not bad and st == [])
+    try:
+        update(tmp / "repo" / "leagues", repo=repo, plan=(lg, mg, redact))
+        ck("update refuses a folder that is not a clone", False)
+    except SystemExit:
+        ck("update refuses a folder that is not a clone", True)
+
     bad = [n for n, c in ok if not c]
     print(f"\n{len(ok) - len(bad)}/{len(ok)} " + ("selftest PASSED" if not bad else "FAILED"))
     return 1 if bad else 0
@@ -792,6 +934,8 @@ def main(argv):
         return cmd_managers()
     if cmd == "inventory":
         return cmd_inventory()
+    if cmd == "update" and len(argv) > 1:
+        return cmd_update(argv[1], run_tests="--no-test" not in argv)
     if cmd in ("export", "verify") and len(argv) > 1:
         return (cmd_export if cmd == "export" else cmd_verify)(argv[1])
     print(__doc__.split("\n\n")[1])

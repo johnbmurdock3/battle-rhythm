@@ -624,14 +624,14 @@ def selftest():
 
         # history: previous_league_id -> that season, weeks 1..last_scored_leg;
         # a league with no previous season (or a "0") is skipped, not fatal
-        api = {"league/H": {"previous_league_id": "9000000000000000005"},
+        api = {"league/H": {"previous_league_id": "9000000000000000006"},
                "league/N": {"previous_league_id": None},
                "league/Z": {"previous_league_id": "0"},
-               "league/9000000000000000005": {"season": "2025",
+               "league/9000000000000000006": {"season": "2025",
                                               "settings": {"last_scored_leg": 17}}}
         h = history_leagues(get=lambda q: api.get(q), ids=["H", "N", "Z"])
         ck("history resolves only leagues with a previous season",
-           h == {"2025": {"ids": ["9000000000000000005"], "last": 17}})
+           h == {"2025": {"ids": ["9000000000000000006"], "last": 17}})
 
         # fetch past a season's end: no scored matchups -> nothing written
         sc0 = {"rec": 1.0}

@@ -1681,7 +1681,7 @@ def t_release_selftest_clean():
     buf = io.StringIO()
     with contextlib.redirect_stdout(buf):
         assert release.selftest() == 0, buf.getvalue()
-    assert "31/31 selftest PASSED" in buf.getvalue(), buf.getvalue()
+    assert "39/39 selftest PASSED" in buf.getvalue(), buf.getvalue()
 
 
 def t_idp_vocabulary():
@@ -1762,8 +1762,8 @@ def t_owned_picks_beat_arithmetic():
     """
     from battle_rhythm.sleeper_client import my_draft_picks, slot_picks
 
-    NO_EMOJI = {"draft_id": "9000000000000000014",
-        "draft_order": {"9000000000000000002": 8},   # published; the gate needs it
+    NO_EMOJI = {"draft_id": "9000000000000000015",
+        "draft_order": {"9000000000000000003": 8},   # published; the gate needs it
         "settings": {"teams": 12, "rounds": 10, "reversal_round": 3},
         "slot_to_roster_id": {"1":4,"2":3,"3":11,"4":8,"5":9,"6":12,
                               "7":7,"8":6,"9":5,"10":2,"11":1,"12":10}}
@@ -1780,8 +1780,8 @@ def t_owned_picks_beat_arithmetic():
     # and a plain snake would have been wrong from round 3 down
     assert slot_picks(8, 10, 12)[2] == 32 and picks[2] == 29
 
-    EMOJI = {"draft_id": "9000000000000000020",
-        "draft_order": {"9000000000000000002": 6},   # published
+    EMOJI = {"draft_id": "9000000000000000021",
+        "draft_order": {"9000000000000000003": 6},   # published
         "settings": {"teams": 12, "rounds": 10, "reversal_round": 0},
         "slot_to_roster_id": {"1":7,"2":10,"3":5,"4":12,"5":4,"6":11,
                               "7":1,"8":9,"9":6,"10":3,"11":8,"12":2}}
@@ -1874,7 +1874,7 @@ def t_turn_plan_uses_owned_picks():
     """
     dh = _fresh_dh()
     # emoji Hybrid: slot 6, plain snake, roster 1's round 8 traded to him
-    draft = {"draft_id": "9000000000000000020",
+    draft = {"draft_id": "9000000000000000021",
              "draft_order": {"u": 6},
              "settings": {"teams": 12, "rounds": 10, "reversal_round": 0},
              "slot_to_roster_id": {"1":7,"2":10,"3":5,"4":12,"5":4,"6":11,

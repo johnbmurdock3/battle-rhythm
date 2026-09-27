@@ -1,11 +1,11 @@
 {
   "_note": "The league key. Slug -> id -> folder, one place. Before 8/13 league identity lived in at least six: keepers.json (4 ids), mcp_server.py LEAGUE_IDS (5), room_bias.json, the HANDOFF status table, the lg05_* filename convention, and API discovery. mcp_server and keepers.json disagreed -- lg02 existed in one and not the other. Rewiring mcp_server and keepers.json to read FROM this file is phase E, deferred until after the 8/18 draft.",
-  "_verified": "2026-09-02. SEVEN leagues, confirmed against the cached league list. The seventh -- best-ball, 9000000000000000022 -- had never appeared here, in keepers.json, or in mcp_server.LEAGUE_IDS. That is twice now. The drift check that was supposed to catch it compared this file against mcp_server.LEAGUE_IDS, two copies maintained by hand; as of 9/2 mcp_server DERIVES its ids from this file, so the two cannot disagree and the only remaining question is whether this file matches the API. smoke.py asks. Run it after every league you join.",
+  "_verified": "2026-09-02. SEVEN leagues, confirmed against the cached league list. The seventh -- best-ball, 9000000000000000023 -- had never appeared here, in keepers.json, or in mcp_server.LEAGUE_IDS. That is twice now. The drift check that was supposed to catch it compared this file against mcp_server.LEAGUE_IDS, two copies maintained by hand; as of 9/2 mcp_server DERIVES its ids from this file, so the two cannot disagree and the only remaining question is whether this file matches the API. smoke.py asks. Run it after every league you join.",
   "_slug_rule": "Lowercase, hyphenated, no emoji. The id is the only safe key; never key a folder or a filename on a league name. UPDATED 9/3: the two Hybrids no longer normalize to the same string -- 'LG03-LG05' was renamed 'LG03' -- so the slugs were realigned to the real names (lg05 -> lg03, lg05-emoji -> lg05) and leagues/ renamed with them. Old slug -> new slug: lg05 -> lg03, lg05-emoji -> lg05. DECISIONS.md, CHANGELOG.md and DEPENDENCIES.md keep the OLD names on purpose: they are history and describe the state at the time.",
   "_keepers_note": "Only leagues with rules that are NOT in the Sleeper API need an entry in data/keepers.json. lg02 and lg06 have none and are absent from it; every reader does .get(lid) or {}, so absence is safe and means room_shave 0.",
   "leagues": {
     "lg03": {
-      "id": "9000000000000000013",
+      "id": "9000000000000000014",
       "name": "LG03",
       "aliases": [
         "lg03",
@@ -23,7 +23,7 @@
       "status": "in_season"
     },
     "lg05": {
-      "id": "9000000000000000019",
+      "id": "9000000000000000020",
       "name": "LG05",
       "aliases": [
         "lg03-lg05",
@@ -41,7 +41,7 @@
       "status": "in_season"
     },
     "lg01": {
-      "id": "9000000000000000009",
+      "id": "9000000000000000010",
       "name": "LG01",
       "aliases": [
         "dynasty",
@@ -55,7 +55,7 @@
       "status": "in_season"
     },
     "lg04": {
-      "id": "9000000000000000017",
+      "id": "9000000000000000018",
       "name": "LG04",
       "aliases": [
         "lg04",
@@ -74,7 +74,7 @@
       "_draft_format_source": "Confirmed by John 9/3: none of the three upcoming rooms uses a reversal round. Their rules differ from each other in other ways, but the snake is plain. Recorded here because reversal_round is not readable for a draft that has not started and the two Hybrids proved two rooms in one format need not share a shape -- 3 and 0."
     },
     "lg02": {
-      "id": "9000000000000000010",
+      "id": "9000000000000000011",
       "name": "LG02",
       "aliases": [
         "lg02",
@@ -95,7 +95,7 @@
       "_drafts_source": "John, 9/3: Saturday 9/5 at 4pm. The index carried null and a session read that null and told him 'no date set, and that has been true all week' -- a hand-maintained field reported as a live fact. The API may have carried a start_time the whole time. If a date here is null it means NOBODY TYPED ONE, not that none exists; check the draft object."
     },
     "lg06": {
-      "id": "9000000000000000021",
+      "id": "9000000000000000022",
       "name": "LG06",
       "aliases": [
         "lg06",
@@ -119,7 +119,7 @@
       "_slot_note": "THE CURVEBALL, per John 9/3: draft position is revealed about 30 MINUTES before the draft, not days. Any plan that needs a slot has to be readable in that window, so the card carries the pick numbers for all ten slots precomputed. Do not guess it early -- reading a slot off Sleeper's placeholder draft_order produced a confident fictional 'slot 4 of 10' once already."
     },
     "best-ball": {
-      "id": "9000000000000000022",
+      "id": "9000000000000000023",
       "name": "LG07",
       "aliases": [
         "best ball",
@@ -135,7 +135,7 @@
       "note": "REGISTERED 9/2, and it had been live and unnoticed. Best ball: no weekly lineup to set, no waivers, no trades -- the draft was the whole game and it is over. Nothing in the weekly cadence applies to it and it should be EXCLUDED from the lineup and waiver briefs rather than silently optimised. 1.0 PPR, waiver order rather than FAAB, no DEF and no K."
     },
     "lg08": {
-      "id": "9000000000000000024",
+      "id": "9000000000000000025",
       "name": "LG08",
       "aliases": [
         "lg08",

@@ -45,6 +45,28 @@ jobs:
       - name: release tooling selftest
         run: python -m battle_rhythm.release --selftest
 
+  webhooks:
+    # The GitHub webhook receiver (webhooks/): signature checks, delivery
+    # dedupe, alert rules, Discord retries. Offline: no Cloudflare account,
+    # no secrets. Recorded sandbox deliveries replay here too; the check of
+    # GitHub's original signatures skips because CI has no sandbox secret.
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: webhooks
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: webhooks/package-lock.json
+      - run: npm ci
+      - name: typecheck
+        run: npm run typecheck
+      - name: tests
+        run: npm test
+
   secrets:
     runs-on: ubuntu-latest
     steps:

@@ -9,8 +9,8 @@ wrong, both cards are wrong at the top.
 
 It has never been measured. This measures it.
 
-    python draft2_probe.py 9000000000000000013
-    python draft2_probe.py 9000000000000000019
+    python draft2_probe.py 9000000000000000014
+    python draft2_probe.py 9000000000000000020
     python draft2_probe.py <id> --rounds 10      # draft-1 length
 
 The method, deliberately crude and stated so you can argue with it:

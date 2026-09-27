@@ -17,7 +17,7 @@ rewritten, so a command here behaves exactly as it always did and there
 is no second copy of anything to drift.
 
 LEAGUES take a name fragment, an alias, or the 19-digit id: `board
-lg04`, `board lg06`, `board 9000000000000000017`. Never a bare
+lg04`, `board lg06`, `board 9000000000000000018`. Never a bare
 league NAME -- both Hybrids normalise to the same string, which is why
 leagues/_index.json is keyed on the id.
 """

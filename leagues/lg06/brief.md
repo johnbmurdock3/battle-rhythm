@@ -1,6 +1,6 @@
 # LG06 — draft card
 
-**League `9000000000000000021`** · **Wed Sep 9, 5:00 PM PT — one week out**
+**League `9000000000000000022`** · **Wed Sep 9, 5:00 PM PT — one week out**
 10 teams · 16 rounds · plain snake · redraft · FAAB 100 · playoffs week 15
 
 Starters: QB1 RB2 WR2 TE1 FLEX1 **K1 DL1 LB1 DB1**, bench 5.

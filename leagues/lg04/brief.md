@@ -1,6 +1,6 @@
 # LG04 — draft card
 
-**League `9000000000000000017`** · Sunday 9/6 · **slot 10 of 12** · 15 rounds
+**League `9000000000000000018`** · Sunday 9/6 · **slot 10 of 12** · 15 rounds
 Written 9/2 off a pre-draft board with zero picks made.
 
 Starters: QB1 RB2 WR2 TE1 **FLEX2** DEF1, bench 6. No kicker slot.

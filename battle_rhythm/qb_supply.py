@@ -1,7 +1,7 @@
 """
 qb_supply.py — is "replacement quarterback" a real player or a fiction?
 
-    python qb_supply.py 9000000000000000013 --slot 8
+    python qb_supply.py 9000000000000000014 --slot 8
     python qb_supply.py lg05 --slot 3
 
 THE QUESTION THIS SETTLES (8/13). `lineup_value` prices Dak Prescott at

@@ -305,7 +305,7 @@ def main():
         "None of the three moved a pick. All three were read as if they had.")
     print(f"\n{C_OK}done — committed{C_END}")
     print(f"  rollback: git reset --hard {base[:10]}")
-    print(f"\n  Check it: {C_WARN}python keeper.py 9000000000000000013 "
+    print(f"\n  Check it: {C_WARN}python keeper.py 9000000000000000014 "
           f"--board{C_END}")
     print("  QB should no longer read 0, and pick 68 should not lead with a "
           "1-point QB.")

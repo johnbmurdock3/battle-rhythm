@@ -1,6 +1,6 @@
 # LG05 — draft card
 
-**League `9000000000000000019`** · Tue Aug 18, 9:00 AM PT
+**League `9000000000000000020`** · Tue Aug 18, 9:00 AM PT
 **Slot 6 of 12** · 10 rounds · superflex · **plain snake, no reversal**
 
 Your picks: **6 · 19 · 30 · 43 · 54 · 67 · 78 · 90 · 91 · 102 · 115**
@@ -17,7 +17,7 @@ Your picks: **6 · 19 · 30 · 43 · 54 · 67 · 78 · 90 · 91 · 102 · 115**
 >
 > **ELEVEN picks, not ten.** You own a traded-in round-8 pick at
 > **overall 90**, and your own seat pick is **91**. Confirmed live
-> against `/draft/9000000000000000020/traded_picks`.
+> against `/draft/9000000000000000021/traded_picks`.
 >
 > **90 and 91 are back to back.** You can gamble on survival at 90
 > because 91 catches you if you're wrong. That is the only place in
@@ -30,15 +30,15 @@ Your picks: **6 · 19 · 30 · 43 · 54 · 67 · 78 · 90 · 91 · 102 · 115**
     I'm dirtymurdock, working in C:\Users\johnb\workspace\Sleeper.
     Read CLAUDE.md, then HANDOFF.md, then leagues/lg05/brief.md.
 
-    Today is the LG05 draft — league 9000000000000000019,
+    Today is the LG05 draft — league 9000000000000000020,
     the EMOJI one. Slot 6. This session covers that league and
     nothing else; I have a separate chat for my other Hybrid, so
     do not reference it or pull players from it.
 
     Start by running these and reading the output:
         python br.py roster
-        python br.py board 9000000000000000019
-        python br.py lineup 9000000000000000019 --slot 6
+        python br.py board 9000000000000000020
+        python br.py lineup 9000000000000000020 --slot 6
 
 ---
 
@@ -254,11 +254,11 @@ the one who isn't on bye in week 7 or 13.
 
 1. `python br.py test` — 33 tests, all green
 2. `python br.py roster` — confirm nobody dropped a keeper
-3. `python br.py board 9000000000000000019` — the ranking
-4. `python br.py lineup 9000000000000000019 --slot 6` — the sequencing
+3. `python br.py board 9000000000000000020` — the ranking
+4. `python br.py lineup 9000000000000000020 --slot 6` — the sequencing
 5. Confirm the board header says **REDRAFT 2QB/superflex** and reports
    ~80 players depleted. If it says DYNASTY, stop
 6. Recheck Kyle Williams and Oronde Gadsden on depth charts
-7. Re-check `/draft/9000000000000000020/traded_picks` — pick 90 is yours
+7. Re-check `/draft/9000000000000000021/traded_picks` — pick 90 is yours
    only as long as that trade stands
-8. Confirm you're in league `9000000000000000019` before your first pick
+8. Confirm you're in league `9000000000000000020` before your first pick

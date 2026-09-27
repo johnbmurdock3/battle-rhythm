@@ -22,7 +22,7 @@ Read the VERDICT line. Everything above it is evidence for it.
 import sys
 from collections import Counter
 
-IDP_LEAGUE = "9000000000000000021"
+IDP_LEAGUE = "9000000000000000022"
 IDP_POS = ("DL", "LB", "DB")
 
 

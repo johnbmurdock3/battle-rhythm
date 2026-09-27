@@ -1087,11 +1087,11 @@ question: "draft picks can be traded, take a look at both hybrid
 leagues." Both have trades, and he is on the receiving end of one in
 each.
 
-  LG03-LG05 (9000000000000000013), draft 9000000000000000014
+  LG03-LG05 (9000000000000000014), draft 9000000000000000015
     round 8, roster 1 (slot 11) -> HIM (roster 6)   = pick 86
     round 9, roster 1 -> roster 2                   = pick 107, rival
     round 9, roster 3 -> roster 1                   = pick 98, rival
-  LG03-LG05 emoji (9000000000000000019), draft 9000000000000000020
+  LG03-LG05 emoji (9000000000000000020), draft 9000000000000000021
     round 8, roster 1 (slot 7) -> HIM (roster 11)   = pick 90
 
 He has ELEVEN picks in each league, not ten, and loses none. In the
@@ -1341,7 +1341,7 @@ it there; nothing has audited that.
 
 
 **8/13 — the sixth league landed: "LG06",
-`9000000000000000021`.** Found by listing his 2026 leagues off the user
+`9000000000000000022`.** Found by listing his 2026 leagues off the user
 id already in hand from the draft order, rather than asking.
 
 Shape: 10 teams, REDRAFT (settings.type 0), no keepers, no taxi, no
@@ -2265,8 +2265,8 @@ eight leagues, two of them the same room. Selftest 16 -> 18.
 
 **9/12 — the 🪓 LG06 is a commissioner copy, registered as
 `lg08` with `ignore: true`.** John confirmed the plain-named
-league (9000000000000000021) is the real room; the lg08 one
-(9000000000000000024) has an id newer than the real room's draft, FAAB
+league (9000000000000000022) is the real room; the lg08 one
+(9000000000000000025) has an id newer than the real room's draft, FAAB
 1000 against the real 100, and an identical roster. He has asked the
 commissioner whether it stays. `paths.ignored_ids()` is new; weekly and
 the dashboard skip ignored leagues, smoke still counts them as known.
@@ -2377,4 +2377,22 @@ and Best Ball paying DEF and K rules with no DEF or K slot -- rules that can
 never fire, as distinct from rare ones. Coverage should eventually leave out
 rules for positions a league cannot start; until then read "never
 exercised" with the roster slots in mind.
+
+**9/26 -- WEBHOOK RECEIVER (webhooks/).** Sleeper has no webhooks, so the
+push side of the build comes from GitHub. John, 9/26: nothing at VSP or
+Booz involved webhooks, and he wants the experience to be real before he
+claims it. br-hooks is a Cloudflare Worker with D1 in two separate
+environments: sandbox (a throwaway repo, stores raw bodies for fixtures)
+and production (battle-rhythm). It verifies X-Hub-Signature-256 on the raw
+bytes with a constant-time compare, logs bad signatures without storing
+them (so unsigned requests can't burn a delivery id), claims each
+X-GitHub-Delivery once in a single upsert (failed or stuck deliveries can
+be claimed again, so Redeliver is a retry), alerts Discord on CI state
+changes and force-pushes, ignores out-of-order older runs, and only
+advances state once Discord accepts the alert. Workers over Render because
+a free-tier cold start can exceed GitHub's 10-second timeout. 38 offline
+tests; ten planted bugs, two survived the first suite and got tests;
+12/12 probe checks against the real Workers runtime with local D1. Not yet
+deployed: needs John's Cloudflare account, a sandbox repo and two Discord
+webhooks (webhooks/README.md, Setup).
 

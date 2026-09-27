@@ -160,7 +160,7 @@ still open.
 All eight leagues report `in_season`, so there is no pre-draft board to keep.
 Two league-state problems instead, both worth a minute of your time:
 
-- **LG04 (9000000000000000017)** — league says `in_season`,
+- **LG04 (9000000000000000018)** — league says `in_season`,
   roster endpoint returns `players: null`, and the draft object reports
   `pre_draft` on one endpoint and `drafting` on another. All **180 of 180 picks
   are in** (15 rounds x 12 teams) and your 15 are recorded, so the draft
@@ -169,8 +169,8 @@ Two league-state problems instead, both worth a minute of your time:
   endpoint: Cook, Henry, Barkley, Montgomery, Watson, P. Washington, Pierce,
   Fannin, Diggs, Gainwell, Shakir, Dike, R. Davis, LAC, Stroud.
 - **Two leagues named "LG06."** The old one
-  (9000000000000000021) returns an empty roster. A new one
-  (**9000000000000000024**, "LG08", 10 teams) holds
+  (9000000000000000022) returns an empty roster. A new one
+  (**9000000000000000025**, "LG08", 10 teams) holds
   your 16-player roster. The old ID looks abandoned, and `leagues/` still points
   at it. Worth a slug update before next Tuesday.
 
@@ -182,7 +182,7 @@ Two league-state problems instead, both worth a minute of your time:
   task being configured with the Sleeper folder. Ran cloud-only through research,
   then the access prompt was approved on `zbookmurdock` and the dossier half ran
   normally. The bridge also dropped and reconnected once mid-run.
-- **Leagues covered: 8.** `9000000000000000024` is new since 9/3.
+- **Leagues covered: 8.** `9000000000000000025` is new since 9/3.
 - **Leagues with no roster via the API: 2.** LG04 LG04 (recovered from
   draft picks) and the old LG06 league (genuinely empty).
 - **Candidates: 166. Researched: 166. Unresearched: 0.** 85 unique rostered

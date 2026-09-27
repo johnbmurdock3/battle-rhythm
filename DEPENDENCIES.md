@@ -131,13 +131,13 @@ tests do not depend on it either.
 | `mcp_server.py:37-43` `LEAGUE_IDS` | slug → ID map | **5** |
 | Sleeper API discovery | `~/.sleeper_cache/leagues.json` | all |
 
-`mcp_server.py` carries `"lg02": "9000000000000000010"`, which
+`mcp_server.py` carries `"lg02": "9000000000000000011"`, which
 `keepers.json` does not have at all. The two files disagree today.
 
-Slugs also disagree with prose. `mcp_server` calls `9000000000000000019`
+Slugs also disagree with prose. `mcp_server` calls `9000000000000000020`
 `hybrid_hero`; HANDOFF calls it "LG05"; `lg05_emoji_brief.md`
 uses a third convention. `mcp_server`'s `lg05` is
-`9000000000000000013`, the 8/18 draft, whose plan is `lg05_brief.md`.
+`9000000000000000014`, the 8/18 draft, whose plan is `lg05_brief.md`.
 
 Add `room_bias.json` (measured, keyed by ID), the HANDOFF status table, and
 the `lg05_*` filename convention, and league identity is spread across

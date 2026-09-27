@@ -4,7 +4,7 @@
 > between 8/18 and 9/2; same league, same id. The league now named
 > "LG05" is a DIFFERENT room — see leagues/lg05/.
 
-**League `9000000000000000013`** · Tue Aug 18, 9:00 AM PT · slot 8 of 12
+**League `9000000000000000014`** · Tue Aug 18, 9:00 AM PT · slot 8 of 12
 Rewritten 8/13 evening. Supersedes both earlier versions — see the bottom
 for what changed and why every number under the old plan moved.
 
@@ -109,7 +109,7 @@ actually start.
   it is not re-earnable, so a cut is a keeper decision.
   To see the board as if they were already gone:
 
-      python br.py lineup 9000000000000000013 --slot 8 --drop "milroe,brashard smith"
+      python br.py lineup 9000000000000000014 --slot 8 --drop "milroe,brashard smith"
 
 - **Jayden Higgins is WR2 in Houston.** A real role. Do not plan to
   replace him.

@@ -6,7 +6,7 @@ All eight leagues report `in_season`, so there is no draft board to keep —
 
 **Two league-state problems from 9/15 are both gone.** LG04
 now returns a real roster from the API instead of `players: null`, and the old
-LG06 league (9000000000000000021) returns a populated roster too, not
+LG06 league (9000000000000000022) returns a populated roster too, not
 an empty one. `leagues/_index.json` is already correct on both — `lg06`
 points at the old id, the 🪓 copy carries `ignore: true`. Nothing to fix.
 

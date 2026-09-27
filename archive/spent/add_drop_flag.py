@@ -12,8 +12,8 @@ to replacement before anything is measured — but "what does my board
 look like if I cut him" is still a question you cannot ask, and it is
 one you will have at every draft.
 
-    python lineup_value.py 9000000000000000013 --slot 8 --drop "milroe"
-    python lineup_value.py 9000000000000000013 --slot 8 --drop "milroe,smith"
+    python lineup_value.py 9000000000000000014 --slot 8 --drop "milroe"
+    python lineup_value.py 9000000000000000014 --slot 8 --drop "milroe,smith"
 
 Names are matched with draft_helper.player_hits, the same resolver `find`
 uses, so a fragment or a "name pos" hint both work. Anyone dropped is
@@ -281,7 +281,7 @@ def main():
         "the output; a silent roster change would be worse than no flag.")
     print(f"\n{C_OK}done — committed{C_END}")
     print(f"  rollback: git reset --hard {base[:10]}")
-    print(f"\n  Try it: {C_WARN}python lineup_value.py 9000000000000000013 "
+    print(f"\n  Try it: {C_WARN}python lineup_value.py 9000000000000000014 "
           f"--slot 8 --drop \"milroe\"{C_END}")
     return 0
 

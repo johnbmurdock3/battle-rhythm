@@ -20,7 +20,7 @@ actually went wrong in a session, not in a guess about what might be
 useful. The DECISIONS entry is cited so a future session can read the
 failure before writing the fix.
 
-Six leagues, all of them real as of 8/13: two Hybrids (8/18), LG01 (live), LG04 (9/6), LG02 (undated), and LG06 — the IDP league, `9000000000000000021`, pre-draft with no
+Six leagues, all of them real as of 8/13: two Hybrids (8/18), LG01 (live), LG04 (9/6), LG02 (undated), and LG06 — the IDP league, `9000000000000000022`, pre-draft with no
 date. All six are in `leagues/_index.json`.
 
 ---
@@ -167,7 +167,7 @@ replace the priors with numbers.
 
 **Superseded 8/13: the sixth league exists.** This entry said IDP
 support was built and waiting on a league id. There is an id --
-`9000000000000000021`, 10 teams, pre-draft. It went unnoticed because
+`9000000000000000022`, 10 teams, pre-draft. It went unnoticed because
 `paths.py --selftest` compared `leagues/_index.json` against
 `mcp_server.LEAGUE_IDS`, two files maintained by hand; neither is the
 API. `smoke.py` now asks the API.

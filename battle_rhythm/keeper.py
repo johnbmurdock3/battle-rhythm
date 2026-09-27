@@ -25,7 +25,7 @@ from battle_rhythm.sleeper_client import get, players, name_of, state, USERNAME
 from battle_rhythm.draft_helper import (season_projection_totals, _adp, adp_keys_for,
                           DYNASTY_ADP_KEYS, REDRAFT_ADP_KEYS)
 
-HYBRIDS = ("9000000000000000019", "9000000000000000013")
+HYBRIDS = ("9000000000000000020", "9000000000000000014")
 
 
 def pick_constrained(cands, n, max_qb, tbl):
@@ -657,8 +657,8 @@ def analyze(league_2026_id):
     print(f"\n   total kept projection: {sum(marg):.1f} pts across {len(marg)} slots")
 
 
-LG04_2026 = "9000000000000000017"
-LG04_2025 = "9000000000000000012"  # 2026 league has previous_league_id null;
+LG04_2026 = "9000000000000000018"
+LG04_2025 = "9000000000000000013"  # 2026 league has previous_league_id null;
                                        # the 2025 season lives in metadata.copy_from_league_id
 
 

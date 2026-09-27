@@ -1,6 +1,6 @@
 # LG02 — draft card
 
-**League `9000000000000000010`** · date not set · **slot 13 of 14** · 13 rounds
+**League `9000000000000000011`** · date not set · **slot 13 of 14** · 13 rounds
 Written 9/2 off a pre-draft board with zero picks made. First card this
 league has ever had.
 

@@ -23,6 +23,7 @@ The gate, all offline:
 
     python br.py test                  # 61 passed, 0 failed
     python -m battle_rhythm.paths --selftest            # 18/18
+    cd webhooks; npm ci; npm test; cd ..                # 38 (webhook receiver, Node 22)
     python -m battle_rhythm.lineup_value --selftest     # 93
     python -m battle_rhythm.dynasty_value --selftest    # 55
     python -m battle_rhythm.roster_snapshot --selftest  # 37
@@ -33,7 +34,7 @@ The gate, all offline:
     python -m battle_rhythm.ext_tiers --selftest        # external tier join
     python -m battle_rhythm.ledger --selftest           # 18
     python -m battle_rhythm.truth --selftest            # 22
-    python -m battle_rhythm.release --selftest          # 31
+    python -m battle_rhythm.release --selftest          # 39
 
 `recap` and `rhythm` also run inside `br.py test`. A count LOWER than
 these means a check was deleted rather than fixed — find out which.

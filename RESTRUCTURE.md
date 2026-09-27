@@ -31,7 +31,7 @@ That is the reason this phase is now cheap enough to attempt.
    does not have.
 
 2. **`LG03-LG05` is now named `LG03`.** Same id,
-   `9000000000000000013`. The slug rule held — every folder and file
+   `9000000000000000014`. The slug rule held — every folder and file
    keyed on the id survived a rename that would have broken any
    name-keyed path. `_index.json`'s `name` field and every prose
    reference are wrong; the code is right.

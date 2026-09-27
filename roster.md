@@ -6,7 +6,7 @@ Rerun before any draft session; Sleeper's roster endpoint is empty mid-draft, so
 Read this BEFORE recommending any pick. Position counts and open slots are the binding constraint late in a draft, not player talent.
 
 ## LG07
-`9000000000000000022` · in_season · draft complete 216/216 · 12 teams
+`9000000000000000023` · in_season · draft complete 216/216 · 12 teams
 
 ### Starting slots
 
@@ -41,7 +41,7 @@ Read this BEFORE recommending any pick. Position counts and open slots are the b
 ---
 
 ## LG06
-`9000000000000000021` · pre_draft · draft pre_draft 0/160 · 10 teams
+`9000000000000000022` · pre_draft · draft pre_draft 0/160 · 10 teams
 
 ### Starting slots
 
@@ -93,7 +93,7 @@ Read this BEFORE recommending any pick. Position counts and open slots are the b
 ---
 
 ## LG05 
-`9000000000000000019` · in_season · draft complete 192/72 · 12 teams
+`9000000000000000020` · in_season · draft complete 192/72 · 12 teams
 **dynasty-typed · LIMITED KEEPER — carries a few, churns the rest · SUPERFLEX (starts 2 QB)**
 
 ### Starting slots
@@ -133,7 +133,7 @@ Read this BEFORE recommending any pick. Position counts and open slots are the b
 ---
 
 ## LG04
-`9000000000000000017` · pre_draft · draft pre_draft 0/180 · 12 teams
+`9000000000000000018` · pre_draft · draft pre_draft 0/180 · 12 teams
 **LIMITED KEEPER — carries a few, churns the rest**
 
 ### Starting slots
@@ -179,7 +179,7 @@ Read this BEFORE recommending any pick. Position counts and open slots are the b
 ---
 
 ## LG03
-`9000000000000000013` · in_season · draft complete 228/120 · 12 teams
+`9000000000000000014` · in_season · draft complete 228/120 · 12 teams
 **dynasty-typed · LIMITED KEEPER — carries a few, churns the rest · SUPERFLEX (starts 2 QB)**
 
 ### Starting slots
@@ -219,7 +219,7 @@ Read this BEFORE recommending any pick. Position counts and open slots are the b
 ---
 
 ## LG02
-`9000000000000000010` · in_season · draft complete 182/182 · 14 teams
+`9000000000000000011` · in_season · draft complete 182/182 · 14 teams
 
 ### Starting slots
 
@@ -264,7 +264,7 @@ Read this BEFORE recommending any pick. Position counts and open slots are the b
 ---
 
 ## LG01
-`9000000000000000009` · in_season · draft complete 264/264 · 12 teams
+`9000000000000000010` · in_season · draft complete 264/264 · 12 teams
 **dynasty-typed**
 
 ### Starting slots

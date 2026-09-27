@@ -404,7 +404,7 @@ def report():
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "verify":
         # default ground truth: 2025 Hybrid 14, week 17 (finished season)
-        lid = sys.argv[2] if len(sys.argv) > 2 else "9000000000000000005"
+        lid = sys.argv[2] if len(sys.argv) > 2 else "9000000000000000006"
         wk = int(sys.argv[3]) if len(sys.argv) > 3 else 17
         verify_scoring(lid, wk)
     else:

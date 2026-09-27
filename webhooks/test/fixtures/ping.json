@@ -1,0 +1,36 @@
+{
+  "zen": "Keep it logically awesome.",
+  "hook_id": 500000001,
+  "hook": {
+    "type": "Repository",
+    "id": 500000001,
+    "active": true,
+    "events": [
+      "push",
+      "workflow_run"
+    ],
+    "config": {
+      "content_type": "json",
+      "insecure_ssl": "0",
+      "url": "https://br-hooks-production.example.workers.dev/github"
+    }
+  },
+  "repository": {
+    "id": 1100000001,
+    "name": "battle-rhythm",
+    "full_name": "johnbmurdock3/battle-rhythm",
+    "private": false,
+    "html_url": "https://github.com/johnbmurdock3/battle-rhythm",
+    "default_branch": "main",
+    "owner": {
+      "login": "johnbmurdock3",
+      "id": 334392923,
+      "type": "User"
+    }
+  },
+  "sender": {
+    "login": "johnbmurdock3",
+    "id": 334392923,
+    "type": "User"
+  }
+}

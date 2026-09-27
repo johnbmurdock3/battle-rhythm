@@ -2,8 +2,8 @@
 Draft helper — live board + pre-draft cheat sheets, scored by each league's own rules.
 
 Usage (on a networked machine):
-  python draft_helper.py board 9000000000000000009        # live: LG01
-  python draft_helper.py sheet 9000000000000000019        # pre-draft cheat sheet
+  python draft_helper.py board 9000000000000000010        # live: LG01
+  python draft_helper.py sheet 9000000000000000020        # pre-draft cheat sheet
   python draft_helper.py board <league_id> --pos QB       # filter one position
 
 What it does:
