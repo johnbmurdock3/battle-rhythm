@@ -34,7 +34,7 @@ The gate, all offline:
     python -m battle_rhythm.ext_tiers --selftest        # external tier join
     python -m battle_rhythm.ledger --selftest           # 18
     python -m battle_rhythm.truth --selftest            # 22
-    python -m battle_rhythm.release --selftest          # 39
+    python -m battle_rhythm.release --selftest          # 43
 
 `recap` and `rhythm` also run inside `br.py test`. A count LOWER than
 these means a check was deleted rather than fixed — find out which.

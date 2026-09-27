@@ -8,6 +8,7 @@ release.py -- the gate between this private repo and a public one.
     python br.py release export <dest>       # a scrubbed copy of HEAD, ready to push publicly
     python br.py release verify <dest>       # prove nothing private survived the scrub
     python br.py release update <clone>      # refresh the public clone in place; stages, never commits
+    python br.py release pin                 # freeze today's placeholders (once), from the last export
     python br.py release --selftest          # offline, builds its own throwaway git repo
 
 --fetch needs the network, so it runs on the PC like `truth fetch`.
@@ -427,6 +428,29 @@ def id_mapping(ids):
     return {real: str(FAKE_BASE + i + 1) for i, real in enumerate(sorted(ids, key=int))}
 
 
+IDMAP_FILE = "idmap.json"
+
+
+def _idmap_path(root=None):
+    return _release_dir(root) / IDMAP_FILE
+
+
+def pinned_mapping(ids, pinned):
+    """Every placeholder already published keeps its number; new ids get the
+    next numbers up. Plain id_mapping re-ranks the whole set, so one new id
+    shifts every placeholder above it -- on 9/26 a test fixture's 18-digit
+    number renamed 46 files and rewrote 73 in the public repo. Order holds
+    within the first pin and within each batch of new ids, not across
+    batches. An id that disappears keeps its number, so no placeholder is
+    ever reused for a different real id."""
+    out = dict(pinned)
+    nxt = max((int(v) for v in out.values()), default=FAKE_BASE) + 1
+    for real in sorted((i for i in set(ids) if i not in out), key=int):
+        out[real] = str(nxt)
+        nxt += 1
+    return out
+
+
 # ---------------------------------------------------------------- inventory
 
 def _tracked_text_files(root):
@@ -529,7 +553,14 @@ def export(dest, repo=None, plan=None):
         t.extractall(dest, members=members, **safe)
 
     ids, _, _ = inventory(_walk_text_files(dest))
-    idmap = id_mapping(ids)
+    pin_path = _idmap_path(repo)
+    pinned = _load(pin_path, {}).get("ids", {})
+    idmap = pinned_mapping(ids, pinned)
+    if len(idmap) > len(pinned):
+        _save(pin_path, {"note": "PRIVATE. Real Sleeper id -> public placeholder. Never exported; "
+                                 "numbers never change once published.", "ids": idmap})
+        if pinned:
+            print(f"  pinned {len(idmap) - len(pinned)} new ids in {PRIVATE_DIR}/{IDMAP_FILE} -- commit it")
     rules = build_rules(leagues, managers, redact)
     rewritten, binaries = 0, []
     for f in [p for p in dest.rglob("*") if p.is_file()]:
@@ -596,6 +627,22 @@ def _save_ids(idmap):
     for p in (_ids_path(stamp), _ids_path()):
         p.parent.mkdir(parents=True, exist_ok=True)
         p.write_text(json.dumps(sorted(idmap)), encoding="utf-8")
+
+
+def cmd_pin():
+    """One-time: freeze the numbering the last export or update published."""
+    p = _idmap_path()
+    if p.exists():
+        raise SystemExit(f"{p} already exists -- placeholders are already pinned")
+    src = _ids_path()
+    if not src.exists():
+        raise SystemExit(f"no {src} -- run `release update` or `export` first")
+    ids = json.loads(src.read_text(encoding="utf-8"))
+    _save(p, {"note": "PRIVATE. Real Sleeper id -> public placeholder. Never exported; "
+                      "numbers never change once published.", "ids": id_mapping(ids)})
+    print(f"pinned {len(ids)} placeholders from {src.name} into {PRIVATE_DIR}/{IDMAP_FILE}")
+    print("  they match what the public repo already shows; commit the file (it stays private)")
+    return 0
 
 
 def cmd_export(dest):
@@ -881,6 +928,16 @@ def selftest():
     except SystemExit:
         ck("export refuses a non-empty destination", True)
 
+    # --- pinned placeholders
+    # built at runtime: an id-shaped literal here would itself be scrubbed and pinned
+    a, b, c = (str(10**18 + n) for n in (100, 200, 300))
+    pin = pinned_mapping([c, a], {})
+    ck("pin: from nothing, ids are numbered in order, as before", pin == id_mapping([a, c]))
+    grown = pinned_mapping([a, b, c], pin)
+    ck("pin: a new id gets the next number and nothing already published moves",
+       grown[a] == pin[a] and grown[c] == pin[c] and int(grown[b]) == max(map(int, pin.values())) + 1)
+    ck("pin: an id that disappears keeps its number reserved", pinned_mapping([a], pin) == pin)
+
     # --- update: refresh a public clone in place
     pub = tmp / "pub"
     export(pub, repo=repo, plan=(lg, mg, redact))
@@ -892,7 +949,7 @@ def selftest():
     (pub / ".git" / "info" / "exclude").write_text("__pycache__/\n")
     (pub / "__pycache__").mkdir()
     (pub / "__pycache__" / "junk.pyc").write_bytes(b"x")  # ignored-style leftovers survive
-    w("NEW.md", "Crash Pals added a note.\n")
+    w("NEW.md", f"Crash Pals added a note. ref {10**18 + 1}\n")  # lower than every id
     (repo / "ROADMAP.md").unlink()
     git("add", "-A"); git("commit", "-q", "-m", "more")
     bad, st, _, _ = update(pub, repo=repo, plan=(lg, mg, redact))
@@ -903,6 +960,8 @@ def selftest():
     ck("update: the new file is scrubbed", "Crash Pals" not in (pub / "NEW.md").read_text(encoding="utf-8"))
     ck("update: data/release/ still never lands", not (pub / "data" / "release").exists())
     ck("update: ignored leftovers in the clone are left alone", (pub / "__pycache__" / "junk.pyc").exists())
+    ck("update: a new low id renames nothing and rewrites nothing else (pinned)",
+       sorted(l[:2].strip() + " " + l[3:] for l in st) == ["A NEW.md", "D ROADMAP.md"])
     try:
         update(pub, repo=repo, plan=(lg, mg, redact))
         ck("update refuses a clone with uncommitted changes", False)
@@ -932,6 +991,8 @@ def main(argv):
         return cmd_leagues(fetch="--fetch" in argv)
     if cmd == "managers" and "--fetch" in argv:
         return cmd_managers()
+    if cmd == "pin":
+        return cmd_pin()
     if cmd == "inventory":
         return cmd_inventory()
     if cmd == "update" and len(argv) > 1:

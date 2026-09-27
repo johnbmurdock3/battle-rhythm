@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import { test } from "node:test";
 import { discordNotifier, isDiscordWebhookUrl } from "../src/notify.ts";
 
-const URL_OK = "https://discord.com/api/webhooks/9000000000000000001/abcDEF_ghi-JKL";
+const URL_OK = "https://discord.com/api/webhooks/4242/abcDEF_ghi-JKL";
 
 function fakeFetch(responses: (Response | Error)[]) {
   const calls: { url: string; body: any }[] = [];

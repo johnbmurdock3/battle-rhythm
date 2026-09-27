@@ -1681,7 +1681,7 @@ def t_release_selftest_clean():
     buf = io.StringIO()
     with contextlib.redirect_stdout(buf):
         assert release.selftest() == 0, buf.getvalue()
-    assert "39/39 selftest PASSED" in buf.getvalue(), buf.getvalue()
+    assert "43/43 selftest PASSED" in buf.getvalue(), buf.getvalue()
 
 
 def t_idp_vocabulary():
