@@ -16,12 +16,12 @@ observability = { enabled = true }
 name = "br-hooks-sandbox"
 vars = { ENV_NAME = "sandbox", ALLOWED_REPO = "johnbmurdock3/battle-rhythm-sandbox", STORE_BODIES = "1" }
 d1_databases = [
-  { binding = "DB", database_name = "br-hooks-sandbox", database_id = "REPLACE_WITH_SANDBOX_DATABASE_ID" }
+  { binding = "DB", database_name = "br-hooks-sandbox", database_id = "1a56e3bd-bd50-4083-b909-de21bbacb118" }
 ]
 
 [env.production]
 name = "br-hooks-production"
 vars = { ENV_NAME = "production", ALLOWED_REPO = "johnbmurdock3/battle-rhythm", STORE_BODIES = "0" }
 d1_databases = [
-  { binding = "DB", database_name = "br-hooks-production", database_id = "REPLACE_WITH_PRODUCTION_DATABASE_ID" }
+  { binding = "DB", database_name = "br-hooks-production", database_id = "20917522-c963-46de-b55c-c578cf1906cd" }
 ]

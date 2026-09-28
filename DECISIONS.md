@@ -2396,3 +2396,17 @@ tests; ten planted bugs, two survived the first suite and got tests;
 deployed: needs John's Cloudflare account, a sandbox repo and two Discord
 webhooks (webhooks/README.md, Setup).
 
+**9/27 -- WEBHOOK RECEIVER LIVE in sandbox and production.** Sandbox
+(battle-rhythm-sandbox -> br-hooks-sandbox.jbm-hooks.workers.dev -> Discord
+#br-sandbox) went live 9/27 ~1 AM: first ping 401 (secret mismatch -- the
+clipboard held a copied command, not the secret), fixed by a fresh secret,
+same-id redelivery 200. Probe 12/12; forced fail and recover alerted once
+each; redelivering run #2's completion answered "duplicate" with no second
+alert; 11 real deliveries recorded and all 11 of GitHub's own signatures
+verify against the stored bytes (60/60). Production (battle-rhythm ->
+br-hooks-production -> #br-alerts) connected first try 9/27 21:42 after
+saving the secret before pasting it anywhere; probe 12/12. Production does
+not store raw bodies. Secrets live only in Cloudflare, GitHub and John's
+password manager. Claim bar for the resume line: two weeks of real
+production deliveries.
+
